@@ -77,7 +77,7 @@ def CompareSets(map1, map2):
             print('{:<20} {:<20} {:.2%}'.format(k1, k2, ji))
             jiAvgMap[k1 + ' ' + k2] += ji 
 
-    print('\n\nJaccard Index across all factors, Total and Average\n')
+    print('\n\nJaccard Index across all factors, sorted by Average\n')
     lst = []
     for k, v in jiAvgMap.items():
         ks = k.strip().split()
