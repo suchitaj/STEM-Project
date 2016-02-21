@@ -1,8 +1,3 @@
-Results
-
-Go To Start Page
-Input Parameters [Show Detail]
-Training Results [Expand All] [Download All] [Sparse Matrix] Display pValues and Scores as   Table row limit 
 1: GO: Molecular Function [Display Chart] 1591 annotations before applied cutoff / 18638 genes in category
 ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
 1	GO:0005102	receptor binding		4.697E-38	7.472E-35	5.940E-34	7.472E-35	150	1581
@@ -185,110 +180,32 @@ ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annot
 22	HP:0001425	Heterogeneous		1.375E-5	1.162E-3	9.418E-3	2.556E-2	38	319
 23	HP:0011960	Substantia nigra gliosis		2.592E-5	2.095E-3	1.698E-2	4.818E-2	7	17
 24	HP:0002354	Memory impairment		3.117E-5	2.415E-3	1.957E-2	
-5.795E-2
-13	60
 25	HP:0003596	Middle age onset		5.546E-5	3.965E-3	3.214E-2	
-1.031E-1
-4	5
 26	HP:0000710	Hyperorality		5.546E-5	3.965E-3	3.214E-2	
-1.031E-1
-4	5
 27	HP:0002204	Pulmonary embolism		1.031E-4	7.013E-3	
-5.684E-2
-1.916E-1
-9	34
 28	HP:0002170	Intracranial hemorrhage		1.056E-4	7.013E-3	
-5.684E-2
-1.964E-1
-8	27
 29	HP:0010982	Polygenic inheritance		1.126E-4	7.219E-3	
-5.852E-2
-2.094E-1
-10	42
 30	HP:0002172	Postural instability		1.393E-4	8.631E-3	
-6.996E-2
-2.589E-1
-10	43
 31	HP:0002472	Small cerebral cortex		1.586E-4	9.509E-3	
-7.707E-2
-2.948E-1
-4	6
 32	HP:0002104	Apnea		1.927E-4	1.120E-2	
-9.075E-2
-3.583E-1
-16	100
 33	HP:0007159	Fluctuations in consciousness		2.133E-4	1.166E-2	
-9.453E-2
-3.965E-1
-3	3
 34	HP:0040154	Acne inversa		2.133E-4	1.166E-2	
-9.453E-2
-3.965E-1
-3	3
 35	HP:0001114	Xanthelasma		3.777E-4	1.951E-2	
-1.581E-1
-7.022E-1
-5	12
 36	HP:0000641	Dysmetric saccades		3.777E-4	1.951E-2	
-1.581E-1
-7.022E-1
-5	12
 37	HP:0001269	Hemiparesis		3.937E-4	1.978E-2	
-1.603E-1
-7.318E-1
-9	40
 38	HP:0000651	Diplopia		4.265E-4	2.087E-2	
-1.691E-1
-7.929E-1
-7	25
 39	HP:0000716	Depression		4.918E-4	2.344E-2	
-1.900E-1
-9.142E-1
-12	68
 40	HP:0001933	Subcutaneous hemorrhage		5.846E-4	2.717E-2	
-2.202E-1
-1.000E0
-5	13
 41	HP:0001260	Dysarthria		6.252E-4	2.835E-2	
-2.298E-1
-1.000E0
-31	289
 42	HP:0002747	Respiratory insufficiency due to muscle weakness		6.966E-4	2.942E-2	
-2.384E-1
-1.000E0
-11	61
 43	HP:0001744	Splenomegaly		7.002E-4	2.942E-2	
-2.384E-1
-1.000E0
-26	228
 44	HP:0007086	Social and occupational deterioration		7.121E-4	2.942E-2	
-2.384E-1
-1.000E0
-7	27
 45	HP:0003124	Hypercholesterolemia		7.121E-4	2.942E-2	
-2.384E-1
-1.000E0
-7	27
 46	HP:0100315	Lewy bodies		7.440E-4	3.007E-2	
-2.437E-1
-1.000E0
-6	20
 47	HP:0002972	Reduced delayed hypersensitivity		7.665E-4	3.032E-2	
-2.457E-1
-1.000E0
-3	4
 48	HP:0002637	Cerebral ischemia		8.300E-4	3.214E-2	
-2.605E-1
-1.000E0
-9	44
 49	HP:0002380	Fasciculations		9.073E-4	3.442E-2	
-2.790E-1
-1.000E0
-8	36
 50	HP:0002076	Migraine		1.081E-3	4.009E-2	
-3.250E-1
-1.000E0
-12	74
 5: Mouse Phenotype [Display Chart] 5562 annotations before applied cutoff / 7867 genes in category
 ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
 1	MP:0003633	abnormal nervous system physiology		2.254E-29	1.254E-25	1.154E-24	1.254E-25	195	1557

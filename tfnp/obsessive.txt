@@ -1,0 +1,312 @@
+1: GO: Molecular Function [Display Chart] 478 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0070405	ammonium ion binding		1.296E-11	6.195E-9	4.180E-8	6.195E-9	9	78
+2	GO:0051378	serotonin binding		1.605E-10	3.835E-8	2.588E-7	7.670E-8	5	10
+3	GO:0043176	amine binding		5.014E-10	7.989E-8	5.391E-7	2.397E-7	5	12
+4	GO:0008144	drug binding		2.004E-9	2.394E-7	1.616E-6	9.578E-7	9	136
+5	GO:0004993	G-protein coupled serotonin receptor activity		5.330E-9	5.096E-7	3.439E-6	2.548E-6	5	18
+6	GO:0008227	G-protein coupled amine receptor activity		3.555E-8	2.832E-6	1.911E-5	1.699E-5	6	51
+7	GO:0030594	neurotransmitter receptor activity		1.247E-6	8.518E-5	5.748E-4	5.963E-4	6	92
+8	GO:0038023	signaling receptor activity		3.346E-6	1.980E-4	1.336E-3	1.599E-3	18	1418
+9	GO:0005102	receptor binding		3.728E-6	1.980E-4	1.336E-3	1.782E-3	19	1581
+10	GO:0004888	transmembrane signaling receptor activity		5.041E-6	2.209E-4	1.491E-3	2.409E-3	17	1311
+11	GO:0016597	amino acid binding		5.083E-6	2.209E-4	1.491E-3	2.430E-3	6	117
+12	GO:0008504	monoamine transmembrane transporter activity		5.975E-6	2.380E-4	1.606E-3	2.856E-3	3	10
+13	GO:0035240	dopamine binding		1.089E-5	4.006E-4	2.703E-3	5.208E-3	3	12
+14	GO:0005126	cytokine receptor binding		1.184E-5	4.042E-4	2.728E-3	5.659E-3	8	287
+15	GO:0004510	tryptophan 5-monooxygenase activity		1.396E-5	4.447E-4	3.001E-3	6.671E-3	2	2
+16	GO:0004872	receptor activity		2.386E-5	7.129E-4	4.811E-3	1.141E-2	18	1635
+17	GO:1901338	catecholamine binding		2.743E-5	7.714E-4	5.205E-3	1.311E-2	3	16
+18	GO:0001591	dopamine neurotransmitter receptor activity, coupled via Gi/Go		4.161E-5	1.092E-3	7.370E-3	1.989E-2	2	3
+19	GO:0004871	signal transducer activity		4.341E-5	1.092E-3	7.370E-3	2.075E-2	18	1710
+20	GO:1901618	organic hydroxy compound transmembrane transporter activity		5.783E-5	1.382E-3	9.326E-3	2.764E-2	4	56
+21	GO:0001664	G-protein coupled receptor binding		6.817E-5	1.552E-3	1.047E-2	3.258E-2	7	270
+22	GO:0008519	ammonium transmembrane transporter activity		1.240E-4	2.694E-3	1.818E-2	
+23	GO:0005329	dopamine transmembrane transporter activity		1.380E-4	2.771E-3	1.870E-2	
+24	GO:0008066	glutamate receptor activity		1.391E-4	2.771E-3	1.870E-2	
+25	GO:0005125	cytokine activity		1.809E-4	3.459E-3	2.334E-2	
+26	GO:0005230	extracellular ligand-gated ion channel activity		1.909E-4	3.510E-3	2.368E-2	
+27	GO:0060089	molecular transducer activity		2.000E-4	3.540E-3	2.389E-2	
+28	GO:0031406	carboxylic acid binding		2.463E-4	4.205E-3	2.837E-2	
+29	GO:0043177	organic acid binding		2.638E-4	4.347E-3	2.934E-2	
+30	GO:0016714	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced pteridine as one donor, and incorporation of one atom of oxygen		2.885E-4	4.448E-3	3.001E-2	
+31	GO:0004952	dopamine neurotransmitter receptor activity		2.885E-4	4.448E-3	3.001E-2	
+32	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen		5.094E-4	7.458E-3	
+33	GO:0004497	monooxygenase activity		5.249E-4	7.458E-3	
+34	GO:0022891	substrate-specific transmembrane transporter activity		5.305E-4	7.458E-3	
+35	GO:0035254	glutamate receptor binding		7.308E-4	9.981E-3	
+36	GO:0015459	potassium channel regulator activity		8.259E-4	1.050E-2	
+37	GO:0015370	solute:sodium symporter activity		8.259E-4	1.050E-2	
+38	GO:0030165	PDZ domain binding		8.350E-4	1.050E-2	
+39	GO:0002020	protease binding		9.216E-4	1.130E-2	
+40	GO:0022857	transmembrane transporter activity		1.048E-3	1.217E-2	
+41	GO:0016595	glutamate binding		1.056E-3	1.217E-2	
+42	GO:0015075	ion transmembrane transporter activity		1.070E-3	1.217E-2	
+43	GO:0005231	excitatory extracellular ligand-gated ion channel activity		1.220E-3	1.356E-2	
+44	GO:0008392	arachidonic acid epoxygenase activity		1.415E-3	1.503E-2	
+45	GO:0008391	arachidonic acid monooxygenase activity		1.415E-3	1.503E-2	
+46	GO:0004930	G-protein coupled receptor activity		1.559E-3	1.620E-2	
+47	GO:0070851	growth factor receptor binding		2.058E-3	2.093E-2	
+48	GO:0022804	active transmembrane transporter activity		2.184E-3	2.131E-2	
+49	GO:0022892	substrate-specific transporter activity		2.185E-3	2.131E-2	
+50	GO:0005328	neurotransmitter:sodium symporter activity		2.282E-3	2.138E-2	
+2: GO: Biological Process [Display Chart] 3200 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0007610	behavior		3.453E-21	1.105E-17	9.555E-17	1.105E-17	29	834
+2	GO:0007268	synaptic transmission		1.471E-17	2.354E-14	2.036E-13	4.708E-14	25	760
+3	GO:0007267	cell-cell signaling		6.251E-17	6.667E-14	5.766E-13	2.000E-13	30	1305
+4	GO:0044708	single-organism behavior		9.131E-15	7.305E-12	6.318E-11	2.922E-11	19	481
+5	GO:0015872	dopamine transport		2.213E-14	1.281E-11	1.108E-10	7.081E-11	9	40
+6	GO:0015844	monoamine transport		2.401E-14	1.281E-11	1.108E-10	7.684E-11	11	88
+7	GO:0097305	response to alcohol		2.155E-13	9.850E-11	8.518E-10	6.895E-10	16	355
+8	GO:0015696	ammonium transport		4.934E-13	1.806E-10	1.562E-9	1.579E-9	11	115
+9	GO:0015850	organic hydroxy compound transport		5.079E-13	1.806E-10	1.562E-9	1.625E-9	14	253
+10	GO:0050804	modulation of synaptic transmission		1.132E-12	3.621E-10	3.132E-9	3.621E-9	15	329
+11	GO:0051952	regulation of amine transport		1.474E-12	4.288E-10	3.708E-9	4.716E-9	10	91
+12	GO:0045471	response to ethanol		2.283E-12	6.089E-10	5.266E-9	7.307E-9	11	132
+13	GO:0015837	amine transport		2.834E-12	6.975E-10	6.032E-9	9.068E-9	10	97
+14	GO:1901700	response to oxygen-containing compound		3.224E-12	7.370E-10	6.374E-9	1.032E-8	28	1684
+15	GO:0014070	response to organic cyclic compound		4.916E-12	1.049E-9	9.070E-9	1.573E-8	21	879
+16	GO:0051937	catecholamine transport		5.499E-12	1.100E-9	9.511E-9	1.760E-8	9	71
+17	GO:0007270	neuron-neuron synaptic transmission		6.929E-12	1.304E-9	1.128E-8	2.217E-8	11	146
+18	GO:0001504	neurotransmitter uptake		8.734E-12	1.553E-9	1.343E-8	2.795E-8	7	28
+19	GO:0044070	regulation of anion transport		1.644E-11	2.768E-9	2.394E-8	5.260E-8	11	158
+20	GO:0006811	ion transport		4.097E-11	6.554E-9	5.668E-8	1.311E-7	26	1595
+21	GO:0051048	negative regulation of secretion		4.419E-11	6.733E-9	5.823E-8	1.414E-7	12	226
+22	GO:0009719	response to endogenous stimulus		4.837E-11	7.036E-9	6.085E-8	1.548E-7	27	1744
+23	GO:0060359	response to ammonium ion		5.454E-11	7.588E-9	6.562E-8	1.745E-7	9	91
+24	GO:0001505	regulation of neurotransmitter levels		1.883E-10	2.511E-8	2.171E-7	6.026E-7	11	198
+25	GO:0007611	learning or memory		2.048E-10	2.595E-8	2.245E-7	6.553E-7	12	258
+26	GO:0046903	secretion		2.109E-10	2.595E-8	2.245E-7	6.748E-7	22	1194
+27	GO:0018958	phenol-containing compound metabolic process		2.379E-10	2.820E-8	2.439E-7	7.614E-7	9	107
+28	GO:0050805	negative regulation of synaptic transmission		2.633E-10	3.009E-8	2.602E-7	8.425E-7	8	72
+29	GO:0033993	response to lipid		2.930E-10	3.187E-8	2.756E-7	9.377E-7	19	870
+30	GO:0071705	nitrogen compound transport		2.988E-10	3.187E-8	2.756E-7	9.560E-7	19	871
+31	GO:0030534	adult behavior		5.755E-10	5.941E-8	5.138E-7	1.842E-6	10	165
+32	GO:0051051	negative regulation of transport		6.089E-10	6.089E-8	5.266E-7	1.948E-6	15	514
+33	GO:0050890	cognition		7.813E-10	7.393E-8	6.394E-7	2.500E-6	12	290
+34	GO:0051583	dopamine uptake involved in synaptic transmission		8.205E-10	7.393E-8	6.394E-7	2.626E-6	5	13
+35	GO:0051934	catecholamine uptake involved in synaptic transmission		8.205E-10	7.393E-8	6.394E-7	2.626E-6	5	13
+36	GO:0042493	response to drug		8.317E-10	7.393E-8	6.394E-7	2.661E-6	14	441
+37	GO:0090493	catecholamine uptake		1.273E-9	1.072E-7	9.268E-7	4.072E-6	5	14
+38	GO:0090494	dopamine uptake		1.273E-9	1.072E-7	9.268E-7	4.072E-6	5	14
+39	GO:0097164	ammonium ion metabolic process		1.756E-9	1.441E-7	1.246E-6	5.620E-6	10	185
+40	GO:0009712	catechol-containing compound metabolic process		2.029E-9	1.547E-7	1.338E-6	6.492E-6	7	58
+41	GO:0006584	catecholamine metabolic process		2.029E-9	1.547E-7	1.338E-6	6.492E-6	7	58
+42	GO:0006812	cation transport		2.030E-9	1.547E-7	1.338E-6	6.497E-6	20	1095
+43	GO:0001963	synaptic transmission, dopaminergic		2.333E-9	1.736E-7	1.501E-6	7.465E-6	6	33
+44	GO:0010243	response to organonitrogen compound		2.440E-9	1.751E-7	1.514E-6	7.809E-6	19	988
+45	GO:0043279	response to alkaloid		2.473E-9	1.751E-7	1.514E-6	7.915E-6	9	139
+46	GO:0006836	neurotransmitter transport		2.517E-9	1.751E-7	1.514E-6	8.055E-6	10	192
+47	GO:1903531	negative regulation of secretion by cell		3.558E-9	2.422E-7	2.095E-6	1.138E-5	10	199
+48	GO:0098810	neurotransmitter reuptake		3.899E-9	2.599E-7	2.248E-6	1.248E-5	5	17
+49	GO:0050806	positive regulation of synaptic transmission		4.306E-9	2.812E-7	2.432E-6	1.378E-5	9	148
+50	GO:0042417	dopamine metabolic process		4.839E-9	3.097E-7	2.678E-6	1.548E-5	6	37
+3: GO: Cellular Component [Display Chart] 250 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0043005	neuron projection		1.030E-13	2.575E-11	1.571E-10	2.575E-11	25	1140
+2	GO:0005887	integral component of plasma membrane		4.736E-13	5.920E-11	3.611E-10	1.184E-10	28	1591
+3	GO:0031226	intrinsic component of plasma membrane		1.244E-12	1.036E-10	6.322E-10	3.109E-10	28	1655
+4	GO:0097458	neuron part		3.821E-12	2.388E-10	1.457E-9	9.552E-10	26	1467
+5	GO:0030424	axon		5.703E-11	2.851E-9	1.740E-8	1.426E-8	16	525
+6	GO:0044456	synapse part		1.249E-10	5.202E-9	3.174E-8	3.121E-8	17	645
+7	GO:0045202	synapse		5.302E-10	1.894E-8	1.155E-7	1.326E-7	18	812
+8	GO:0036477	somatodendritic compartment		9.827E-10	3.071E-8	1.873E-7	2.457E-7	18	844
+9	GO:0098589	membrane region		2.059E-9	5.718E-8	3.489E-7	5.146E-7	21	1246
+10	GO:0044297	cell body		1.543E-8	3.857E-7	2.353E-6	3.857E-6	15	667
+11	GO:0030425	dendrite		1.703E-8	3.870E-7	2.361E-6	4.257E-6	14	571
+12	GO:0098590	plasma membrane region		2.026E-8	4.221E-7	2.575E-6	5.065E-6	18	1024
+13	GO:0043025	neuronal cell body		2.792E-8	5.369E-7	3.276E-6	6.980E-6	14	594
+14	GO:0098794	postsynapse		4.066E-8	7.260E-7	4.429E-6	1.016E-5	12	422
+15	GO:0033267	axon part		5.111E-8	8.518E-7	5.196E-6	1.278E-5	10	269
+16	GO:0097060	synaptic membrane		8.496E-8	1.328E-6	8.099E-6	2.124E-5	10	284
+17	GO:0008021	synaptic vesicle		1.052E-7	1.547E-6	9.438E-6	2.630E-5	8	156
+18	GO:0045211	postsynaptic membrane		1.298E-7	1.803E-6	1.100E-5	3.245E-5	9	224
+19	GO:0043679	axon terminus		2.901E-7	3.817E-6	2.329E-5	7.252E-5	8	178
+20	GO:0044463	cell projection part		3.099E-7	3.874E-6	2.364E-5	7.749E-5	17	1092
+21	GO:0098793	presynapse		3.736E-7	4.448E-6	2.713E-5	9.340E-5	8	184
+22	GO:0044306	neuron projection terminus		4.964E-7	5.640E-6	3.441E-5	1.241E-4	8	191
+23	GO:0043197	dendritic spine		1.194E-6	1.298E-5	7.920E-5	2.986E-4	7	148
+24	GO:0044309	neuron spine		1.307E-6	1.361E-5	8.306E-5	3.267E-4	7	150
+25	GO:0098797	plasma membrane protein complex		2.952E-6	2.952E-5	1.801E-4	7.380E-4	11	521
+26	GO:0098857	membrane microdomain		3.626E-6	3.237E-5	1.975E-4	9.064E-4	9	334
+27	GO:0043235	receptor complex		3.626E-6	3.237E-5	1.975E-4	9.064E-4	9	334
+28	GO:0045121	membrane raft		3.626E-6	3.237E-5	1.975E-4	9.064E-4	9	334
+29	GO:0043204	perikaryon		8.335E-6	7.185E-5	4.383E-4	2.084E-3	6	130
+30	GO:0034702	ion channel complex		1.192E-5	9.933E-5	6.060E-4	2.980E-3	8	293
+31	GO:0016023	cytoplasmic, membrane-bounded vesicle		2.055E-5	1.657E-4	1.011E-3	5.137E-3	15	1181
+32	GO:1902495	transmembrane transporter complex		2.741E-5	2.142E-4	1.307E-3	6.854E-3	8	329
+33	GO:1990351	transporter complex		3.118E-5	2.316E-4	1.413E-3	7.795E-3	8	335
+34	GO:0032589	neuron projection membrane		3.149E-5	2.316E-4	1.413E-3	7.873E-3	4	49
+35	GO:0043195	terminal bouton		4.861E-5	3.472E-4	2.118E-3	1.215E-2	5	108
+36	GO:0098802	plasma membrane receptor complex		5.094E-5	3.538E-4	2.158E-3	1.274E-2	6	179
+37	GO:0031410	cytoplasmic vesicle		6.345E-5	4.287E-4	2.616E-3	1.586E-2	15	1302
+38	GO:0098796	membrane protein complex		1.140E-4	7.498E-4	4.574E-3	2.849E-2	13	1060
+39	GO:0042734	presynaptic membrane		1.359E-4	8.710E-4	5.314E-3	3.397E-2	4	71
+40	GO:0014069	postsynaptic density		2.017E-4	1.261E-3	7.692E-3	
+41	GO:0017146	NMDA selective glutamate receptor complex		8.610E-4	5.250E-3	3.203E-2	
+42	GO:0008328	ionotropic glutamate receptor complex		9.280E-4	5.524E-3	3.370E-2	
+43	GO:0030315	T-tubule		1.275E-3	7.415E-3	4.524E-2	
+44	GO:0043198	dendritic shaft		1.407E-3	7.938E-3	4.843E-2	
+45	GO:0005739	mitochondrion		1.429E-3	7.938E-3	4.843E-2	
+46	GO:0060077	inhibitory synapse		1.753E-3	9.528E-3	
+47	GO:0042383	sarcolemma		2.065E-3	1.099E-2	
+48	GO:0030673	axolemma		2.194E-3	1.135E-2	
+49	GO:0031256	leading edge membrane		2.224E-3	1.135E-2	
+50	GO:0030141	secretory granule		2.366E-3	1.183E-2	
+4: Human Phenotype [Display Chart] 549 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0007015	Poor gross motor coordination		3.232E-24	1.775E-21	1.222E-20	1.775E-21	12	13
+2	HP:0000064	Hypoplastic labia minora		2.247E-23	2.056E-21	1.416E-20	1.234E-20	12	14
+3	HP:0007730	Iris hypopigmentation		2.247E-23	2.056E-21	1.416E-20	1.234E-20	12	14
+4	HP:0005968	Temperature instability		2.247E-23	2.056E-21	1.416E-20	1.234E-20	12	14
+5	HP:0007874	Almond-shaped palpebral fissure		2.247E-23	2.056E-21	1.416E-20	1.234E-20	12	14
+6	HP:0007010	Poor fine motor coordination		2.247E-23	2.056E-21	1.416E-20	1.234E-20	12	14
+7	HP:0002791	Hypoventilation		4.433E-22	3.476E-20	2.394E-19	2.433E-19	12	16
+8	HP:0002236	Frontal upsweep of hair		1.497E-21	9.130E-20	6.287E-19	8.217E-19	12	17
+9	HP:0004283	Narrow palm		1.497E-21	9.130E-20	6.287E-19	8.217E-19	12	17
+10	HP:0000060	Clitoral hypoplasia		1.202E-20	5.999E-19	4.131E-18	6.599E-18	12	19
+11	HP:0012743	Abdominal obesity		1.202E-20	5.999E-19	4.131E-18	6.599E-18	12	19
+12	HP:0007328	Impaired pain sensation		1.136E-19	5.198E-18	3.579E-17	6.237E-17	13	29
+13	HP:0010535	Sleep apnea		1.511E-19	6.381E-18	4.394E-17	8.295E-17	12	22
+14	HP:0000876	Oligomenorrhea		3.138E-19	1.230E-17	8.473E-17	1.723E-16	12	23
+15	HP:0000842	Hyperinsulinemia		6.232E-19	2.138E-17	1.472E-16	3.421E-16	12	24
+16	HP:0000446	Narrow nasal bridge		6.232E-19	2.138E-17	1.472E-16	3.421E-16	12	24
+17	HP:0007513	Generalized hypopigmentation		2.195E-18	7.089E-17	4.882E-16	1.205E-15	12	26
+18	HP:0000846	Adrenal insufficiency		6.820E-18	1.970E-16	1.357E-15	3.744E-15	12	28
+19	HP:0001531	Failure to thrive in infancy		6.820E-18	1.970E-16	1.357E-15	3.744E-15	12	28
+20	HP:0005599	Hypopigmentation of hair		1.155E-17	3.171E-16	2.184E-15	6.343E-15	12	29
+21	HP:0001010	Hypopigmentation of the skin		3.098E-17	7.732E-16	5.325E-15	1.701E-14	12	31
+22	HP:0002033	Poor suck		3.098E-17	7.732E-16	5.325E-15	1.701E-14	12	31
+23	HP:0002591	Polyphagia		5.571E-17	1.330E-15	9.157E-15	3.058E-14	13	43
+24	HP:0001385	Hip dysplasia		3.902E-16	8.925E-15	6.146E-14	2.142E-13	12	37
+25	HP:0003199	Decreased muscle mass		8.124E-16	1.784E-14	1.229E-13	4.460E-13	12	39
+26	HP:0007018	Attention deficit hyperactivity disorder		2.124E-15	4.485E-14	3.089E-13	1.166E-12	16	109
+27	HP:0000046	Scrotal hypoplasia		2.250E-15	4.575E-14	3.150E-13	1.235E-12	12	42
+28	HP:0000565	Esotropia		2.636E-15	5.169E-14	3.559E-13	1.447E-12	13	56
+29	HP:0000823	Delayed puberty		4.232E-15	8.011E-14	5.517E-13	2.323E-12	12	44
+30	HP:0000826	Precocious puberty		7.700E-15	1.321E-13	9.097E-13	4.227E-12	12	46
+31	HP:0001611	Nasal speech		7.700E-15	1.321E-13	9.097E-13	4.227E-12	12	46
+32	HP:0000044	Hypogonadotrophic hypogonadism		7.700E-15	1.321E-13	9.097E-13	4.227E-12	12	46
+33	HP:0001290	Generalized hypotonia		1.027E-14	1.708E-13	1.176E-12	5.637E-12	12	47
+34	HP:0000786	Primary amenorrhea		1.736E-14	2.802E-13	1.930E-12	9.528E-12	13	64
+35	HP:0000824	Growth hormone deficiency		1.788E-14	2.805E-13	1.931E-12	9.817E-12	12	49
+36	HP:0000789	Infertility		6.421E-14	9.792E-13	6.743E-12	3.525E-11	12	54
+37	HP:0000709	Psychosis		1.072E-13	1.591E-12	1.096E-11	5.886E-11	13	73
+38	HP:0001558	Decreased fetal movement		1.860E-13	2.687E-12	1.850E-11	1.021E-10	13	76
+39	HP:0000341	Narrow forehead		3.106E-13	4.372E-12	3.011E-11	1.705E-10	12	61
+40	HP:0005978	Type II diabetes mellitus		6.142E-13	8.429E-12	5.805E-11	3.372E-10	13	83
+41	HP:0004279	Short palm		1.487E-12	1.943E-11	1.338E-10	8.161E-10	12	69
+42	HP:0000992	Cutaneous photosensitivity		1.487E-12	1.943E-11	1.338E-10	8.161E-10	12	69
+43	HP:0000939	Osteoporosis		1.919E-12	2.450E-11	1.687E-10	1.054E-9	14	113
+44	HP:0000540	Hypermetropia		3.015E-12	3.762E-11	2.591E-10	1.655E-9	12	73
+45	HP:0002714	Downturned corners of mouth		3.574E-12	4.360E-11	3.003E-10	1.962E-9	12	74
+46	HP:0009466	Radial deviation of finger		9.410E-12	1.123E-10	7.734E-10	5.166E-9	12	80
+47	HP:0000938	Osteopenia		1.231E-11	1.438E-10	9.900E-10	6.757E-9	13	104
+48	HP:0001328	Specific learning disability		1.481E-11	1.694E-10	1.167E-9	8.133E-9	12	83
+49	HP:0030084	Clinodactyly		1.716E-11	1.923E-10	1.324E-9	9.422E-9	12	84
+50	HP:0001773	Short foot		3.033E-11	3.331E-10	2.294E-9	1.665E-8	12	88
+5: Mouse Phenotype [Display Chart] 2260 annotations before applied cutoff / 7867 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0002065	abnormal fear/anxiety-related behavior		7.034E-16	1.590E-12	1.320E-11	1.590E-12	21	299
+2	MP:0002572	abnormal emotion/affect behavior		1.176E-13	1.329E-10	1.103E-9	2.659E-10	23	488
+3	MP:0001362	abnormal anxiety-related response		3.057E-13	2.303E-10	1.912E-9	6.909E-10	18	269
+4	MP:0002066	abnormal motor capabilities/coordination/movement		1.790E-12	9.914E-10	8.229E-9	4.045E-9	38	1751
+5	MP:0009745	abnormal behavioral response to xenobiotic		2.193E-12	9.914E-10	8.229E-9	4.957E-9	17	259
+6	MP:0011479	abnormal catecholamine level		3.770E-12	1.420E-9	1.179E-8	8.521E-9	13	125
+7	MP:0001905	abnormal dopamine level		9.176E-12	2.943E-9	2.443E-8	2.074E-8	11	80
+8	MP:0001392	abnormal locomotor behavior		1.105E-11	2.943E-9	2.443E-8	2.497E-8	31	1191
+9	MP:0003491	abnormal voluntary movement		1.214E-11	2.943E-9	2.443E-8	2.744E-8	32	1281
+10	MP:0002067	abnormal sensory capabilities/reflexes/nociception		1.302E-11	2.943E-9	2.443E-8	2.943E-8	25	741
+11	MP:0003313	abnormal locomotor activation		1.472E-11	3.024E-9	2.510E-8	3.327E-8	27	887
+12	MP:0001363	increased anxiety-related response		1.867E-11	3.516E-9	2.918E-8	4.219E-8	14	175
+13	MP:0002063	abnormal learning/memory/conditioning		6.916E-11	1.202E-8	9.980E-8	1.563E-7	21	537
+14	MP:0003633	abnormal nervous system physiology		4.341E-10	7.008E-8	5.817E-7	9.811E-7	33	1557
+15	MP:0001354	increased aggression towards males		5.857E-10	8.825E-8	7.325E-7	1.324E-6	6	15
+16	MP:0002272	abnormal nervous system electrophysiology		6.767E-10	9.558E-8	7.934E-7	1.529E-6	15	273
+17	MP:0001353	increased aggression towards mice		3.002E-9	3.990E-7	3.312E-6	6.784E-6	7	33
+18	MP:0001970	abnormal pain threshold		3.942E-9	4.949E-7	4.108E-6	8.908E-6	13	217
+19	MP:0002061	abnormal aggression-related behavior		4.665E-9	5.548E-7	4.605E-6	1.054E-5	9	79
+20	MP:0001968	abnormal touch/ nociception		6.790E-9	7.649E-7	6.349E-6	1.535E-5	14	273
+21	MP:0001402	hypoactivity		7.107E-9	7.649E-7	6.349E-6	1.606E-5	16	377
+22	MP:0005655	increased aggression		1.044E-8	1.073E-6	8.905E-6	2.360E-5	7	39
+23	MP:0005322	abnormal serotonin level		1.315E-8	1.293E-6	1.073E-5	2.973E-5	8	62
+24	MP:0001440	abnormal grooming behavior		1.829E-8	1.723E-6	1.430E-5	4.135E-5	9	92
+25	MP:0002062	abnormal associative learning		1.980E-8	1.790E-6	1.485E-5	4.474E-5	13	248
+26	MP:0011451	increased susceptibility to dopaminergic neuron neurotoxicity		2.248E-8	1.954E-6	1.622E-5	5.080E-5	5	13
+27	MP:0002557	abnormal social/conspecific interaction		2.573E-8	2.094E-6	1.738E-5	5.816E-5	14	303
+28	MP:0003360	abnormal depression-related behavior		2.669E-8	2.094E-6	1.738E-5	6.033E-5	9	96
+29	MP:0001516	abnormal motor coordination/ balance		2.736E-8	2.094E-6	1.738E-5	6.183E-5	20	673
+30	MP:0009746	enhanced behavioral response to xenobiotic		2.780E-8	2.094E-6	1.738E-5	6.282E-5	8	68
+31	MP:0006007	abnormal basal ganglion morphology		2.926E-8	2.133E-6	1.770E-5	6.612E-5	9	97
+32	MP:0003106	abnormal fear-related response		4.080E-8	2.794E-6	2.319E-5	9.221E-5	7	47
+33	MP:0001501	abnormal sleep pattern		4.080E-8	2.794E-6	2.319E-5	9.221E-5	7	47
+34	MP:0002733	abnormal thermal nociception		4.726E-8	3.142E-6	2.608E-5	1.068E-4	10	137
+35	MP:0003043	hypoalgesia		5.067E-8	3.272E-6	2.716E-5	1.145E-4	10	138
+36	MP:0011396	abnormal sleep behavior		6.370E-8	3.999E-6	3.319E-5	1.440E-4	7	50
+37	MP:0001906	increased dopamine level		9.628E-8	5.881E-6	4.881E-5	2.176E-4	6	32
+38	MP:0002069	abnormal consumption behavior		2.497E-7	1.485E-5	1.233E-4	5.644E-4	17	552
+39	MP:0004077	abnormal striatum morphology		5.580E-7	3.233E-5	2.684E-4	1.261E-3	7	68
+40	MP:0000783	abnormal forebrain morphology		7.450E-7	4.209E-5	3.494E-4	1.684E-3	20	822
+41	MP:0002803	abnormal operant conditioning behavior		8.447E-7	4.656E-5	3.865E-4	1.909E-3	4	11
+42	MP:0008872	abnormal physiological response to xenobiotic		9.193E-7	4.947E-5	4.106E-4	2.078E-3	16	535
+43	MP:0008874	decreased physiological sensitivity to xenobiotic		1.279E-6	6.724E-5	5.582E-4	2.891E-3	11	244
+44	MP:0009747	impaired behavioral response to xenobiotic		1.315E-6	6.754E-5	5.606E-4	2.972E-3	7	77
+45	MP:0003492	abnormal involuntary movement		2.294E-6	1.152E-4	9.565E-4	5.185E-3	18	722
+46	MP:0002064	seizures		2.420E-6	1.189E-4	9.870E-4	5.470E-3	12	316
+47	MP:0003107	abnormal response to novelty		2.527E-6	1.215E-4	1.009E-3	5.711E-3	10	210
+48	MP:0009357	abnormal seizure response to inducing agent		2.929E-6	1.379E-4	1.145E-3	6.620E-3	9	166
+49	MP:0001441	increased grooming behavior		3.160E-6	1.417E-4	1.176E-3	7.143E-3	5	32
+50	MP:0002757	decreased vertical activity		3.197E-6	1.417E-4	1.176E-3	7.226E-3	8	125
+7: Pathway [Display Chart] 626 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	198901	SIDS Susceptibility Pathways	BioSystems: WikiPathways	1.654E-11	1.035E-8	7.264E-8	1.035E-8	12	160
+2	525336	Serotonergic synapse	BioSystems: KEGG	2.040E-10	6.386E-8	4.482E-7	1.277E-7	10	114
+3	198793	Biogenic Amine Synthesis	BioSystems: WikiPathways	7.792E-9	1.626E-6	1.141E-5	4.878E-6	5	15
+4	198861	Monoamine GPCRs	BioSystems: WikiPathways	1.233E-8	1.930E-6	1.354E-5	7.718E-6	6	33
+5	106363	Amine ligand-binding receptors	BioSystems: REACTOME	5.640E-8	7.062E-6	4.955E-5	3.531E-5	6	42
+6	83053	Neuroactive ligand-receptor interaction	BioSystems: KEGG	9.506E-8	9.518E-6	6.679E-5	5.951E-5	11	275
+7	920962	Serotonin Transporter Activity	BioSystems: WikiPathways	1.184E-7	9.518E-6	6.679E-5	7.414E-5	4	10
+8	106527	Dopamine clearance from the synaptic cleft	BioSystems: REACTOME	1.216E-7	9.518E-6	6.679E-5	7.614E-5	3	3
+9	106368	Serotonin receptors	BioSystems: REACTOME	2.771E-7	1.927E-5	1.352E-4	1.735E-4	4	12
+10	198851	Monoamine Transport	BioSystems: WikiPathways	4.896E-7	3.065E-5	2.151E-4	3.065E-4	5	32
+11	106516	Transmission across Chemical Synapses	BioSystems: REACTOME	5.962E-7	3.393E-5	2.381E-4	3.732E-4	9	200
+12	138000	IL23-mediated signaling events	BioSystems: Pathway Interaction Database	1.040E-6	5.424E-5	3.806E-4	6.509E-4	5	37
+13	739007	Spinal Cord Injury	BioSystems: WikiPathways	1.340E-6	6.453E-5	4.528E-4	8.389E-4	7	112
+14	106513	Neuronal System	BioSystems: REACTOME	1.672E-6	7.477E-5	5.247E-4	1.047E-3	10	293
+15	M17406	Cytokine Network	MSigDB C2: BioCarta	3.239E-6	1.352E-4	9.486E-4	2.028E-3	4	21
+16	152665	Malaria	BioSystems: KEGG	4.345E-6	1.697E-4	1.191E-3	2.720E-3	5	49
+17	546258	Cocaine addiction	BioSystems: KEGG	4.809E-6	1.697E-4	1.191E-3	3.010E-3	5	50
+18	198825	Selenium Pathway	BioSystems: WikiPathways	4.880E-6	1.697E-4	1.191E-3	3.055E-3	6	88
+19	P05912	Dopamine receptor mediated signaling pathway	PantherDB	5.854E-6	1.929E-4	1.353E-3	3.665E-3	5	52
+20	106526	Neurotransmitter Clearance In The Synaptic Cleft	BioSystems: REACTOME	6.659E-6	2.084E-4	1.463E-3	4.168E-3	3	8
+21	137929	IL27-mediated signaling events	BioSystems: Pathway Interaction Database	7.941E-6	2.367E-4	1.661E-3	4.971E-3	4	26
+22	122191	NOD-like receptor signaling pathway	BioSystems: KEGG	9.253E-6	2.557E-4	1.794E-3	5.792E-3	5	57
+23	P00026	Heterotrimeric G-protein signaling pathway-Gi alpha and Gs alpha mediated pathway	PantherDB	9.393E-6	2.557E-4	1.794E-3	5.880E-3	7	150
+24	161020	GPCR ligand binding	BioSystems: REACTOME	1.077E-5	2.703E-4	1.897E-3	6.742E-3	11	445
+25	198794	Cytokines and Inflammatory Response	BioSystems: WikiPathways	1.080E-5	2.703E-4	1.897E-3	6.758E-3	4	28
+26	M6910	Cytokines and Inflammatory Response	MSigDB C2: BioCarta	1.248E-5	2.978E-4	2.090E-3	7.810E-3	4	29
+27	147809	Chagas disease (American trypanosomiasis)	BioSystems: KEGG	1.285E-5	2.978E-4	2.090E-3	8.041E-3	6	104
+28	PW:0000455	Excitatory synaptic transmission	Pathway Ontology	1.417E-5	3.167E-4	2.223E-3	8.868E-3	3	10
+29	198776	Hypothetical Network for Drug Addiction	BioSystems: WikiPathways	1.868E-5	4.032E-4	2.829E-3	1.169E-2	4	32
+30	106528	Enzymatic degradation of dopamine by COMT	BioSystems: REACTOME	2.505E-5	4.904E-4	3.442E-3	1.568E-2	2	2
+31	106529	Enzymatic degradation of Dopamine by monoamine oxidase	BioSystems: REACTOME	2.505E-5	4.904E-4	3.442E-3	1.568E-2	2	2
+32	106357	Class A/1 (Rhodopsin-like receptors)	BioSystems: REACTOME	2.507E-5	4.904E-4	3.442E-3	1.569E-2	9	316
+33	469199	Dopaminergic synapse	BioSystems: KEGG	4.768E-5	9.044E-4	6.347E-3	2.985E-2	6	131
+34	M5298	Regulation of hematopoiesis by cytokines	MSigDB C2: BioCarta	5.276E-5	9.715E-4	6.817E-3	3.303E-2	3	15
+35	83124	Graft-versus-host disease	BioSystems: KEGG	7.372E-5	1.296E-3	9.096E-3	4.615E-2	4	45
+36	P04371	5-Hydroxytryptamine biosynthesis	PantherDB	7.454E-5	1.296E-3	9.096E-3	4.666E-2	2	3
+37	M3952	Cells and Molecules involved in local acute inflammatory response	MSigDB C2: BioCarta	7.829E-5	1.325E-3	9.295E-3	4.901E-2	3	17
+38	83095	Type I diabetes mellitus	BioSystems: KEGG	8.760E-5	1.443E-3	1.013E-2	
+39	200309	Rheumatoid arthritis	BioSystems: KEGG	1.001E-4	1.607E-3	1.128E-2	
+40	469200	Legionellosis	BioSystems: KEGG	1.626E-4	2.544E-3	1.785E-2	
+41	M2821	NFkB activation by Nontypeable Hemophilus influenzae	MSigDB C2: BioCarta	2.273E-4	3.359E-3	2.357E-2	
+42	413355	Melatonin biosynthesis, tryptophan => serotonin => melatonin	BioSystems: KEGG	2.469E-4	3.359E-3	2.357E-2	
+43	PW:0000394	dopamine signaling	Pathway Ontology	2.469E-4	3.359E-3	2.357E-2	
+44	160987	Serotonin and melatonin biosynthesis	BioSystems: REACTOME	2.469E-4	3.359E-3	2.357E-2	
+45	106366	Dopamine receptors	BioSystems: REACTOME	2.469E-4	3.359E-3	2.357E-2	
+46	545297	serotonin and melatonin biosynthesis	BioSystems: BIOCYC	2.469E-4	3.359E-3	2.357E-2	
+47	P00039	Metabotropic glutamate receptor group III pathway	PantherDB	2.929E-4	3.901E-3	2.737E-2	
+48	P00001	Adrenaline and noradrenaline biosynthesis	PantherDB	3.627E-4	4.715E-3	3.309E-2	
+49	M4557	Biosynthesis of neurotransmitters	MSigDB C2: BioCarta	3.691E-4	4.715E-3	3.309E-2	
+50	842771	Inflammatory bowel disease (IBD)	BioSystems: KEGG	3.911E-4	4.897E-3	3.436E-2	
