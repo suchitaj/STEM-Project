@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 '''
-./jaccard_index.py neuropsychiatric neurodegenerative | sort -n -r -k 3 
+./jaccard_index.py neuropsychiatric neurodegenerative
+
+Computes Jaccard Index across all pairs of files in two directories.
+Then emits all possible pairs reverse sorted by their Jaccard Index values.
 
 Jaccard Index of two sets A and B = |A intersection B|/ |A Union B|
 
@@ -30,10 +33,14 @@ def JaccardIndex(a, b):
     return float(len(aib))/ float(len(aub))
 
 def CompareSets(map1, map2):
+    lst = []
     for k1, v1 in map1.items():
         for k2, v2 in map2.items():
             ji = JaccardIndex(v1, v2)
-            print('{:<20} {:<20} {:.2%}'.format(k1, k2, ji))
+            lst.append((k1, k2, ji))
+    l = list(reversed(sorted(lst, key = lambda tup: tup[2])))
+    for tup in l:
+        print('{:<20} {:<20} {:.2%}'.format(tup[0], tup[1], tup[2]))
             
 def main():
     diseaseMap1 = {}

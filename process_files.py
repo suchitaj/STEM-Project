@@ -1,7 +1,7 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''
-./process_files.py neuropsychiatric\ disorders\ \(csv\,\ OMIM\) neuropsychiatric\ disorders\ \(txt\,\ Entrez\) 
-./process_files.py neurodegenerative\ disorders\ \(csv\,\ OMIM\) neurodegenerative\ disorders\ \(txt\,\ Entrez\)
+./process_files.py neuropsychiatric-csv-OMIM neuropsychiatric-txt-Entrez neuropsychiatric
+./process_files.py neurodegenerative-csv-OMIM neurodegenerative-txt-Entrez neurodegenerative
 
 '''
 import csv
@@ -31,9 +31,10 @@ def processTabDir(dirname, sep, diseaseMap):
         with open(dirname + '/' + filename, 'rb') as csvfile:
             csvreader = csv.reader(csvfile, dialect='excel', delimiter=sep, quotechar='"')
             for row in csvreader:
-                entrezId = row[2]
-                print(entrezId, ', '.join(row))
-                diseaseMap[prefix].add(entrezId)
+                entrezId = row[2].strip()
+                if row[2].isdigit():
+                    print(entrezId, ', '.join(row))
+                    diseaseMap[prefix].add(entrezId)
     return
 
 def writeFile(k, v):
@@ -55,7 +56,7 @@ def main():
     processTabDir(dirTab, '\t', diseaseMap)
 
     for k,v in diseaseMap.items():
-        writeFile(k, v)
+        writeFile(sys.argv[3] + '/' + k, v)
 
 if __name__ == '__main__':
     main()

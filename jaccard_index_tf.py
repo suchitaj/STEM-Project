@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-./jaccard_index_tf.py neuropsychiatric neurodegenerative | sort -n -r -k 3 
+./jaccard_index_tf.py tfnd tfnp
 
 Jaccard Index of two sets A and B = |A intersection B|/ |A Union B|
 
@@ -30,7 +30,7 @@ def Processfile(disease, lines, diseaseMap):
     for l in lines:
         if GetMatchingFactor(l):
             currentFactor = GetMatchingFactor(l)
-            print(currentFactor)
+            #print(currentFactor)
             diseaseMap[disease][currentFactor] = set()
         else:
             rows = l.split()
@@ -39,9 +39,9 @@ def Processfile(disease, lines, diseaseMap):
 
 
 def processDir(dirname, diseaseMap):
-    print(dirname)
+    print('Directory', dirname)
     for filename in os.listdir(dirname):
-        print(filename)
+        print('Processing file ', filename)
         parts = filename.split('.')
         if len(parts) != 2 or not parts[0]:
             print('Skipping', filename)
@@ -62,8 +62,8 @@ def JaccardIndex(a, b):
 def CompareSets(map1, map2):
     jiMap = {} 
     jiAvgMap = defaultdict(float)
-    for f in prefixFactors:
-        print(f)
+    for k, f in prefixFactors.items():
+        print('\n', f)
         lst = []
         for k1, v1 in map1.items():
             for k2, v2 in map2.items():
@@ -77,8 +77,15 @@ def CompareSets(map1, map2):
             print('{:<20} {:<20} {:.2%}'.format(k1, k2, ji))
             jiAvgMap[k1 + ' ' + k2] += ji 
 
+    print('\n\nJaccard Index across all factors, Total and Average\n')
+    lst = []
     for k, v in jiAvgMap.items():
-        print('{:<20} {:.2%} {:.2%}'.format(k, v, v/len(prefixFactors)))
+        ks = k.strip().split()
+        lst.append((ks[0], ks[1], v, v/len(prefixFactors)))
+    l = list(reversed(sorted(lst, key = lambda tup: tup[3])))
+    for tup in l:
+        print('{:<20} {:<20} {:15.2%}'.format(tup[0], tup[1], tup[3]))
+        #print('{:<20} {:<20} {:15.2%} {:15.2%}'.format(tup[0], tup[1], tup[2], tup[3]))
         
 def main():
     diseaseMap1 = {}
