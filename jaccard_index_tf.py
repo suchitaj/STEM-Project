@@ -39,7 +39,8 @@ def Processfile(disease, lines, diseaseMap, gp):
             #print(currentFactor)
             diseaseMap[disease][currentFactor] = {}
         else:
-            rows = l.split()
+            rows = [str(x)[1:].strip('\'') for x in l.split()]
+            #print(str(l), rows)
             if rows[0].isdigit():
                 factor = rows[1]
                 diseaseMap[disease][currentFactor][factor] = set()
@@ -47,7 +48,8 @@ def Processfile(disease, lines, diseaseMap, gp):
                 isGoFactor = IsGoFactor(currentFactor)
                 if isGoFactor:
                     parents = gp.getAncestors(factor)
-                    diseaseMap[disease][currentFactor][factor].union(parents)
+                    diseaseMap[disease][currentFactor][factor] |= parents
+                    #print(factor, diseaseMap[disease][currentFactor][factor], parents)
 
 def processDir(dirname, diseaseMap, gp):
     print('Directory', dirname)
@@ -119,13 +121,14 @@ def CompareSets(map1, map2):
     l = list(reversed(sorted(lst, key = lambda tup: tup[3])))
     for tup in l:
         print('{:<20} {:<20} {:15.2%}'.format(tup[0], tup[1], tup[3]))
-        
+        #print('{:<20} {:<20} {:15.2%} {:15.2%}'.format(tup[0], tup[1], tup[2], tup[3]))
+
 def main():
     print("Reading and parsing the obo file.")
     inpOboFile = "./go.obo"
     gp = go_obo_parser()
     gp.parseOBO(inpOboFile)
-    print("Parsing complete.", inpOboFile)
+    print("Parsing complete - ", inpOboFile)
 
     diseaseMap1 = {}
     processDir(sys.argv[1], diseaseMap1, gp)
@@ -133,15 +136,8 @@ def main():
     diseaseMap2 = {}
     processDir(sys.argv[2], diseaseMap2, gp)
 
-
-    #Get all anscestors of a GO Term
-    #parents = gp.getAncestors('GO:2001282')
-    #print("Parents of GO:2001282")
-    #for parent in parents:
-    #    print(str(parent))
-
     CompareSets(diseaseMap1, diseaseMap2)
 
 if __name__ == '__main__':
     main()
-g
+
