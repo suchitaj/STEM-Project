@@ -1,0 +1,599 @@
+1: GO: Molecular Function [Display Chart] 660 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005344	oxygen transporter activity		2.949E-17	1.946E-14	1.376E-13	1.946E-14	9	14
+2	GO:0019825	oxygen binding		1.071E-15	3.534E-13	2.498E-12	7.068E-13	11	40
+3	GO:0020037	heme binding		1.416E-13	3.116E-11	2.203E-10	9.348E-11	14	131
+4	GO:0005506	iron ion binding		2.217E-13	3.658E-11	2.586E-10	1.463E-10	15	166
+5	GO:0046906	tetrapyrrole binding		3.588E-13	4.737E-11	3.349E-10	2.368E-10	14	140
+6	GO:0030492	hemoglobin binding		5.851E-10	6.436E-8	4.550E-7	3.862E-7	5	8
+7	GO:0042802	identical protein binding		5.580E-9	5.261E-7	3.720E-6	3.683E-6	29	1336
+8	GO:0005179	hormone activity		7.388E-9	6.095E-7	4.309E-6	4.876E-6	10	123
+9	GO:0046983	protein dimerization activity		1.247E-8	9.143E-7	6.464E-6	8.229E-6	28	1298
+10	GO:0005102	receptor binding		1.610E-8	1.062E-6	7.512E-6	1.062E-5	31	1581
+11	GO:0042803	protein homodimerization activity		5.507E-8	3.304E-6	2.336E-5	3.635E-5	21	811
+12	GO:0031721	hemoglobin alpha binding		2.686E-7	1.364E-5	9.643E-5	1.773E-4	3	3
+13	GO:0031720	haptoglobin binding		2.686E-7	1.364E-5	9.643E-5	1.773E-4	3	3
+14	GO:0043177	organic acid binding		3.370E-6	1.589E-4	1.123E-3	2.224E-3	10	237
+15	GO:0039706	co-receptor binding		5.263E-6	2.316E-4	1.637E-3	3.473E-3	3	6
+16	GO:0016209	antioxidant activity		9.234E-6	3.809E-4	2.693E-3	6.094E-3	6	75
+17	GO:0004601	peroxidase activity		1.053E-5	4.090E-4	2.892E-3	6.953E-3	5	45
+18	GO:0016684	oxidoreductase activity, acting on peroxide as acceptor		1.176E-5	4.311E-4	3.048E-3	7.761E-3	5	46
+19	GO:0042277	peptide binding		1.327E-5	4.609E-4	3.259E-3	8.757E-3	10	277
+20	GO:0005125	cytokine activity		1.410E-5	4.651E-4	3.289E-3	9.303E-3	9	221
+21	GO:0019899	enzyme binding		1.600E-5	5.027E-4	3.555E-3	1.056E-2	28	1851
+22	GO:0033218	amide binding		3.204E-5	9.613E-4	6.797E-3	2.115E-2	10	307
+23	GO:0004998	transferrin receptor activity		4.207E-5	1.166E-3	8.243E-3	2.777E-2	2	2
+24	GO:0030881	beta-2-microglobulin binding		4.240E-5	1.166E-3	8.243E-3	2.798E-2	3	11
+25	GO:0046914	transition metal ion binding		5.361E-5	1.415E-3	1.001E-2	3.538E-2	23	1453
+26	GO:0005496	steroid binding		5.657E-5	1.436E-3	1.015E-2	3.733E-2	6	103
+27	GO:0001046	core promoter sequence-specific DNA binding		8.588E-5	2.099E-3	1.484E-2	
+5.668E-2
+6	111
+28	GO:0010385	double-stranded methylated DNA binding		1.249E-4	2.943E-3	2.081E-2	
+8.242E-2
+2	3
+29	GO:0003823	antigen binding		1.321E-4	3.007E-3	2.126E-2	
+8.721E-2
+6	120
+30	GO:0031406	carboxylic acid binding		1.458E-4	3.207E-3	2.267E-2	
+9.621E-2
+8	234
+31	GO:0008289	lipid binding		1.578E-4	3.361E-3	2.376E-2	
+1.042E-1
+14	691
+32	GO:0033695	oxidoreductase activity, acting on CH or CH2 groups, quinone or similar compound as acceptor		2.487E-4	4.974E-3	3.516E-2	
+1.641E-1
+2	4
+33	GO:0034875	caffeine oxidase activity		2.487E-4	4.974E-3	3.516E-2	
+1.641E-1
+2	4
+34	GO:0019904	protein domain specific binding		2.586E-4	5.019E-3	3.549E-2	
+1.706E-1
+14	725
+35	GO:0046982	protein heterodimerization activity		2.874E-4	5.419E-3	3.831E-2	
+1.897E-1
+12	560
+36	GO:0030884	exogenous lipid antigen binding		4.127E-4	7.168E-3	
+5.068E-2
+2.724E-1
+2	5
+37	GO:0030883	endogenous lipid antigen binding		4.127E-4	7.168E-3	
+5.068E-2
+2.724E-1
+2	5
+38	GO:0030882	lipid antigen binding		4.127E-4	7.168E-3	
+5.068E-2
+2.724E-1
+2	5
+39	GO:0005215	transporter activity		4.892E-4	8.279E-3	
+5.853E-2
+3.229E-1
+19	1262
+40	GO:0022892	substrate-specific transporter activity		6.064E-4	9.461E-3	
+6.689E-2
+4.002E-1
+17	1080
+41	GO:0005131	growth hormone receptor binding		6.164E-4	9.461E-3	
+6.689E-2
+4.068E-1
+2	6
+42	GO:0004322	ferroxidase activity		6.164E-4	9.461E-3	
+6.689E-2
+4.068E-1
+2	6
+43	GO:0016724	oxidoreductase activity, oxidizing metal ions, oxygen as acceptor		6.164E-4	9.461E-3	
+6.689E-2
+4.068E-1
+2	6
+44	GO:0001047	core promoter binding		6.420E-4	9.631E-3	
+6.809E-2
+4.238E-1
+6	161
+45	GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding		7.051E-4	1.034E-2	
+7.311E-2
+4.653E-1
+4	62
+46	GO:0008083	growth factor activity		7.536E-4	1.081E-2	
+7.644E-2
+4.974E-1
+6	166
+47	GO:0016712	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen		7.766E-4	1.091E-2	
+7.711E-2
+5.126E-1
+3	28
+48	GO:0004568	chitinase activity		8.593E-4	1.182E-2	
+8.354E-2
+5.672E-1
+2	7
+49	GO:0002020	protease binding		9.223E-4	1.242E-2	
+8.783E-2
+6.087E-1
+5	115
+50	GO:0005381	iron ion transmembrane transporter activity		1.141E-3	1.410E-2	
+9.971E-2
+7.530E-1
+2	8
+2: GO: Biological Process [Display Chart] 4129 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0010035	response to inorganic substance		1.260E-18	5.204E-15	4.633E-14	5.204E-15	28	502
+2	GO:0042592	homeostatic process		3.396E-17	7.010E-14	6.242E-13	1.402E-13	45	1698
+3	GO:0015671	oxygen transport		7.464E-17	1.027E-13	9.146E-13	3.082E-13	9	15
+4	GO:1901700	response to oxygen-containing compound		1.496E-16	1.544E-13	1.375E-12	6.176E-13	44	1684
+5	GO:0015669	gas transport		1.167E-14	9.636E-12	8.579E-11	4.818E-11	9	23
+6	GO:0006953	acute-phase response		2.678E-14	1.843E-11	1.641E-10	1.106E-10	11	52
+7	GO:0030099	myeloid cell differentiation		4.973E-14	2.933E-11	2.611E-10	2.053E-10	21	380
+8	GO:0055072	iron ion homeostasis		9.744E-14	5.029E-11	4.477E-10	4.023E-10	13	101
+9	GO:0050801	ion homeostasis		1.701E-13	7.294E-11	6.494E-10	7.023E-10	27	736
+10	GO:0048872	homeostasis of number of cells		1.767E-13	7.294E-11	6.494E-10	7.294E-10	18	272
+11	GO:0048534	hematopoietic or lymphoid organ development		2.661E-13	9.989E-11	8.893E-10	1.099E-9	29	879
+12	GO:0048821	erythrocyte development		3.814E-13	1.214E-10	1.081E-9	1.575E-9	9	32
+13	GO:0030218	erythrocyte differentiation		3.822E-13	1.214E-10	1.081E-9	1.578E-9	13	112
+14	GO:0009611	response to wounding		4.591E-13	1.266E-10	1.127E-9	1.896E-9	32	1109
+15	GO:0030097	hemopoiesis		4.598E-13	1.266E-10	1.127E-9	1.898E-9	28	832
+16	GO:0061515	myeloid cell development		5.251E-13	1.355E-10	1.206E-9	2.168E-9	11	67
+17	GO:0002526	acute inflammatory response		7.261E-13	1.733E-10	1.543E-9	2.998E-9	14	147
+18	GO:0001775	cell activation		7.597E-13	1.733E-10	1.543E-9	3.137E-9	31	1057
+19	GO:0002262	myeloid cell homeostasis		7.976E-13	1.733E-10	1.543E-9	3.293E-9	14	148
+20	GO:0002520	immune system development		1.058E-12	2.183E-10	1.944E-9	4.367E-9	29	929
+21	GO:0034101	erythrocyte homeostasis		1.170E-12	2.301E-10	2.049E-9	4.832E-9	13	122
+22	GO:0006879	cellular iron ion homeostasis		1.644E-12	3.086E-10	2.747E-9	6.789E-9	11	74
+23	GO:0048878	chemical homeostasis		2.151E-12	3.862E-10	3.439E-9	8.883E-9	31	1100
+24	GO:0055080	cation homeostasis		5.777E-12	9.938E-10	8.848E-9	2.385E-8	24	661
+25	GO:0055065	metal ion homeostasis		6.076E-12	1.004E-9	8.935E-9	2.509E-8	23	602
+26	GO:0010628	positive regulation of gene expression		6.659E-12	1.057E-9	9.415E-9	2.749E-8	39	1810
+27	GO:0055076	transition metal ion homeostasis		8.318E-12	1.272E-9	1.133E-8	3.435E-8	13	142
+28	GO:0031667	response to nutrient levels		8.647E-12	1.275E-9	1.135E-8	3.570E-8	21	497
+29	GO:0098771	inorganic ion homeostasis		9.248E-12	1.317E-9	1.172E-8	3.818E-8	24	676
+30	GO:0009719	response to endogenous stimulus		9.810E-12	1.350E-9	1.202E-8	4.050E-8	38	1744
+31	GO:0007584	response to nutrient		1.082E-11	1.441E-9	1.283E-8	4.468E-8	14	179
+32	GO:0031328	positive regulation of cellular biosynthetic process		1.872E-11	2.416E-9	2.151E-8	7.730E-8	39	1872
+33	GO:0051173	positive regulation of nitrogen compound metabolic process		2.388E-11	2.988E-9	2.660E-8	9.860E-8	39	1887
+34	GO:0009991	response to extracellular stimulus		2.686E-11	3.262E-9	2.904E-8	1.109E-7	21	528
+35	GO:0006979	response to oxidative stress		3.187E-11	3.759E-9	3.347E-8	1.316E-7	19	422
+36	GO:0009891	positive regulation of biosynthetic process		3.450E-11	3.957E-9	3.523E-8	1.425E-7	39	1910
+37	GO:0051241	negative regulation of multicellular organismal process		8.340E-11	9.038E-9	8.046E-8	3.444E-7	29	1112
+38	GO:0051093	negative regulation of developmental process		8.381E-11	9.038E-9	8.046E-8	3.460E-7	26	890
+39	GO:0034109	homotypic cell-cell adhesion		8.537E-11	9.038E-9	8.046E-8	3.525E-7	21	562
+40	GO:0006954	inflammatory response		9.099E-11	9.393E-9	8.363E-8	3.757E-7	23	689
+41	GO:0006357	regulation of transcription from RNA polymerase II promoter		1.005E-10	1.012E-8	9.009E-8	4.149E-7	38	1886
+42	GO:0046916	cellular transition metal ion homeostasis		1.522E-10	1.496E-8	1.332E-7	6.284E-7	11	111
+43	GO:0006873	cellular ion homeostasis		1.839E-10	1.749E-8	1.557E-7	7.594E-7	21	586
+44	GO:0016337	single organismal cell-cell adhesion		1.864E-10	1.749E-8	1.557E-7	7.696E-7	24	782
+45	GO:0007159	leukocyte cell-cell adhesion		1.928E-10	1.769E-8	1.575E-7	7.959E-7	20	527
+46	GO:0000122	negative regulation of transcription from RNA polymerase II promoter		2.351E-10	2.110E-8	1.878E-7	9.706E-7	24	791
+47	GO:0070482	response to oxygen levels		2.591E-10	2.276E-8	2.027E-7	1.070E-6	16	318
+48	GO:0070489	T cell aggregation		3.505E-10	2.937E-8	2.615E-7	1.447E-6	19	486
+49	GO:0042110	T cell activation		3.505E-10	2.937E-8	2.615E-7	1.447E-6	19	486
+50	GO:0010038	response to metal ion		3.565E-10	2.937E-8	2.615E-7	1.472E-6	16	325
+3: GO: Cellular Component [Display Chart] 335 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005615	extracellular space		3.047E-22	1.021E-19	6.525E-19	1.021E-19	47	1431
+2	GO:0005833	hemoglobin complex		4.866E-21	8.150E-19	5.210E-18	1.630E-18	10	12
+3	GO:0072562	blood microparticle		6.946E-12	7.756E-10	4.958E-9	2.327E-9	13	143
+4	GO:0031838	haptoglobin-hemoglobin complex		1.570E-9	1.315E-7	8.406E-7	5.260E-7	4	4
+5	GO:0060205	cytoplasmic membrane-bounded vesicle lumen		5.123E-8	3.432E-6	2.194E-5	1.716E-5	8	82
+6	GO:0031983	vesicle lumen		7.466E-8	4.169E-6	2.665E-5	2.501E-5	8	86
+7	GO:0044445	cytosolic part		1.449E-6	6.933E-5	4.432E-4	4.853E-4	10	220
+8	GO:0009986	cell surface		2.483E-6	1.040E-4	6.648E-4	8.319E-4	19	871
+9	GO:0071682	endocytic vesicle lumen		3.483E-6	1.278E-4	8.169E-4	1.167E-3	4	17
+10	GO:0098552	side of membrane		3.814E-6	1.278E-4	8.169E-4	1.278E-3	14	502
+11	GO:0009897	external side of plasma membrane		4.566E-6	1.391E-4	8.890E-4	1.530E-3	11	309
+12	GO:1990712	HFE-transferrin receptor complex		1.375E-5	3.840E-4	2.455E-3	4.608E-3	3	8
+13	GO:0044448	cell cortex part		2.507E-5	6.461E-4	4.130E-3	8.399E-3	7	135
+14	GO:0030863	cortical cytoskeleton		3.211E-5	7.683E-4	4.912E-3	1.076E-2	6	95
+15	GO:0030864	cortical actin cytoskeleton		6.295E-5	1.406E-3	8.988E-3	2.109E-2	5	66
+16	GO:0031410	cytoplasmic vesicle		6.901E-5	1.445E-3	9.236E-3	2.312E-2	21	1302
+17	GO:0031012	extracellular matrix		1.194E-4	2.106E-3	1.346E-2	3.999E-2	11	441
+18	GO:0034358	plasma lipoprotein particle		1.195E-4	2.106E-3	1.346E-2	4.002E-2	4	40
+19	GO:1990777	lipoprotein particle		1.195E-4	2.106E-3	1.346E-2	4.002E-2	4	40
+20	GO:0032994	protein-lipid complex		1.449E-4	2.427E-3	1.551E-2	4.853E-2	4	42
+21	GO:0016023	cytoplasmic, membrane-bounded vesicle		1.653E-4	2.637E-3	1.686E-2	
+5.537E-2
+19	1181
+22	GO:0032437	cuticular plate		2.390E-4	3.639E-3	2.326E-2	
+8.006E-2
+2	4
+23	GO:0030139	endocytic vesicle		2.610E-4	3.802E-3	2.430E-2	
+8.744E-2
+8	260
+24	GO:0031226	intrinsic component of plasma membrane		2.779E-4	3.879E-3	2.480E-2	
+9.309E-2
+23	1655
+25	GO:0005768	endosome		5.819E-4	7.798E-3	4.985E-2	
+1.949E-1
+14	802
+26	GO:0042611	MHC protein complex		6.577E-4	8.474E-3	
+5.417E-2
+2.203E-1
+3	27
+27	GO:0034774	secretory granule lumen		6.956E-4	8.631E-3	
+5.518E-2
+2.330E-1
+4	63
+28	GO:0016323	basolateral plasma membrane		8.514E-4	1.019E-2	
+6.512E-2
+2.852E-1
+7	239
+29	GO:0005887	integral component of plasma membrane		1.035E-3	1.196E-2	
+7.646E-2
+3.469E-1
+21	1591
+30	GO:0014731	spectrin-associated cytoskeleton		1.097E-3	1.205E-2	
+7.704E-2
+3.674E-1
+2	8
+31	GO:0044433	cytoplasmic vesicle part		1.115E-3	1.205E-2	
+7.704E-2
+3.736E-1
+11	575
+32	GO:0008091	spectrin		1.404E-3	1.470E-2	
+9.398E-2
+4.704E-1
+2	9
+33	GO:0005938	cell cortex		1.449E-3	1.470E-2	
+9.400E-2
+4.853E-1
+7	262
+34	GO:0044440	endosomal part		1.544E-3	1.521E-2	
+9.725E-2
+5.172E-1
+9	423
+35	GO:0055037	recycling endosome		1.839E-3	1.760E-2	
+1.125E-1
+6.161E-1
+5	137
+36	GO:0000792	heterochromatin		2.124E-3	1.926E-2	
+1.231E-1
+7.116E-1
+4	85
+37	GO:0042612	MHC class I protein complex		2.128E-3	1.926E-2	
+1.231E-1
+7.128E-1
+2	11
+38	GO:0005720	nuclear heterochromatin		2.246E-3	1.980E-2	
+1.266E-1
+7.526E-1
+3	41
+39	GO:0005771	multivesicular body		2.753E-3	2.364E-2	
+1.512E-1
+9.221E-1
+3	44
+40	GO:0005578	proteinaceous extracellular matrix		2.856E-3	2.392E-2	
+1.529E-1
+9.567E-1
+8	377
+41	GO:0043292	contractile fiber		3.405E-3	2.782E-2	
+1.779E-1
+1.000E0
+6	228
+42	GO:0031093	platelet alpha granule lumen		3.529E-3	2.815E-2	
+1.800E-1
+1.000E0
+3	48
+43	GO:1990572	TERT-RMRP complex		6.404E-3	4.989E-2	
+3.190E-1
+1.000E0
+1	1
+4: Human Phenotype [Display Chart] 1044 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0010472	Abnormality of the heme biosynthetic pathway		1.501E-15	1.567E-12	1.180E-11	1.567E-12	10	14
+2	HP:0004840	Hypochromic microcytic anemia		2.816E-13	1.470E-10	1.107E-9	2.940E-10	8	10
+3	HP:0011907	Reduced alpha/beta synthesis ratio		2.509E-11	8.732E-9	6.574E-8	2.619E-8	6	6
+4	HP:0011031	Abnormality of iron homeostasis		3.056E-8	7.975E-6	6.004E-5	3.190E-5	5	7
+5	HP:0001744	Splenomegaly		4.364E-8	9.112E-6	6.860E-5	4.556E-5	18	228
+6	HP:0011903	Hemoglobin H		9.099E-8	1.583E-5	1.192E-4	9.499E-5	4	4
+7	HP:0001394	Cirrhosis		1.520E-7	2.267E-5	1.707E-4	1.587E-4	10	66
+8	HP:0002863	Myelodysplasia		2.019E-7	2.635E-5	1.983E-4	2.108E-4	7	26
+9	HP:0001939	Abnormality of metabolism/homeostasis		3.990E-7	4.629E-5	3.485E-4	4.166E-4	17	235
+10	HP:0001878	Hemolytic anemia		1.288E-6	1.239E-4	9.331E-4	1.344E-3	9	64
+11	HP:0001971	Hypersplenism		1.306E-6	1.239E-4	9.331E-4	1.363E-3	4	6
+12	HP:0001935	Microcytic anemia		1.723E-6	1.499E-4	1.129E-3	1.799E-3	5	13
+13	HP:0011904	Persistence of hemoglobin F		3.006E-6	2.414E-4	1.818E-3	3.139E-3	4	7
+14	HP:0001923	Reticulocytosis		3.348E-6	2.496E-4	1.879E-3	3.495E-3	6	25
+15	HP:0011906	Reduced beta/alpha synthesis ratio		5.368E-6	3.503E-4	2.637E-3	5.604E-3	3	3
+16	HP:0005511	Heinz body anemia		5.368E-6	3.503E-4	2.637E-3	5.604E-3	3	3
+17	HP:0002240	Hepatomegaly		6.027E-6	3.702E-4	2.787E-3	6.293E-3	18	317
+18	HP:0000006	Autosomal dominant inheritance		1.547E-5	8.972E-4	6.755E-3	1.615E-2	50	1793
+19	HP:0008282	Unconjugated hyperbilirubinemia		2.084E-5	1.145E-3	8.619E-3	2.175E-2	3	4
+20	HP:0000819	Diabetes mellitus		4.186E-5	2.185E-3	1.645E-2	4.370E-2	10	121
+21	HP:0002099	Asthma		4.634E-5	2.304E-3	1.735E-2	4.838E-2	8	76
+22	HP:0000952	Jaundice		7.335E-5	3.481E-3	2.620E-2	
+7.657E-2
+7	60
+23	HP:0001930	Nonspherocytic hemolytic anemia		1.754E-4	7.327E-3	
+5.516E-2
+1.832E-1
+3	7
+24	HP:0004445	Elliptocytosis		1.754E-4	7.327E-3	
+5.516E-2
+1.832E-1
+3	7
+25	HP:0006528	Chronic lung disease		1.754E-4	7.327E-3	
+5.516E-2
+1.832E-1
+3	7
+26	HP:0001658	Myocardial infarction		2.268E-4	9.105E-3	
+6.855E-2
+2.367E-1
+4	18
+27	HP:0001080	Biliary tract abnormality		2.637E-4	9.944E-3	
+7.486E-2
+2.753E-1
+6	52
+28	HP:0001900	Increased hemoglobin		2.772E-4	9.944E-3	
+7.486E-2
+2.893E-1
+3	8
+29	HP:0001789	Hydrops fetalis		2.789E-4	9.944E-3	
+7.486E-2
+2.912E-1
+5	34
+30	HP:0001903	Anemia		2.857E-4	9.944E-3	
+7.486E-2
+2.983E-1
+10	152
+31	HP:0000451	Triangular nasal tip		3.125E-4	1.052E-2	
+7.924E-2
+3.263E-1
+2	2
+32	HP:0000708	Behavioral abnormality		3.314E-4	1.081E-2	
+8.139E-2
+3.459E-1
+7	76
+33	HP:0003281	Increased serum ferritin		5.138E-4	1.625E-2	
+1.224E-1
+5.364E-1
+4	22
+34	HP:0001901	Polycythemia		5.789E-4	1.778E-2	
+1.338E-1
+6.044E-1
+3	10
+35	HP:0010978	Abnormality of immune system physiology		8.215E-4	2.427E-2	
+1.827E-1
+8.577E-1
+6	64
+36	HP:0002910	Elevated hepatic transaminases		8.369E-4	2.427E-2	
+1.827E-1
+8.737E-1
+8	115
+37	HP:0006538	Recurrent bronchopulmonary infections		9.107E-4	2.502E-2	
+1.884E-1
+9.508E-1
+2	3
+38	HP:0000929	Abnormality of the skull		9.107E-4	2.502E-2	
+1.884E-1
+9.508E-1
+2	3
+39	HP:0002857	Genu valgum		9.682E-4	2.592E-2	
+1.951E-1
+1.000E0
+6	66
+40	HP:0001402	Hepatocellular carcinoma		9.954E-4	2.598E-2	
+1.956E-1
+1.000E0
+4	26
+41	HP:0001324	Muscle weakness		1.157E-3	2.946E-2	
+2.218E-1
+1.000E0
+11	214
+42	HP:0001891	Iron deficiency anemia		1.328E-3	3.301E-2	
+2.485E-1
+1.000E0
+3	13
+43	HP:0000765	Abnormality of the thorax		1.519E-3	3.634E-2	
+2.736E-1
+1.000E0
+4	29
+44	HP:0004349	Reduced bone mineral density		1.531E-3	3.634E-2	
+2.736E-1
+1.000E0
+6	72
+45	HP:0004401	Meconium ileus		1.800E-3	3.916E-2	
+2.948E-1
+1.000E0
+2	4
+46	HP:0005502	Increased red cell osmotic fragility		1.800E-3	3.916E-2	
+2.948E-1
+1.000E0
+2	4
+47	HP:0003034	Diaphyseal sclerosis		1.800E-3	3.916E-2	
+2.948E-1
+1.000E0
+2	4
+48	HP:0012119	Methemoglobinemia		1.800E-3	3.916E-2	
+2.948E-1
+1.000E0
+2	4
+49	HP:0002829	Arthralgia		1.893E-3	4.033E-2	
+3.036E-1
+1.000E0
+6	75
+50	HP:0001873	Thrombocytopenia		1.967E-3	4.106E-2	
+3.091E-1
+1.000E0
+9	162
+5: Mouse Phenotype [Display Chart] 2975 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0001770	abnormal iron level		6.851E-17	2.038E-13	1.748E-12	2.038E-13	17	89
+2	MP:0005637	abnormal iron homeostasis		2.199E-16	3.271E-13	2.805E-12	6.542E-13	17	95
+3	MP:0001588	abnormal hemoglobin		3.263E-15	3.236E-12	2.775E-11	9.709E-12	23	253
+4	MP:0013658	abnormal myeloid cell morphology		7.537E-15	5.606E-12	4.807E-11	2.242E-11	45	1209
+5	MP:0013659	abnormal erythroid lineage cell morphology		5.600E-14	3.332E-11	2.857E-10	1.666E-10	31	579
+6	MP:0001577	anemia		1.056E-13	5.235E-11	4.489E-10	3.141E-10	23	297
+7	MP:0002447	abnormal erythrocyte morphology		2.029E-13	8.623E-11	7.395E-10	6.036E-10	29	524
+8	MP:0005563	abnormal hemoglobin content		2.529E-13	9.404E-11	8.064E-10	7.523E-10	19	192
+9	MP:0001765	abnormal ion homeostasis		5.776E-13	1.909E-10	1.637E-9	1.718E-9	25	391
+10	MP:0013661	abnormal myeloid cell number		8.148E-12	2.424E-9	2.079E-8	2.424E-8	24	402
+11	MP:0005097	polychromatophilia		1.705E-11	4.612E-9	3.955E-8	5.073E-8	9	29
+12	MP:0013657	abnormal blood cell morphology		3.611E-11	8.952E-9	7.677E-8	1.074E-7	42	1337
+13	MP:0001586	abnormal erythrocyte cell number		4.359E-11	9.975E-9	8.554E-8	1.297E-7	18	225
+14	MP:0000192	abnormal mineral level		6.400E-11	1.360E-8	1.166E-7	1.904E-7	20	295
+15	MP:0004152	abnormal circulating iron level		7.699E-11	1.462E-8	1.254E-7	2.290E-7	10	47
+16	MP:0013663	increased myeloid cell number		7.864E-11	1.462E-8	1.254E-7	2.339E-7	17	203
+17	MP:0005636	abnormal mineral homeostasis		1.239E-10	2.169E-8	1.860E-7	3.687E-7	20	306
+18	MP:0002429	abnormal blood cell morphology/development		1.448E-10	2.272E-8	1.949E-7	4.309E-7	34	934
+19	MP:0002596	abnormal hematocrit		1.451E-10	2.272E-8	1.949E-7	4.318E-7	17	211
+20	MP:0000689	abnormal spleen morphology		1.576E-10	2.344E-8	2.010E-7	4.689E-7	31	782
+21	MP:0008739	abnormal spleen iron level		1.832E-10	2.595E-8	2.226E-7	5.450E-7	8	25
+22	MP:0000691	enlarged spleen		1.974E-10	2.670E-8	2.290E-7	5.874E-7	22	388
+23	MP:0008801	abnormal erythroid progenitor cell morphology		2.820E-10	3.648E-8	3.128E-7	8.390E-7	12	90
+24	MP:0013656	abnormal hematopoietic cell morphology		4.107E-10	5.091E-8	4.366E-7	1.222E-6	49	1905
+25	MP:0002138	abnormal hepatobiliary system morphology		5.236E-10	6.230E-8	5.343E-7	1.558E-6	32	872
+26	MP:0005370	liver/biliary system phenotype		6.145E-10	7.032E-8	6.030E-7	1.828E-6	34	985
+27	MP:0002221	abnormal lymph organ size		7.089E-10	7.552E-8	6.476E-7	2.109E-6	30	779
+28	MP:0003717	pallor		7.108E-10	7.552E-8	6.476E-7	2.115E-6	15	173
+29	MP:0002722	abnormal immune system organ morphology		8.555E-10	8.777E-8	7.526E-7	2.545E-6	35	1053
+30	MP:0011180	abnormal hematopoietic cell number		1.060E-9	1.051E-7	9.012E-7	3.153E-6	42	1483
+31	MP:0008251	abnormal phagocyte morphology		1.434E-9	1.376E-7	1.180E-6	4.267E-6	26	606
+32	MP:0000598	abnormal liver morphology		1.657E-9	1.506E-7	1.291E-6	4.930E-6	31	859
+33	MP:0008738	abnormal liver iron level		1.670E-9	1.506E-7	1.291E-6	4.969E-6	8	32
+34	MP:0002643	poikilocytosis		2.830E-9	2.476E-7	2.124E-6	8.420E-6	8	34
+35	MP:0002224	abnormal spleen size		3.922E-9	3.334E-7	2.859E-6	1.167E-5	25	588
+36	MP:0004988	increased osteoblast cell number		4.631E-9	3.723E-7	3.193E-6	1.378E-5	8	36
+37	MP:0004230	abnormal embryonic erythrocyte morphology		4.631E-9	3.723E-7	3.193E-6	1.378E-5	8	36
+38	MP:0008808	decreased spleen iron level		4.997E-9	3.912E-7	3.355E-6	1.487E-5	6	14
+39	MP:0000208	decreased hematocrit		5.457E-9	4.092E-7	3.509E-6	1.624E-5	14	170
+40	MP:0010067	increased red blood cell distribution width		5.502E-9	4.092E-7	3.509E-6	1.637E-5	10	71
+41	MP:0002874	decreased hemoglobin content		7.185E-9	5.214E-7	4.471E-6	2.138E-5	13	145
+42	MP:0000274	enlarged heart		7.563E-9	5.340E-7	4.579E-6	2.250E-5	19	347
+43	MP:0008807	increased liver iron level		7.718E-9	5.340E-7	4.579E-6	2.296E-5	7	25
+44	MP:0000245	abnormal erythropoiesis		8.244E-9	5.504E-7	4.720E-6	2.453E-5	12	120
+45	MP:0010066	abnormal red blood cell distribution width		8.326E-9	5.504E-7	4.720E-6	2.477E-5	10	74
+46	MP:0008248	abnormal mononuclear phagocyte morphology		8.618E-9	5.573E-7	4.779E-6	2.564E-5	22	474
+47	MP:0013662	decreased myeloid cell number		1.482E-8	9.380E-7	8.044E-6	4.409E-5	17	285
+48	MP:0001589	abnormal mean corpuscular hemoglobin		1.805E-8	1.119E-6	9.595E-6	5.371E-5	10	80
+49	MP:0005385	cardiovascular system phenotype		1.937E-8	1.176E-6	1.009E-5	5.763E-5	47	1974
+50	MP:0004229	abnormal embryonic erythropoiesis		2.415E-8	1.437E-6	1.232E-5	7.186E-5	7	29
+7: Pathway [Display Chart] 948 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	M19553	Hemoglobin's Chaperone	MSigDB C2: BioCarta	9.511E-12	9.016E-9	6.701E-8	9.016E-9	7	13
+2	645348	Uptake of Oxygen and Release of Carbon Dioxide by Erythrocytes	BioSystems: REACTOME	1.729E-8	4.098E-6	3.045E-5	1.639E-5	5	10
+3	645347	Uptake of Carbon Dioxide and Release of Oxygen by Erythrocytes	BioSystems: REACTOME	1.729E-8	4.098E-6	3.045E-5	1.639E-5	5	10
+4	645346	O2/CO2 exchange in erythrocytes	BioSystems: REACTOME	1.729E-8	4.098E-6	3.045E-5	1.639E-5	5	10
+5	198832	Adipogenesis	BioSystems: WikiPathways	4.934E-8	9.356E-6	6.953E-5	4.678E-5	11	133
+6	198825	Selenium Pathway	BioSystems: WikiPathways	1.395E-7	2.203E-5	1.638E-4	1.322E-4	9	88
+7	152665	Malaria	BioSystems: KEGG	3.595E-7	4.869E-5	3.618E-4	3.408E-4	7	49
+8	198808	Aflatoxin B1 metabolism	BioSystems: WikiPathways	5.286E-7	6.263E-5	4.655E-4	5.011E-4	4	8
+9	198887	Nuclear receptors in lipid metabolism and toxicity	BioSystems: WikiPathways	8.390E-7	8.838E-5	6.568E-4	7.954E-4	6	35
+10	198833	Folate Metabolism	BioSystems: WikiPathways	2.623E-6	2.486E-4	1.848E-3	2.486E-3	5	24
+11	672461	Iron metabolism in placenta	BioSystems: WikiPathways	3.629E-6	3.128E-4	2.325E-3	3.441E-3	4	12
+12	187196	Factors involved in megakaryocyte development and platelet production	BioSystems: REACTOME	6.696E-6	5.274E-4	3.920E-3	6.348E-3	9	139
+13	137975	RXR and RAR heterodimerization with other nuclear receptor	BioSystems: Pathway Interaction Database	7.232E-6	5.274E-4	3.920E-3	6.856E-3	4	14
+14	771600	Scavenging of Heme from Plasma	BioSystems: REACTOME	1.368E-5	9.264E-4	6.885E-3	1.297E-2	5	33
+15	198898	Estrogen metabolism	BioSystems: WikiPathways	1.682E-5	1.063E-3	7.901E-3	1.595E-2	4	17
+16	83078	Hematopoietic cell lineage	BioSystems: KEGG	1.961E-5	1.162E-3	8.635E-3	1.859E-2	7	88
+17	198901	SIDS Susceptibility Pathways	BioSystems: WikiPathways	2.086E-5	1.163E-3	8.647E-3	1.978E-2	9	160
+18	771599	Binding and Uptake of Ligands by Scavenger Receptors	BioSystems: REACTOME	2.349E-5	1.237E-3	9.196E-3	2.227E-2	6	61
+19	119538	Synthesis, Secretion, and Deacylation of Ghrelin	BioSystems: REACTOME	2.700E-5	1.280E-3	9.510E-3	2.559E-2	4	19
+20	920974	Vitamin B12 Metabolism	BioSystems: WikiPathways	2.700E-5	1.280E-3	9.510E-3	2.559E-2	4	19
+21	83032	Drug metabolism - cytochrome P450	BioSystems: KEGG	4.388E-5	1.981E-3	1.472E-2	4.160E-2	6	68
+22	106028	Hemostasis	BioSystems: REACTOME	6.260E-5	2.697E-3	2.005E-2	
+5.934E-2
+15	493
+23	83031	Metabolism of xenobiotics by cytochrome P450	BioSystems: KEGG	7.093E-5	2.829E-3	2.103E-2	
+6.724E-2
+6	74
+24	198850	Tryptophan metabolism	BioSystems: WikiPathways	7.163E-5	2.829E-3	2.103E-2	
+6.790E-2
+5	46
+25	673221	Chemical carcinogenesis	BioSystems: KEGG	1.099E-4	4.166E-3	3.097E-2	
+1.042E-1
+6	80
+26	712094	Cardiac Progenitor Differentiation	BioSystems: WikiPathways	1.422E-4	5.186E-3	3.855E-2	
+1.348E-1
+5	53
+27	MAP00361 gamma Hexachlorocyclohexane degradation	MAP00361 gamma Hexachlorocyclohexane degradation	GenMAPP	1.537E-4	5.398E-3	4.012E-2	
+1.457E-1
+4	29
+28	198842	Osteoblast Signaling	BioSystems: WikiPathways	2.242E-4	7.590E-3	
+5.641E-2
+2.125E-1
+3	13
+29	194384	African trypanosomiasis	BioSystems: KEGG	2.894E-4	9.461E-3	
+7.032E-2
+2.744E-1
+4	34
+30	M13158	The IGF-1 Receptor and Longevity	MSigDB C2: BioCarta	3.517E-4	1.010E-2	
+7.509E-2
+3.334E-1
+3	15
+31	198915	Fatty Acid Omega Oxidation	BioSystems: WikiPathways	3.517E-4	1.010E-2	
+7.509E-2
+3.334E-1
+3	15
+32	M9367	Erythrocyte Differentiation Pathway	MSigDB C2: BioCarta	3.517E-4	1.010E-2	
+7.509E-2
+3.334E-1
+3	15
+33	M16393	Nuclear Receptors in Lipid Metabolism and Toxicity	MSigDB C2: BioCarta	3.517E-4	1.010E-2	
+7.509E-2
+3.334E-1
+3	15
+34	530763	Prolactin receptor signaling	BioSystems: REACTOME	4.299E-4	1.167E-2	
+8.673E-2
+4.075E-1
+3	16
+35	137997	Signaling events mediated by HDAC Class I	BioSystems: Pathway Interaction Database	4.308E-4	1.167E-2	
+8.673E-2
+4.084E-1
+5	67
+36	83073	Complement and coagulation cascades	BioSystems: KEGG	4.939E-4	1.301E-2	
+9.666E-2
+4.682E-1
+5	69
+37	142231	tetrapyrrole biosynthesis	BioSystems: BIOCYC	5.327E-4	1.365E-2	
+1.014E-1
+5.050E-1
+2	4
+38	862188	Non-alcoholic fatty liver disease (NAFLD)	BioSystems: KEGG	5.842E-4	1.457E-2	
+1.083E-1
+5.538E-1
+7	151
+39	477135	Metabolism	BioSystems: REACTOME	6.079E-4	1.478E-2	
+1.098E-1
+5.763E-1
+28	1575
+40	83021	Porphyrin and chlorophyll metabolism	BioSystems: KEGG	7.212E-4	1.685E-2	
+1.252E-1
+6.837E-1
+4	43
+41	198804	Tamoxifen metabolism	BioSystems: WikiPathways	7.286E-4	1.685E-2	
+1.252E-1
+6.907E-1
+3	19
+42	144181	Leishmaniasis	BioSystems: KEGG	7.703E-4	1.736E-2	
+1.290E-1
+7.302E-1
+5	76
+43	137911	FOXA2 and FOXA3 transcription factor networks	BioSystems: Pathway Interaction Database	7.876E-4	1.736E-2	
+1.290E-1
+7.466E-1
+4	44
+44	105703	Xenobiotics	BioSystems: REACTOME	8.512E-4	1.780E-2	
+1.323E-1
+8.070E-1
+3	20
+45	83124	Graft-versus-host disease	BioSystems: KEGG	8.581E-4	1.780E-2	
+1.323E-1
+8.135E-1
+4	45
+46	205243	Transcriptional Regulation of White Adipocyte Differentiation	BioSystems: REACTOME	8.671E-4	1.780E-2	
+1.323E-1
+8.220E-1
+5	78
+47	920980	Folate-Alcohol and Cancer Pathway	BioSystems: WikiPathways	8.824E-4	1.780E-2	
+1.323E-1
+8.365E-1
+2	5
+48	MAP00380 Tryptophan metabolism	MAP00380 Tryptophan metabolism	GenMAPP	9.330E-4	1.843E-2	
+1.370E-1
+8.845E-1
+4	46
+49	83095	Type I diabetes mellitus	BioSystems: KEGG	1.012E-3	1.959E-2	
+1.456E-1
+9.598E-1
+4	47
+50	83074	Antigen processing and presentation	BioSystems: KEGG	1.088E-3	2.029E-2	
+1.508E-1
+1.000E0
+5	82

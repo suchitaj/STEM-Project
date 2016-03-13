@@ -1,0 +1,496 @@
+1: GO: Molecular Function [Display Chart] 587 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0015485	cholesterol binding		4.890E-9	2.871E-6	1.996E-5	2.871E-6	7	43
+2	GO:0032934	sterol binding		1.091E-8	2.934E-6	2.040E-5	6.405E-6	7	48
+3	GO:0043178	alcohol binding		1.499E-8	2.934E-6	2.040E-5	8.801E-6	9	110
+4	GO:0019899	enzyme binding		3.417E-8	4.090E-6	2.844E-5	2.006E-5	31	1851
+5	GO:0015248	sterol transporter activity		3.484E-8	4.090E-6	2.844E-5	2.045E-5	5	17
+6	GO:0005215	transporter activity		7.234E-7	7.035E-5	4.891E-4	4.246E-4	23	1262
+7	GO:0005102	receptor binding		8.389E-7	7.035E-5	4.891E-4	4.924E-4	26	1581
+8	GO:0017127	cholesterol transporter activity		1.021E-6	7.489E-5	5.207E-4	5.991E-4	4	14
+9	GO:0001875	lipopolysaccharide receptor activity		1.876E-6	1.216E-4	8.452E-4	1.101E-3	3	5
+10	GO:0005496	steroid binding		2.262E-6	1.216E-4	8.452E-4	1.328E-3	7	103
+11	GO:0008289	lipid binding		2.278E-6	1.216E-4	8.452E-4	1.337E-3	16	691
+12	GO:0022892	substrate-specific transporter activity		3.426E-6	1.676E-4	1.165E-3	2.011E-3	20	1080
+13	GO:0005319	lipid transporter activity		3.733E-6	1.686E-4	1.172E-3	2.191E-3	7	111
+14	GO:0019904	protein domain specific binding		4.213E-6	1.766E-4	1.228E-3	2.473E-3	16	725
+15	GO:0000149	SNARE binding		1.232E-5	4.821E-4	3.352E-3	7.232E-3	7	133
+16	GO:0008158	hedgehog receptor activity		2.204E-5	7.765E-4	5.399E-3	1.294E-2	3	10
+17	GO:0019905	syntaxin binding		2.249E-5	7.765E-4	5.399E-3	1.320E-2	6	98
+18	GO:0001664	G-protein coupled receptor binding		2.755E-5	8.985E-4	6.247E-3	1.617E-2	9	270
+19	GO:0035403	histone kinase activity (H3-T6 specific)		3.346E-5	1.034E-3	7.188E-3	1.964E-2	2	2
+20	GO:0017111	nucleoside-triphosphatase activity		3.951E-5	1.154E-3	8.026E-3	2.319E-2	15	774
+21	GO:0030546	receptor activator activity		4.325E-5	1.154E-3	8.026E-3	2.539E-2	4	34
+22	GO:0042626	ATPase activity, coupled to transmembrane movement of substances		4.326E-5	1.154E-3	8.026E-3	2.539E-2	6	110
+23	GO:0016820	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances		4.552E-5	1.162E-3	8.077E-3	2.672E-2	6	111
+24	GO:0022857	transmembrane transporter activity		4.984E-5	1.219E-3	8.476E-3	2.926E-2	17	985
+25	GO:0031406	carboxylic acid binding		6.556E-5	1.412E-3	9.817E-3	3.849E-2	8	234
+26	GO:0005484	SNAP receptor activity		6.762E-5	1.412E-3	9.817E-3	3.969E-2	4	38
+27	GO:0015405	P-P-bond-hydrolysis-driven transmembrane transporter activity		7.041E-5	1.412E-3	9.817E-3	4.133E-2	6	120
+28	GO:0015399	primary active transmembrane transporter activity		7.041E-5	1.412E-3	9.817E-3	4.133E-2	6	120
+29	GO:0043177	organic acid binding		7.168E-5	1.412E-3	9.817E-3	4.208E-2	8	237
+30	GO:0016462	pyrophosphatase activity		7.387E-5	1.412E-3	9.817E-3	4.336E-2	15	818
+31	GO:0016818	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides		7.592E-5	1.412E-3	9.817E-3	4.457E-2	15	820
+32	GO:0016817	hydrolase activity, acting on acid anhydrides		7.696E-5	1.412E-3	9.817E-3	4.518E-2	15	821
+33	GO:0043492	ATPase activity, coupled to movement of substances		8.448E-5	1.503E-3	1.045E-2	4.959E-2	6	124
+34	GO:0034186	apolipoprotein A-I binding		9.943E-5	1.682E-3	1.170E-2	
+5.836E-2
+2	3
+35	GO:0034185	apolipoprotein binding		1.003E-4	1.682E-3	1.170E-2	
+5.888E-2
+3	16
+36	GO:0008329	signaling pattern recognition receptor activity		1.213E-4	1.924E-3	1.338E-2	
+7.119E-2
+3	17
+37	GO:0038187	pattern recognition receptor activity		1.213E-4	1.924E-3	1.338E-2	
+7.119E-2
+3	17
+38	GO:0030545	receptor regulator activity		1.848E-4	2.855E-3	1.985E-2	
+1.085E-1
+4	49
+39	GO:0051425	PTB domain binding		1.981E-4	2.982E-3	2.073E-2	
+1.163E-1
+2	4
+40	GO:0022804	active transmembrane transporter activity		2.272E-4	3.335E-3	2.319E-2	
+1.334E-1
+9	356
+41	GO:0016887	ATPase activity		2.436E-4	3.488E-3	2.425E-2	
+1.430E-1
+10	441
+42	GO:0004697	protein kinase C activity		3.505E-4	4.898E-3	3.406E-2	
+2.057E-1
+3	24
+43	GO:0035255	ionotropic glutamate receptor binding		4.464E-4	5.824E-3	4.049E-2	
+2.621E-1
+3	26
+44	GO:0071813	lipoprotein particle binding		4.464E-4	5.824E-3	4.049E-2	
+2.621E-1
+3	26
+45	GO:0071814	protein-lipid complex binding		4.464E-4	5.824E-3	4.049E-2	
+2.621E-1
+3	26
+46	GO:0055131	C3HC4-type RING finger domain binding		4.915E-4	6.272E-3	4.361E-2	
+2.885E-1
+2	6
+47	GO:0008092	cytoskeletal protein binding		5.190E-4	6.482E-3	4.507E-2	
+3.046E-1
+14	874
+48	GO:0016597	amino acid binding		5.960E-4	7.132E-3	4.959E-2	
+3.499E-1
+5	117
+49	GO:0005343	organic acid:sodium symporter activity		6.196E-4	7.132E-3	4.959E-2	
+3.637E-1
+3	29
+50	GO:0004190	aspartic-type endopeptidase activity		6.196E-4	7.132E-3	4.959E-2	
+3.637E-1
+3	29
+2: GO: Biological Process [Display Chart] 3964 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0051049	regulation of transport		6.533E-17	2.590E-13	2.295E-12	2.590E-13	44	1885
+2	GO:0030301	cholesterol transport		2.616E-16	4.174E-13	3.699E-12	1.037E-12	13	73
+3	GO:0015918	sterol transport		3.159E-16	4.174E-13	3.699E-12	1.252E-12	13	74
+4	GO:0010876	lipid localization		1.183E-15	1.172E-12	1.039E-11	4.690E-12	21	355
+5	GO:0015850	organic hydroxy compound transport		6.480E-15	5.137E-12	4.553E-11	2.569E-11	18	253
+6	GO:0006869	lipid transport		2.908E-14	1.921E-11	1.703E-10	1.153E-10	19	320
+7	GO:0046907	intracellular transport		3.813E-14	2.159E-11	1.914E-10	1.512E-10	40	1847
+8	GO:0032940	secretion by cell		1.859E-13	9.212E-11	8.164E-10	7.370E-10	30	1059
+9	GO:1902582	single-organism intracellular transport		2.775E-13	1.222E-10	1.083E-9	1.100E-9	37	1675
+10	GO:0042632	cholesterol homeostasis		4.627E-13	1.635E-10	1.449E-9	1.834E-9	11	74
+11	GO:0055092	sterol homeostasis		4.627E-13	1.635E-10	1.449E-9	1.834E-9	11	74
+12	GO:0048878	chemical homeostasis		4.951E-13	1.635E-10	1.449E-9	1.963E-9	30	1100
+13	GO:0046903	secretion		6.689E-13	2.040E-10	1.808E-9	2.652E-9	31	1194
+14	GO:0042592	homeostatic process		2.211E-12	6.261E-10	5.549E-9	8.765E-9	36	1698
+15	GO:0033344	cholesterol efflux		3.197E-12	8.448E-10	7.487E-9	1.267E-8	9	44
+16	GO:0051240	positive regulation of multicellular organismal process		7.075E-12	1.753E-9	1.553E-8	2.804E-8	34	1577
+17	GO:0016192	vesicle-mediated transport		8.064E-12	1.880E-9	1.667E-8	3.197E-8	32	1402
+18	GO:1901700	response to oxygen-containing compound		8.818E-12	1.942E-9	1.721E-8	3.495E-8	35	1684
+19	GO:0061024	membrane organization		1.795E-11	3.746E-9	3.320E-8	7.117E-8	28	1099
+20	GO:0048666	neuron development		2.065E-11	4.093E-9	3.628E-8	8.187E-8	31	1363
+21	GO:0006629	lipid metabolic process		2.488E-11	4.696E-9	4.162E-8	9.862E-8	31	1373
+22	GO:1902580	single-organism cellular localization		3.469E-11	6.251E-9	5.540E-8	1.375E-7	30	1302
+23	GO:0007267	cell-cell signaling		3.672E-11	6.325E-9	5.605E-8	1.456E-7	30	1305
+24	GO:0044708	single-organism behavior		3.829E-11	6.325E-9	5.605E-8	1.518E-7	19	481
+25	GO:0015031	protein transport		5.296E-11	8.280E-9	7.338E-8	2.099E-7	36	1895
+26	GO:0007268	synaptic transmission		5.620E-11	8.280E-9	7.338E-8	2.228E-7	23	760
+27	GO:0007610	behavior		5.640E-11	8.280E-9	7.338E-8	2.236E-7	24	834
+28	GO:0032371	regulation of sterol transport		6.544E-11	8.945E-9	7.927E-8	2.594E-7	8	40
+29	GO:0032374	regulation of cholesterol transport		6.544E-11	8.945E-9	7.927E-8	2.594E-7	8	40
+30	GO:0080134	regulation of response to stress		7.001E-11	9.171E-9	8.128E-8	2.775E-7	32	1523
+31	GO:0060341	regulation of cellular localization		7.172E-11	9.171E-9	8.128E-8	2.843E-7	30	1341
+32	GO:0051050	positive regulation of transport		1.173E-10	1.453E-8	1.288E-7	4.650E-7	26	1023
+33	GO:0033993	response to lipid		1.340E-10	1.610E-8	1.427E-7	5.313E-7	24	870
+34	GO:0031175	neuron projection development		1.716E-10	1.984E-8	1.759E-7	6.802E-7	28	1211
+35	GO:0055088	lipid homeostasis		1.752E-10	1.984E-8	1.759E-7	6.945E-7	11	126
+36	GO:0044802	single-organism membrane organization		3.982E-10	4.385E-8	3.886E-7	1.578E-6	24	918
+37	GO:0060627	regulation of vesicle-mediated transport		5.007E-10	5.364E-8	4.754E-7	1.985E-6	17	433
+38	GO:0023061	signal release		5.907E-10	6.162E-8	5.461E-7	2.341E-6	18	500
+39	GO:0006897	endocytosis		1.183E-9	1.199E-7	1.062E-6	4.691E-6	20	660
+40	GO:0006887	exocytosis		1.210E-9	1.199E-7	1.062E-6	4.795E-6	16	398
+41	GO:0030182	neuron differentiation		1.873E-9	1.810E-7	1.605E-6	7.423E-6	31	1634
+42	GO:0022008	neurogenesis		2.202E-9	2.078E-7	1.842E-6	8.728E-6	33	1848
+43	GO:0051130	positive regulation of cellular component organization		2.713E-9	2.501E-7	2.217E-6	1.076E-5	26	1185
+44	GO:0007611	learning or memory		3.323E-9	2.993E-7	2.653E-6	1.317E-5	13	258
+45	GO:0071705	nitrogen compound transport		4.580E-9	4.035E-7	3.576E-6	1.816E-5	22	871
+46	GO:0008203	cholesterol metabolic process		4.932E-9	4.250E-7	3.767E-6	1.955E-5	10	132
+47	GO:0042493	response to drug		5.252E-9	4.429E-7	3.925E-6	2.082E-5	16	441
+48	GO:1902652	secondary alcohol metabolic process		6.135E-9	5.009E-7	4.439E-6	2.432E-5	10	135
+49	GO:0007041	lysosomal transport		6.192E-9	5.009E-7	4.439E-6	2.455E-5	8	69
+50	GO:0050804	modulation of synaptic transmission		6.963E-9	5.520E-7	4.892E-6	2.760E-5	14	329
+3: GO: Cellular Component [Display Chart] 419 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0000323	lytic vacuole		7.950E-22	1.666E-19	1.102E-18	3.331E-19	30	530
+2	GO:0005764	lysosome		7.950E-22	1.666E-19	1.102E-18	3.331E-19	30	530
+3	GO:0005773	vacuole		5.600E-21	7.821E-19	5.175E-18	2.346E-18	31	620
+4	GO:0016023	cytoplasmic, membrane-bounded vesicle		4.054E-20	4.246E-18	2.809E-17	1.698E-17	39	1181
+5	GO:0031410	cytoplasmic vesicle		1.514E-19	1.269E-17	8.394E-17	6.343E-17	40	1302
+6	GO:0098589	membrane region		1.239E-16	8.653E-15	5.725E-14	5.192E-14	36	1246
+7	GO:0044437	vacuolar part		4.838E-16	2.896E-14	1.916E-13	2.027E-13	22	390
+8	GO:0005768	endosome		7.546E-16	3.952E-14	2.615E-13	3.162E-13	29	802
+9	GO:0097458	neuron part		1.974E-14	8.350E-13	5.525E-12	8.272E-12	36	1467
+10	GO:0005770	late endosome		2.085E-14	8.350E-13	5.525E-12	8.736E-12	16	195
+11	GO:0043005	neuron projection		2.192E-14	8.350E-13	5.525E-12	9.185E-12	32	1140
+12	GO:0098857	membrane microdomain		5.102E-14	1.644E-12	1.088E-11	2.138E-11	19	334
+13	GO:0045121	membrane raft		5.102E-14	1.644E-12	1.088E-11	2.138E-11	19	334
+14	GO:0044433	cytoplasmic vesicle part		1.491E-13	4.463E-12	2.953E-11	6.248E-11	23	575
+15	GO:0005774	vacuolar membrane		2.206E-13	6.161E-12	4.076E-11	9.241E-11	18	314
+16	GO:0098852	lytic vacuole membrane		2.683E-13	6.612E-12	4.375E-11	1.124E-10	17	272
+17	GO:0005765	lysosomal membrane		2.683E-13	6.612E-12	4.375E-11	1.124E-10	17	272
+18	GO:0030139	endocytic vesicle		1.807E-12	4.206E-11	2.783E-10	7.571E-10	16	260
+19	GO:0036477	somatodendritic compartment		8.656E-12	1.909E-10	1.263E-9	3.627E-9	25	844
+20	GO:0030659	cytoplasmic vesicle membrane		9.178E-12	1.923E-10	1.272E-9	3.846E-9	19	448
+21	GO:0012506	vesicle membrane		2.026E-11	4.042E-10	2.674E-9	8.487E-9	19	469
+22	GO:0045202	synapse		2.551E-11	4.858E-10	3.214E-9	1.069E-8	24	812
+23	GO:0044440	endosomal part		3.245E-11	5.911E-10	3.911E-9	1.360E-8	18	423
+24	GO:0030425	dendrite		7.641E-11	1.334E-9	8.826E-9	3.202E-8	20	571
+25	GO:0048471	perinuclear region of cytoplasm		8.244E-11	1.382E-9	9.142E-9	3.454E-8	22	711
+26	GO:0010008	endosome membrane		8.997E-11	1.450E-9	9.593E-9	3.770E-8	17	392
+27	GO:0031902	late endosome membrane		4.613E-10	7.159E-9	4.737E-8	1.933E-7	10	105
+28	GO:0098590	plasma membrane region		5.213E-10	7.800E-9	5.161E-8	2.184E-7	25	1024
+29	GO:0030424	axon		1.063E-9	1.535E-8	1.016E-7	4.453E-7	18	525
+30	GO:0005794	Golgi apparatus		3.395E-9	4.741E-8	3.137E-7	1.422E-6	29	1495
+31	GO:0098796	membrane protein complex		5.463E-9	7.383E-8	4.885E-7	2.289E-6	24	1060
+32	GO:0044297	cell body		7.324E-9	9.590E-8	6.345E-7	3.069E-6	19	667
+33	GO:0030666	endocytic vesicle membrane		1.715E-8	2.177E-7	1.441E-6	7.186E-6	10	152
+34	GO:0045177	apical part of cell		1.847E-8	2.277E-7	1.506E-6	7.740E-6	15	422
+35	GO:0043202	lysosomal lumen		2.484E-8	2.973E-7	1.967E-6	1.041E-5	8	83
+36	GO:0044456	synapse part		2.617E-8	3.046E-7	2.015E-6	1.096E-5	18	645
+37	GO:0005775	vacuolar lumen		3.953E-8	4.476E-7	2.962E-6	1.656E-5	8	88
+38	GO:0044463	cell projection part		4.593E-8	4.859E-7	3.215E-6	1.925E-5	23	1092
+39	GO:0043025	neuronal cell body		4.638E-8	4.859E-7	3.215E-6	1.943E-5	17	594
+40	GO:0030054	cell junction		4.639E-8	4.859E-7	3.215E-6	1.944E-5	24	1185
+41	GO:0009986	cell surface		1.007E-7	1.029E-6	6.806E-6	4.217E-5	20	871
+42	GO:0005615	extracellular space		3.920E-7	3.910E-6	2.587E-5	1.642E-4	25	1431
+43	GO:0030141	secretory granule		1.380E-6	1.345E-5	8.896E-5	5.781E-4	12	369
+44	GO:0030175	filopodium		1.509E-6	1.411E-5	9.335E-5	6.324E-4	7	98
+45	GO:0044306	neuron projection terminus		1.549E-6	1.411E-5	9.335E-5	6.490E-4	9	191
+46	GO:0098858	actin-based cell projection		1.549E-6	1.411E-5	9.335E-5	6.490E-4	9	191
+47	GO:0005783	endoplasmic reticulum		1.908E-6	1.701E-5	1.126E-4	7.996E-4	26	1668
+48	GO:0043195	terminal bouton		2.902E-6	2.534E-5	1.676E-4	1.216E-3	7	108
+49	GO:0098794	postsynapse		5.493E-6	4.697E-5	3.108E-4	2.302E-3	12	422
+50	GO:0030426	growth cone		6.949E-6	5.823E-5	3.853E-4	2.911E-3	8	173
+4: Human Phenotype [Display Chart] 1029 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0030223	Perseveration		2.203E-9	2.267E-6	1.704E-5	2.267E-6	5	6
+2	HP:0002185	Neurofibrillary tangles		2.200E-8	1.132E-5	8.504E-5	2.263E-5	7	25
+3	HP:0002529	Neuronal loss in central nervous system		4.437E-8	1.522E-5	1.144E-4	4.566E-5	8	41
+4	HP:0001982	Sea-blue histiocytosis		1.464E-7	3.766E-5	2.830E-4	1.507E-4	4	5
+5	HP:0000741	Apathy		2.886E-7	5.939E-5	4.462E-4	2.969E-4	6	22
+6	HP:0000726	Dementia		3.508E-6	6.016E-4	4.521E-3	3.610E-3	10	121
+7	HP:0000751	Personality changes		6.512E-6	9.572E-4	7.193E-3	6.701E-3	6	36
+8	HP:0001300	Parkinsonism		1.293E-5	1.663E-3	1.250E-2	1.330E-2	8	84
+9	HP:0000710	Hyperorality		2.271E-5	2.320E-3	1.743E-2	2.337E-2	3	5
+10	HP:0004333	Bone-marrow foam cells		2.271E-5	2.320E-3	1.743E-2	2.337E-2	3	5
+11	HP:0001392	Abnormality of the liver		2.480E-5	2.320E-3	1.743E-2	2.552E-2	6	45
+12	HP:0001336	Myoclonus		3.214E-5	2.756E-3	2.071E-2	3.307E-2	8	95
+13	HP:0002375	Hypokinesia		4.770E-5	3.776E-3	2.837E-2	4.908E-2	4	16
+14	HP:0002063	Rigidity		7.548E-5	5.548E-3	4.168E-2	
+7.767E-2
+7	79
+15	HP:0003678	Rapidly progressive		1.163E-4	7.738E-3	
+5.814E-2
+1.197E-1
+5	37
+16	HP:0011096	Peripheral demyelination		1.220E-4	7.738E-3	
+5.814E-2
+1.255E-1
+4	20
+17	HP:0003581	Adult onset		1.613E-4	7.738E-3	
+5.814E-2
+1.660E-1
+8	119
+18	HP:0004802	Episodic hemolytic anemia		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+19	HP:0003464	Abnormal cholesterol homeostasis		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+20	HP:0030213	Emotional blunting		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+21	HP:0003349	Low cholesterol esterification rates		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+22	HP:0008158	Hyperapobetalipoproteinemia		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+23	HP:0003640	Foam cells in visceral organs and CNS		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+24	HP:0008768	Inappropriate sexual behavior		1.805E-4	7.738E-3	
+5.814E-2
+1.857E-1
+2	2
+25	HP:0002015	Dysphagia		2.878E-4	1.185E-2	
+8.900E-2
+2.961E-1
+9	164
+26	HP:0002145	Frontotemporal dementia		3.538E-4	1.351E-2	
+1.015E-1
+3.641E-1
+3	11
+27	HP:0006579	Prolonged neonatal jaundice		3.544E-4	1.351E-2	
+1.015E-1
+3.647E-1
+4	26
+28	HP:0003124	Hypercholesterolemia		4.119E-4	1.514E-2	
+1.137E-1
+4.238E-1
+4	27
+29	HP:0001284	Areflexia		4.474E-4	1.551E-2	
+1.165E-1
+4.604E-1
+8	138
+30	HP:0002371	Loss of speech		4.672E-4	1.551E-2	
+1.165E-1
+4.808E-1
+3	12
+31	HP:0002283	Global brain atrophy		4.672E-4	1.551E-2	
+1.165E-1
+4.808E-1
+3	12
+32	HP:0000511	Vertical supranuclear gaze palsy		5.297E-4	1.652E-2	
+1.241E-1
+5.450E-1
+2	3
+33	HP:0004929	Coronary atherosclerosis		5.297E-4	1.652E-2	
+1.241E-1
+5.450E-1
+2	3
+34	HP:0003380	Decreased number of peripheral myelinated nerve fibers		5.463E-4	1.653E-2	
+1.242E-1
+5.622E-1
+4	29
+35	HP:0002093	Respiratory insufficiency		5.979E-4	1.720E-2	
+1.292E-1
+6.152E-1
+9	181
+36	HP:0000734	Disinhibition		6.016E-4	1.720E-2	
+1.292E-1
+6.191E-1
+3	13
+37	HP:0002459	Dysautonomia		8.027E-4	2.232E-2	
+1.677E-1
+8.259E-1
+4	32
+38	HP:0011970	Cerebral amyloid angiopathy		1.050E-3	2.573E-2	
+1.933E-1
+1.000E0
+2	4
+39	HP:0001574	Abnormality of the integument		1.050E-3	2.573E-2	
+1.933E-1
+1.000E0
+2	4
+40	HP:0001791	Fetal ascites		1.050E-3	2.573E-2	
+1.933E-1
+1.000E0
+2	4
+41	HP:0004870	Chronic hemolytic anemia		1.050E-3	2.573E-2	
+1.933E-1
+1.000E0
+2	4
+42	HP:0000748	Inappropriate laughter		1.050E-3	2.573E-2	
+1.933E-1
+1.000E0
+2	4
+43	HP:0002354	Memory impairment		1.151E-3	2.754E-2	
+2.070E-1
+1.000E0
+5	60
+44	HP:0002027	Abdominal pain		1.225E-3	2.865E-2	
+2.153E-1
+1.000E0
+7	124
+45	HP:0003431	Decreased motor nerve conduction velocity		1.263E-3	2.889E-2	
+2.170E-1
+1.000E0
+4	36
+46	HP:0001332	Dystonia		1.347E-3	2.968E-2	
+2.230E-1
+1.000E0
+8	163
+47	HP:0001260	Dysarthria		1.356E-3	2.968E-2	
+2.230E-1
+1.000E0
+11	289
+48	HP:0009027	Foot dorsiflexor weakness		1.552E-3	3.326E-2	
+2.499E-1
+1.000E0
+4	38
+49	HP:0004975	Erlenmeyer flask deformity of the femurs		1.735E-3	3.644E-2	
+2.738E-1
+1.000E0
+2	5
+50	HP:0002186	Apraxia		1.925E-3	3.961E-2	
+2.976E-1
+1.000E0
+3	19
+5: Mouse Phenotype [Display Chart] 2905 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0001516	abnormal motor coordination/ balance		5.363E-11	1.558E-7	1.332E-6	1.558E-7	30	676
+2	MP:0002065	abnormal fear/anxiety-related behavior		1.733E-10	2.517E-7	2.153E-6	5.034E-7	20	301
+3	MP:0002066	abnormal motor capabilities/coordination/movement		3.848E-10	3.726E-7	3.186E-6	1.118E-6	48	1759
+4	MP:0014062	nervous system inclusion bodies		7.192E-10	5.223E-7	4.467E-6	2.089E-6	9	41
+5	MP:0003492	abnormal involuntary movement		1.345E-9	7.813E-7	6.681E-6	3.906E-6	29	722
+6	MP:0001362	abnormal anxiety-related response		1.634E-9	7.912E-7	6.766E-6	4.747E-6	18	271
+7	MP:0003224	neuron degeneration		7.425E-9	3.081E-6	2.635E-5	2.157E-5	18	298
+8	MP:0002229	neurodegeneration		9.791E-9	3.555E-6	3.040E-5	2.844E-5	20	379
+9	MP:0000604	amyloidosis		1.814E-8	5.213E-6	4.458E-5	5.270E-5	8	41
+10	MP:0001392	abnormal locomotor behavior		1.943E-8	5.213E-6	4.458E-5	5.645E-5	36	1197
+11	MP:0003634	abnormal glial cell morphology		2.055E-8	5.213E-6	4.458E-5	5.969E-5	18	318
+12	MP:0003329	amyloid beta deposits		2.329E-8	5.213E-6	4.458E-5	6.764E-5	7	28
+13	MP:0001405	impaired coordination		2.333E-8	5.213E-6	4.458E-5	6.776E-5	19	359
+14	MP:0002572	abnormal emotion/affect behavior		3.020E-8	6.266E-6	5.358E-5	8.772E-5	22	490
+15	MP:0003491	abnormal voluntary movement		3.851E-8	7.314E-6	6.254E-5	1.119E-4	37	1288
+16	MP:0001961	abnormal reflex		4.028E-8	7.314E-6	6.254E-5	1.170E-4	24	589
+17	MP:0004262	abnormal physical strength		5.770E-8	9.859E-6	8.431E-5	1.676E-4	18	340
+18	MP:0002882	abnormal neuron morphology		8.742E-8	1.411E-5	1.206E-4	2.539E-4	36	1267
+19	MP:0000745	tremors		9.887E-8	1.512E-5	1.293E-4	2.872E-4	15	240
+20	MP:0001363	increased anxiety-related response		1.107E-7	1.607E-5	1.374E-4	3.215E-4	13	176
+21	MP:0000952	abnormal CNS glial cell morphology		1.297E-7	1.794E-5	1.534E-4	3.768E-4	15	245
+22	MP:0003313	abnormal locomotor activation		1.604E-7	2.118E-5	1.811E-4	4.660E-4	29	892
+23	MP:0002067	abnormal sensory capabilities/reflexes/nociception		1.964E-7	2.480E-5	2.121E-4	5.704E-4	26	741
+24	MP:0002118	abnormal lipid homeostasis		2.213E-7	2.679E-5	2.291E-4	6.430E-4	28	851
+25	MP:0002106	abnormal muscle physiology		3.593E-7	4.175E-5	3.570E-4	1.044E-3	26	764
+26	MP:0001547	abnormal lipid level		8.391E-7	9.375E-5	8.017E-4	2.437E-3	26	798
+27	MP:0010076	abnormal phytosterol level		1.573E-6	1.596E-4	1.365E-3	4.569E-3	3	3
+28	MP:0010075	abnormal circulating phytosterol level		1.573E-6	1.596E-4	1.365E-3	4.569E-3	3	3
+29	MP:0001402	hypoactivity		1.593E-6	1.596E-4	1.365E-3	4.628E-3	17	381
+30	MP:0003312	abnormal locomotor coordination		1.722E-6	1.668E-4	1.426E-3	5.003E-3	20	520
+31	MP:0003191	abnormal cellular cholesterol metabolism		2.018E-6	1.783E-4	1.524E-3	5.863E-3	5	19
+32	MP:0010161	decreased brain cholesterol level		2.123E-6	1.783E-4	1.524E-3	6.168E-3	4	9
+33	MP:0012227	decreased brain sterol level		2.123E-6	1.783E-4	1.524E-3	6.168E-3	4	9
+34	MP:0012322	decreased total tissue mass		2.148E-6	1.783E-4	1.524E-3	6.239E-3	37	1503
+35	MP:0001262	decreased body weight		2.148E-6	1.783E-4	1.524E-3	6.239E-3	37	1503
+36	MP:0008415	abnormal neurite morphology		2.845E-6	2.296E-4	1.963E-3	8.265E-3	15	312
+37	MP:0002182	abnormal astrocyte morphology		3.069E-6	2.409E-4	2.060E-3	8.915E-3	10	133
+38	MP:0013245	abnormal lipid metabolism		3.467E-6	2.612E-4	2.234E-3	1.007E-2	5	21
+39	MP:0012779	abnormal brain cholesterol level		3.507E-6	2.612E-4	2.234E-3	1.019E-2	4	10
+40	MP:0005370	liver/biliary system phenotype		4.337E-6	3.150E-4	2.694E-3	1.260E-2	28	985
+41	MP:0003871	abnormal myelin sheath morphology		4.996E-6	3.466E-4	2.964E-3	1.451E-2	7	59
+42	MP:0003690	abnormal glial cell physiology		5.012E-6	3.466E-4	2.964E-3	1.456E-2	8	83
+43	MP:0001259	abnormal body weight		5.790E-6	3.912E-4	3.345E-3	1.682E-2	40	1768
+44	MP:0003354	astrocytosis		5.999E-6	3.961E-4	3.387E-3	1.743E-2	8	85
+45	MP:0012065	increased astrocyte number		6.551E-6	4.137E-4	3.538E-3	1.903E-2	8	86
+46	MP:0012064	abnormal astrocyte number		6.551E-6	4.137E-4	3.538E-3	1.903E-2	8	86
+47	MP:0003691	abnormal microglial cell physiology		8.187E-6	5.060E-4	4.327E-3	2.378E-2	6	42
+48	MP:0002183	gliosis		8.515E-6	5.154E-4	4.407E-3	2.474E-2	10	149
+49	MP:0001265	decreased body size		8.763E-6	5.169E-4	4.421E-3	2.546E-2	42	1937
+50	MP:0012321	abnormal total tissue mass		8.976E-6	5.169E-4	4.421E-3	2.608E-2	38	1661
+7: Pathway [Display Chart] 1092 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	99052	Lysosome	BioSystems: KEGG	7.623E-9	8.325E-6	6.305E-5	8.325E-6	11	122
+2	198845	Insulin Signaling	BioSystems: WikiPathways	1.554E-7	6.618E-5	5.012E-4	1.697E-4	11	163
+3	106538	Trafficking of GluR2-containing AMPA receptors	BioSystems: REACTOME	1.818E-7	6.618E-5	5.012E-4	1.985E-4	5	16
+4	106113	Trafficking of dietary sterols	BioSystems: REACTOME	6.441E-7	1.758E-4	1.332E-3	7.034E-4	3	3
+5	194385	Fat digestion and absorption	BioSystems: KEGG	1.303E-6	2.846E-4	2.155E-3	1.423E-3	6	41
+6	PW:0000015	Alzheimer disease	Pathway Ontology	1.674E-6	2.967E-4	2.247E-3	1.828E-3	5	24
+7	547607	Amphetamine addiction	BioSystems: KEGG	1.902E-6	2.967E-4	2.247E-3	2.077E-3	7	68
+8	P00037	Ionotropic glutamate receptor pathway	PantherDB	2.621E-6	3.578E-4	2.710E-3	2.862E-3	6	46
+9	M14339	Oxidative Stress Induced Gene Expression Via Nrf2	MSigDB C2: BioCarta	3.625E-6	4.184E-4	3.169E-3	3.958E-3	4	13
+10	106111	Lipid digestion, mobilization, and transport	BioSystems: REACTOME	3.832E-6	4.184E-4	3.169E-3	4.184E-3	6	49
+11	672448	Alzheimers Disease	BioSystems: WikiPathways	5.262E-6	4.525E-4	3.427E-3	5.747E-3	7	79
+12	106537	Trafficking of AMPA receptors	BioSystems: REACTOME	5.386E-6	4.525E-4	3.427E-3	5.882E-3	5	30
+13	106536	Glutamate Binding, Activation of AMPA Receptors and Synaptic Plasticity	BioSystems: REACTOME	5.386E-6	4.525E-4	3.427E-3	5.882E-3	5	30
+14	198852	Statin Pathway	BioSystems: WikiPathways	7.508E-6	5.486E-4	4.155E-3	8.198E-3	5	32
+15	P04391	Oxytocin receptor mediated signaling pathway	PantherDB	7.617E-6	5.486E-4	4.155E-3	8.318E-3	6	55
+16	160976	Metabolism of lipids and lipoproteins	BioSystems: REACTOME	8.613E-6	5.486E-4	4.155E-3	9.406E-3	17	578
+17	106516	Transmission across Chemical Synapses	BioSystems: REACTOME	8.889E-6	5.486E-4	4.155E-3	9.707E-3	10	200
+18	M4388	Cadmium induces DNA synthesis and proliferation in macrophages	MSigDB C2: BioCarta	9.043E-6	5.486E-4	4.155E-3	9.875E-3	4	16
+19	P00056	VEGF signaling pathway	PantherDB	1.041E-5	5.686E-4	4.306E-3	1.137E-2	6	58
+20	P04394	Thyrotropin-releasing hormone receptor signaling pathway	PantherDB	1.041E-5	5.686E-4	4.306E-3	1.137E-2	6	58
+21	106048	Response to elevated platelet cytosolic Ca2+	BioSystems: REACTOME	1.255E-5	6.526E-4	4.942E-3	1.370E-2	7	90
+22	M7552	Role of EGF Receptor Transactivation by GPCRs in Cardiac Hypertrophy	MSigDB C2: BioCarta	1.500E-5	7.123E-4	5.395E-3	1.638E-2	4	18
+23	M2349	Pertussis toxin-insensitive CCR5 Signaling in Macrophage	MSigDB C2: BioCarta	1.500E-5	7.123E-4	5.395E-3	1.638E-2	4	18
+24	P04374	5HT2 type receptor mediated signaling pathway	PantherDB	1.688E-5	7.681E-4	5.817E-3	1.844E-2	6	63
+25	P00003	Alzheimer disease-amyloid secretase pathway	PantherDB	2.024E-5	8.840E-4	6.695E-3	2.210E-2	6	65
+26	530751	Glycosphingolipid metabolism	BioSystems: REACTOME	2.322E-5	9.752E-4	7.386E-3	2.536E-2	5	40
+27	P00002	Alpha adrenergic receptor signaling pathway	PantherDB	2.876E-5	1.163E-3	8.810E-3	3.141E-2	4	21
+28	119543	Sphingolipid metabolism	BioSystems: REACTOME	3.645E-5	1.404E-3	1.063E-2	3.981E-2	6	72
+29	83035	ABC transporters	BioSystems: KEGG	3.728E-5	1.404E-3	1.063E-2	4.071E-2	5	44
+30	106513	Neuronal System	BioSystems: REACTOME	4.547E-5	1.593E-3	1.207E-2	4.965E-2	11	293
+31	M19118	Keratinocyte Differentiation	MSigDB C2: BioCarta	4.642E-5	1.593E-3	1.207E-2	
+5.069E-2
+5	46
+32	P00005	Angiogenesis	PantherDB	4.670E-5	1.593E-3	1.207E-2	
+5.099E-2
+8	150
+33	M11520	TPO Signaling Pathway	MSigDB C2: BioCarta	5.006E-5	1.608E-3	1.218E-2	
+5.466E-2
+4	24
+34	920978	Physiological and Pathological Hypertrophy of the Heart	BioSystems: WikiPathways	5.006E-5	1.608E-3	1.218E-2	
+5.466E-2
+4	24
+35	138018	Downstream signaling in naive CD8+ T cells	BioSystems: Pathway Interaction Database	6.981E-5	2.117E-3	1.604E-2	
+7.623E-2
+5	50
+36	546258	Cocaine addiction	BioSystems: KEGG	6.981E-5	2.117E-3	1.604E-2	
+7.623E-2
+5	50
+37	198901	SIDS Susceptibility Pathways	BioSystems: WikiPathways	7.378E-5	2.177E-3	1.649E-2	
+8.056E-2
+8	160
+38	M10579	Phospholipids as signalling intermediaries	MSigDB C2: BioCarta	8.104E-5	2.329E-3	1.764E-2	
+8.849E-2
+4	27
+39	106034	Platelet activation, signaling and aggregation	BioSystems: REACTOME	9.869E-5	2.668E-3	2.021E-2	
+1.078E-1
+9	214
+40	M12718	Deregulation of CDK5 in Alzheimers Disease	MSigDB C2: BioCarta	1.002E-4	2.668E-3	2.021E-2	
+1.094E-1
+3	11
+41	137921	Ras signaling in the CD4+ TCR pathway	BioSystems: Pathway Interaction Database	1.002E-4	2.668E-3	2.021E-2	
+1.094E-1
+3	11
+42	83097	Alzheimer's disease	BioSystems: KEGG	1.039E-4	2.701E-3	2.045E-2	
+1.134E-1
+8	168
+43	P00042	Muscarinic acetylcholine receptor 1 and 3 signaling pathway	PantherDB	1.108E-4	2.813E-3	2.130E-2	
+1.209E-1
+5	55
+44	M8179	Rab GTPases Mark Targets In The Endocytotic Machinery	MSigDB C2: BioCarta	1.327E-4	3.294E-3	2.495E-2	
+1.449E-1
+3	12
+45	M1909	EGF Signaling Pathway	MSigDB C2: BioCarta	1.415E-4	3.433E-3	2.600E-2	
+1.545E-1
+4	31
+46	M2529	PDGF Signaling Pathway	MSigDB C2: BioCarta	1.606E-4	3.813E-3	2.887E-2	
+1.754E-1
+4	32
+47	198789	Wnt Signaling Pathway	BioSystems: WikiPathways	1.680E-4	3.904E-3	2.957E-2	
+1.835E-1
+5	60
+48	106401	MyD88-independent cascade	BioSystems: REACTOME	1.937E-4	4.316E-3	3.269E-2	
+2.115E-1
+6	97
+49	106391	Toll Like Receptor 3 (TLR3) Cascade	BioSystems: REACTOME	1.937E-4	4.316E-3	3.269E-2	
+2.115E-1
+6	97
+50	P00039	Metabotropic glutamate receptor group III pathway	PantherDB	2.282E-4	4.814E-3	3.646E-2	
+2.492E-1
+5	64

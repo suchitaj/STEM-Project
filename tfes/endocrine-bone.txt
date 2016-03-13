@@ -1,0 +1,366 @@
+1: GO: Molecular Function [Display Chart] 1011 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005102	receptor binding		1.329E-45	1.344E-42	1.007E-41	1.344E-42	107	1581
+2	GO:0019899	enzyme binding		6.081E-33	3.074E-30	2.304E-29	6.148E-30	99	1851
+3	GO:0005179	hormone activity		1.841E-31	6.205E-29	4.652E-28	1.862E-28	32	123
+4	GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding		1.281E-28	3.238E-26	2.427E-25	1.295E-25	57	655
+5	GO:0008134	transcription factor binding		8.483E-27	1.715E-24	1.286E-23	8.576E-24	52	577
+6	GO:0042562	hormone binding		2.400E-25	4.043E-23	3.031E-22	2.426E-22	24	81
+7	GO:0044212	transcription regulatory region DNA binding		9.619E-25	1.389E-22	1.041E-21	9.725E-22	59	840
+8	GO:0000975	regulatory region DNA binding		1.155E-24	1.460E-22	1.095E-21	1.168E-21	59	843
+9	GO:0001067	regulatory region nucleic acid binding		1.387E-24	1.558E-22	1.168E-21	1.402E-21	59	846
+10	GO:0001077	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding		5.428E-24	5.488E-22	4.114E-21	5.488E-21	35	259
+11	GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding		3.428E-23	3.151E-21	2.362E-20	3.466E-20	39	357
+12	GO:0043565	sequence-specific DNA binding		4.239E-23	3.571E-21	2.677E-20	4.285E-20	64	1069
+13	GO:0098531	transcription factor activity, direct ligand regulated sequence-specific DNA binding		1.067E-22	7.703E-21	5.774E-20	1.078E-19	19	50
+14	GO:0004879	RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding		1.067E-22	7.703E-21	5.774E-20	1.078E-19	19	50
+15	GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding		5.984E-22	4.033E-20	3.024E-19	6.050E-19	38	363
+16	GO:0044877	macromolecular complex binding		8.837E-22	5.584E-20	4.186E-19	8.934E-19	76	1578
+17	GO:0003707	steroid hormone receptor activity		3.000E-21	1.784E-19	1.337E-18	3.033E-18	19	58
+18	GO:0004871	signal transducer activity		1.049E-19	5.894E-18	4.418E-17	1.061E-16	76	1710
+19	GO:0003700	transcription factor activity, sequence-specific DNA binding		3.159E-19	1.597E-17	1.197E-16	3.194E-16	63	1230
+20	GO:0001071	nucleic acid binding transcription factor activity		3.159E-19	1.597E-17	1.197E-16	3.194E-16	63	1230
+21	GO:0003682	chromatin binding		8.904E-19	4.286E-17	3.213E-16	9.002E-16	40	501
+22	GO:0060089	molecular transducer activity		1.844E-18	8.472E-17	6.351E-16	1.864E-15	79	1925
+23	GO:0003690	double-stranded DNA binding		6.879E-18	3.024E-16	2.267E-15	6.954E-15	49	807
+24	GO:0001012	RNA polymerase II regulatory region DNA binding		6.302E-17	2.655E-15	1.990E-14	6.372E-14	42	626
+25	GO:1990837	sequence-specific double-stranded DNA binding		6.603E-17	2.670E-15	2.002E-14	6.676E-14	45	721
+26	GO:0046983	protein dimerization activity		8.263E-17	3.213E-15	2.409E-14	8.354E-14	61	1298
+27	GO:0051427	hormone receptor binding		1.460E-16	5.466E-15	4.098E-14	1.476E-13	24	181
+28	GO:0038023	signaling receptor activity		3.422E-16	1.236E-14	9.262E-14	3.460E-13	63	1418
+29	GO:0000976	transcription regulatory region sequence-specific DNA binding		3.736E-16	1.302E-14	9.763E-14	3.777E-13	43	690
+30	GO:0005496	steroid binding		4.373E-16	1.474E-14	1.105E-13	4.421E-13	19	103
+31	GO:0004872	receptor activity		6.228E-15	2.031E-13	1.523E-12	6.297E-12	66	1635
+32	GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding		7.243E-15	2.288E-13	1.716E-12	7.323E-12	39	619
+33	GO:0019902	phosphatase binding		2.824E-14	8.651E-13	6.485E-12	2.855E-11	22	185
+34	GO:0008083	growth factor activity		3.195E-14	9.500E-13	7.121E-12	3.230E-11	21	166
+35	GO:0017046	peptide hormone binding		4.070E-14	1.176E-12	8.812E-12	4.114E-11	13	45
+36	GO:0046982	protein heterodimerization activity		4.779E-14	1.342E-12	1.006E-11	4.832E-11	36	560
+37	GO:0019838	growth factor binding		6.703E-14	1.832E-12	1.373E-11	6.777E-11	19	134
+38	GO:0001047	core promoter binding		1.890E-13	5.028E-12	3.769E-11	1.910E-10	20	161
+39	GO:0042802	identical protein binding		2.493E-13	6.462E-12	4.844E-11	2.520E-10	56	1336
+40	GO:0044389	ubiquitin-like protein ligase binding		1.512E-12	3.822E-11	2.865E-10	1.529E-9	24	273
+41	GO:0019903	protein phosphatase binding		1.733E-12	4.272E-11	3.203E-10	1.752E-9	18	140
+42	GO:0019900	kinase binding		2.815E-12	6.776E-11	5.080E-10	2.846E-9	37	677
+43	GO:0019199	transmembrane receptor protein kinase activity		3.245E-12	7.629E-11	5.719E-10	3.280E-9	15	91
+44	GO:0005126	cytokine receptor binding		4.426E-12	1.017E-10	7.624E-10	4.475E-9	24	287
+45	GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding		7.832E-12	1.756E-10	1.317E-9	7.918E-9	27	378
+46	GO:0031625	ubiquitin protein ligase binding		7.992E-12	1.756E-10	1.317E-9	8.080E-9	23	269
+47	GO:0032403	protein complex binding		1.237E-11	2.661E-10	1.995E-9	1.251E-8	46	1053
+48	GO:0000987	core promoter proximal region sequence-specific DNA binding		2.422E-11	5.102E-10	3.825E-9	2.449E-8	27	397
+49	GO:0001159	core promoter proximal region DNA binding		2.717E-11	5.606E-10	4.203E-9	2.747E-8	27	399
+50	GO:0001046	core promoter sequence-specific DNA binding		6.226E-11	1.259E-9	9.437E-9	6.294E-8	15	111
+2: GO: Biological Process [Display Chart] 6931 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0042127	regulation of cell proliferation		1.742E-104	1.207E-100	1.137E-99	1.207E-100	164	1646
+2	GO:0009719	response to endogenous stimulus		8.009E-91	2.776E-87	2.615E-86	5.551E-87	156	1744
+3	GO:1901700	response to oxygen-containing compound		2.792E-87	6.450E-84	6.076E-83	1.935E-83	151	1684
+4	GO:0014070	response to organic cyclic compound		9.379E-79	1.625E-75	1.531E-74	6.500E-75	113	879
+5	GO:0033993	response to lipid		4.942E-78	6.851E-75	6.454E-74	3.425E-74	112	870
+6	GO:0009891	positive regulation of biosynthetic process		4.969E-75	5.740E-72	5.408E-71	3.444E-71	147	1910
+7	GO:0051094	positive regulation of developmental process		6.196E-75	6.135E-72	5.780E-71	4.295E-71	126	1277
+8	GO:0071495	cellular response to endogenous stimulus		7.325E-75	6.346E-72	5.979E-71	5.077E-71	127	1306
+9	GO:0042592	homeostatic process		1.903E-73	1.465E-70	1.380E-69	1.319E-69	139	1698
+10	GO:0031328	positive regulation of cellular biosynthetic process		4.614E-73	3.198E-70	3.013E-69	3.198E-69	144	1872
+11	GO:0051240	positive regulation of multicellular organismal process		2.866E-72	1.806E-69	1.701E-68	1.986E-68	134	1577
+12	GO:0009725	response to hormone		2.652E-71	1.532E-68	1.443E-67	1.838E-67	115	1074
+13	GO:0051173	positive regulation of nitrogen compound metabolic process		1.647E-70	8.779E-68	8.271E-67	1.141E-66	142	1887
+14	GO:0009887	organ morphogenesis		1.016E-69	5.028E-67	4.736E-66	7.039E-66	112	1034
+15	GO:0048732	gland development		1.628E-69	7.524E-67	7.088E-66	1.129E-65	85	480
+16	GO:0045935	positive regulation of nucleobase-containing compound metabolic process		2.001E-68	8.669E-66	8.167E-65	1.387E-64	137	1788
+17	GO:2000026	regulation of multicellular organismal development		9.632E-68	3.927E-65	3.700E-64	6.676E-64	136	1777
+18	GO:0045595	regulation of cell differentiation		1.858E-66	7.153E-64	6.738E-63	1.287E-62	131	1656
+19	GO:0008284	positive regulation of cell proliferation		2.028E-66	7.399E-64	6.971E-63	1.406E-62	104	911
+20	GO:1901701	cellular response to oxygen-containing compound		2.132E-65	7.389E-63	6.962E-62	1.478E-61	111	1107
+21	GO:0009888	tissue development		4.383E-65	1.447E-62	1.363E-61	3.038E-61	138	1933
+22	GO:0023056	positive regulation of signaling		1.334E-63	4.203E-61	3.959E-60	9.246E-60	129	1682
+23	GO:0010647	positive regulation of cell communication		5.159E-63	1.555E-60	1.465E-59	3.576E-59	129	1701
+24	GO:0048878	chemical homeostasis		1.963E-62	5.670E-60	5.341E-59	1.361E-58	108	1100
+25	GO:0019220	regulation of phosphate metabolic process		5.100E-62	1.414E-59	1.332E-58	3.535E-58	132	1834
+26	GO:0051174	regulation of phosphorus metabolic process		1.209E-61	3.223E-59	3.036E-58	8.379E-58	132	1847
+27	GO:0010557	positive regulation of macromolecule biosynthetic process		5.377E-61	1.380E-58	1.300E-57	3.727E-57	128	1735
+28	GO:0010628	positive regulation of gene expression		9.316E-61	2.306E-58	2.172E-57	6.457E-57	130	1810
+29	GO:0045597	positive regulation of cell differentiation		1.531E-60	3.658E-58	3.447E-57	1.061E-56	100	941
+30	GO:0010941	regulation of cell death		2.137E-59	4.936E-57	4.651E-56	1.481E-55	125	1690
+31	GO:0045893	positive regulation of transcription, DNA-templated		3.314E-58	7.179E-56	6.763E-55	2.297E-54	118	1505
+32	GO:1903508	positive regulation of nucleic acid-templated transcription		3.314E-58	7.179E-56	6.763E-55	2.297E-54	118	1505
+33	GO:0043067	regulation of programmed cell death		7.263E-58	1.526E-55	1.437E-54	5.034E-54	120	1579
+34	GO:0012501	programmed cell death		1.305E-57	2.660E-55	2.506E-54	9.046E-54	132	1994
+35	GO:1902680	positive regulation of RNA biosynthetic process		2.328E-57	4.610E-55	4.343E-54	1.613E-53	118	1532
+36	GO:0008285	negative regulation of cell proliferation		2.857E-57	5.500E-55	5.182E-54	1.980E-53	87	708
+37	GO:0045937	positive regulation of phosphate metabolic process		1.201E-56	2.190E-54	2.063E-53	8.322E-53	107	1224
+38	GO:0010562	positive regulation of phosphorus metabolic process		1.201E-56	2.190E-54	2.063E-53	8.322E-53	107	1224
+39	GO:0051254	positive regulation of RNA metabolic process		3.885E-56	6.889E-54	6.490E-53	2.693E-52	118	1572
+40	GO:0048608	reproductive structure development		3.976E-56	6.889E-54	6.490E-53	2.756E-52	74	470
+41	GO:0061458	reproductive system development		7.533E-56	1.273E-53	1.200E-52	5.221E-52	74	474
+42	GO:0051241	negative regulation of multicellular organismal process		1.182E-55	1.950E-53	1.837E-52	8.190E-52	102	1112
+43	GO:0006915	apoptotic process		1.921E-55	3.097E-53	2.917E-52	1.332E-51	129	1970
+44	GO:0040007	growth		5.774E-55	9.095E-53	8.568E-52	4.002E-51	100	1076
+45	GO:1901698	response to nitrogen compound		6.304E-55	9.710E-53	9.148E-52	4.370E-51	100	1077
+46	GO:0048545	response to steroid hormone		8.412E-55	1.267E-52	1.194E-51	5.830E-51	71	436
+47	GO:0009967	positive regulation of signal transduction		1.474E-54	2.174E-52	2.048E-51	1.022E-50	114	1497
+48	GO:0010243	response to organonitrogen compound		2.847E-54	4.111E-52	3.873E-51	1.973E-50	96	988
+49	GO:0042981	regulation of apoptotic process		1.545E-53	2.186E-51	2.059E-50	1.071E-49	115	1563
+50	GO:0060429	epithelium development		5.044E-53	6.992E-51	6.587E-50	3.496E-49	103	1213
+3: GO: Cellular Component [Display Chart] 494 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005615	extracellular space		4.425E-27	2.186E-24	1.482E-23	2.186E-24	79	1431
+2	GO:0009986	cell surface		2.657E-18	6.564E-16	4.451E-15	1.313E-15	51	871
+3	GO:0036477	somatodendritic compartment		2.295E-15	3.176E-13	2.154E-12	1.134E-12	46	844
+4	GO:0097458	neuron part		2.572E-15	3.176E-13	2.154E-12	1.271E-12	62	1467
+5	GO:0005667	transcription factor complex		4.143E-15	4.094E-13	2.776E-12	2.047E-12	30	357
+6	GO:0043025	neuronal cell body		5.509E-15	4.536E-13	3.076E-12	2.721E-12	38	594
+7	GO:0044297	cell body		8.485E-15	5.694E-13	3.861E-12	4.192E-12	40	667
+8	GO:0043005	neuron projection		9.220E-15	5.694E-13	3.861E-12	4.555E-12	53	1140
+9	GO:0098589	membrane region		8.745E-14	4.800E-12	3.255E-11	4.320E-11	54	1246
+10	GO:0048471	perinuclear region of cytoplasm		1.502E-12	7.421E-11	5.032E-10	7.421E-10	38	711
+11	GO:0098857	membrane microdomain		1.806E-12	7.437E-11	5.043E-10	8.924E-10	26	334
+12	GO:0045121	membrane raft		1.806E-12	7.437E-11	5.043E-10	8.924E-10	26	334
+13	GO:0043235	receptor complex		1.163E-11	4.418E-10	2.996E-9	5.743E-9	25	334
+14	GO:0031983	vesicle lumen		1.597E-11	5.596E-10	3.794E-9	7.890E-9	14	86
+15	GO:0030424	axon		1.699E-11	5.596E-10	3.794E-9	8.393E-9	31	525
+16	GO:0031410	cytoplasmic vesicle		2.125E-11	6.560E-10	4.448E-9	1.050E-8	51	1302
+17	GO:0044798	nuclear transcription factor complex		3.534E-11	1.027E-9	6.964E-9	1.746E-8	16	128
+18	GO:0034774	secretory granule lumen		1.145E-9	3.141E-8	2.130E-7	5.654E-7	11	63
+19	GO:0016323	basolateral plasma membrane		1.375E-9	3.484E-8	2.363E-7	6.794E-7	19	239
+20	GO:0098590	plasma membrane region		1.411E-9	3.484E-8	2.363E-7	6.968E-7	41	1024
+21	GO:0090575	RNA polymerase II transcription factor complex		1.548E-9	3.564E-8	2.417E-7	7.645E-7	13	100
+22	GO:0045177	apical part of cell		1.628E-9	3.564E-8	2.417E-7	8.043E-7	25	422
+23	GO:0060205	cytoplasmic membrane-bounded vesicle lumen		1.659E-9	3.564E-8	2.417E-7	8.198E-7	12	82
+24	GO:0016023	cytoplasmic, membrane-bounded vesicle		2.988E-9	6.151E-8	4.171E-7	1.476E-6	44	1181
+25	GO:0016324	apical plasma membrane		9.530E-9	1.883E-7	1.277E-6	4.708E-6	21	329
+26	GO:0098552	side of membrane		5.154E-8	9.792E-7	6.640E-6	2.546E-5	25	502
+27	GO:0033267	axon part		2.933E-7	5.353E-6	3.630E-5	1.449E-4	17	269
+28	GO:0030141	secretory granule		3.122E-7	5.353E-6	3.630E-5	1.542E-4	20	369
+29	GO:0000785	chromatin		3.198E-7	5.353E-6	3.630E-5	1.580E-4	23	477
+30	GO:0031093	platelet alpha granule lumen		3.251E-7	5.353E-6	3.630E-5	1.606E-4	8	48
+31	GO:0005887	integral component of plasma membrane		3.730E-7	5.943E-6	4.030E-5	1.842E-4	48	1591
+32	GO:0009897	external side of plasma membrane		4.354E-7	6.721E-6	4.558E-5	2.151E-4	18	309
+33	GO:0031226	intrinsic component of plasma membrane		4.806E-7	7.194E-6	4.878E-5	2.374E-4	49	1655
+34	GO:0044306	neuron projection terminus		5.714E-7	8.248E-6	5.593E-5	2.823E-4	14	191
+35	GO:0030425	dendrite		5.844E-7	8.248E-6	5.593E-5	2.887E-4	25	571
+36	GO:0000790	nuclear chromatin		2.492E-6	3.419E-5	2.319E-4	1.231E-3	17	314
+37	GO:0031091	platelet alpha granule		2.780E-6	3.711E-5	2.517E-4	1.373E-3	8	63
+38	GO:0005783	endoplasmic reticulum		3.385E-6	4.363E-5	2.958E-4	1.672E-3	47	1668
+39	GO:0005768	endosome		3.444E-6	4.363E-5	2.958E-4	1.701E-3	29	802
+40	GO:0043679	axon terminus		8.754E-6	1.081E-4	7.331E-4	4.324E-3	12	178
+41	GO:0044463	cell projection part		1.217E-5	1.467E-4	9.944E-4	6.013E-3	34	1092
+42	GO:0005794	Golgi apparatus		1.314E-5	1.546E-4	1.048E-3	6.493E-3	42	1495
+43	GO:0044853	plasma membrane raft		1.642E-5	1.886E-4	1.279E-3	8.109E-3	9	104
+44	GO:0005902	microvillus		1.693E-5	1.900E-4	1.289E-3	8.361E-3	8	80
+45	GO:0044433	cytoplasmic vesicle part		2.364E-5	2.595E-4	1.760E-3	1.168E-2	22	575
+46	GO:0044427	chromosomal part		3.362E-5	3.611E-4	2.448E-3	1.661E-2	27	812
+47	GO:0005694	chromosome		3.468E-5	3.645E-4	2.472E-3	1.713E-2	29	907
+48	GO:0098797	plasma membrane protein complex		5.340E-5	5.496E-4	3.727E-3	2.638E-2	20	521
+49	GO:0000228	nuclear chromosome		5.484E-5	5.529E-4	3.749E-3	2.709E-2	20	522
+50	GO:0031012	extracellular matrix		5.829E-5	5.732E-4	3.887E-3	2.880E-2	18	441
+4: Human Phenotype [Display Chart] 2045 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0000006	Autosomal dominant inheritance		4.311E-15	8.817E-12	7.230E-11	8.817E-12	113	1793
+2	HP:0005616	Accelerated skeletal maturation		1.470E-8	1.503E-5	1.232E-4	3.006E-5	11	34
+3	HP:0000855	Insulin resistance		3.655E-8	2.492E-5	2.043E-4	7.475E-5	12	45
+4	HP:0100761	Visceral angiomatosis		1.634E-7	8.352E-5	6.849E-4	3.341E-4	6	9
+5	HP:0001428	Somatic mutation		3.684E-7	1.507E-4	1.236E-3	7.533E-4	15	87
+6	HP:0002757	Recurrent fractures		5.010E-7	1.708E-4	1.400E-3	1.025E-3	12	56
+7	HP:0002894	Neoplasm of the pancreas		6.476E-7	1.892E-4	1.552E-3	1.324E-3	7	16
+8	HP:0000771	Gynecomastia		1.023E-6	2.615E-4	2.145E-3	2.092E-3	10	40
+9	HP:0000845	Growth hormone excess		1.194E-6	2.713E-4	2.225E-3	2.442E-3	5	7
+10	HP:0003584	Late onset		1.667E-6	3.410E-4	2.796E-3	3.410E-3	10	42
+11	HP:0000684	Delayed eruption of teeth		3.219E-6	5.984E-4	4.907E-3	6.582E-3	12	66
+12	HP:0001513	Obesity		4.116E-6	6.830E-4	5.601E-3	8.417E-3	18	146
+13	HP:0003074	Hyperglycemia		4.342E-6	6.830E-4	5.601E-3	8.878E-3	8	28
+14	HP:0005978	Type II diabetes mellitus		7.030E-6	1.027E-3	8.421E-3	1.438E-2	13	83
+15	HP:0010743	Short metatarsal		1.004E-5	1.283E-3	1.052E-2	2.052E-2	8	31
+16	HP:0006740	Transitional cell carcinoma of the bladder		1.004E-5	1.283E-3	1.052E-2	2.052E-2	8	31
+17	HP:0001738	Exocrine pancreatic insufficiency		1.118E-5	1.345E-3	1.103E-2	2.287E-2	7	23
+18	HP:0002905	Hyperphosphatemia		1.258E-5	1.410E-3	1.156E-2	2.573E-2	6	16
+19	HP:0003165	Elevated circulating parathyroid hormone (PTH) level		1.310E-5	1.410E-3	1.156E-2	2.679E-2	5	10
+20	HP:0001034	Hypermelanotic macule		1.429E-5	1.461E-3	1.199E-2	2.923E-2	9	42
+21	HP:0006753	Neoplasm of the stomach		1.660E-5	1.616E-3	1.326E-2	3.394E-2	8	33
+22	HP:0004904	Maturity-onset diabetes of the young		2.331E-5	2.049E-3	1.680E-2	4.768E-2	5	11
+23	HP:0002893	Pituitary adenoma		2.405E-5	2.049E-3	1.680E-2	4.917E-2	4	6
+24	HP:0010788	Testicular neoplasm		2.405E-5	2.049E-3	1.680E-2	4.917E-2	4	6
+25	HP:0002653	Bone pain		2.644E-5	2.163E-3	1.774E-2	
+5.407E-2
+8	35
+26	HP:0002664	Neoplasm		3.116E-5	2.451E-3	2.010E-2	
+6.372E-2
+9	46
+27	HP:0000689	Dental malocclusion		3.699E-5	2.653E-3	2.176E-2	
+7.564E-2
+12	83
+28	HP:0002750	Delayed skeletal maturation		3.714E-5	2.653E-3	2.176E-2	
+7.595E-2
+17	155
+29	HP:0006288	Advanced eruption of teeth		3.880E-5	2.653E-3	2.176E-2	
+7.934E-2
+5	12
+30	HP:0007440	Generalized hyperpigmentation		3.892E-5	2.653E-3	2.176E-2	
+7.960E-2
+6	19
+31	HP:0005584	Renal cell carcinoma		4.076E-5	2.672E-3	2.191E-2	
+8.335E-2
+8	37
+32	HP:0030084	Clinodactyly		4.181E-5	2.672E-3	2.191E-2	
+8.550E-2
+12	84
+33	HP:0006716	Hereditary nonpolyposis colorectal carcinoma		4.630E-5	2.869E-3	2.353E-2	
+9.468E-2
+7	28
+34	HP:0010300	Abnormally low-pitched voice		4.931E-5	2.966E-3	2.432E-2	
+1.008E-1
+3	3
+35	HP:0002076	Migraine		6.071E-5	3.382E-3	2.774E-2	
+1.242E-1
+11	74
+36	HP:0002582	Chronic atrophic gastritis		6.120E-5	3.382E-3	2.774E-2	
+1.252E-1
+5	13
+37	HP:0012126	Stomach cancer		6.120E-5	3.382E-3	2.774E-2	
+1.252E-1
+5	13
+38	HP:0003745	Sporadic		6.626E-5	3.544E-3	2.906E-2	
+1.355E-1
+15	131
+39	HP:0001156	Brachydactyly syndrome		6.758E-5	3.544E-3	2.906E-2	
+1.382E-1
+20	212
+40	HP:0003251	Male infertility		7.326E-5	3.746E-3	3.072E-2	
+1.498E-1
+6	21
+41	HP:0000303	Mandibular prognathia		7.551E-5	3.766E-3	3.089E-2	
+1.544E-1
+13	103
+42	HP:0003416	Spinal canal stenosis		9.241E-5	4.441E-3	3.642E-2	
+1.890E-1
+5	14
+43	HP:0002148	Hypophosphatemia		9.773E-5	4.441E-3	3.642E-2	
+1.999E-1
+6	22
+44	HP:0002823	Abnormality of the femur		9.773E-5	4.441E-3	3.642E-2	
+1.999E-1
+6	22
+45	HP:0000956	Acanthosis nigricans		9.773E-5	4.441E-3	3.642E-2	
+1.999E-1
+6	22
+46	HP:0000831	Insulin-resistant diabetes mellitus		1.059E-4	4.642E-3	3.807E-2	
+2.166E-1
+4	8
+47	HP:0003002	Breast carcinoma		1.067E-4	4.642E-3	3.807E-2	
+2.182E-1
+8	42
+48	HP:0009466	Radial deviation of finger		1.260E-4	5.366E-3	4.401E-2	
+2.576E-1
+11	80
+49	HP:0006297	Hypoplasia of dental enamel		1.506E-4	6.283E-3	
+5.153E-2
+3.079E-1
+8	44
+50	HP:0002715	Abnormality of the immune system		1.567E-4	6.338E-3	
+5.197E-2
+3.205E-1
+9	56
+5: Mouse Phenotype [Display Chart] 5809 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0005379	endocrine/exocrine gland phenotype		1.317E-55	7.652E-52	7.074E-51	7.652E-52	169	1767
+2	MP:0002163	abnormal gland morphology		2.465E-53	7.160E-50	6.619E-49	1.432E-49	160	1616
+3	MP:0005418	abnormal circulating hormone level		2.772E-49	5.367E-46	4.962E-45	1.610E-45	108	718
+4	MP:0002164	abnormal gland physiology		5.328E-48	7.738E-45	7.154E-44	3.095E-44	96	563
+5	MP:0013560	abnormal endocrine gland morphology		1.658E-47	1.926E-44	1.781E-43	9.631E-44	109	763
+6	MP:0003953	abnormal hormone level		1.200E-45	1.162E-42	1.074E-41	6.969E-42	110	812
+7	MP:0013558	abnormal exocrine gland morphology		1.151E-37	9.552E-35	8.830E-34	6.686E-34	85	562
+8	MP:0005370	liver/biliary system phenotype		3.709E-34	2.694E-31	2.490E-30	2.155E-30	106	985
+9	MP:0005451	abnormal body composition		1.005E-33	6.489E-31	5.999E-30	5.840E-30	144	1822
+10	MP:0001265	decreased body size		2.686E-33	1.560E-30	1.442E-29	1.560E-29	148	1937
+11	MP:0012321	abnormal total tissue mass		8.183E-33	4.321E-30	3.995E-29	4.753E-29	136	1661
+12	MP:0003795	abnormal bone structure		3.006E-32	1.455E-29	1.345E-28	1.746E-28	81	596
+13	MP:0010771	integument phenotype		3.303E-32	1.476E-29	1.365E-28	1.919E-28	127	1474
+14	MP:0002138	abnormal hepatobiliary system morphology		5.896E-32	2.446E-29	2.261E-28	3.425E-28	97	872
+15	MP:0005390	skeleton phenotype		1.835E-31	7.106E-29	6.569E-28	1.066E-27	131	1590
+16	MP:0012322	decreased total tissue mass		2.548E-31	8.708E-29	8.050E-28	1.480E-27	127	1503
+17	MP:0001262	decreased body weight		2.548E-31	8.708E-29	8.050E-28	1.480E-27	127	1503
+18	MP:0000685	abnormal immune system morphology		3.332E-31	1.075E-28	9.940E-28	1.935E-27	141	1839
+19	MP:0013561	abnormal endocrine gland physiology		4.399E-31	1.345E-28	1.243E-27	2.556E-27	60	322
+20	MP:0001944	abnormal pancreas morphology		8.961E-31	2.603E-28	2.406E-27	5.206E-27	55	267
+21	MP:0001259	abnormal body weight		1.822E-30	5.041E-28	4.660E-27	1.059E-26	137	1768
+22	MP:0002083	premature death		2.095E-30	5.531E-28	5.113E-27	1.217E-26	109	1144
+23	MP:0002078	abnormal glucose homeostasis		2.300E-30	5.810E-28	5.371E-27	1.336E-26	91	802
+24	MP:0001560	abnormal circulating insulin level		2.961E-30	7.167E-28	6.626E-27	1.720E-26	63	371
+25	MP:0000598	abnormal liver morphology		3.096E-30	7.193E-28	6.649E-27	1.798E-26	94	859
+26	MP:0005508	abnormal skeleton morphology		9.740E-30	2.176E-27	2.012E-26	5.658E-26	124	1488
+27	MP:0013656	abnormal hematopoietic cell morphology		1.832E-29	3.943E-27	3.645E-26	1.064E-25	141	1905
+28	MP:0005389	reproductive system phenotype		2.334E-29	4.841E-27	4.475E-26	1.356E-25	127	1570
+29	MP:0010678	abnormal skin adnexa morphology		2.837E-29	5.682E-27	5.253E-26	1.648E-25	87	757
+30	MP:0005291	abnormal glucose tolerance		4.975E-29	9.633E-27	8.906E-26	2.890E-25	63	389
+31	MP:0002006	tumorigenesis		8.527E-29	1.598E-26	1.477E-25	4.953E-25	84	716
+32	MP:0005381	digestive/alimentary phenotype		9.724E-29	1.765E-26	1.632E-25	5.648E-25	104	1091
+33	MP:0000716	abnormal immune system cell morphology		1.069E-28	1.882E-26	1.740E-25	6.210E-25	123	1501
+34	MP:0002127	abnormal cardiovascular system morphology		1.308E-28	2.234E-26	2.066E-25	7.597E-25	124	1527
+35	MP:0000188	abnormal circulating glucose level		3.099E-28	5.144E-26	4.755E-25	1.800E-24	70	502
+36	MP:0002019	abnormal tumor incidence		6.192E-28	9.991E-26	9.236E-25	3.597E-24	78	634
+37	MP:0008246	abnormal leukocyte morphology		7.039E-28	1.105E-25	1.022E-24	4.089E-24	121	1484
+38	MP:0011180	abnormal hematopoietic cell number		2.910E-27	4.448E-25	4.112E-24	1.690E-23	120	1483
+39	MP:0002166	altered tumor susceptibility		3.053E-27	4.548E-25	4.204E-24	1.774E-23	78	649
+40	MP:0008247	abnormal mononuclear cell morphology		3.681E-27	5.345E-25	4.941E-24	2.138E-23	112	1308
+41	MP:0005385	cardiovascular system phenotype		4.117E-27	5.833E-25	5.392E-24	2.391E-23	140	1974
+42	MP:0005367	renal/urinary system phenotype		8.961E-27	1.239E-24	1.146E-23	5.206E-23	95	969
+43	MP:0013152	abnormal organ/body region tumor incidence		1.185E-26	1.601E-24	1.480E-23	6.883E-23	67	486
+44	MP:0008195	abnormal professional antigen presenting cell morphology		1.339E-26	1.768E-24	1.634E-23	7.779E-23	86	804
+45	MP:0005293	impaired glucose tolerance		2.783E-26	3.566E-24	3.296E-23	1.616E-22	48	239
+46	MP:0005369	muscle phenotype		2.824E-26	3.566E-24	3.296E-23	1.640E-22	104	1166
+47	MP:0000462	abnormal digestive system morphology		7.564E-26	9.349E-24	8.643E-23	4.394E-22	87	842
+48	MP:0010274	increased organ/body region tumor incidence		8.686E-26	1.051E-23	9.717E-23	5.046E-22	65	472
+49	MP:0005116	abnormal circulating pituitary hormone level		3.852E-25	4.567E-23	4.222E-22	2.238E-21	39	156
+50	MP:0001614	abnormal blood vessel morphology		4.202E-25	4.882E-23	4.513E-22	2.441E-21	94	998
+7: Pathway [Display Chart] 1659 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	83105	Pathways in cancer	BioSystems: KEGG	3.829E-33	6.353E-30	5.077E-29	6.353E-30	56	327
+2	711360	Integrated Pancreatic Cancer Pathway	BioSystems: WikiPathways	5.408E-28	4.486E-25	3.585E-24	8.972E-25	41	194
+3	530741	Signaling by ERBB4	BioSystems: REACTOME	5.157E-20	2.852E-17	2.279E-16	8.556E-17	30	149
+4	198832	Adipogenesis	BioSystems: WikiPathways	2.718E-19	1.127E-16	9.008E-16	4.509E-16	28	133
+5	782000	Proteoglycans in cancer	BioSystems: KEGG	2.011E-18	5.922E-16	4.733E-15	3.336E-15	34	225
+6	198848	Nuclear Receptors	BioSystems: WikiPathways	2.142E-18	5.922E-16	4.733E-15	3.553E-15	17	38
+7	83111	Prostate cancer	BioSystems: KEGG	3.601E-18	7.905E-16	6.317E-15	5.974E-15	23	89
+8	477114	Signal Transduction	BioSystems: REACTOME	4.105E-18	7.905E-16	6.317E-15	6.809E-15	103	1913
+9	692234	PI3K-Akt signaling pathway	BioSystems: KEGG	4.288E-18	7.905E-16	6.317E-15	7.114E-15	41	346
+10	105979	Nuclear Receptor transcription pathway	BioSystems: REACTOME	5.307E-17	8.805E-15	7.036E-14	8.805E-14	18	52
+11	106328	Regulation of beta-cell development	BioSystems: REACTOME	1.688E-16	2.546E-14	2.034E-13	2.800E-13	15	33
+12	695200	HIF-1 signaling pathway	BioSystems: KEGG	2.423E-16	3.350E-14	2.677E-13	4.020E-13	23	106
+13	83114	Melanoma	BioSystems: KEGG	1.617E-15	2.064E-13	1.650E-12	2.683E-12	19	71
+14	198901	SIDS Susceptibility Pathways	BioSystems: WikiPathways	4.313E-15	5.111E-13	4.084E-12	7.155E-12	26	160
+15	198812	Endochondral Ossification	BioSystems: WikiPathways	6.355E-15	7.029E-13	5.617E-12	1.054E-11	18	66
+16	477120	Signaling by SCF-KIT	BioSystems: REACTOME	1.066E-14	1.106E-12	8.835E-12	1.769E-11	24	138
+17	672458	Signaling Pathways in Glioblastoma	BioSystems: WikiPathways	1.792E-14	1.749E-12	1.397E-11	2.973E-11	19	80
+18	477129	Developmental Biology	BioSystems: REACTOME	2.064E-14	1.902E-12	1.520E-11	3.423E-11	40	419
+19	198780	Senescence and Autophagy	BioSystems: WikiPathways	4.300E-14	3.656E-12	2.921E-11	7.135E-11	21	107
+20	83116	Chronic myeloid leukemia	BioSystems: KEGG	4.407E-14	3.656E-12	2.921E-11	7.311E-11	18	73
+21	106424	IRS-related events	BioSystems: REACTOME	5.924E-14	4.680E-12	3.740E-11	9.827E-11	19	85
+22	83115	Bladder cancer	BioSystems: KEGG	6.254E-14	4.716E-12	3.769E-11	1.038E-10	14	38
+23	198844	ErbB signaling pathway	BioSystems: WikiPathways	6.894E-14	4.973E-12	3.974E-11	1.144E-10	16	55
+24	730348	IRS-related events triggered by IGF1R	BioSystems: REACTOME	7.446E-14	5.147E-12	4.113E-11	1.235E-10	19	86
+25	83096	Maturity onset diabetes of the young	BioSystems: KEGG	8.497E-14	5.639E-12	4.506E-11	1.410E-10	12	25
+26	685535	Constitutive PI3K/AKT Signaling in Cancer	BioSystems: REACTOME	9.329E-14	5.953E-12	4.757E-11	1.548E-10	19	87
+27	198864	IL-6 Signaling Pathway	BioSystems: WikiPathways	9.916E-14	6.093E-12	4.869E-11	1.645E-10	20	99
+28	219801	Integrated Breast Cancer Pathway	BioSystems: WikiPathways	1.343E-13	7.958E-12	6.359E-11	2.228E-10	24	154
+29	730346	IGF1R signaling cascade	BioSystems: REACTOME	1.451E-13	8.023E-12	6.411E-11	2.407E-10	19	89
+30	730345	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	BioSystems: REACTOME	1.451E-13	8.023E-12	6.411E-11	2.407E-10	19	89
+31	106420	Insulin receptor signalling cascade	BioSystems: REACTOME	1.801E-13	9.077E-12	7.254E-11	2.988E-10	19	90
+32	106385	Downstream signal transduction	BioSystems: REACTOME	1.802E-13	9.077E-12	7.254E-11	2.989E-10	24	156
+33	106474	PI3K/AKT activation	BioSystems: REACTOME	1.806E-13	9.077E-12	7.254E-11	2.995E-10	20	102
+34	198827	DNA damage response (only ATM dependent)	BioSystems: WikiPathways	2.229E-13	1.088E-11	8.692E-11	3.698E-10	19	91
+35	160957	Downstream signaling of activated FGFR	BioSystems: REACTOME	2.593E-13	1.229E-11	9.822E-11	4.302E-10	23	144
+36	106332	Regulation of gene expression in beta cells	BioSystems: REACTOME	2.733E-13	1.259E-11	1.006E-10	4.534E-10	11	21
+37	106384	Signaling by PDGF	BioSystems: REACTOME	5.291E-13	2.372E-11	1.896E-10	8.777E-10	25	179
+38	83106	Colorectal cancer	BioSystems: KEGG	5.471E-13	2.388E-11	1.909E-10	9.076E-10	16	62
+39	530743	PI3K events in ERBB4 signaling	BioSystems: REACTOME	1.114E-12	4.296E-11	3.433E-10	1.847E-9	19	99
+40	160961	PI-3K cascade	BioSystems: REACTOME	1.114E-12	4.296E-11	3.433E-10	1.847E-9	19	99
+41	366239	PIP3 activates AKT signaling	BioSystems: REACTOME	1.114E-12	4.296E-11	3.433E-10	1.847E-9	19	99
+42	685534	PI3K/AKT Signaling in Cancer	BioSystems: REACTOME	1.114E-12	4.296E-11	3.433E-10	1.847E-9	19	99
+43	530737	PI3K events in ERBB2 signaling	BioSystems: REACTOME	1.114E-12	4.296E-11	3.433E-10	1.847E-9	19	99
+44	138045	HIF-1-alpha transcription factor network	BioSystems: Pathway Interaction Database	1.218E-12	4.592E-11	3.670E-10	2.021E-9	16	65
+45	83108	Pancreatic cancer	BioSystems: KEGG	1.574E-12	5.804E-11	4.639E-10	2.612E-9	16	66
+46	137989	FGF signaling pathway	BioSystems: Pathway Interaction Database	1.830E-12	6.478E-11	5.177E-10	3.036E-9	14	47
+47	645274	Signaling by FGFR in disease	BioSystems: REACTOME	1.835E-12	6.478E-11	5.177E-10	3.045E-9	24	173
+48	106343	Signaling by FGFR	BioSystems: REACTOME	1.946E-12	6.725E-11	5.374E-10	3.228E-9	23	158
+49	852705	MicroRNAs in cancer	BioSystems: KEGG	2.047E-12	6.929E-11	5.537E-10	3.395E-9	31	296
+50	530734	Signaling by ERBB2	BioSystems: REACTOME	2.228E-12	7.247E-11	5.791E-10	3.696E-9	23	159

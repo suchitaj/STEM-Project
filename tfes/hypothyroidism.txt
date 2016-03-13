@@ -1,0 +1,470 @@
+1: GO: Molecular Function [Display Chart] 649 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005102	receptor binding		2.466E-11	1.600E-8	1.129E-7	1.600E-8	38	1581
+2	GO:0042605	peptide antigen binding		5.926E-11	1.923E-8	1.356E-7	3.846E-8	8	32
+3	GO:0032395	MHC class II receptor activity		1.204E-10	2.605E-8	1.837E-7	7.815E-8	6	12
+4	GO:0005179	hormone activity		1.596E-9	2.590E-7	1.827E-6	1.036E-6	11	123
+5	GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding		1.169E-8	1.517E-6	1.070E-5	7.587E-6	21	655
+6	GO:0005159	insulin-like growth factor receptor binding		5.441E-8	5.885E-6	4.151E-5	3.531E-5	5	15
+7	GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding		3.577E-7	3.106E-5	2.190E-4	2.321E-4	14	357
+8	GO:0004800	thyroxine 5'-deiodinase activity		3.828E-7	3.106E-5	2.190E-4	2.484E-4	3	3
+9	GO:0001012	RNA polymerase II regulatory region DNA binding		7.053E-7	4.515E-5	3.185E-4	4.577E-4	18	626
+10	GO:0044212	transcription regulatory region DNA binding		7.585E-7	4.515E-5	3.185E-4	4.923E-4	21	840
+11	GO:0000975	regulatory region DNA binding		8.034E-7	4.515E-5	3.185E-4	5.214E-4	21	843
+12	GO:0001067	regulatory region nucleic acid binding		8.508E-7	4.515E-5	3.185E-4	5.521E-4	21	846
+13	GO:0042277	peptide binding		9.044E-7	4.515E-5	3.185E-4	5.870E-4	12	277
+14	GO:0033218	amide binding		2.643E-6	1.121E-4	7.910E-4	1.716E-3	12	307
+15	GO:0000977	RNA polymerase II regulatory region sequence-specific DNA binding		2.743E-6	1.121E-4	7.910E-4	1.780E-3	17	619
+16	GO:0003823	antigen binding		2.765E-6	1.121E-4	7.910E-4	1.794E-3	8	120
+17	GO:0042802	identical protein binding		3.624E-6	1.356E-4	9.562E-4	2.352E-3	26	1336
+18	GO:0048248	CXCR3 chemokine receptor binding		3.760E-6	1.356E-4	9.562E-4	2.440E-3	3	5
+19	GO:0042803	protein homodimerization activity		6.887E-6	2.353E-4	1.659E-3	4.470E-3	19	811
+20	GO:0043565	sequence-specific DNA binding		9.583E-6	3.110E-4	2.193E-3	6.219E-3	22	1069
+21	GO:0000976	transcription regulatory region sequence-specific DNA binding		1.148E-5	3.548E-4	2.502E-3	7.450E-3	17	690
+22	GO:0016209	antioxidant activity		1.800E-5	4.940E-4	3.484E-3	1.168E-2	6	75
+23	GO:1990837	sequence-specific double-stranded DNA binding		2.019E-5	4.940E-4	3.484E-3	1.310E-2	17	721
+24	GO:0001077	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding		2.069E-5	4.940E-4	3.484E-3	1.343E-2	10	259
+25	GO:0031995	insulin-like growth factor II binding		2.072E-5	4.940E-4	3.484E-3	1.345E-2	3	8
+26	GO:0008603	cAMP-dependent protein kinase regulator activity		2.072E-5	4.940E-4	3.484E-3	1.345E-2	3	8
+27	GO:0004887	thyroid hormone receptor activity		2.072E-5	4.940E-4	3.484E-3	1.345E-2	3	8
+28	GO:0046983	protein dimerization activity		2.131E-5	4.940E-4	3.484E-3	1.383E-2	24	1298
+29	GO:0003690	double-stranded DNA binding		2.370E-5	5.303E-4	3.741E-3	1.538E-2	18	807
+30	GO:0070325	lipoprotein particle receptor binding		2.573E-5	5.524E-4	3.896E-3	1.670E-2	4	24
+31	GO:0003700	transcription factor activity, sequence-specific DNA binding		2.724E-5	5.524E-4	3.896E-3	1.768E-2	23	1230
+32	GO:0001071	nucleic acid binding transcription factor activity		2.724E-5	5.524E-4	3.896E-3	1.768E-2	23	1230
+33	GO:0001664	G-protein coupled receptor binding		2.952E-5	5.805E-4	4.095E-3	1.916E-2	10	270
+34	GO:0031994	insulin-like growth factor I binding		3.091E-5	5.901E-4	4.162E-3	2.006E-2	3	9
+35	GO:0005125	cytokine activity		3.583E-5	6.644E-4	4.686E-3	2.325E-2	9	221
+36	GO:0004447	iodide peroxidase activity		5.324E-5	9.339E-4	6.587E-3	3.455E-2	2	2
+37	GO:0004996	thyroid-stimulating hormone receptor activity		5.324E-5	9.339E-4	6.587E-3	3.455E-2	2	2
+38	GO:0042379	chemokine receptor binding		7.012E-5	1.198E-3	8.447E-3	4.551E-2	5	59
+39	GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding		7.302E-5	1.215E-3	8.571E-3	4.739E-2	11	363
+40	GO:0000978	RNA polymerase II core promoter proximal region sequence-specific DNA binding		1.046E-4	1.697E-3	1.197E-2	
+6.786E-2
+11	378
+41	GO:0060089	molecular transducer activity		1.157E-4	1.832E-3	1.292E-2	
+7.510E-2
+29	1925
+42	GO:0000987	core promoter proximal region sequence-specific DNA binding		1.607E-4	2.482E-3	1.751E-2	
+1.043E-1
+11	397
+43	GO:0001159	core promoter proximal region DNA binding		1.678E-4	2.533E-3	1.787E-2	
+1.089E-1
+11	399
+44	GO:0044877	macromolecular complex binding		1.731E-4	2.554E-3	1.801E-2	
+1.124E-1
+25	1578
+45	GO:0016500	protein-hormone receptor activity		1.985E-4	2.863E-3	2.019E-2	
+1.288E-1
+3	16
+46	GO:0045236	CXCR chemokine receptor binding		2.398E-4	3.273E-3	2.308E-2	
+1.556E-1
+3	17
+47	GO:0051428	peptide hormone receptor binding		2.398E-4	3.273E-3	2.308E-2	
+1.556E-1
+3	17
+48	GO:0004871	signal transducer activity		2.420E-4	3.273E-3	2.308E-2	
+1.571E-1
+26	1710
+49	GO:0004872	receptor activity		2.986E-4	3.940E-3	2.779E-2	
+1.938E-1
+25	1635
+50	GO:0070326	very-low-density lipoprotein particle receptor binding		3.141E-4	3.940E-3	2.779E-2	
+2.039E-1
+2	4
+2: GO: Biological Process [Display Chart] 4427 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0010817	regulation of hormone levels		3.793E-25	1.679E-21	1.507E-20	1.679E-21	37	560
+2	GO:0006590	thyroid hormone generation		2.785E-22	6.165E-19	5.532E-18	1.233E-18	12	18
+3	GO:0042127	regulation of cell proliferation		1.527E-21	2.253E-18	2.022E-17	6.759E-18	53	1646
+4	GO:1901700	response to oxygen-containing compound		2.806E-20	3.106E-17	2.787E-16	1.242E-16	52	1684
+5	GO:0042403	thyroid hormone metabolic process		7.469E-20	6.613E-17	5.934E-16	3.307E-16	12	25
+6	GO:0042445	hormone metabolic process		3.167E-18	2.337E-15	2.097E-14	1.402E-14	21	207
+7	GO:0009725	response to hormone		2.798E-17	1.769E-14	1.588E-13	1.238E-13	39	1074
+8	GO:0009914	hormone transport		5.986E-17	3.313E-14	2.972E-13	2.650E-13	25	382
+9	GO:0033993	response to lipid		7.642E-17	3.759E-14	3.373E-13	3.383E-13	35	870
+10	GO:0051241	negative regulation of multicellular organismal process		9.045E-17	4.004E-14	3.593E-13	4.004E-13	39	1112
+11	GO:0009719	response to endogenous stimulus		1.448E-16	5.826E-14	5.228E-13	6.409E-13	48	1744
+12	GO:0030878	thyroid gland development		2.553E-15	9.417E-13	8.450E-12	1.130E-11	10	27
+13	GO:0046879	hormone secretion		3.623E-15	1.234E-12	1.107E-11	1.604E-11	23	370
+14	GO:0032870	cellular response to hormone stimulus		1.214E-14	3.838E-12	3.444E-11	5.374E-11	30	734
+15	GO:0051049	regulation of transport		1.490E-14	4.398E-12	3.946E-11	6.596E-11	47	1885
+16	GO:0035270	endocrine system development		2.250E-14	6.224E-12	5.585E-11	9.959E-11	16	152
+17	GO:0001775	cell activation		2.764E-14	7.198E-12	6.458E-11	1.224E-10	35	1057
+18	GO:0007267	cell-cell signaling		9.634E-14	2.299E-11	2.063E-10	4.265E-10	38	1305
+19	GO:0071495	cellular response to endogenous stimulus		9.868E-14	2.299E-11	2.063E-10	4.369E-10	38	1306
+20	GO:0046883	regulation of hormone secretion		1.409E-13	3.118E-11	2.798E-10	6.236E-10	20	311
+21	GO:0023061	signal release		2.543E-13	5.360E-11	4.810E-10	1.126E-9	24	500
+22	GO:0051046	regulation of secretion		3.251E-13	6.284E-11	5.639E-10	1.439E-9	29	774
+23	GO:1903530	regulation of secretion by cell		3.265E-13	6.284E-11	5.639E-10	1.445E-9	28	717
+24	GO:0050796	regulation of insulin secretion		3.576E-13	6.596E-11	5.918E-10	1.583E-9	17	214
+25	GO:0090276	regulation of peptide hormone secretion		4.021E-13	7.120E-11	6.389E-10	1.780E-9	18	251
+26	GO:0002791	regulation of peptide secretion		5.631E-13	9.332E-11	8.373E-10	2.493E-9	18	256
+27	GO:1901615	organic hydroxy compound metabolic process		5.691E-13	9.332E-11	8.373E-10	2.520E-9	25	570
+28	GO:0030072	peptide hormone secretion		7.013E-13	1.109E-10	9.949E-10	3.105E-9	19	298
+29	GO:0007159	leukocyte cell-cell adhesion		7.872E-13	1.202E-10	1.078E-9	3.485E-9	24	527
+30	GO:0090087	regulation of peptide transport		9.991E-13	1.474E-10	1.323E-9	4.423E-9	19	304
+31	GO:0018958	phenol-containing compound metabolic process		1.057E-12	1.510E-10	1.355E-9	4.681E-9	13	107
+32	GO:0002790	peptide secretion		1.122E-12	1.524E-10	1.367E-9	4.968E-9	19	306
+33	GO:0060341	regulation of cellular localization		1.136E-12	1.524E-10	1.367E-9	5.029E-9	37	1341
+34	GO:0048534	hematopoietic or lymphoid organ development		1.293E-12	1.683E-10	1.510E-9	5.723E-9	30	879
+35	GO:0050708	regulation of protein secretion		1.632E-12	2.065E-10	1.853E-9	7.226E-9	22	446
+36	GO:0051050	positive regulation of transport		2.056E-12	2.528E-10	2.268E-9	9.101E-9	32	1023
+37	GO:0008284	positive regulation of cell proliferation		3.194E-12	3.821E-10	3.429E-9	1.414E-8	30	911
+38	GO:0015833	peptide transport		3.877E-12	4.425E-10	3.970E-9	1.716E-8	20	372
+39	GO:0030073	insulin secretion		3.898E-12	4.425E-10	3.970E-9	1.726E-8	17	248
+40	GO:0032940	secretion by cell		5.138E-12	5.638E-10	5.059E-9	2.275E-8	32	1059
+41	GO:0002520	immune system development		5.221E-12	5.638E-10	5.059E-9	2.312E-8	30	929
+42	GO:0046649	lymphocyte activation		5.786E-12	6.099E-10	5.472E-9	2.561E-8	26	690
+43	GO:0014070	response to organic cyclic compound		7.507E-12	7.729E-10	6.935E-9	3.323E-8	29	879
+44	GO:1901698	response to nitrogen compound		8.005E-12	8.055E-10	7.227E-9	3.544E-8	32	1077
+45	GO:0070489	T cell aggregation		8.863E-12	8.530E-10	7.654E-9	3.924E-8	22	486
+46	GO:0042110	T cell activation		8.863E-12	8.530E-10	7.654E-9	3.924E-8	22	486
+47	GO:0071593	lymphocyte aggregation		9.226E-12	8.690E-10	7.798E-9	4.085E-8	22	487
+48	GO:0070486	leukocyte aggregation		1.219E-11	1.124E-9	1.009E-8	5.397E-8	22	494
+49	GO:0042886	amide transport		1.384E-11	1.250E-9	1.122E-8	6.127E-8	20	399
+50	GO:0009887	organ morphogenesis		1.449E-11	1.283E-9	1.151E-8	6.414E-8	31	1034
+3: GO: Cellular Component [Display Chart] 314 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0042611	MHC protein complex		1.575E-13	2.415E-11	1.528E-10	4.946E-11	9	27
+2	GO:0098553	lumenal side of endoplasmic reticulum membrane		2.307E-13	2.415E-11	1.528E-10	7.245E-11	9	28
+3	GO:0071556	integral component of lumenal side of endoplasmic reticulum membrane		2.307E-13	2.415E-11	1.528E-10	7.245E-11	9	28
+4	GO:0098576	lumenal side of membrane		6.614E-13	4.181E-11	2.646E-10	2.077E-10	9	31
+5	GO:0005615	extracellular space		6.657E-13	4.181E-11	2.646E-10	2.090E-10	38	1431
+6	GO:0042613	MHC class II protein complex		8.887E-12	4.651E-10	2.943E-9	2.790E-9	7	16
+7	GO:0012507	ER to Golgi transport vesicle membrane		1.063E-10	4.770E-9	3.019E-8	3.339E-8	9	52
+8	GO:0098552	side of membrane		4.846E-10	1.728E-8	1.094E-7	1.522E-7	20	502
+9	GO:0009986	cell surface		4.954E-10	1.728E-8	1.094E-7	1.556E-7	26	871
+10	GO:0030134	ER to Golgi transport vesicle		1.293E-9	4.061E-8	2.570E-7	4.061E-7	9	68
+11	GO:0030658	transport vesicle membrane		2.060E-9	5.879E-8	3.721E-7	6.467E-7	10	98
+12	GO:0032588	trans-Golgi network membrane		2.321E-9	6.073E-8	3.843E-7	7.288E-7	8	50
+13	GO:0009897	external side of plasma membrane		6.124E-9	1.479E-7	9.361E-7	1.923E-6	15	309
+14	GO:0045334	clathrin-coated endocytic vesicle		2.546E-8	5.711E-7	3.614E-6	7.996E-6	8	67
+15	GO:0030139	endocytic vesicle		4.706E-8	9.852E-7	6.235E-6	1.478E-5	13	260
+16	GO:0030662	coated vesicle membrane		5.709E-8	1.120E-6	7.090E-6	1.793E-5	10	138
+17	GO:0030669	clathrin-coated endocytic vesicle membrane		6.338E-8	1.171E-6	7.408E-6	1.990E-5	7	50
+18	GO:0030135	coated vesicle		1.321E-7	2.234E-6	1.414E-5	4.147E-5	12	236
+19	GO:0030665	clathrin-coated vesicle membrane		1.399E-7	2.234E-6	1.414E-5	4.393E-5	8	83
+20	GO:0030666	endocytic vesicle membrane		1.423E-7	2.234E-6	1.414E-5	4.468E-5	10	152
+21	GO:0044433	cytoplasmic vesicle part		1.526E-7	2.281E-6	1.444E-5	4.790E-5	18	575
+22	GO:0030136	clathrin-coated vesicle		2.437E-7	3.360E-6	2.126E-5	7.652E-5	10	161
+23	GO:0016023	cytoplasmic, membrane-bounded vesicle		2.461E-7	3.360E-6	2.126E-5	7.727E-5	26	1181
+24	GO:0030133	transport vesicle		2.630E-7	3.440E-6	2.177E-5	8.257E-5	11	205
+25	GO:0030176	integral component of endoplasmic reticulum membrane		3.486E-7	4.378E-6	2.771E-5	1.095E-4	9	128
+26	GO:0044440	endosomal part		3.757E-7	4.537E-6	2.871E-5	1.180E-4	15	423
+27	GO:0031227	intrinsic component of endoplasmic reticulum membrane		4.828E-7	5.615E-6	3.553E-5	1.516E-4	9	133
+28	GO:0010008	endosome membrane		8.651E-7	9.701E-6	6.139E-5	2.716E-4	14	392
+29	GO:0005768	endosome		1.099E-6	1.190E-5	7.529E-5	3.450E-4	20	802
+30	GO:0031410	cytoplasmic vesicle		1.566E-6	1.639E-5	1.037E-4	4.917E-4	26	1302
+31	GO:0098797	plasma membrane protein complex		4.962E-6	5.026E-5	3.180E-4	1.558E-3	15	521
+32	GO:0005802	trans-Golgi network		1.186E-5	1.164E-4	7.364E-4	3.724E-3	9	196
+33	GO:0060205	cytoplasmic membrane-bounded vesicle lumen		2.688E-5	2.557E-4	1.618E-3	8.439E-3	6	82
+34	GO:0031983	vesicle lumen		3.525E-5	3.256E-4	2.060E-3	1.107E-2	6	86
+35	GO:0034774	secretory granule lumen		8.762E-5	7.860E-4	4.974E-3	2.751E-2	5	63
+36	GO:0031301	integral component of organelle membrane		1.391E-4	1.187E-3	7.512E-3	4.369E-2	9	269
+37	GO:0012506	vesicle membrane		1.410E-4	1.187E-3	7.512E-3	4.427E-2	12	469
+38	GO:0005794	Golgi apparatus		1.447E-4	1.187E-3	7.512E-3	4.545E-2	24	1495
+39	GO:0098852	lytic vacuole membrane		1.512E-4	1.187E-3	7.512E-3	4.748E-2	9	272
+40	GO:0005765	lysosomal membrane		1.512E-4	1.187E-3	7.512E-3	4.748E-2	9	272
+41	GO:0031300	intrinsic component of organelle membrane		1.981E-4	1.517E-3	9.598E-3	
+6.219E-2
+9	282
+42	GO:0005667	transcription factor complex		2.515E-4	1.880E-3	1.190E-2	
+7.897E-2
+10	357
+43	GO:0042567	insulin-like growth factor ternary complex		3.019E-4	2.106E-3	1.333E-2	
+9.479E-2
+2	4
+44	GO:0036454	growth factor complex		3.019E-4	2.106E-3	1.333E-2	
+9.479E-2
+2	4
+45	GO:0016942	insulin-like growth factor binding protein complex		3.019E-4	2.106E-3	1.333E-2	
+9.479E-2
+2	4
+46	GO:0005887	integral component of plasma membrane		3.662E-4	2.486E-3	1.574E-2	
+1.150E-1
+24	1591
+47	GO:0030659	cytoplasmic vesicle membrane		3.815E-4	2.486E-3	1.574E-2	
+1.198E-1
+11	448
+48	GO:0000139	Golgi membrane		3.841E-4	2.486E-3	1.574E-2	
+1.206E-1
+14	682
+49	GO:0098791	Golgi subcompartment		3.880E-4	2.486E-3	1.574E-2	
+1.218E-1
+9	309
+50	GO:0005774	vacuolar membrane		4.359E-4	2.738E-3	1.732E-2	
+1.369E-1
+9	314
+4: Human Phenotype [Display Chart] 1177 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0000851	Congenital hypothyroidism		3.918E-14	4.612E-11	3.527E-10	4.612E-11	9	12
+2	HP:0000821	Hypothyroidism		4.967E-12	2.923E-9	2.235E-8	5.846E-9	17	107
+3	HP:0000853	Goiter		1.036E-10	4.066E-8	3.110E-7	1.220E-7	11	41
+4	HP:0002925	Thyroid-stimulating hormone excess		9.953E-10	2.929E-7	2.240E-6	1.171E-6	6	8
+5	HP:0000819	Diabetes mellitus		2.642E-7	6.220E-5	4.757E-4	3.110E-4	13	121
+6	HP:0100651	Type I diabetes mellitus		2.281E-6	4.475E-4	3.423E-3	2.685E-3	7	34
+7	HP:0003074	Hyperglycemia		9.914E-6	1.667E-3	1.275E-2	1.167E-2	6	28
+8	HP:0002608	Celiac disease		1.360E-5	2.001E-3	1.530E-2	1.601E-2	4	9
+9	HP:0002173	Hypoglycemic seizures		2.234E-5	2.703E-3	2.068E-2	2.630E-2	4	10
+10	HP:0001939	Abnormality of metabolism/homeostasis		2.307E-5	2.703E-3	2.068E-2	2.716E-2	15	235
+11	HP:0005990	Thyroid hypoplasia		2.527E-5	2.703E-3	2.068E-2	2.974E-2	3	4
+12	HP:0000739	Anxiety		3.324E-5	3.016E-3	2.307E-2	3.913E-2	7	50
+13	HP:0001993	Ketoacidosis		3.331E-5	3.016E-3	2.307E-2	3.921E-2	5	21
+14	HP:0002360	Sleep disturbance		7.365E-5	6.192E-3	4.736E-2	
+8.668E-2
+8	76
+15	HP:0000135	Hypogonadism		1.229E-4	9.425E-3	
+7.208E-2
+1.447E-1
+7	61
+16	HP:0002591	Polyphagia		1.281E-4	9.425E-3	
+7.208E-2
+1.508E-1
+6	43
+17	HP:0000147	Polycystic ovaries		1.451E-4	1.005E-2	
+7.684E-2
+1.708E-1
+5	28
+18	HP:0004298	Abnormality of the abdominal wall		1.776E-4	1.162E-2	
+8.884E-2
+2.091E-1
+4	16
+19	HP:0000845	Growth hormone excess		2.122E-4	1.249E-2	
+9.550E-2
+2.497E-1
+3	7
+20	HP:0004428	Elfin facies		2.122E-4	1.249E-2	
+9.550E-2
+2.497E-1
+3	7
+21	HP:0001894	Thrombocytosis		2.902E-4	1.351E-2	
+1.033E-1
+3.416E-1
+4	18
+22	HP:0000795	Abnormality of the urethra		2.902E-4	1.351E-2	
+1.033E-1
+3.416E-1
+4	18
+23	HP:0000858	Menstrual irregularities		3.349E-4	1.351E-2	
+1.033E-1
+3.942E-1
+3	8
+24	HP:0001578	Hypercortisolism		3.349E-4	1.351E-2	
+1.033E-1
+3.942E-1
+3	8
+25	HP:0002297	Red hair		3.349E-4	1.351E-2	
+1.033E-1
+3.942E-1
+3	8
+26	HP:0008191	Thyroid agenesis		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+27	HP:0002930	Thyroid hormone receptor defect		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+28	HP:0100507	Folate deficiency		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+29	HP:0100028	Ectopic thyroid		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+30	HP:0012559	Increased T3/T4 ratio		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+31	HP:0200120	Chronic active hepatitis		3.557E-4	1.351E-2	
+1.033E-1
+4.187E-1
+2	2
+32	HP:0005616	Accelerated skeletal maturation		3.761E-4	1.383E-2	
+1.058E-1
+4.427E-1
+5	34
+33	HP:0002019	Constipation		5.364E-4	1.896E-2	
+1.450E-1
+6.313E-1
+10	154
+34	HP:0002715	Abnormality of the immune system		5.617E-4	1.896E-2	
+1.450E-1
+6.611E-1
+6	56
+35	HP:0000157	Abnormality of the tongue		5.637E-4	1.896E-2	
+1.450E-1
+6.635E-1
+5	37
+36	HP:0010318	Aplasia/Hypoplasia of the abdominal wall musculature		6.552E-4	2.142E-2	
+1.638E-1
+7.711E-1
+4	22
+37	HP:0100817	Renovascular hypertension		6.983E-4	2.221E-2	
+1.699E-1
+8.219E-1
+3	10
+38	HP:0000689	Dental malocclusion		8.393E-4	2.600E-2	
+1.988E-1
+9.879E-1
+7	83
+39	HP:0001959	Polydipsia		9.249E-4	2.767E-2	
+2.117E-1
+1.000E0
+4	24
+40	HP:0008202	Prolactin deficiency		1.035E-3	2.767E-2	
+2.117E-1
+1.000E0
+2	3
+41	HP:0100512	Vitamin D deficiency		1.035E-3	2.767E-2	
+2.117E-1
+1.000E0
+2	3
+42	HP:0002920	Decreased circulating ACTH level		1.035E-3	2.767E-2	
+2.117E-1
+1.000E0
+2	3
+43	HP:0003118	Increased circulating cortisol level		1.035E-3	2.767E-2	
+2.117E-1
+1.000E0
+2	3
+44	HP:0100502	Vitamin B12 deficiency		1.035E-3	2.767E-2	
+2.117E-1
+1.000E0
+2	3
+45	HP:0000939	Osteoporosis		1.139E-3	2.980E-2	
+2.280E-1
+1.000E0
+8	113
+46	HP:0006297	Hypoplasia of dental enamel		1.267E-3	3.242E-2	
+2.480E-1
+1.000E0
+5	44
+47	HP:0000635	Blue irides		1.464E-3	3.665E-2	
+2.803E-1
+1.000E0
+4	27
+48	HP:0001513	Obesity		1.497E-3	3.670E-2	
+2.807E-1
+1.000E0
+9	146
+49	HP:0000826	Precocious puberty		1.553E-3	3.726E-2	
+2.850E-1
+1.000E0
+5	46
+50	HP:0000716	Depression		1.583E-3	3.726E-2	
+2.850E-1
+1.000E0
+6	68
+5: Mouse Phenotype [Display Chart] 3623 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0005135	increased thyroid-stimulating hormone level		2.933E-28	1.063E-24	9.323E-24	1.063E-24	16	19
+2	MP:0003953	abnormal hormone level		2.318E-27	4.198E-24	3.683E-23	8.397E-24	55	812
+3	MP:0005418	abnormal circulating hormone level		5.367E-27	6.481E-24	5.685E-23	1.944E-23	52	718
+4	MP:0003971	abnormal thyroid-stimulating hormone level		7.166E-27	6.491E-24	5.694E-23	2.596E-23	18	31
+5	MP:0003965	abnormal pituitary hormone level		3.386E-26	2.454E-23	2.153E-22	1.227E-22	31	187
+6	MP:0002876	abnormal thyroid physiology		5.798E-25	3.501E-22	3.071E-21	2.101E-21	16	25
+7	MP:0005122	increased circulating thyroid-stimulating hormone level		2.055E-23	1.064E-20	9.332E-20	7.447E-20	13	15
+8	MP:0005116	abnormal circulating pituitary hormone level		5.312E-22	2.405E-19	2.110E-18	1.924E-18	26	156
+9	MP:0003973	increased pituitary hormone level		7.246E-22	2.917E-19	2.559E-18	2.625E-18	23	110
+10	MP:0002164	abnormal gland physiology		1.004E-20	3.638E-18	3.192E-17	3.638E-17	41	563
+11	MP:0003503	decreased activity of thyroid		9.886E-20	3.256E-17	2.856E-16	3.582E-16	12	17
+12	MP:0005468	abnormal thyroid hormone level		2.221E-19	6.706E-17	5.883E-16	8.047E-16	18	67
+13	MP:0013560	abnormal endocrine gland morphology		2.280E-18	6.353E-16	5.573E-15	8.259E-15	44	763
+14	MP:0003351	decreased circulating levels of thyroid hormone		3.047E-18	7.886E-16	6.918E-15	1.104E-14	15	43
+15	MP:0013561	abnormal endocrine gland physiology		6.489E-18	1.567E-15	1.375E-14	2.351E-14	30	322
+16	MP:0000681	abnormal thyroid gland morphology		8.466E-18	1.917E-15	1.682E-14	3.067E-14	16	56
+17	MP:0005469	abnormal thyroxine level		1.164E-17	2.482E-15	2.177E-14	4.219E-14	16	57
+18	MP:0005117	increased circulating pituitary hormone level		1.360E-17	2.738E-15	2.402E-14	4.929E-14	19	97
+19	MP:0005475	abnormal circulating thyroxine level		2.969E-17	5.661E-15	4.966E-14	1.076E-13	15	49
+20	MP:0005472	abnormal triiodothyronine level		7.265E-16	1.316E-13	1.155E-12	2.632E-12	12	29
+21	MP:0005478	decreased circulating thyroxine level		8.238E-16	1.421E-13	1.247E-12	2.985E-12	13	38
+22	MP:0004696	abnormal thyroid follicle morphology		1.669E-15	2.748E-13	2.411E-12	6.046E-12	11	23
+23	MP:0005471	decreased thyroxine level		1.029E-14	1.620E-12	1.421E-11	3.727E-11	13	45
+24	MP:0008326	abnormal thyrotroph morphology		1.804E-14	2.723E-12	2.389E-11	6.535E-11	9	14
+25	MP:0000188	abnormal circulating glucose level		2.640E-14	3.825E-12	3.356E-11	9.564E-11	32	502
+26	MP:0005476	abnormal circulating triiodothyronine level		3.224E-13	4.492E-11	3.941E-10	1.168E-9	10	25
+27	MP:0005473	decreased triiodothyronine level		7.875E-13	1.057E-10	9.270E-10	2.853E-9	9	19
+28	MP:0005379	endocrine/exocrine gland phenotype		1.122E-12	1.452E-10	1.274E-9	4.066E-9	57	1767
+29	MP:0000633	abnormal pituitary gland morphology		6.574E-12	8.213E-10	7.205E-9	2.382E-8	15	106
+30	MP:0004163	abnormal adenohypophysis morphology		7.427E-12	8.970E-10	7.868E-9	2.691E-8	13	72
+31	MP:0002118	abnormal lipid homeostasis		2.084E-11	2.436E-9	2.137E-8	7.552E-8	37	851
+32	MP:0002163	abnormal gland morphology		2.945E-11	3.334E-9	2.925E-8	1.067E-7	52	1616
+33	MP:0002078	abnormal glucose homeostasis		8.163E-11	8.962E-9	7.862E-8	2.957E-7	35	802
+34	MP:0005370	liver/biliary system phenotype		8.504E-11	9.062E-9	7.949E-8	3.081E-7	39	985
+35	MP:0000631	abnormal neuroendocrine gland morphology		9.410E-11	9.741E-9	8.545E-8	3.409E-7	15	127
+36	MP:0003949	abnormal circulating lipid level		1.190E-10	1.198E-8	1.051E-7	4.313E-7	30	603
+37	MP:0003149	abnormal tectorial membrane morphology		2.071E-10	2.028E-8	1.779E-7	7.502E-7	9	32
+38	MP:0001547	abnormal lipid level		3.230E-10	3.080E-8	2.702E-7	1.170E-6	34	798
+39	MP:0005479	decreased circulating triiodothyronine level		3.642E-10	3.383E-8	2.968E-7	1.320E-6	7	15
+40	MP:0000010	abnormal abdominal fat pad morphology		5.217E-10	4.725E-8	4.145E-7	1.890E-6	17	193
+41	MP:0003972	decreased pituitary hormone level		6.214E-10	5.491E-8	4.817E-7	2.251E-6	13	101
+42	MP:0005266	abnormal metabolism		1.597E-9	1.378E-7	1.209E-6	5.787E-6	28	588
+43	MP:0005334	abnormal fat pad morphology		1.724E-9	1.435E-7	1.259E-6	6.245E-6	18	237
+44	MP:0002951	small thyroid gland		1.743E-9	1.435E-7	1.259E-6	6.314E-6	7	18
+45	MP:0004664	delayed inner ear development		2.288E-9	1.802E-7	1.581E-6	8.288E-6	5	6
+46	MP:0008337	increased thyrotroph cell number		2.288E-9	1.802E-7	1.581E-6	8.288E-6	5	6
+47	MP:0005667	abnormal circulating leptin level		5.002E-9	3.856E-7	3.383E-6	1.812E-5	16	195
+48	MP:0011238	abnormal inner ear development		7.922E-9	5.979E-7	5.245E-6	2.870E-5	5	7
+49	MP:0001783	decreased white adipose tissue amount		9.001E-9	6.522E-7	5.722E-6	3.261E-5	11	82
+50	MP:0005118	decreased circulating pituitary hormone level		9.001E-9	6.522E-7	5.722E-6	3.261E-5	11	82
+7: Pathway [Display Chart] 978 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	83121	Autoimmune thyroid disease	BioSystems: KEGG	1.271E-19	1.243E-16	9.279E-16	1.243E-16	16	56
+2	160985	Thyroxine biosynthesis	BioSystems: REACTOME	8.938E-17	4.371E-14	3.262E-13	8.741E-14	8	8
+3	920963	Allograft Rejection	BioSystems: WikiPathways	6.936E-14	2.261E-11	1.687E-10	6.783E-11	11	38
+4	83123	Allograft rejection	BioSystems: KEGG	1.775E-13	4.341E-11	3.240E-10	1.736E-10	11	41
+5	83095	Type I diabetes mellitus	BioSystems: KEGG	9.304E-13	1.488E-10	1.111E-9	9.099E-10	11	47
+6	920992	Thyroxine (Thyroid Hormone) Production	BioSystems: WikiPathways	9.743E-13	1.488E-10	1.111E-9	9.529E-10	6	6
+7	160983	Amine-derived hormones	BioSystems: REACTOME	1.065E-12	1.488E-10	1.111E-9	1.042E-9	8	16
+8	842771	Inflammatory bowel disease (IBD)	BioSystems: KEGG	3.621E-12	4.426E-10	3.303E-9	3.541E-9	12	69
+9	144181	Leishmaniasis	BioSystems: KEGG	1.201E-11	1.305E-9	9.741E-9	1.175E-8	12	76
+10	83124	Graft-versus-host disease	BioSystems: KEGG	1.855E-11	1.814E-9	1.354E-8	1.814E-8	10	45
+11	83120	Asthma	BioSystems: KEGG	3.549E-11	3.156E-9	2.355E-8	3.471E-8	9	34
+12	187106	Interferon gamma signaling	BioSystems: REACTOME	1.117E-10	9.101E-9	6.792E-8	1.092E-7	11	71
+13	835410	Thyroid hormone synthesis	BioSystems: KEGG	1.307E-10	9.762E-9	7.286E-8	1.278E-7	11	72
+14	200309	Rheumatoid arthritis	BioSystems: KEGG	1.397E-10	9.762E-9	7.286E-8	1.367E-7	12	93
+15	119557	PD-1 signaling	BioSystems: REACTOME	1.675E-10	1.092E-8	8.149E-8	1.638E-7	8	27
+16	125138	Viral myocarditis	BioSystems: KEGG	5.415E-10	3.310E-8	2.470E-7	5.295E-7	10	62
+17	106416	Translocation of ZAP-70 to Immunological synapse	BioSystems: REACTOME	9.603E-10	5.525E-8	4.123E-7	9.392E-7	7	21
+18	106415	Phosphorylation of CD3 and TCR zeta chains	BioSystems: REACTOME	1.991E-9	1.082E-7	8.074E-7	1.947E-6	7	23
+19	83074	Antigen processing and presentation	BioSystems: KEGG	9.096E-9	4.682E-7	3.494E-6	8.896E-6	10	82
+20	771603	Peptide hormone metabolism	BioSystems: REACTOME	1.456E-8	7.117E-7	5.312E-6	1.423E-5	10	86
+21	128760	Intestinal immune network for IgA production	BioSystems: KEGG	3.924E-8	1.695E-6	1.265E-5	3.838E-5	8	51
+22	169642	Toxoplasmosis	BioSystems: KEGG	3.976E-8	1.695E-6	1.265E-5	3.888E-5	11	122
+23	106417	Generation of second messenger molecules	BioSystems: REACTOME	3.985E-8	1.695E-6	1.265E-5	3.897E-5	7	34
+24	119552	Costimulation by the CD28 family	BioSystems: REACTOME	4.178E-8	1.702E-6	1.271E-5	4.086E-5	9	72
+25	377873	Herpes simplex infection	BioSystems: KEGG	5.326E-8	2.084E-6	1.555E-5	5.209E-5	13	188
+26	198825	Selenium Pathway	BioSystems: WikiPathways	2.450E-7	9.106E-6	6.796E-5	2.396E-4	9	88
+27	217173	Influenza A	BioSystems: KEGG	2.514E-7	9.106E-6	6.796E-5	2.459E-4	12	179
+28	106418	Downstream TCR signaling	BioSystems: REACTOME	4.179E-7	1.460E-5	1.089E-4	4.087E-4	7	47
+29	153910	Phagosome	BioSystems: KEGG	5.616E-7	1.894E-5	1.413E-4	5.492E-4	11	158
+30	160986	Regulation of thyroid hormone activity	BioSystems: REACTOME	1.034E-6	3.370E-5	2.515E-4	1.011E-3	3	3
+31	187103	Interferon Signaling	BioSystems: REACTOME	1.384E-6	4.367E-5	3.259E-4	1.354E-3	11	173
+32	172846	Staphylococcus aureus infection	BioSystems: KEGG	2.051E-6	6.267E-5	4.677E-4	2.005E-3	7	59
+33	213780	Tuberculosis	BioSystems: KEGG	2.278E-6	6.701E-5	5.001E-4	2.228E-3	11	182
+34	83069	Cell adhesion molecules (CAMs)	BioSystems: KEGG	2.329E-6	6.701E-5	5.001E-4	2.278E-3	10	147
+35	83078	Hematopoietic cell lineage	BioSystems: KEGG	2.901E-6	8.108E-5	6.051E-4	2.838E-3	8	88
+36	106369	Hormone ligand-binding receptors	BioSystems: REACTOME	3.163E-6	8.594E-5	6.414E-4	3.094E-3	4	11
+37	106414	TCR signaling	BioSystems: REACTOME	3.581E-6	9.217E-5	6.879E-4	3.503E-3	7	64
+38	672446	TSH signaling pathway	BioSystems: WikiPathways	3.581E-6	9.217E-5	6.879E-4	3.503E-3	7	64
+39	137911	FOXA2 and FOXA3 transcription factor networks	BioSystems: Pathway Interaction Database	4.975E-6	1.247E-4	9.310E-4	4.865E-3	6	44
+40	160988	Peptide hormone biosynthesis	BioSystems: REACTOME	9.372E-6	2.257E-4	1.684E-3	9.166E-3	4	14
+41	645290	MHC class II antigen presentation	BioSystems: REACTOME	9.461E-6	2.257E-4	1.684E-3	9.253E-3	8	103
+42	198918	Type II interferon signaling (IFNG)	BioSystems: WikiPathways	1.066E-5	2.450E-4	1.829E-3	1.042E-2	6	50
+43	83122	Systemic lupus erythematosus	BioSystems: KEGG	1.077E-5	2.450E-4	1.829E-3	1.054E-2	9	138
+44	790011	Ovarian steroidogenesis	BioSystems: KEGG	1.198E-5	2.663E-4	1.987E-3	1.172E-2	6	51
+45	83051	Cytokine-cytokine receptor interaction	BioSystems: KEGG	1.523E-5	3.311E-4	2.471E-3	1.490E-2	12	265
+46	138000	IL23-mediated signaling events	BioSystems: Pathway Interaction Database	3.340E-5	7.101E-4	5.299E-3	3.266E-2	5	37
+47	119538	Synthesis, Secretion, and Deacylation of Ghrelin	BioSystems: REACTOME	3.489E-5	7.260E-4	5.419E-3	3.412E-2	4	19
+48	119549	G alpha (s) signalling events	BioSystems: REACTOME	5.744E-5	1.170E-3	8.734E-3	
+5.617E-2
+8	132
+49	198832	Adipogenesis	BioSystems: WikiPathways	6.060E-5	1.210E-3	9.027E-3	
+5.927E-2
+8	133
+50	106357	Class A/1 (Rhodopsin-like receptors)	BioSystems: REACTOME	8.519E-5	1.666E-3	1.244E-2	
+8.331E-2
+12	316
