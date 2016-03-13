@@ -1,0 +1,650 @@
+1: GO: Molecular Function [Display Chart] 307 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0046977	TAP binding		6.310E-7	1.937E-4	1.222E-3	1.937E-4	3	7
+2	GO:0015280	ligand-gated sodium channel activity		1.509E-6	2.316E-4	1.460E-3	4.632E-4	3	9
+3	GO:0046980	tapasin binding		7.072E-6	7.237E-4	4.563E-3	2.171E-3	2	2
+4	GO:0003823	antigen binding		1.710E-5	1.313E-3	8.276E-3	5.250E-3	5	120
+5	GO:0046978	TAP1 binding		4.217E-5	1.618E-3	1.021E-2	1.295E-2	2	4
+6	GO:0015440	peptide-transporting ATPase activity		4.217E-5	1.618E-3	1.021E-2	1.295E-2	2	4
+7	GO:0046979	TAP2 binding		4.217E-5	1.618E-3	1.021E-2	1.295E-2	2	4
+8	GO:0023029	MHC class Ib protein binding		4.217E-5	1.618E-3	1.021E-2	1.295E-2	2	4
+9	GO:0042605	peptide antigen binding		8.530E-5	2.875E-3	1.813E-2	2.619E-2	3	32
+10	GO:0050699	WW domain binding		9.365E-5	2.875E-3	1.813E-2	2.875E-2	3	33
+11	GO:0005272	sodium channel activity		1.219E-4	3.401E-3	2.145E-2	3.741E-2	3	36
+12	GO:1904680	peptide transmembrane transporter activity		1.955E-4	5.001E-3	3.153E-2	
+6.001E-2
+2	8
+13	GO:0015197	peptide transporter activity		3.820E-4	9.021E-3	
+5.688E-2
+1.173E-1
+2	11
+14	GO:0003774	motor activity		4.179E-4	9.164E-3	
+5.779E-2
+1.283E-1
+4	131
+15	GO:0042802	identical protein binding		6.828E-4	1.321E-2	
+8.330E-2
+2.096E-1
+11	1336
+16	GO:0015276	ligand-gated ion channel activity		7.316E-4	1.321E-2	
+8.330E-2
+2.246E-1
+4	152
+17	GO:0022834	ligand-gated channel activity		7.316E-4	1.321E-2	
+8.330E-2
+2.246E-1
+4	152
+18	GO:0035259	glucocorticoid receptor binding		1.050E-3	1.696E-2	
+1.070E-1
+3.223E-1
+2	18
+19	GO:0042887	amide transmembrane transporter activity		1.050E-3	1.696E-2	
+1.070E-1
+3.223E-1
+2	18
+20	GO:0003777	microtubule motor activity		1.156E-3	1.713E-2	
+1.080E-1
+3.548E-1
+3	77
+21	GO:0042288	MHC class I protein binding		1.171E-3	1.713E-2	
+1.080E-1
+3.596E-1
+2	19
+22	GO:0035258	steroid hormone receptor binding		1.643E-3	2.293E-2	
+1.446E-1
+5.045E-1
+3	87
+23	GO:0045502	dynein binding		2.034E-3	2.544E-2	
+1.604E-1
+6.245E-1
+2	25
+24	GO:0046983	protein dimerization activity		2.051E-3	2.544E-2	
+1.604E-1
+6.295E-1
+10	1298
+25	GO:0005102	receptor binding		2.675E-3	2.544E-2	
+1.604E-1
+8.211E-1
+11	1581
+26	GO:0005260	channel-conductance-controlling ATPase activity		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+27	GO:1990450	linear polyubiquitin binding		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+28	GO:0005224	ATP-binding and phosphorylation-dependent chloride channel activity		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+29	GO:0033749	histone demethylase activity (H4-R3 specific)		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+30	GO:0033746	histone demethylase activity (H3-R2 specific)		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+31	GO:0004941	beta2-adrenergic receptor activity		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+32	GO:0031713	B2 bradykinin receptor binding		2.690E-3	2.544E-2	
+1.604E-1
+8.258E-1
+1	1
+33	GO:0042287	MHC protein binding		2.734E-3	2.544E-2	
+1.604E-1
+8.394E-1
+2	29
+34	GO:0004222	metalloendopeptidase activity		3.043E-3	2.748E-2	
+1.733E-1
+9.342E-1
+3	108
+35	GO:0042626	ATPase activity, coupled to transmembrane movement of substances		3.205E-3	2.804E-2	
+1.768E-1
+9.838E-1
+3	110
+36	GO:0016820	hydrolase activity, acting on acid anhydrides, catalyzing transmembrane movement of substances		3.288E-3	2.804E-2	
+1.768E-1
+1.000E0
+3	111
+37	GO:0002020	protease binding		3.632E-3	3.014E-2	
+1.900E-1
+1.000E0
+3	115
+38	GO:0001948	glycoprotein binding		3.998E-3	3.141E-2	
+1.981E-1
+1.000E0
+3	119
+39	GO:0015405	P-P-bond-hydrolysis-driven transmembrane transporter activity		4.093E-3	3.141E-2	
+1.981E-1
+1.000E0
+3	120
+40	GO:0015399	primary active transmembrane transporter activity		4.093E-3	3.141E-2	
+1.981E-1
+1.000E0
+3	120
+41	GO:0017111	nucleoside-triphosphatase activity		4.368E-3	3.271E-2	
+2.062E-1
+1.000E0
+7	774
+42	GO:0043492	ATPase activity, coupled to movement of substances		4.486E-3	3.279E-2	
+2.068E-1
+1.000E0
+3	124
+43	GO:0043531	ADP binding		4.905E-3	3.290E-2	
+2.075E-1
+1.000E0
+2	39
+44	GO:0015081	sodium ion transmembrane transporter activity		5.339E-3	3.290E-2	
+2.075E-1
+1.000E0
+3	132
+45	GO:0042498	diacyl lipopeptide binding		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+46	GO:0004918	interleukin-8 receptor activity		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+47	GO:0005133	interferon-gamma receptor binding		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+48	GO:0042497	triacyl lipopeptide binding		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+49	GO:0015433	peptide antigen-transporting ATPase activity		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+50	GO:2001065	mannan binding		5.358E-3	3.290E-2	
+2.075E-1
+1.000E0
+1	2
+2: GO: Biological Process [Display Chart] 2568 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0035082	axoneme assembly		1.288E-32	3.309E-29	2.789E-28	3.309E-29	17	51
+2	GO:0070286	axonemal dynein complex assembly		4.362E-32	5.601E-29	4.721E-28	1.120E-28	14	22
+3	GO:0001578	microtubule bundle formation		3.197E-29	2.736E-26	2.306E-25	8.209E-26	17	76
+4	GO:0042384	cilium assembly		4.116E-26	2.642E-23	2.227E-22	1.057E-22	20	220
+5	GO:0003341	cilium movement		2.286E-25	1.174E-22	9.894E-22	5.869E-22	14	52
+6	GO:0044782	cilium organization		4.418E-25	1.891E-22	1.594E-21	1.134E-21	20	247
+7	GO:0060271	cilium morphogenesis		8.466E-25	3.106E-22	2.618E-21	2.174E-21	20	255
+8	GO:0010927	cellular component assembly involved in morphogenesis		1.726E-24	5.539E-22	4.668E-21	4.431E-21	21	318
+9	GO:0036158	outer dynein arm assembly		7.473E-22	2.132E-19	1.797E-18	1.919E-18	9	12
+10	GO:0030031	cell projection assembly		1.744E-20	4.477E-18	3.774E-17	4.477E-17	20	418
+11	GO:0048646	anatomical structure formation involved in morphogenesis		8.607E-18	2.009E-15	1.693E-14	2.210E-14	26	1265
+12	GO:0070925	organelle assembly		2.290E-17	4.901E-15	4.131E-14	5.881E-14	20	603
+13	GO:0036159	inner dynein arm assembly		2.141E-16	4.230E-14	3.565E-13	5.499E-13	7	11
+14	GO:0007018	microtubule-based movement		4.177E-16	7.662E-14	6.458E-13	1.073E-12	14	219
+15	GO:0000226	microtubule cytoskeleton organization		1.168E-15	1.999E-13	1.685E-12	2.999E-12	17	450
+16	GO:0007017	microtubule-based process		1.982E-14	3.182E-12	2.682E-11	5.090E-11	18	634
+17	GO:0007368	determination of left/right symmetry		3.435E-14	5.189E-12	4.374E-11	8.822E-11	11	129
+18	GO:0048858	cell projection morphogenesis		6.804E-14	9.707E-12	8.181E-11	1.747E-10	22	1188
+19	GO:0009855	determination of bilateral symmetry		8.570E-14	1.158E-11	9.763E-11	2.201E-10	11	140
+20	GO:0009799	specification of symmetry		9.277E-14	1.169E-11	9.851E-11	2.382E-10	11	141
+21	GO:0032990	cell part morphogenesis		9.558E-14	1.169E-11	9.851E-11	2.455E-10	22	1208
+22	GO:0043623	cellular protein complex assembly		2.139E-13	2.497E-11	2.104E-10	5.493E-10	16	518
+23	GO:0032989	cellular component morphogenesis		6.860E-13	7.659E-11	6.455E-10	1.762E-9	24	1660
+24	GO:0044458	motile cilium assembly		1.359E-12	1.454E-10	1.225E-9	3.489E-9	6	15
+25	GO:0051674	localization of cell		1.648E-12	1.628E-10	1.372E-9	4.232E-9	22	1391
+26	GO:0048870	cell motility		1.648E-12	1.628E-10	1.372E-9	4.232E-9	22	1391
+27	GO:0000902	cell morphogenesis		2.112E-12	2.009E-10	1.693E-9	5.424E-9	23	1574
+28	GO:0070271	protein complex biogenesis		2.963E-11	2.624E-9	2.212E-8	7.610E-8	21	1438
+29	GO:0006461	protein complex assembly		2.963E-11	2.624E-9	2.212E-8	7.610E-8	21	1438
+30	GO:0003351	epithelial cilium movement		3.587E-11	3.071E-9	2.588E-8	9.212E-8	6	24
+31	GO:0030030	cell projection organization		4.401E-11	3.646E-9	3.073E-8	1.130E-7	22	1642
+32	GO:0003356	regulation of cilium beat frequency		2.305E-10	1.850E-8	1.559E-7	5.918E-7	4	5
+33	GO:0007010	cytoskeleton organization		3.712E-10	2.888E-8	2.434E-7	9.532E-7	18	1142
+34	GO:0065003	macromolecular complex assembly		6.061E-10	4.578E-8	3.858E-7	1.556E-6	21	1691
+35	GO:0034622	cellular macromolecular complex assembly		8.957E-10	6.572E-8	5.539E-7	2.300E-6	16	905
+36	GO:0040011	locomotion		1.019E-9	7.268E-8	6.126E-7	2.617E-6	22	1932
+37	GO:0071907	determination of digestive tract left/right asymmetry		1.607E-9	1.115E-7	9.400E-7	4.127E-6	4	7
+38	GO:0007507	heart development		2.721E-9	1.839E-7	1.550E-6	6.988E-6	13	578
+39	GO:0007389	pattern specification process		4.998E-9	3.291E-7	2.774E-6	1.284E-5	12	492
+40	GO:0060287	epithelial cilium movement involved in determination of left/right asymmetry		5.762E-9	3.699E-7	3.118E-6	1.480E-5	4	9
+41	GO:0071822	protein complex subunit organization		6.511E-9	4.078E-7	3.437E-6	1.672E-5	21	1927
+42	GO:0030317	sperm motility		3.183E-8	1.937E-6	1.633E-5	8.174E-5	6	70
+43	GO:0003352	regulation of cilium movement		3.244E-8	1.937E-6	1.633E-5	8.330E-5	4	13
+44	GO:0001906	cell killing		5.105E-8	2.980E-6	2.511E-5	1.311E-4	7	129
+45	GO:0060285	cilium-dependent cell motility		8.208E-8	4.684E-6	3.948E-5	2.108E-4	4	16
+46	GO:0060632	regulation of microtubule-based movement		1.738E-7	9.297E-6	7.836E-5	4.463E-4	4	19
+47	GO:0044146	negative regulation of growth of symbiont involved in interaction with host		1.738E-7	9.297E-6	7.836E-5	4.463E-4	4	19
+48	GO:0044130	negative regulation of growth of symbiont in host		1.738E-7	9.297E-6	7.836E-5	4.463E-4	4	19
+49	GO:0035469	determination of pancreatic left/right asymmetry		1.821E-7	9.542E-6	8.042E-5	4.675E-4	3	5
+50	GO:0044144	modulation of growth of symbiont involved in interaction with host		2.168E-7	1.092E-5	9.200E-5	5.567E-4	4	20
+3: GO: Cellular Component [Display Chart] 192 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005930	axoneme		5.980E-21	5.741E-19	3.351E-18	1.148E-18	14	103
+2	GO:0097014	ciliary plasm		5.980E-21	5.741E-19	3.351E-18	1.148E-18	14	103
+3	GO:0032838	cell projection cytoplasm		2.260E-19	1.446E-17	8.443E-17	4.339E-17	14	132
+4	GO:0005929	cilium		1.092E-18	5.244E-17	3.061E-16	2.097E-16	20	527
+5	GO:0044441	ciliary part		8.770E-18	3.368E-16	1.966E-15	1.684E-15	17	343
+6	GO:0036157	outer dynein arm		6.758E-15	2.163E-13	1.262E-12	1.298E-12	6	8
+7	GO:0044447	axoneme part		4.628E-14	1.269E-12	7.409E-12	8.885E-12	8	37
+8	GO:0005858	axonemal dynein complex		4.392E-12	1.054E-10	6.153E-10	8.433E-10	6	18
+9	GO:0030286	dynein complex		2.361E-11	5.036E-10	2.940E-9	4.533E-9	7	45
+10	GO:0044463	cell projection part		1.259E-10	2.417E-9	1.411E-8	2.417E-8	18	1092
+11	GO:0005868	cytoplasmic dynein complex		4.447E-10	7.762E-9	4.531E-8	8.538E-8	6	36
+12	GO:0031514	motile cilium		2.667E-8	4.267E-7	2.491E-6	5.120E-6	7	120
+13	GO:0005875	microtubule associated complex		1.133E-7	1.674E-6	9.769E-6	2.176E-5	7	148
+14	GO:0015630	microtubule cytoskeleton		3.509E-6	4.812E-5	2.809E-4	6.737E-4	13	1097
+15	GO:0034706	sodium channel complex		1.134E-5	1.451E-4	8.471E-4	2.177E-3	3	17
+16	GO:0009986	cell surface		1.267E-5	1.520E-4	8.873E-4	2.432E-3	11	871
+17	GO:0044430	cytoskeletal part		1.887E-5	2.132E-4	1.244E-3	3.624E-3	14	1484
+18	GO:0042825	TAP complex		4.053E-5	4.323E-4	2.523E-3	7.781E-3	2	4
+19	GO:0098552	side of membrane		4.521E-5	4.568E-4	2.667E-3	8.679E-3	8	502
+20	GO:0042824	MHC class I peptide loading complex		6.743E-5	6.473E-4	3.779E-3	1.295E-2	2	5
+21	GO:0009897	external side of plasma membrane		1.528E-4	1.397E-3	8.155E-3	2.934E-2	6	309
+22	GO:0043657	host cell		1.009E-3	8.426E-3	4.918E-2	
+1.938E-1
+2	18
+23	GO:0018995	host		1.009E-3	8.426E-3	4.918E-2	
+1.938E-1
+2	18
+24	GO:0044216	other organism cell		1.514E-3	1.118E-2	
+6.525E-2
+2.906E-1
+2	22
+25	GO:0044217	other organism part		1.514E-3	1.118E-2	
+6.525E-2
+2.906E-1
+2	22
+26	GO:0044215	other organism		1.514E-3	1.118E-2	
+6.525E-2
+2.906E-1
+2	22
+27	GO:0098796	membrane protein complex		1.592E-3	1.132E-2	
+6.610E-2
+3.057E-1
+9	1060
+28	GO:0016324	apical plasma membrane		1.684E-3	1.147E-2	
+6.695E-2
+3.234E-1
+5	329
+29	GO:1902494	catalytic complex		1.732E-3	1.147E-2	
+6.695E-2
+3.326E-1
+9	1073
+30	GO:1990718	axonemal central pair projection		2.636E-3	1.633E-2	
+9.532E-2
+5.062E-1
+1	1
+31	GO:0001534	radial spoke		2.636E-3	1.633E-2	
+9.532E-2
+5.062E-1
+1	1
+32	GO:0005578	proteinaceous extracellular matrix		3.041E-3	1.824E-2	
+1.065E-1
+5.838E-1
+5	377
+33	GO:0005615	extracellular space		3.612E-3	2.102E-2	
+1.227E-1
+6.935E-1
+10	1431
+34	GO:0030176	integral component of endoplasmic reticulum membrane		4.637E-3	2.586E-2	
+1.509E-1
+8.904E-1
+3	128
+35	GO:0045177	apical part of cell		4.906E-3	2.586E-2	
+1.509E-1
+9.420E-1
+5	422
+36	GO:0031227	intrinsic component of endoplasmic reticulum membrane		5.159E-3	2.586E-2	
+1.509E-1
+9.906E-1
+3	133
+37	GO:0035354	Toll-like receptor 1-Toll-like receptor 2 protein complex		5.253E-3	2.586E-2	
+1.509E-1
+1.000E0
+1	2
+38	GO:0097598	sperm cytoplasmic droplet		5.253E-3	2.586E-2	
+1.509E-1
+1.000E0
+1	2
+39	GO:0035355	Toll-like receptor 2-Toll-like receptor 6 protein complex		5.253E-3	2.586E-2	
+1.509E-1
+1.000E0
+1	2
+40	GO:0031012	extracellular matrix		5.897E-3	2.831E-2	
+1.652E-1
+1.000E0
+5	441
+41	GO:0031093	platelet alpha granule lumen		7.077E-3	3.314E-2	
+1.934E-1
+1.000E0
+2	48
+42	GO:0034702	ion channel complex		7.294E-3	3.334E-2	
+1.946E-1
+1.000E0
+4	293
+43	GO:0031205	endoplasmic reticulum Sec complex		7.869E-3	3.513E-2	
+2.051E-1
+1.000E0
+1	3
+44	GO:1990716	axonemal central apparatus		1.048E-2	4.528E-2	
+2.643E-1
+1.000E0
+1	4
+45	GO:0034703	cation channel complex		1.077E-2	4.528E-2	
+2.643E-1
+1.000E0
+3	174
+46	GO:1902495	transmembrane transporter complex		1.085E-2	4.528E-2	
+2.643E-1
+1.000E0
+4	329
+47	GO:1990351	transporter complex		1.153E-2	4.589E-2	
+2.679E-1
+1.000E0
+4	335
+48	GO:0036126	sperm flagellum		1.159E-2	4.589E-2	
+2.679E-1
+1.000E0
+2	62
+49	GO:0034774	secretory granule lumen		1.195E-2	4.589E-2	
+2.679E-1
+1.000E0
+2	63
+50	GO:0031091	platelet alpha granule		1.195E-2	4.589E-2	
+2.679E-1
+1.000E0
+2	63
+4: Human Phenotype [Display Chart] 421 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0002110	Bronchiectasis		9.907E-42	4.171E-39	2.762E-38	4.171E-39	26	54
+2	HP:0012265	Ciliary dyskinesia		7.778E-41	1.637E-38	1.084E-37	3.275E-38	22	30
+3	HP:0001696	Situs inversus totalis		9.120E-23	1.280E-20	8.474E-20	3.840E-20	16	43
+4	HP:0011109	Chronic sinusitis		9.238E-18	9.723E-16	6.438E-15	3.889E-15	10	15
+5	HP:0002257	Chronic rhinitis		4.992E-17	4.204E-15	2.783E-14	2.102E-14	8	8
+6	HP:0000246	Sinusitis		5.943E-16	4.170E-14	2.761E-13	2.502E-13	12	39
+7	HP:0002205	Recurrent respiratory infections		7.843E-14	4.717E-12	3.123E-11	3.302E-11	17	167
+8	HP:0100582	Nasal polyposis		6.013E-13	2.924E-11	1.936E-10	2.531E-10	8	16
+9	HP:0005938	Abnormal respiratory motile cilium morphology		6.941E-13	2.924E-11	1.936E-10	2.922E-10	6	6
+10	HP:0000389	Chronic otitis media		6.945E-13	2.924E-11	1.936E-10	2.924E-10	7	10
+11	HP:0004469	Chronic bronchitis		1.929E-11	7.382E-10	4.888E-9	8.120E-9	7	14
+12	HP:0012262	Abnormal ciliary motility		7.864E-11	2.759E-9	1.827E-8	3.311E-8	5	5
+13	HP:0003251	Male infertility		6.207E-10	2.010E-8	1.331E-7	2.613E-7	7	21
+14	HP:0011108	Recurrent sinusitis		1.290E-9	3.878E-8	2.568E-7	5.429E-7	7	23
+15	HP:0000403	Recurrent otitis media		4.133E-9	1.160E-7	7.680E-7	1.740E-6	9	60
+16	HP:0012256	Absent outer dynein arms		8.683E-9	2.285E-7	1.513E-6	3.655E-6	4	4
+17	HP:0012263	Immotile cilia		9.534E-9	2.361E-7	1.563E-6	4.014E-6	5	9
+18	HP:0200073	Respiratory insufficiency due to defective ciliary clearance		1.893E-8	4.427E-7	2.931E-6	7.969E-6	5	10
+19	HP:0000789	Infertility		3.686E-8	8.167E-7	5.407E-6	1.552E-5	8	54
+20	HP:0012236	Elevated sweat chloride		4.270E-8	8.989E-7	5.952E-6	1.798E-5	4	5
+21	HP:0100750	Atelectasis		1.045E-6	2.000E-5	1.324E-4	4.401E-4	4	9
+22	HP:0012384	Rhinitis		1.045E-6	2.000E-5	1.324E-4	4.401E-4	4	9
+23	HP:0200042	Skin ulcer		2.984E-6	5.461E-5	3.616E-4	1.256E-3	7	66
+24	HP:0000007	Autosomal recessive inheritance		1.064E-5	1.866E-4	1.235E-3	4.478E-3	34	1997
+25	HP:0000481	Abnormality of the cornea		1.814E-5	3.055E-4	2.022E-3	7.636E-3	3	6
+26	HP:0002837	Recurrent bronchitis		2.990E-5	4.842E-4	3.206E-3	1.259E-2	4	19
+27	HP:0006510	Chronic obstructive pulmonary disease		3.152E-5	4.915E-4	3.254E-3	1.327E-2	3	7
+28	HP:0000841	Hyperactive renin-angiotensin system		5.008E-5	7.530E-4	4.986E-3	2.108E-2	3	8
+29	HP:0001944	Dehydration		6.347E-5	9.214E-4	6.100E-3	2.672E-2	5	44
+30	HP:0001334	Communicating hydrocephalus		7.460E-5	1.013E-3	6.708E-3	3.141E-2	3	9
+31	HP:0008242	Pseudohypoaldosteronism		7.460E-5	1.013E-3	6.708E-3	3.141E-2	3	9
+32	HP:0012257	Absent inner dynein arms		9.823E-5	1.216E-3	8.054E-3	4.136E-2	2	2
+33	HP:0012260	Abnormal central microtubular pair morphology of respiratory motile cilia		9.823E-5	1.216E-3	8.054E-3	4.136E-2	2	2
+34	HP:0012258	Abnormal axonemal organization of respiratory motile cilia		9.823E-5	1.216E-3	8.054E-3	4.136E-2	2	2
+35	HP:0002688	Absent frontal sinuses		1.058E-4	1.273E-3	8.429E-3	4.456E-2	3	10
+36	HP:0006538	Recurrent bronchopulmonary infections		2.900E-4	3.392E-3	2.246E-2	
+1.221E-1
+2	3
+37	HP:0001746	Asplenia		3.875E-4	4.293E-3	2.843E-2	
+1.632E-1
+3	15
+38	HP:0000859	Hyperaldosteronism		3.875E-4	4.293E-3	2.843E-2	
+1.632E-1
+3	15
+39	HP:0002315	Headache		4.961E-4	5.356E-3	3.546E-2	
+2.089E-1
+4	38
+40	HP:0000127	Renal salt wasting		5.712E-4	5.918E-3	3.918E-2	
+2.405E-1
+3	17
+41	HP:0004401	Meconium ileus		5.764E-4	5.918E-3	3.918E-2	
+2.426E-1
+2	4
+42	HP:0002153	Hyperkalemia		6.806E-4	6.823E-3	4.517E-2	
+2.865E-1
+3	18
+43	HP:0011950	Bronchiolitis		9.545E-4	8.930E-3	
+5.913E-2
+4.018E-1
+2	5
+44	HP:0012208	Nonmotile sperm		9.545E-4	8.930E-3	
+5.913E-2
+4.018E-1
+2	5
+45	HP:0001949	Hypokalemic alkalosis		9.545E-4	8.930E-3	
+5.913E-2
+4.018E-1
+2	5
+46	HP:0002097	Emphysema		1.086E-3	9.943E-3	
+6.583E-2
+4.574E-1
+3	21
+47	HP:0001880	Eosinophilia		1.249E-3	1.096E-2	
+7.255E-2
+5.259E-1
+3	22
+48	HP:0002902	Hyponatremia		1.249E-3	1.096E-2	
+7.255E-2
+5.259E-1
+3	22
+49	HP:0002613	Biliary cirrhosis		1.423E-3	1.174E-2	
+7.776E-2
+5.989E-1
+2	6
+50	HP:0001648	Cor pulmonale		1.423E-3	1.174E-2	
+7.776E-2
+5.989E-1
+2	6
+5: Mouse Phenotype [Display Chart] 1990 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0011249	abdominal situs inversus		1.688E-16	3.359E-13	2.745E-12	3.359E-13	7	8
+2	MP:0011252	situs inversus totalis		1.828E-15	1.819E-12	1.487E-11	3.638E-12	8	17
+3	MP:0011250	abdominal situs ambiguus		6.896E-15	4.574E-12	3.739E-11	1.372E-11	7	11
+4	MP:0011055	abnormal respiratory motile cilium physiology		9.384E-15	4.668E-12	3.816E-11	1.867E-11	8	20
+5	MP:0011649	immotile respiratory cilia		3.563E-14	1.418E-11	1.159E-10	7.090E-11	7	13
+6	MP:0013209	abnormal motile cilium physiology		5.410E-14	1.794E-11	1.467E-10	1.077E-10	8	24
+7	MP:0002766	situs inversus		6.787E-14	1.929E-11	1.577E-10	1.351E-10	9	40
+8	MP:0013208	abnormal cilium physiology		9.928E-13	2.470E-10	2.018E-9	1.976E-9	8	33
+9	MP:0000644	dextrocardia		2.143E-12	4.739E-10	3.874E-9	4.265E-9	8	36
+10	MP:0011683	dual inferior vena cava		9.392E-12	1.737E-9	1.420E-8	1.869E-8	6	13
+11	MP:0006063	abnormal inferior vena cava morphology		9.604E-12	1.737E-9	1.420E-8	1.911E-8	7	25
+12	MP:0004133	heterotaxia		1.122E-11	1.861E-9	1.521E-8	2.233E-8	9	68
+13	MP:0010853	abnormal lung position or orientation		1.224E-11	1.862E-9	1.522E-8	2.436E-8	8	44
+14	MP:0003178	left pulmonary isomerism		1.310E-11	1.862E-9	1.522E-8	2.607E-8	7	26
+15	MP:0000542	left-sided isomerism		3.079E-11	4.084E-9	3.338E-8	6.126E-8	7	29
+16	MP:0006065	abnormal heart position or orientation		4.302E-11	5.351E-9	4.374E-8	8.562E-8	8	51
+17	MP:0006062	abnormal vena cava morphology		6.576E-11	7.697E-9	6.291E-8	1.309E-7	7	32
+18	MP:0002132	abnormal respiratory system morphology		8.000E-11	8.844E-9	7.228E-8	1.592E-7	18	670
+19	MP:0001175	abnormal lung morphology		1.120E-10	1.173E-8	9.584E-8	2.228E-7	16	501
+20	MP:0009570	abnormal right lung morphology		3.550E-10	3.532E-8	2.887E-7	7.064E-7	7	40
+21	MP:0005388	respiratory system phenotype		3.112E-9	2.949E-7	2.410E-6	6.193E-6	20	1076
+22	MP:0002133	abnormal respiratory system physiology		4.479E-9	4.052E-7	3.312E-6	8.914E-6	17	746
+23	MP:0010808	right-sided stomach		2.769E-8	2.396E-6	1.958E-5	5.510E-5	5	21
+24	MP:0000685	abnormal immune system morphology		3.210E-8	2.662E-6	2.175E-5	6.388E-5	24	1839
+25	MP:0010854	lung situs inversus		4.409E-8	3.509E-6	2.868E-5	8.774E-5	4	9
+26	MP:0010807	abnormal stomach position or orientation		8.806E-8	6.740E-6	5.509E-5	1.752E-4	5	26
+27	MP:0006061	right atrial isomerism		1.147E-7	8.456E-6	6.911E-5	2.283E-4	4	11
+28	MP:0004113	abnormal aortic arch morphology		2.036E-7	1.447E-5	1.183E-4	4.053E-4	7	97
+29	MP:0003283	abnormal digestive organ placement		2.238E-7	1.536E-5	1.255E-4	4.453E-4	5	31
+30	MP:0002725	abnormal vein morphology		3.081E-7	2.044E-5	1.670E-4	6.131E-4	7	103
+31	MP:0010468	abnormal thoracic aorta morphology		5.472E-7	3.513E-5	2.871E-4	1.089E-3	7	112
+32	MP:0002722	abnormal immune system organ morphology		7.660E-7	4.573E-5	3.737E-4	1.524E-3	17	1053
+33	MP:0010425	abnormal heart and great vessel attachment		8.463E-7	4.573E-5	3.737E-4	1.684E-3	8	175
+34	MP:0010426	abnormal heart and great artery attachment		8.463E-7	4.573E-5	3.737E-4	1.684E-3	8	175
+35	MP:0011254	superior-inferior ventricles		8.502E-7	4.573E-5	3.737E-4	1.692E-3	3	5
+36	MP:0011069	abnormal brain ependyma motile cilium physiology		8.502E-7	4.573E-5	3.737E-4	1.692E-3	3	5
+37	MP:0011253	situs inversus with levocardia		8.502E-7	4.573E-5	3.737E-4	1.692E-3	3	5
+38	MP:0002191	abnormal artery morphology		9.071E-7	4.750E-5	3.883E-4	1.805E-3	11	401
+39	MP:0004110	transposition of great arteries		1.219E-6	6.221E-5	5.084E-4	2.426E-3	5	43
+40	MP:0000272	abnormal aorta morphology		1.399E-6	6.962E-5	5.690E-4	2.785E-3	8	187
+41	MP:0001891	hydroencephaly		1.669E-6	7.904E-5	6.460E-4	3.321E-3	7	132
+42	MP:0011068	abnormal ependyma motile cilium physiology		1.695E-6	7.904E-5	6.460E-4	3.373E-3	3	6
+43	MP:0002405	respiratory system inflammation		1.708E-6	7.904E-5	6.460E-4	3.399E-3	8	192
+44	MP:0010402	ventricular septal defect		1.847E-6	8.190E-5	6.694E-4	3.675E-3	8	194
+45	MP:0000281	abnormal interventricular septum morphology		1.852E-6	8.190E-5	6.694E-4	3.685E-3	9	264
+46	MP:0002419	abnormal innate immunity		2.390E-6	1.034E-4	8.451E-4	4.756E-3	12	540
+47	MP:0008461	left atrial isomerism		2.957E-6	1.252E-4	1.023E-3	5.885E-3	3	7
+48	MP:0000508	right-sided isomerism		4.204E-6	1.743E-4	1.424E-3	8.365E-3	4	25
+49	MP:0011655	abnormal systemic artery morphology		4.420E-6	1.795E-4	1.467E-3	8.797E-3	8	218
+50	MP:0006113	abnormal heart septum morphology		6.248E-6	2.487E-4	2.033E-3	1.243E-2	9	306
+7: Pathway [Display Chart] 512 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	576264	Activation of Matrix Metalloproteinases	BioSystems: REACTOME	1.810E-6	6.267E-4	4.272E-3	9.269E-4	4	32
+2	694606	Hepatitis B	BioSystems: KEGG	2.886E-6	6.267E-4	4.272E-3	1.478E-3	6	146
+3	730309	Collagen degradation	BioSystems: REACTOME	3.672E-6	6.267E-4	4.272E-3	1.880E-3	4	38
+4	377873	Herpes simplex infection	BioSystems: KEGG	1.240E-5	1.406E-3	9.582E-3	6.347E-3	6	188
+5	138046	Syndecan-1-mediated signaling events	BioSystems: Pathway Interaction Database	1.373E-5	1.406E-3	9.582E-3	7.029E-3	3	17
+6	169642	Toxoplasmosis	BioSystems: KEGG	2.162E-5	1.845E-3	1.258E-2	1.107E-2	5	122
+7	213306	Measles	BioSystems: KEGG	3.400E-5	2.301E-3	1.568E-2	1.741E-2	5	134
+8	366163	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	BioSystems: REACTOME	4.031E-5	2.301E-3	1.568E-2	2.064E-2	3	24
+9	842771	Inflammatory bowel disease (IBD)	BioSystems: KEGG	4.045E-5	2.301E-3	1.568E-2	2.071E-2	4	69
+10	137929	IL27-mediated signaling events	BioSystems: Pathway Interaction Database	5.159E-5	2.641E-3	1.800E-2	2.641E-2	3	26
+11	137936	IL12 signaling mediated by STAT4	BioSystems: Pathway Interaction Database	6.475E-5	3.014E-3	2.054E-2	3.315E-2	3	28
+12	153910	Phagosome	BioSystems: KEGG	7.474E-5	3.141E-3	2.141E-2	3.827E-2	5	158
+13	83074	Antigen processing and presentation	BioSystems: KEGG	7.975E-5	3.141E-3	2.141E-2	4.083E-2	4	82
+14	198900	Matrix Metalloproteinases	BioSystems: WikiPathways	8.834E-5	3.231E-3	2.202E-2	4.523E-2	3	31
+15	576263	Degradation of the extracellular matrix	BioSystems: REACTOME	1.098E-4	3.720E-3	2.536E-2	
+5.621E-2
+4	89
+16	106408	Lectin pathway of complement activation	BioSystems: REACTOME	1.163E-4	3.720E-3	2.536E-2	
+5.952E-2
+2	6
+17	200309	Rheumatoid arthritis	BioSystems: KEGG	1.303E-4	3.923E-3	2.674E-2	
+6.669E-2
+4	93
+18	83125	Primary immunodeficiency	BioSystems: KEGG	1.390E-4	3.953E-3	2.695E-2	
+7.115E-2
+3	36
+19	M5885	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	MSigDB C2: MIT	1.708E-4	4.528E-3	3.086E-2	
+8.744E-2
+9	753
+20	130626	Aldosterone-regulated sodium reabsorption	BioSystems: KEGG	1.769E-4	4.528E-3	3.086E-2	
+9.055E-2
+3	39
+21	147809	Chagas disease (American trypanosomiasis)	BioSystems: KEGG	2.007E-4	4.894E-3	3.336E-2	
+1.028E-1
+4	104
+22	83035	ABC transporters	BioSystems: KEGG	2.538E-4	5.908E-3	4.027E-2	
+1.300E-1
+3	44
+23	83105	Pathways in cancer	BioSystems: KEGG	2.697E-4	6.003E-3	4.092E-2	
+1.381E-1
+6	327
+24	152665	Malaria	BioSystems: KEGG	3.498E-4	7.461E-3	
+5.086E-2
+1.791E-1
+3	49
+25	137976	IL2-mediated signaling events	BioSystems: Pathway Interaction Database	4.171E-4	8.543E-3	
+5.823E-2
+2.136E-1
+3	52
+26	83088	Taste transduction	BioSystems: KEGG	4.413E-4	8.690E-3	
+5.924E-2
+2.259E-1
+3	53
+27	198810	TGF Beta Signaling Pathway	BioSystems: WikiPathways	4.923E-4	8.763E-3	
+5.973E-2
+2.521E-1
+3	55
+28	M3468	Genes encoding enzymes and their regulators involved in the remodeling of the extracellular matrix	MSigDB C2: MIT	5.049E-4	8.763E-3	
+5.973E-2
+2.585E-1
+5	238
+29	M12399	Cystic Fibrosis Transmembrane Conductance Regulator And Beta 2 Adrenergic Receptor Pathway	MSigDB C2: BioCarta	5.061E-4	8.763E-3	
+5.973E-2
+2.591E-1
+2	12
+30	198832	Adipogenesis	BioSystems: WikiPathways	5.135E-4	8.763E-3	
+5.973E-2
+2.629E-1
+4	133
+31	83117	Acute myeloid leukemia	BioSystems: KEGG	5.470E-4	9.034E-3	
+6.158E-2
+2.801E-1
+3	57
+32	SMP00135	Eplerenone Pathway	SMPDB	5.971E-4	9.264E-3	
+6.315E-2
+3.057E-1
+2	13
+33	SMP00134	Spironolactone Pathway	SMPDB	5.971E-4	9.264E-3	
+6.315E-2
+3.057E-1
+2	13
+34	672456	Leptin signaling pathway	BioSystems: WikiPathways	6.360E-4	9.578E-3	
+6.529E-2
+3.257E-1
+3	60
+35	SMP00132	Triamterene Pathway	SMPDB	6.954E-4	9.889E-3	
+6.741E-2
+3.560E-1
+2	14
+36	SMP00133	Amiloride Pathway	SMPDB	6.954E-4	9.889E-3	
+6.741E-2
+3.560E-1
+2	14
+37	711361	Oncostatin M Signaling Pathway	BioSystems: WikiPathways	7.339E-4	1.001E-2	
+6.824E-2
+3.757E-1
+3	63
+38	198775	TFs Regulate miRNAs related to cardiac hypertrophy	BioSystems: WikiPathways	8.009E-4	1.001E-2	
+6.824E-2
+4.101E-1
+2	15
+39	477124	ER-Phagosome pathway	BioSystems: REACTOME	8.041E-4	1.001E-2	
+6.824E-2
+4.117E-1
+3	65
+40	576262	Extracellular matrix organization	BioSystems: REACTOME	8.084E-4	1.001E-2	
+6.824E-2
+4.139E-1
+5	264
+41	83108	Pancreatic cancer	BioSystems: KEGG	8.408E-4	1.001E-2	
+6.824E-2
+4.305E-1
+3	66
+42	198812	Endochondral Ossification	BioSystems: WikiPathways	8.408E-4	1.001E-2	
+6.824E-2
+4.305E-1
+3	66
+43	698754	AGE/RAGE pathway	BioSystems: WikiPathways	8.408E-4	1.001E-2	
+6.824E-2
+4.305E-1
+3	66
+44	P00038	JAK/STAT signaling pathway	PantherDB	9.137E-4	1.040E-2	
+7.086E-2
+4.678E-1
+2	16
+45	M8066	IL22 Soluble Receptor Signaling Pathway	MSigDB C2: BioCarta	9.137E-4	1.040E-2	
+7.086E-2
+4.678E-1
+2	16
+46	105851	Removal of DNA patch containing abasic residue	BioSystems: REACTOME	1.034E-3	1.080E-2	
+7.363E-2
+5.293E-1
+2	17
+47	M6778	IL-10 Anti-inflammatory Signaling Pathway	MSigDB C2: BioCarta	1.034E-3	1.080E-2	
+7.363E-2
+5.293E-1
+2	17
+48	P00050	Plasminogen activating cascade	PantherDB	1.034E-3	1.080E-2	
+7.363E-2
+5.293E-1
+2	17
+49	105850	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	BioSystems: REACTOME	1.034E-3	1.080E-2	
+7.363E-2
+5.293E-1
+2	17
+50	83116	Chronic myeloid leukemia	BioSystems: KEGG	1.128E-3	1.155E-2	
+7.870E-2
+5.773E-1
+3	73

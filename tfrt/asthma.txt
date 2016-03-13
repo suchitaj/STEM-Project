@@ -1,0 +1,414 @@
+1: GO: Molecular Function [Display Chart] 1603 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005102	receptor binding		1.101E-84	1.764E-81	1.404E-80	1.764E-81	252	1581
+2	GO:0005126	cytokine receptor binding		5.837E-65	4.679E-62	3.723E-61	9.357E-62	100	287
+3	GO:0005125	cytokine activity		4.067E-58	2.173E-55	1.729E-54	6.520E-55	84	221
+4	GO:0060089	molecular transducer activity		7.583E-53	3.039E-50	2.418E-49	1.216E-49	231	1925
+5	GO:0004871	signal transducer activity		6.300E-51	2.020E-48	1.607E-47	1.010E-47	213	1710
+6	GO:0004872	receptor activity		9.203E-39	2.459E-36	1.957E-35	1.475E-35	187	1635
+7	GO:0038023	signaling receptor activity		5.077E-37	1.163E-34	9.252E-34	8.139E-34	169	1418
+8	GO:0004888	transmembrane signaling receptor activity		8.356E-33	1.674E-30	1.332E-29	1.339E-29	154	1311
+9	GO:0004896	cytokine receptor activity		1.478E-27	2.633E-25	2.095E-24	2.370E-24	37	90
+10	GO:0019899	enzyme binding		7.919E-26	1.269E-23	1.010E-22	1.269E-22	175	1851
+11	GO:0070851	growth factor receptor binding		2.528E-25	3.684E-23	2.931E-22	4.052E-22	43	143
+12	GO:0001664	G-protein coupled receptor binding		1.050E-23	1.403E-21	1.117E-20	1.684E-20	56	270
+13	GO:0042379	chemokine receptor binding		5.716E-22	7.049E-20	5.609E-19	9.164E-19	27	59
+14	GO:0019955	cytokine binding		7.370E-21	8.439E-19	6.715E-18	1.181E-17	32	95
+15	GO:0048020	CCR chemokine receptor binding		2.836E-20	3.030E-18	2.411E-17	4.546E-17	21	36
+16	GO:0046983	protein dimerization activity		7.128E-19	7.142E-17	5.683E-16	1.143E-15	125	1298
+17	GO:0008009	chemokine activity		2.073E-18	1.955E-16	1.555E-15	3.323E-15	22	47
+18	GO:0042802	identical protein binding		1.941E-17	1.728E-15	1.375E-14	3.111E-14	124	1336
+19	GO:0005057	receptor signaling protein activity		3.352E-16	2.828E-14	2.250E-13	5.373E-13	34	149
+20	GO:0005539	glycosaminoglycan binding		9.436E-15	7.563E-13	6.018E-12	1.513E-11	39	216
+21	GO:0008083	growth factor activity		1.052E-14	8.027E-13	6.387E-12	1.686E-11	34	166
+22	GO:0042803	protein homodimerization activity		1.320E-14	9.619E-13	7.654E-12	2.116E-11	84	811
+23	GO:0050839	cell adhesion molecule binding		9.193E-13	6.407E-11	5.098E-10	1.474E-9	35	203
+24	GO:0008201	heparin binding		1.516E-12	1.013E-10	8.057E-10	2.430E-9	31	164
+25	GO:0001653	peptide receptor activity		1.729E-12	1.109E-10	8.822E-10	2.772E-9	28	135
+26	GO:0004953	icosanoid receptor activity		2.387E-12	1.472E-10	1.171E-9	3.826E-9	11	16
+27	GO:0008528	G-protein coupled peptide receptor activity		6.099E-12	3.621E-10	2.881E-9	9.777E-9	27	132
+28	GO:0008289	lipid binding		7.035E-12	4.027E-10	3.205E-9	1.128E-8	70	691
+29	GO:0019900	kinase binding		7.597E-12	4.199E-10	3.342E-9	1.218E-8	69	677
+30	GO:0046982	protein heterodimerization activity		8.468E-12	4.525E-10	3.600E-9	1.357E-8	61	560
+31	GO:0019901	protein kinase binding		1.138E-11	5.886E-10	4.684E-9	1.825E-8	64	608
+32	GO:0032403	protein complex binding		1.391E-11	6.968E-10	5.544E-9	2.230E-8	92	1053
+33	GO:0002020	protease binding		5.846E-11	2.840E-9	2.260E-8	9.372E-8	24	115
+34	GO:0044877	macromolecular complex binding		8.106E-11	3.822E-9	3.041E-8	1.299E-7	120	1578
+35	GO:1901681	sulfur compound binding		2.103E-10	9.632E-9	7.665E-8	3.371E-7	36	257
+36	GO:0042277	peptide binding		4.654E-10	2.073E-8	1.649E-7	7.461E-7	37	277
+37	GO:0001618	virus receptor activity		5.128E-10	2.222E-8	1.768E-7	8.221E-7	18	71
+38	GO:0001637	G-protein coupled chemoattractant receptor activity		1.721E-9	7.073E-8	5.628E-7	2.759E-6	11	25
+39	GO:0004950	chemokine receptor activity		1.721E-9	7.073E-8	5.628E-7	2.759E-6	11	25
+40	GO:0005178	integrin binding		3.493E-9	1.400E-7	1.114E-6	5.600E-6	22	118
+41	GO:0061134	peptidase regulator activity		3.679E-9	1.438E-7	1.144E-6	5.897E-6	31	221
+42	GO:0098772	molecular function regulator		7.856E-9	2.972E-7	2.365E-6	1.259E-5	99	1315
+43	GO:0019838	growth factor binding		8.147E-9	2.972E-7	2.365E-6	1.306E-5	23	134
+44	GO:0033218	amide binding		8.157E-9	2.972E-7	2.365E-6	1.308E-5	37	307
+45	GO:0016209	antioxidant activity		9.836E-9	3.504E-7	2.788E-6	1.577E-5	17	75
+46	GO:0019902	phosphatase binding		1.588E-8	5.534E-7	4.404E-6	2.546E-5	27	185
+47	GO:0030234	enzyme regulator activity		3.848E-8	1.313E-6	1.044E-5	6.169E-5	79	999
+48	GO:0001968	fibronectin binding		5.490E-8	1.834E-6	1.459E-5	8.801E-5	11	33
+49	GO:0004954	prostanoid receptor activity		6.348E-8	2.077E-6	1.652E-5	1.018E-4	7	11
+50	GO:0042056	chemoattractant activity		7.036E-8	2.256E-6	1.795E-5	1.128E-4	10	27
+2: GO: Biological Process [Display Chart] 8312 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0006954	inflammatory response		2.233E-160	1.856E-156	1.782E-155	1.856E-156	239	689
+2	GO:0006952	defense response		1.260E-147	5.236E-144	5.028E-143	1.047E-143	353	1901
+3	GO:0006955	immune response		7.190E-141	1.992E-137	1.913E-136	5.976E-137	334	1762
+4	GO:0002682	regulation of immune system process		2.919E-133	6.066E-130	5.825E-129	2.426E-129	314	1626
+5	GO:0051240	positive regulation of multicellular organismal process		6.004E-129	9.981E-126	9.584E-125	4.990E-125	305	1577
+6	GO:0001816	cytokine production		1.160E-119	1.607E-116	1.543E-115	9.640E-116	204	689
+7	GO:0009611	response to wounding		1.113E-118	1.321E-115	1.269E-114	9.249E-115	250	1109
+8	GO:0001775	cell activation		4.952E-117	5.145E-114	4.941E-113	4.116E-113	243	1057
+9	GO:0002684	positive regulation of immune system process		2.807E-112	2.592E-109	2.489E-108	2.333E-108	232	998
+10	GO:0001817	regulation of cytokine production		1.157E-109	9.620E-107	9.237E-106	9.620E-106	186	619
+11	GO:0042127	regulation of cell proliferation		6.745E-108	5.097E-105	4.894E-104	5.606E-104	287	1646
+12	GO:1903034	regulation of response to wounding		3.311E-101	2.293E-98	2.202E-97	2.752E-97	155	446
+13	GO:1901700	response to oxygen-containing compound		2.474E-100	1.582E-97	1.519E-96	2.056E-96	281	1684
+14	GO:0010647	positive regulation of cell communication		3.240E-99	1.924E-96	1.847E-95	2.693E-95	281	1701
+15	GO:0023056	positive regulation of signaling		7.678E-99	4.255E-96	4.086E-95	6.382E-95	279	1682
+16	GO:0045321	leukocyte activation		1.932E-97	1.004E-94	9.640E-94	1.606E-93	197	813
+17	GO:0009967	positive regulation of signal transduction		5.380E-95	2.630E-92	2.526E-91	4.472E-91	259	1497
+18	GO:1902533	positive regulation of intracellular signal transduction		1.685E-94	7.782E-92	7.473E-91	1.401E-90	217	1038
+19	GO:0032101	regulation of response to external stimulus		6.750E-94	2.953E-91	2.836E-90	5.611E-90	207	944
+20	GO:0033993	response to lipid		1.540E-93	6.402E-91	6.148E-90	1.280E-89	199	870
+21	GO:0050727	regulation of inflammatory response		2.924E-93	1.157E-90	1.111E-89	2.431E-89	129	320
+22	GO:0045937	positive regulation of phosphate metabolic process		3.402E-93	1.229E-90	1.181E-89	2.828E-89	233	1224
+23	GO:0010562	positive regulation of phosphorus metabolic process		3.402E-93	1.229E-90	1.181E-89	2.828E-89	233	1224
+24	GO:0009607	response to biotic stimulus		5.503E-93	1.906E-90	1.830E-89	4.574E-89	211	994
+25	GO:0001819	positive regulation of cytokine production		1.264E-92	4.202E-90	4.035E-89	1.051E-88	144	421
+26	GO:0051247	positive regulation of protein metabolic process		1.221E-91	3.904E-89	3.749E-88	1.015E-87	267	1645
+27	GO:0050776	regulation of immune response		1.645E-91	5.065E-89	4.864E-88	1.368E-87	215	1052
+28	GO:0051707	response to other organism		4.602E-91	1.319E-88	1.267E-87	3.825E-87	205	955
+29	GO:0043207	response to external biotic stimulus		4.602E-91	1.319E-88	1.267E-87	3.825E-87	205	955
+30	GO:0031347	regulation of defense response		7.283E-91	1.970E-88	1.892E-87	6.054E-87	193	840
+31	GO:0016477	cell migration		7.349E-91	1.970E-88	1.892E-87	6.108E-87	235	1277
+32	GO:0040011	locomotion		1.309E-90	3.401E-88	3.266E-87	1.088E-86	288	1932
+33	GO:0050865	regulation of cell activation		9.132E-89	2.300E-86	2.209E-85	7.591E-85	156	536
+34	GO:1902531	regulation of intracellular signal transduction		5.631E-87	1.377E-84	1.322E-83	4.680E-83	266	1708
+35	GO:0034097	response to cytokine		7.169E-87	1.703E-84	1.635E-83	5.959E-83	192	872
+36	GO:0009617	response to bacterium		8.068E-87	1.863E-84	1.789E-83	6.706E-83	158	567
+37	GO:0030155	regulation of cell adhesion		3.495E-86	7.852E-84	7.540E-83	2.905E-82	171	683
+38	GO:0080134	regulation of response to stress		4.684E-86	1.004E-83	9.642E-83	3.893E-82	250	1523
+39	GO:0051674	localization of cell		4.832E-86	1.004E-83	9.642E-83	4.017E-82	239	1391
+40	GO:0048870	cell motility		4.832E-86	1.004E-83	9.642E-83	4.017E-82	239	1391
+41	GO:0051174	regulation of phosphorus metabolic process		1.124E-85	2.271E-83	2.181E-82	9.342E-82	275	1847
+42	GO:0019220	regulation of phosphate metabolic process		1.148E-85	2.271E-83	2.181E-82	9.539E-82	274	1834
+43	GO:0042325	regulation of phosphorylation		5.212E-85	1.008E-82	9.675E-82	4.332E-81	254	1589
+44	GO:0042327	positive regulation of phosphorylation		7.806E-85	1.475E-82	1.416E-81	6.488E-81	212	1102
+45	GO:0022610	biological adhesion		8.208E-85	1.516E-82	1.456E-81	6.823E-81	248	1518
+46	GO:0001932	regulation of protein phosphorylation		1.880E-84	3.397E-82	3.262E-81	1.563E-80	245	1487
+47	GO:0040012	regulation of locomotion		3.590E-84	6.349E-82	6.097E-81	2.984E-80	184	823
+48	GO:0007155	cell adhesion		5.918E-84	1.025E-81	9.840E-81	4.919E-80	246	1507
+49	GO:0001934	positive regulation of protein phosphorylation		7.976E-84	1.353E-81	1.299E-80	6.630E-80	207	1061
+50	GO:0007159	leukocyte cell-cell adhesion		1.146E-83	1.906E-81	1.830E-80	9.528E-80	150	527
+3: GO: Cellular Component [Display Chart] 717 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0005615	extracellular space		1.705E-83	1.223E-80	8.746E-80	1.223E-80	238	1431
+2	GO:0009986	cell surface		2.513E-60	9.008E-58	6.443E-57	1.802E-57	160	871
+3	GO:0009897	external side of plasma membrane		5.978E-46	1.429E-43	1.022E-42	4.286E-43	85	309
+4	GO:0098552	side of membrane		1.678E-44	3.008E-42	2.151E-41	1.203E-41	105	502
+5	GO:0031226	intrinsic component of plasma membrane		1.045E-42	1.498E-40	1.071E-39	7.489E-40	195	1655
+6	GO:0005887	integral component of plasma membrane		3.277E-41	3.916E-39	2.801E-38	2.350E-38	188	1591
+7	GO:0098857	membrane microdomain		4.915E-25	4.405E-23	3.151E-22	3.524E-22	64	334
+8	GO:0045121	membrane raft		4.915E-25	4.405E-23	3.151E-22	3.524E-22	64	334
+9	GO:0098589	membrane region		2.330E-22	1.856E-20	1.328E-19	1.671E-19	129	1246
+10	GO:0043235	receptor complex		7.167E-20	5.139E-18	3.676E-17	5.139E-17	57	334
+11	GO:0097458	neuron part		2.113E-18	1.377E-16	9.850E-16	1.515E-15	134	1467
+12	GO:0043005	neuron projection		3.012E-17	1.800E-15	1.287E-14	2.160E-14	111	1140
+13	GO:0044297	cell body		3.932E-17	2.169E-15	1.551E-14	2.819E-14	79	667
+14	GO:0016023	cytoplasmic, membrane-bounded vesicle		5.423E-17	2.777E-15	1.987E-14	3.888E-14	113	1181
+15	GO:0098797	plasma membrane protein complex		1.831E-16	8.754E-15	6.262E-14	1.313E-13	67	521
+16	GO:0031012	extracellular matrix		5.446E-16	2.440E-14	1.746E-13	3.905E-13	60	441
+17	GO:0031410	cytoplasmic vesicle		1.475E-15	6.223E-14	4.451E-13	1.058E-12	117	1302
+18	GO:0030141	secretory granule		3.010E-15	1.199E-13	8.577E-13	2.158E-12	53	369
+19	GO:0043025	neuronal cell body		1.173E-14	4.428E-13	3.167E-12	8.414E-12	69	594
+20	GO:0036477	somatodendritic compartment		1.262E-14	4.524E-13	3.236E-12	9.048E-12	86	844
+21	GO:0005901	caveola		7.905E-14	2.699E-12	1.931E-11	5.668E-11	25	95
+22	GO:0098590	plasma membrane region		1.476E-13	4.809E-12	3.440E-11	1.058E-10	95	1024
+23	GO:0044853	plasma membrane raft		7.385E-13	2.302E-11	1.647E-10	5.295E-10	25	104
+24	GO:0005768	endosome		2.621E-12	7.831E-11	5.602E-10	1.879E-9	78	802
+25	GO:0030139	endocytic vesicle		3.782E-12	1.085E-10	7.759E-10	2.712E-9	39	260
+26	GO:0031983	vesicle lumen		4.604E-12	1.270E-10	9.083E-10	3.301E-9	22	86
+27	GO:0060205	cytoplasmic membrane-bounded vesicle lumen		1.378E-11	3.660E-10	2.618E-9	9.883E-9	21	82
+28	GO:0098802	plasma membrane receptor complex		1.470E-11	3.764E-10	2.692E-9	1.054E-8	31	179
+29	GO:0005578	proteinaceous extracellular matrix		2.328E-10	5.755E-9	4.117E-8	1.669E-7	45	377
+30	GO:0048471	perinuclear region of cytoplasm		9.884E-10	2.362E-8	1.690E-7	7.086E-7	66	711
+31	GO:0016323	basolateral plasma membrane		1.555E-9	3.597E-8	2.573E-7	1.115E-6	33	239
+32	GO:0030424	axon		2.723E-9	6.101E-8	4.364E-7	1.952E-6	53	525
+33	GO:0045177	apical part of cell		2.862E-9	6.218E-8	4.448E-7	2.052E-6	46	422
+34	GO:0044433	cytoplasmic vesicle part		3.538E-9	7.461E-8	5.337E-7	2.537E-6	56	575
+35	GO:0031091	platelet alpha granule		4.287E-9	8.782E-8	6.282E-7	3.074E-6	16	63
+36	GO:0098796	membrane protein complex		1.028E-8	2.047E-7	1.464E-6	7.369E-6	84	1060
+37	GO:0000323	lytic vacuole		2.672E-8	5.042E-7	3.607E-6	1.916E-5	51	530
+38	GO:0005764	lysosome		2.672E-8	5.042E-7	3.607E-6	1.916E-5	51	530
+39	GO:0034774	secretory granule lumen		3.372E-8	6.199E-7	4.434E-6	2.418E-5	15	63
+40	GO:0042611	MHC protein complex		6.736E-8	1.207E-6	8.636E-6	4.829E-5	10	27
+41	GO:0042613	MHC class II protein complex		8.529E-8	1.462E-6	1.046E-5	6.115E-5	8	16
+42	GO:0005783	endoplasmic reticulum		8.562E-8	1.462E-6	1.046E-5	6.139E-5	114	1668
+43	GO:0030425	dendrite		2.815E-7	4.694E-6	3.358E-5	2.019E-4	51	571
+44	GO:0030054	cell junction		3.420E-7	5.573E-6	3.987E-5	2.452E-4	86	1185
+45	GO:0031093	platelet alpha granule lumen		4.507E-7	7.181E-6	5.137E-5	3.232E-4	12	48
+46	GO:0005912	adherens junction		8.308E-7	1.295E-5	9.263E-5	5.957E-4	44	478
+47	GO:0016324	apical plasma membrane		1.161E-6	1.772E-5	1.267E-4	8.327E-4	34	329
+48	GO:0098553	lumenal side of endoplasmic reticulum membrane		1.246E-6	1.823E-5	1.304E-4	8.933E-4	9	28
+49	GO:0071556	integral component of lumenal side of endoplasmic reticulum membrane		1.246E-6	1.823E-5	1.304E-4	8.933E-4	9	28
+50	GO:0005773	vacuole		1.459E-6	2.091E-5	1.496E-4	1.046E-3	52	620
+4: Human Phenotype [Display Chart] 1969 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0002099	Asthma		3.467E-15	6.826E-12	5.572E-11	6.826E-12	28	76
+2	HP:0000006	Autosomal dominant inheritance		1.796E-9	1.768E-6	1.443E-5	3.536E-6	163	1793
+3	HP:0003212	Increased IgE level		1.338E-8	8.784E-6	7.170E-5	2.635E-5	10	17
+4	HP:0000964	Eczema		3.781E-8	1.861E-5	1.519E-4	7.445E-5	18	63
+5	HP:0001744	Splenomegaly		7.720E-8	3.040E-5	2.482E-4	1.520E-4	37	228
+6	HP:0001075	Atrophic scars		1.267E-7	3.723E-5	3.039E-4	2.494E-4	9	16
+7	HP:0002716	Lymphadenopathy		1.324E-7	3.723E-5	3.039E-4	2.606E-4	19	75
+8	HP:0002633	Vasculitis		2.170E-6	5.342E-4	4.361E-3	4.274E-3	10	26
+9	HP:0000978	Bruising susceptibility		3.357E-6	7.345E-4	5.995E-3	6.610E-3	18	83
+10	HP:0001369	Arthritis		5.799E-6	1.142E-3	9.321E-3	1.142E-2	16	70
+11	HP:0002715	Abnormality of the immune system		7.410E-6	1.326E-3	1.083E-2	1.459E-2	14	56
+12	HP:0001890	Autoimmune hemolytic anemia		9.770E-6	1.603E-3	1.309E-2	1.924E-2	7	14
+13	HP:0010702	Hypergammaglobulinemia		1.684E-5	2.551E-3	2.083E-2	3.317E-2	8	20
+14	HP:0003565	Elevated erythrocyte sedimentation rate		2.349E-5	3.303E-3	2.696E-2	4.625E-2	6	11
+15	HP:0000707	Abnormality of the nervous system		2.525E-5	3.314E-3	2.705E-2	4.971E-2	10	33
+16	HP:0001428	Somatic mutation		2.737E-5	3.368E-3	2.749E-2	
+5.388E-2
+17	87
+17	HP:0002240	Hepatomegaly		4.190E-5	4.853E-3	3.962E-2	
+8.251E-2
+39	317
+18	HP:0011107	Recurrent aphthous stomatitis		5.530E-5	6.049E-3	4.938E-2	
+1.089E-1
+8	23
+19	HP:0008066	Abnormal blistering of the skin		7.219E-5	6.806E-3	
+5.555E-2
+1.421E-1
+11	44
+20	HP:0001939	Abnormality of metabolism/homeostasis		7.443E-5	6.806E-3	
+5.555E-2
+1.466E-1
+31	235
+21	HP:0006089	Palmar hyperhidrosis		7.950E-5	6.806E-3	
+5.555E-2
+1.565E-1
+4	5
+22	HP:0100640	Laryngeal cyst		7.950E-5	6.806E-3	
+5.555E-2
+1.565E-1
+4	5
+23	HP:0200097	Oral mucosal blisters		7.950E-5	6.806E-3	
+5.555E-2
+1.565E-1
+4	5
+24	HP:0000988	Skin rash		9.668E-5	7.932E-3	
+6.474E-2
+1.904E-1
+10	38
+25	HP:0003493	Antinuclear antibody positivity		2.236E-4	1.536E-2	
+1.254E-1
+4.403E-1
+7	21
+26	HP:0200042	Skin ulcer		2.251E-4	1.536E-2	
+1.254E-1
+4.433E-1
+13	66
+27	HP:0100577	Urinary bladder inflammation		2.262E-4	1.536E-2	
+1.254E-1
+4.454E-1
+4	6
+28	HP:0100774	Hyperostosis		2.262E-4	1.536E-2	
+1.254E-1
+4.454E-1
+4	6
+29	HP:0003341	Junctional split		2.262E-4	1.536E-2	
+1.254E-1
+4.454E-1
+4	6
+30	HP:0002829	Arthralgia		2.355E-4	1.543E-2	
+1.260E-1
+4.637E-1
+14	75
+31	HP:0002721	Immunodeficiency		2.635E-4	1.543E-2	
+1.260E-1
+5.189E-1
+13	67
+32	HP:0005397	Exaggerated cellular immune processes		2.821E-4	1.543E-2	
+1.260E-1
+5.555E-1
+3	3
+33	HP:0004933	Ascending aortic dissection		2.821E-4	1.543E-2	
+1.260E-1
+5.555E-1
+3	3
+34	HP:0008940	Generalized lymphadenopathy		2.821E-4	1.543E-2	
+1.260E-1
+5.555E-1
+3	3
+35	HP:0001094	Iridocyclitis		2.821E-4	1.543E-2	
+1.260E-1
+5.555E-1
+3	3
+36	HP:0007734	Enlarged lacrimal glands		2.821E-4	1.543E-2	
+1.260E-1
+5.555E-1
+3	3
+37	HP:0002665	Lymphoma		2.942E-4	1.566E-2	
+1.278E-1
+5.792E-1
+10	43
+38	HP:0006530	Interstitial pulmonary disease		3.548E-4	1.838E-2	
+1.501E-1
+6.985E-1
+5	11
+39	HP:0006519	Alveolar cell carcinoma		4.216E-4	2.076E-2	
+1.694E-1
+8.302E-1
+7	23
+40	HP:0002720	IgA deficiency		4.216E-4	2.076E-2	
+1.694E-1
+8.302E-1
+7	23
+41	HP:0007556	Plantar hyperkeratosis		5.011E-4	2.349E-2	
+1.918E-1
+9.867E-1
+4	7
+42	HP:0100721	Mediastinal lymphadenopathy		5.011E-4	2.349E-2	
+1.918E-1
+9.867E-1
+4	7
+43	HP:0000989	Pruritus		5.266E-4	2.411E-2	
+1.968E-1
+1.000E0
+10	46
+44	HP:0004370	Abnormality of temperature regulation		5.416E-4	2.424E-2	
+1.978E-1
+1.000E0
+12	63
+45	HP:0001873	Thrombocytopenia		5.747E-4	2.490E-2	
+2.032E-1
+1.000E0
+22	162
+46	HP:0001426	Multifactorial inheritance		5.817E-4	2.490E-2	
+2.032E-1
+1.000E0
+15	91
+47	HP:0001824	Weight loss		6.140E-4	2.572E-2	
+2.100E-1
+1.000E0
+14	82
+48	HP:0002582	Chronic atrophic gastritis		8.878E-4	3.370E-2	
+2.751E-1
+1.000E0
+5	13
+49	HP:0012126	Stomach cancer		8.878E-4	3.370E-2	
+2.751E-1
+1.000E0
+5	13
+50	HP:0001891	Iron deficiency anemia		8.878E-4	3.370E-2	
+2.751E-1
+1.000E0
+5	13
+5: Mouse Phenotype [Display Chart] 6033 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0001845	abnormal inflammatory response		8.213E-96	4.955E-92	4.600E-91	4.955E-92	288	1055
+2	MP:0002420	abnormal adaptive immunity		6.745E-92	2.035E-88	1.888E-87	4.069E-88	315	1298
+3	MP:0002723	abnormal immune serum protein physiology		3.437E-85	6.913E-82	6.416E-81	2.074E-81	259	939
+4	MP:0002421	abnormal cell-mediated immunity		5.419E-85	8.173E-82	7.586E-81	3.269E-81	304	1281
+5	MP:0001819	abnormal immune cell physiology		1.642E-84	1.981E-81	1.839E-80	9.904E-81	302	1270
+6	MP:0002442	abnormal leukocyte physiology		6.087E-84	6.120E-81	5.681E-80	3.672E-80	298	1244
+7	MP:0012382	abnormal blood cell physiology		1.741E-83	1.501E-80	1.393E-79	1.050E-79	310	1346
+8	MP:0001545	abnormal hematopoietic system physiology		1.462E-81	1.103E-78	1.024E-77	8.823E-78	317	1426
+9	MP:0001846	increased inflammatory response		9.953E-75	6.672E-72	6.193E-71	6.004E-71	239	890
+10	MP:0002419	abnormal innate immunity		5.149E-73	3.107E-70	2.884E-69	3.107E-69	183	540
+11	MP:0003009	abnormal cytokine secretion		2.306E-71	1.265E-68	1.174E-67	1.391E-67	187	575
+12	MP:0002452	abnormal professional antigen presenting cell physiology		1.198E-64	6.023E-62	5.591E-61	7.228E-61	221	856
+13	MP:0008835	abnormal intercellular signaling peptide or protein level		1.179E-63	5.472E-61	5.079E-60	7.114E-60	141	364
+14	MP:0008713	abnormal cytokine level		1.883E-62	8.115E-60	7.533E-59	1.136E-58	138	355
+15	MP:0001844	autoimmune response		4.830E-61	1.943E-58	1.803E-57	2.914E-57	134	342
+16	MP:0002498	abnormal acute inflammation		6.988E-61	2.635E-58	2.446E-57	4.216E-57	124	293
+17	MP:0005005	abnormal self tolerance		1.132E-60	4.016E-58	3.728E-57	6.828E-57	134	344
+18	MP:0005000	abnormal immune tolerance		2.426E-60	8.130E-58	7.546E-57	1.463E-56	135	351
+19	MP:0001876	decreased inflammatory response		3.446E-60	1.094E-57	1.016E-56	2.079E-56	111	236
+20	MP:0005025	abnormal response to infection		9.394E-60	2.834E-57	2.630E-56	5.667E-56	171	562
+21	MP:0003945	abnormal lymphocyte physiology		1.174E-59	3.373E-57	3.130E-56	7.082E-56	222	914
+22	MP:0002425	altered susceptibility to autoimmune disorder		4.892E-58	1.341E-55	1.245E-54	2.951E-54	117	273
+23	MP:0001793	altered susceptibility to infection		5.231E-55	1.372E-52	1.274E-51	3.156E-51	159	524
+24	MP:0008751	abnormal interleukin level		2.477E-52	6.226E-50	5.779E-49	1.494E-48	105	243
+25	MP:0008568	abnormal interleukin secretion		3.396E-52	8.196E-50	7.608E-49	2.049E-48	139	424
+26	MP:0000716	abnormal immune system cell morphology		1.796E-51	4.167E-49	3.868E-48	1.083E-47	280	1501
+27	MP:0008246	abnormal leukocyte morphology		2.114E-51	4.723E-49	4.384E-48	1.275E-47	278	1484
+28	MP:0008250	abnormal myeloid leukocyte morphology		1.765E-50	3.803E-48	3.530E-47	1.065E-46	181	711
+29	MP:0000217	abnormal leukocyte cell number		1.570E-49	3.267E-47	3.032E-46	9.474E-46	253	1291
+30	MP:0002451	abnormal macrophage physiology		2.327E-49	4.679E-47	4.343E-46	1.404E-45	125	363
+31	MP:0001800	abnormal humoral immune response		1.443E-47	2.809E-45	2.608E-44	8.708E-44	145	496
+32	MP:0002406	increased susceptibility to infection		4.878E-47	9.197E-45	8.537E-44	2.943E-43	134	432
+33	MP:0005087	decreased acute inflammation		1.590E-46	2.907E-44	2.699E-43	9.594E-43	85	178
+34	MP:0011180	abnormal hematopoietic cell number		3.333E-45	5.915E-43	5.490E-42	2.011E-41	267	1483
+35	MP:0010210	abnormal circulating cytokine level		3.639E-45	6.272E-43	5.822E-42	2.195E-41	103	270
+36	MP:0002459	abnormal B cell physiology		3.760E-45	6.301E-43	5.849E-42	2.268E-41	152	563
+37	MP:0013656	abnormal hematopoietic cell morphology		1.414E-44	2.305E-42	2.140E-41	8.528E-41	310	1905
+38	MP:0002444	abnormal T cell physiology		1.722E-44	2.733E-42	2.537E-41	1.039E-40	153	576
+39	MP:0000685	abnormal immune system morphology		7.025E-44	1.087E-41	1.009E-40	4.238E-40	302	1839
+40	MP:0008247	abnormal mononuclear cell morphology		8.487E-44	1.280E-41	1.188E-40	5.120E-40	245	1308
+41	MP:0002441	abnormal granulocyte morphology		6.046E-43	8.896E-41	8.258E-40	3.647E-39	125	409
+42	MP:0005164	abnormal response to injury		7.737E-43	1.111E-40	1.032E-39	4.668E-39	131	447
+43	MP:0008469	abnormal protein level		1.869E-42	2.623E-40	2.434E-39	1.128E-38	183	815
+44	MP:0002490	abnormal immunoglobulin level		2.118E-42	2.857E-40	2.652E-39	1.277E-38	132	457
+45	MP:0008555	abnormal interferon secretion		2.131E-42	2.857E-40	2.652E-39	1.285E-38	102	281
+46	MP:0001657	abnormal induced morbidity/mortality		5.293E-42	6.941E-40	6.443E-39	3.193E-38	141	519
+47	MP:0008559	abnormal interferon-gamma secretion		1.416E-41	1.818E-39	1.687E-38	8.542E-38	94	244
+48	MP:0020201	abnormal granulocyte number		5.770E-41	7.253E-39	6.732E-38	3.481E-37	118	382
+49	MP:0008588	abnormal circulating interleukin level		1.639E-40	2.018E-38	1.873E-37	9.887E-37	85	205
+50	MP:0005351	decreased susceptibility to autoimmune disorder		3.585E-40	4.326E-38	4.016E-37	2.163E-36	76	165
+7: Pathway [Display Chart] 2231 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	83051	Cytokine-cytokine receptor interaction	BioSystems: KEGG	4.718E-68	1.053E-64	8.724E-64	1.053E-64	115	265
+2	842771	Inflammatory bowel disease (IBD)	BioSystems: KEGG	2.584E-43	2.883E-40	2.389E-39	5.766E-40	49	69
+3	83077	Jak-STAT signaling pathway	BioSystems: KEGG	6.137E-29	4.564E-26	3.782E-25	1.369E-25	57	156
+4	144181	Leishmaniasis	BioSystems: KEGG	8.008E-27	4.467E-24	3.702E-23	1.787E-23	39	76
+5	M5883	Genes encoding secreted soluble factors	MSigDB C2: MIT	1.927E-26	8.597E-24	7.125E-23	4.298E-23	82	344
+6	M5885	Ensemble of genes encoding ECM-associated proteins including ECM-affilaited proteins, ECM regulators and secreted factors	MSigDB C2: MIT	7.471E-26	2.778E-23	2.302E-22	1.667E-22	128	753
+7	213780	Tuberculosis	BioSystems: KEGG	5.585E-25	1.780E-22	1.475E-21	1.246E-21	57	182
+8	106357	Class A/1 (Rhodopsin-like receptors)	BioSystems: REACTOME	8.388E-25	2.339E-22	1.939E-21	1.871E-21	76	316
+9	M5889	Ensemble of genes encoding extracellular matrix and extracellular matrix-associated proteins	MSigDB C2: MIT	1.101E-24	2.728E-22	2.261E-21	2.455E-21	153	1028
+10	M6910	Cytokines and Inflammatory Response	MSigDB C2: BioCarta	1.455E-24	3.246E-22	2.690E-21	3.246E-21	24	29
+11	739007	Spinal Cord Injury	BioSystems: WikiPathways	4.468E-24	9.062E-22	7.510E-21	9.968E-21	44	112
+12	200309	Rheumatoid arthritis	BioSystems: KEGG	9.047E-24	1.682E-21	1.394E-20	2.018E-20	40	93
+13	M17406	Cytokine Network	MSigDB C2: BioCarta	2.175E-23	3.733E-21	3.094E-20	4.853E-20	20	21
+14	169642	Toxoplasmosis	BioSystems: KEGG	2.969E-23	4.446E-21	3.685E-20	6.623E-20	45	122
+15	137933	IL4-mediated signaling events	BioSystems: Pathway Interaction Database	2.989E-23	4.446E-21	3.685E-20	6.669E-20	33	63
+16	137929	IL27-mediated signaling events	BioSystems: Pathway Interaction Database	5.022E-23	7.002E-21	5.803E-20	1.120E-19	22	26
+17	147809	Chagas disease (American trypanosomiasis)	BioSystems: KEGG	1.399E-22	1.836E-20	1.522E-19	3.121E-19	41	104
+18	218111	Pertussis	BioSystems: KEGG	2.084E-22	2.583E-20	2.141E-19	4.650E-19	35	75
+19	83076	Toll-like receptor signaling pathway	BioSystems: KEGG	3.311E-22	3.888E-20	3.222E-19	7.387E-19	41	106
+20	P00036	Interleukin signaling pathway	PantherDB	7.091E-22	7.910E-20	6.556E-19	1.582E-18	38	92
+21	138000	IL23-mediated signaling events	BioSystems: Pathway Interaction Database	9.169E-22	9.741E-20	8.073E-19	2.046E-18	25	37
+22	137922	IL12-mediated signaling events	BioSystems: Pathway Interaction Database	4.011E-21	4.068E-19	3.371E-18	8.949E-18	31	62
+23	161020	GPCR ligand binding	BioSystems: REACTOME	4.472E-21	4.338E-19	3.595E-18	9.977E-18	86	445
+24	920955	Regulation of toll-like receptor signaling pathway	BioSystems: WikiPathways	5.756E-21	5.351E-19	4.434E-18	1.284E-17	39	102
+25	198855	Toll-like receptor signaling pathway	BioSystems: WikiPathways	8.712E-21	7.775E-19	6.444E-18	1.944E-17	39	103
+26	83105	Pathways in cancer	BioSystems: KEGG	7.963E-20	6.833E-18	5.663E-17	1.777E-16	70	327
+27	694606	Hepatitis B	BioSystems: KEGG	1.254E-19	1.036E-17	8.585E-17	2.797E-16	45	146
+28	M4047	Selective expression of chemokine receptors during T-cell polarization	MSigDB C2: BioCarta	1.807E-19	1.440E-17	1.193E-16	4.032E-16	21	29
+29	698754	AGE/RAGE pathway	BioSystems: WikiPathways	5.667E-19	4.360E-17	3.613E-16	1.264E-15	30	66
+30	213306	Measles	BioSystems: KEGG	1.058E-18	7.870E-17	6.522E-16	2.361E-15	42	134
+31	99051	Chemokine signaling pathway	BioSystems: KEGG	1.677E-18	1.207E-16	1.000E-15	3.741E-15	50	189
+32	P00031	Inflammation mediated by chemokine and cytokine signaling pathway	PantherDB	2.729E-18	1.902E-16	1.577E-15	6.087E-15	50	191
+33	128760	Intestinal immune network for IgA production	BioSystems: KEGG	3.422E-18	2.314E-16	1.918E-15	7.635E-15	26	51
+34	217173	Influenza A	BioSystems: KEGG	4.547E-18	2.984E-16	2.473E-15	1.014E-14	48	179
+35	711360	Integrated Pancreatic Cancer Pathway	BioSystems: WikiPathways	5.585E-18	3.560E-16	2.950E-15	1.246E-14	50	194
+36	160140	Signaling by Interleukins	BioSystems: REACTOME	9.034E-18	5.451E-16	4.518E-15	2.015E-14	38	116
+37	812256	TNF signaling pathway	BioSystems: KEGG	9.041E-18	5.451E-16	4.518E-15	2.017E-14	37	110
+38	152665	Malaria	BioSystems: KEGG	1.495E-17	8.778E-16	7.275E-15	3.335E-14	25	49
+39	83120	Asthma	BioSystems: KEGG	2.874E-17	1.644E-15	1.363E-14	6.413E-14	21	34
+40	198770	IL-5 Signaling Pathway	BioSystems: WikiPathways	3.085E-17	1.720E-15	1.426E-14	6.882E-14	29	69
+41	920963	Allograft Rejection	BioSystems: WikiPathways	3.574E-17	1.945E-15	1.612E-14	7.973E-14	22	38
+42	634527	NF-kappa B signaling pathway	BioSystems: KEGG	4.110E-17	2.183E-15	1.810E-14	9.170E-14	33	91
+43	106358	Peptide ligand-binding receptors	BioSystems: REACTOME	5.025E-17	2.607E-15	2.161E-14	1.121E-13	48	189
+44	366171	Cytokine Signaling in Immune system	BioSystems: REACTOME	6.325E-17	3.207E-15	2.658E-14	1.411E-13	61	291
+45	83095	Type I diabetes mellitus	BioSystems: KEGG	6.528E-17	3.237E-15	2.682E-14	1.456E-13	24	47
+46	106359	Chemokine receptors bind chemokines	BioSystems: REACTOME	6.744E-17	3.271E-15	2.711E-14	1.505E-13	26	56
+47	83078	Hematopoietic cell lineage	BioSystems: KEGG	1.130E-16	5.366E-15	4.447E-14	2.522E-13	32	88
+48	692234	PI3K-Akt signaling pathway	BioSystems: KEGG	1.276E-16	5.932E-15	4.916E-14	2.847E-13	67	346
+49	106028	Hemostasis	BioSystems: REACTOME	1.566E-16	7.129E-15	5.908E-14	3.493E-13	83	493
+50	83123	Allograft rejection	BioSystems: KEGG	3.270E-16	1.459E-14	1.209E-13	7.295E-13	22	41

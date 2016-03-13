@@ -1,0 +1,324 @@
+1: GO: Molecular Function [Display Chart] 269 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0030742	GTP-dependent protein binding		8.157E-6	2.194E-3	1.355E-2	2.194E-3	3	17
+2	GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen		1.632E-5	2.195E-3	1.355E-2	4.389E-3	2	3
+3	GO:0003705	transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding		1.086E-4	9.734E-3	
+6.010E-2
+2.920E-2	4	105
+4	GO:0044877	macromolecular complex binding		2.120E-4	1.426E-2	
+8.804E-2
+5.704E-2
+12	1578
+5	GO:0022857	transmembrane transporter activity		4.121E-4	2.217E-2	
+1.369E-1
+1.109E-1
+9	985
+6	GO:0005215	transporter activity		5.815E-4	2.607E-2	
+1.610E-1
+1.564E-1
+10	1262
+7	GO:0042562	hormone binding		9.211E-4	3.391E-2	
+2.094E-1
+2.478E-1
+3	81
+8	GO:0003682	chromatin binding		1.086E-3	3.391E-2	
+2.094E-1
+2.921E-1
+6	501
+9	GO:0022891	substrate-specific transmembrane transporter activity		1.135E-3	3.391E-2	
+2.094E-1
+3.052E-1
+8	907
+10	GO:0071837	HMG box domain binding		1.335E-3	3.592E-2	
+2.218E-1
+3.592E-1
+2	23
+11	GO:0051082	unfolded protein binding		1.893E-3	3.978E-2	
+2.456E-1
+5.092E-1
+3	104
+12	GO:0072544	L-DOPA binding		2.366E-3	3.978E-2	
+2.456E-1
+6.365E-1
+1	1
+13	GO:0018686	6-hydroxy pseudo-oxynicotine monooxygenase activity		2.366E-3	3.978E-2	
+2.456E-1
+6.365E-1
+1	1
+14	GO:0004503	monophenol monooxygenase activity		2.366E-3	3.978E-2	
+2.456E-1
+6.365E-1
+1	1
+15	GO:0035643	L-DOPA receptor activity		2.366E-3	3.978E-2	
+2.456E-1
+6.365E-1
+1	1
+16	GO:0005020	stem cell factor receptor activity		2.366E-3	3.978E-2	
+2.456E-1
+6.365E-1
+1	1
+17	GO:0001948	glycoprotein binding		2.777E-3	4.395E-2	
+2.713E-1
+7.471E-1
+3	119
+18	GO:0015075	ion transmembrane transporter activity		3.179E-3	4.531E-2	
+2.797E-1
+8.551E-1
+7	835
+19	GO:0022892	substrate-specific transporter activity		3.401E-3	4.531E-2	
+2.797E-1
+9.147E-1
+8	1080
+20	GO:0031625	ubiquitin protein ligase binding		3.661E-3	4.531E-2	
+2.797E-1
+9.847E-1
+4	269
+21	GO:0008528	G-protein coupled peptide receptor activity		3.720E-3	4.531E-2	
+2.797E-1
+1.000E0
+3	132
+22	GO:0044389	ubiquitin-like protein ligase binding		3.858E-3	4.531E-2	
+2.797E-1
+1.000E0
+4	273
+23	GO:0001653	peptide receptor activity		3.962E-3	4.531E-2	
+2.797E-1
+1.000E0
+3	135
+24	GO:0015267	channel activity		4.286E-3	4.531E-2	
+2.797E-1
+1.000E0
+5	457
+25	GO:0022803	passive transmembrane transporter activity		4.286E-3	4.531E-2	
+2.797E-1
+1.000E0
+5	457
+26	GO:0072545	tyrosine binding		4.716E-3	4.531E-2	
+2.797E-1
+1.000E0
+1	2
+27	GO:0004962	endothelin receptor activity		4.716E-3	4.531E-2	
+2.797E-1
+1.000E0
+1	2
+28	GO:0036461	BLOC-2 complex binding		4.716E-3	4.531E-2	
+2.797E-1
+1.000E0
+1	2
+2: GO: Biological Process [Display Chart] 1879 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0043473	pigmentation		2.447E-51	4.597E-48	3.731E-47	4.597E-48	27	104
+2	GO:0048066	developmental pigmentation		5.769E-36	5.420E-33	4.399E-32	1.084E-32	18	53
+3	GO:0050931	pigment cell differentiation		1.582E-28	9.909E-26	8.042E-25	2.973E-25	14	38
+4	GO:0030318	melanocyte differentiation		1.753E-25	8.232E-23	6.681E-22	3.293E-22	12	28
+5	GO:0032438	melanosome organization		3.488E-21	1.311E-18	1.064E-17	6.553E-18	10	24
+6	GO:0048753	pigment granule organization		5.803E-21	1.817E-18	1.475E-17	1.090E-17	10	25
+7	GO:0060563	neuroepithelial cell differentiation		1.728E-20	4.638E-18	3.764E-17	3.247E-17	13	91
+8	GO:0033059	cellular pigmentation		1.485E-19	3.489E-17	2.831E-16	2.791E-16	11	51
+9	GO:0002065	columnar/cuboidal epithelial cell differentiation		2.994E-19	6.251E-17	5.073E-16	5.626E-16	14	152
+10	GO:0042438	melanin biosynthetic process		2.232E-12	4.194E-10	3.404E-9	4.194E-9	6	18
+11	GO:0006582	melanin metabolic process		4.644E-12	7.934E-10	6.439E-9	8.727E-9	6	20
+12	GO:0044550	secondary metabolite biosynthetic process		2.104E-11	3.294E-9	2.673E-8	3.953E-8	6	25
+13	GO:0016050	vesicle organization		4.092E-11	5.915E-9	4.800E-8	7.689E-8	11	283
+14	GO:0048069	eye pigmentation		4.581E-11	6.149E-9	4.990E-8	8.608E-8	5	12
+15	GO:0046148	pigment biosynthetic process		5.344E-11	6.694E-9	5.433E-8	1.004E-7	7	56
+16	GO:0051650	establishment of vesicle localization		1.340E-10	1.574E-8	1.277E-7	2.518E-7	10	233
+17	GO:0030855	epithelial cell differentiation		1.665E-10	1.840E-8	1.494E-7	3.129E-7	14	654
+18	GO:0051648	vesicle localization		2.280E-10	2.380E-8	1.932E-7	4.284E-7	10	246
+19	GO:0048490	anterograde synaptic vesicle transport		2.509E-10	2.481E-8	2.014E-7	4.714E-7	5	16
+20	GO:0008088	axo-dendritic transport		3.781E-10	3.553E-8	2.883E-7	7.105E-7	6	39
+21	GO:0033299	secretion of lysosomal enzymes		4.070E-10	3.641E-8	2.955E-7	7.647E-7	4	6
+22	GO:0051656	establishment of organelle localization		4.860E-10	4.150E-8	3.369E-7	9.131E-7	11	357
+23	GO:0042440	pigment metabolic process		5.858E-10	4.785E-8	3.883E-7	1.101E-6	7	78
+24	GO:0051640	organelle localization		6.111E-10	4.785E-8	3.883E-7	1.148E-6	12	471
+25	GO:0046189	phenol-containing compound biosynthetic process		7.016E-10	5.273E-8	4.280E-7	1.318E-6	6	43
+26	GO:0032401	establishment of melanosome localization		2.407E-9	1.740E-7	1.412E-6	4.524E-6	5	24
+27	GO:0051905	establishment of pigment granule localization		3.004E-9	2.016E-7	1.636E-6	5.645E-6	5	25
+28	GO:0008089	anterograde axonal transport		3.004E-9	2.016E-7	1.636E-6	5.645E-6	5	25
+29	GO:0032400	melanosome localization		4.549E-9	2.947E-7	2.392E-6	8.547E-6	5	27
+30	GO:0007600	sensory perception		5.071E-9	3.176E-7	2.578E-6	9.529E-6	15	1012
+31	GO:0051875	pigment granule localization		5.528E-9	3.289E-7	2.669E-6	1.039E-5	5	28
+32	GO:0050877	neurological system process		5.601E-9	3.289E-7	2.669E-6	1.053E-5	17	1379
+33	GO:0019748	secondary metabolic process		6.192E-9	3.526E-7	2.861E-6	1.163E-5	6	61
+34	GO:0060429	epithelium development		7.083E-9	3.915E-7	3.177E-6	1.331E-5	16	1213
+35	GO:0033363	secretory granule organization		1.323E-8	6.750E-7	5.478E-6	2.486E-5	5	33
+36	GO:0043482	cellular pigment accumulation		1.329E-8	6.750E-7	5.478E-6	2.497E-5	4	12
+37	GO:0043476	pigment accumulation		1.329E-8	6.750E-7	5.478E-6	2.497E-5	4	12
+38	GO:0007601	visual perception		3.224E-8	1.594E-6	1.294E-5	6.058E-5	8	213
+39	GO:0050953	sensory perception of light stimulus		3.594E-8	1.731E-6	1.405E-5	6.753E-5	8	216
+40	GO:0006726	eye pigment biosynthetic process		4.931E-8	2.317E-6	1.880E-5	9.266E-5	3	4
+41	GO:0007596	blood coagulation		6.114E-8	2.802E-6	2.274E-5	1.149E-4	11	569
+42	GO:0050817	coagulation		6.681E-8	2.919E-6	2.369E-5	1.255E-4	11	574
+43	GO:0007599	hemostasis		6.681E-8	2.919E-6	2.369E-5	1.255E-4	11	574
+44	GO:0050878	regulation of body fluid levels		9.256E-8	3.953E-6	3.208E-5	1.739E-4	12	739
+45	GO:0042060	wound healing		1.152E-7	4.808E-6	3.902E-5	2.164E-4	12	754
+46	GO:0043324	pigment metabolic process involved in developmental pigmentation		1.231E-7	4.818E-6	3.910E-5	2.313E-4	3	5
+47	GO:0042441	eye pigment metabolic process		1.231E-7	4.818E-6	3.910E-5	2.313E-4	3	5
+48	GO:0043474	pigment metabolic process involved in pigmentation		1.231E-7	4.818E-6	3.910E-5	2.313E-4	3	5
+49	GO:0009888	tissue development		1.338E-7	5.131E-6	4.165E-5	2.514E-4	18	1933
+50	GO:0009611	response to wounding		1.406E-7	5.285E-6	4.289E-5	2.642E-4	14	1109
+3: GO: Cellular Component [Display Chart] 217 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0042470	melanosome		1.140E-19	1.237E-17	7.373E-17	2.475E-17	13	104
+2	GO:0048770	pigment granule		1.140E-19	1.237E-17	7.373E-17	2.475E-17	13	104
+3	GO:0031082	BLOC complex		2.856E-19	2.066E-17	1.231E-16	6.198E-17	9	21
+4	GO:0033162	melanosome membrane		1.038E-14	4.504E-13	2.684E-12	2.252E-12	6	9
+5	GO:0045009	chitosome		1.038E-14	4.504E-13	2.684E-12	2.252E-12	6	9
+Show 36 more annotations
+4: Human Phenotype [Display Chart] 567 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0001022	Albinism		3.667E-43	2.079E-40	1.438E-39	2.079E-40	20	21
+2	HP:0001107	Ocular albinism		1.113E-34	3.156E-32	2.183E-31	6.312E-32	18	24
+3	HP:0001480	Freckling		1.885E-21	3.562E-19	2.465E-18	1.069E-18	13	26
+4	HP:0007603	Freckles in sun-exposed areas		1.173E-19	1.662E-17	1.150E-16	6.649E-17	9	9
+5	HP:0000639	Nystagmus		1.034E-17	1.172E-15	8.111E-15	5.862E-15	26	446
+6	HP:0007894	Hypopigmentation of the fundus		1.277E-15	1.207E-13	8.348E-13	7.240E-13	9	16
+7	HP:0007750	Hypoplasia of the fovea		2.083E-14	1.687E-12	1.167E-11	1.181E-11	8	13
+8	HP:0001141	Severe visual impairment		2.045E-13	1.449E-11	1.003E-10	1.159E-10	8	16
+9	HP:0007443	Partial albinism		3.140E-13	1.978E-11	1.368E-10	1.780E-10	6	6
+10	HP:0000635	Blue irides		4.892E-13	2.774E-11	1.919E-10	2.774E-10	9	27
+11	HP:0000613	Photophobia		1.642E-12	8.465E-11	5.856E-10	9.311E-10	13	105
+12	HP:0000225	Gingival bleeding		3.134E-12	1.481E-10	1.024E-9	1.777E-9	8	21
+13	HP:0007663	Reduced visual acuity		5.670E-12	2.473E-10	1.711E-9	3.215E-9	12	90
+14	HP:0001595	Abnormality of the hair		1.112E-11	4.502E-10	3.115E-9	6.303E-9	8	24
+15	HP:0002206	Pulmonary fibrosis		3.294E-11	1.245E-9	8.613E-9	1.867E-8	8	27
+16	HP:0005592	Giant melanosomes in melanocytes		4.096E-11	1.333E-9	9.219E-9	2.322E-8	5	5
+17	HP:0002573	Hematochezia		4.230E-11	1.333E-9	9.219E-9	2.399E-8	7	17
+18	HP:0001100	Heterochromia iridis		4.230E-11	1.333E-9	9.219E-9	2.399E-8	7	17
+19	HP:0000505	Visual impairment		1.272E-10	3.795E-9	2.626E-8	7.211E-8	17	304
+20	HP:0002037	Inflammation of the large intestine		1.654E-10	4.690E-9	3.245E-8	9.381E-8	7	20
+21	HP:0002211	White forelock		2.771E-10	7.481E-9	5.176E-8	1.571E-7	6	12
+22	HP:0002091	Restrictive lung disease		1.352E-9	3.483E-8	2.410E-7	7.663E-7	7	26
+23	HP:0003010	Prolonged bleeding time		2.402E-9	5.922E-8	4.097E-7	1.362E-6	7	28
+24	HP:0000995	Melanocytic nevus		2.858E-9	6.752E-8	4.671E-7	1.620E-6	8	45
+25	HP:0005599	Hypopigmentation of hair		3.146E-9	7.136E-8	4.937E-7	1.784E-6	7	29
+26	HP:0000421	Epistaxis		4.910E-9	1.071E-7	7.408E-7	2.784E-6	8	48
+27	HP:0002226	White eyebrow		2.557E-8	5.369E-7	3.715E-6	1.450E-5	4	5
+28	HP:0002227	White eyelashes		7.622E-8	1.543E-6	1.068E-5	4.321E-5	4	6
+29	HP:0008069	Neoplasm of the skin		8.265E-8	1.616E-6	1.118E-5	4.686E-5	7	45
+30	HP:0000978	Bruising susceptibility		4.122E-7	7.790E-6	5.390E-5	2.337E-4	8	83
+31	HP:0011883	Abnormal platelet granules		6.383E-7	1.131E-5	7.825E-5	3.619E-4	3	3
+32	HP:0007544	Piebaldism		6.383E-7	1.131E-5	7.825E-5	3.619E-4	3	3
+33	HP:0002027	Abdominal pain		8.157E-7	1.402E-5	9.697E-5	4.625E-4	9	124
+34	HP:0001425	Heterogeneous		1.566E-6	2.612E-5	1.807E-4	8.881E-4	13	319
+35	HP:0000083	Renal insufficiency		1.786E-6	2.894E-5	2.002E-4	1.013E-3	9	136
+36	HP:0001053	Hypopigmented skin patches		1.977E-6	3.114E-5	2.154E-4	1.121E-3	6	45
+37	HP:0000486	Strabismus		2.925E-6	4.457E-5	3.084E-4	1.658E-3	14	395
+38	HP:0001638	Cardiomyopathy		2.987E-6	4.457E-5	3.084E-4	1.694E-3	7	75
+39	HP:0008527	Congenital sensorineural hearing impairment		1.441E-5	2.095E-4	1.449E-3	8.170E-3	4	18
+40	HP:0002297	Red hair		3.439E-5	4.874E-4	3.372E-3	1.950E-2	3	8
+41	HP:0002216	Premature graying of hair		4.817E-5	6.662E-4	4.609E-3	2.731E-2	4	24
+42	HP:0007513	Generalized hypopigmentation		6.692E-5	9.035E-4	6.251E-3	3.795E-2	4	26
+43	HP:0007509	Patchy hypo- and hyperpigmentation		7.638E-5	9.215E-4	6.375E-3	4.331E-2	2	2
+44	HP:0007680	Depigmented fundus		7.638E-5	9.215E-4	6.375E-3	4.331E-2	2	2
+45	HP:0007542	Absent pigmentation of the ventral chest		7.638E-5	9.215E-4	6.375E-3	4.331E-2	2	2
+46	HP:0001361	Nystagmus-induced head nodding		7.638E-5	9.215E-4	6.375E-3	4.331E-2	2	2
+47	HP:0006934	Congenital nystagmus		7.638E-5	9.215E-4	6.375E-3	4.331E-2	2	2
+48	HP:0001010	Hypopigmentation of the skin		1.365E-4	1.612E-3	1.115E-2	
+7.738E-2
+4	31
+49	HP:0002251	Aganglionic megacolon		1.825E-4	2.112E-3	1.461E-2	
+1.035E-1
+5	62
+50	HP:0000431	Wide nasal bridge		2.000E-4	2.268E-3	1.569E-2	
+1.134E-1
+8	191
+5: Mouse Phenotype [Display Chart] 1939 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0000371	diluted coat color		2.003E-44	3.883E-41	3.164E-40	3.883E-41	25	66
+2	MP:0002075	abnormal coat/hair pigmentation		5.368E-38	5.204E-35	4.240E-34	1.041E-34	28	181
+3	MP:0005408	hypopigmentation		2.570E-37	1.661E-34	1.354E-33	4.984E-34	21	53
+4	MP:0002877	abnormal melanocyte morphology		3.454E-37	1.674E-34	1.364E-33	6.697E-34	22	66
+5	MP:0005075	abnormal melanosome morphology		5.728E-37	2.221E-34	1.810E-33	1.111E-33	20	44
+6	MP:0005172	decreased eye pigmentation		8.091E-31	2.615E-28	2.130E-27	1.569E-27	15	23
+7	MP:0001186	pigmentation phenotype		1.184E-30	3.280E-28	2.673E-27	2.296E-27	29	370
+8	MP:0001324	abnormal eye pigmentation		3.685E-29	8.932E-27	7.278E-26	7.146E-26	23	167
+9	MP:0009389	abnormal extracutaneous pigmentation		7.544E-29	1.625E-26	1.324E-25	1.463E-25	23	172
+10	MP:0002095	abnormal skin pigmentation		2.827E-28	4.982E-26	4.059E-25	5.481E-25	19	83
+11	MP:0011239	abnormal skin coloration		2.827E-28	4.982E-26	4.059E-25	5.481E-25	19	83
+12	MP:0001510	abnormal coat appearance		1.436E-26	2.321E-24	1.891E-23	2.785E-23	28	448
+13	MP:0000367	abnormal coat/ hair morphology		3.858E-26	5.755E-24	4.688E-23	7.481E-23	28	464
+14	MP:0000015	abnormal ear pigmentation		7.314E-26	9.950E-24	8.107E-23	1.418E-22	13	22
+15	MP:0011277	decreased tail pigmentation		7.698E-26	9.950E-24	8.107E-23	1.493E-22	12	16
+16	MP:0011279	decreased ear pigmentation		3.397E-23	4.116E-21	3.354E-20	6.586E-20	10	11
+17	MP:0005174	abnormal tail pigmentation		2.083E-22	2.376E-20	1.936E-19	4.039E-19	13	35
+18	MP:0010678	abnormal skin adnexa morphology		1.262E-21	1.360E-19	1.108E-18	2.447E-18	29	757
+19	MP:0005100	abnormal choroid pigmentation		2.430E-20	2.480E-18	2.021E-17	4.713E-17	10	16
+20	MP:0002177	abnormal outer ear morphology		1.726E-18	1.674E-16	1.363E-15	3.347E-15	15	111
+21	MP:0004381	abnormal hair follicle melanocyte morphology		3.390E-18	3.130E-16	2.550E-15	6.572E-15	10	23
+22	MP:0005606	increased bleeding time		3.238E-17	2.854E-15	2.325E-14	6.278E-14	13	79
+23	MP:0004721	abnormal platelet dense granule morphology		3.822E-17	3.222E-15	2.625E-14	7.410E-14	10	28
+24	MP:0005197	abnormal uvea morphology		4.911E-16	3.968E-14	3.233E-13	9.522E-13	15	160
+25	MP:0004722	abnormal platelet dense granule number		1.234E-15	9.568E-14	7.796E-13	2.392E-12	8	15
+26	MP:0008480	absent eye pigmentation		1.689E-15	1.260E-13	1.026E-12	3.276E-12	7	9
+27	MP:0005102	abnormal iris pigmentation		2.458E-15	1.766E-13	1.438E-12	4.767E-12	8	16
+28	MP:0009448	decreased platelet ATP level		5.611E-15	3.886E-13	3.166E-12	1.088E-11	7	10
+29	MP:0010771	integument phenotype		1.088E-14	7.210E-13	5.874E-12	2.109E-11	30	1474
+30	MP:0005098	abnormal optic choroid morphology		1.116E-14	7.210E-13	5.874E-12	2.163E-11	10	46
+31	MP:0009447	abnormal platelet ATP level		1.537E-14	9.616E-13	7.835E-12	2.981E-11	7	11
+32	MP:0004723	abnormal platelet serotonin level		7.936E-14	4.663E-12	3.799E-11	1.539E-10	7	13
+33	MP:0004725	decreased platelet serotonin level		7.936E-14	4.663E-12	3.799E-11	1.539E-10	7	13
+34	MP:0002092	abnormal eye morphology		1.129E-13	6.440E-12	5.247E-11	2.189E-10	26	1097
+35	MP:0002102	abnormal ear morphology		1.511E-13	8.373E-12	6.821E-11	2.930E-10	18	405
+36	MP:0009557	decreased platelet ADP level		3.067E-13	1.565E-11	1.275E-10	5.947E-10	6	8
+37	MP:0009556	abnormal platelet ADP level		3.067E-13	1.565E-11	1.275E-10	5.947E-10	6	8
+38	MP:0005077	abnormal melanogenesis		3.067E-13	1.565E-11	1.275E-10	5.947E-10	6	8
+39	MP:0002938	white spotting		6.188E-13	3.077E-11	2.507E-10	1.200E-9	9	45
+40	MP:0005391	vision/eye phenotype		1.036E-12	5.020E-11	4.090E-10	2.008E-9	26	1203
+41	MP:0005201	abnormal retinal pigment epithelium morphology		1.881E-12	8.898E-11	7.249E-10	3.648E-9	12	139
+42	MP:0005377	hearing/vestibular/ear phenotype		1.944E-12	8.977E-11	7.314E-10	3.770E-9	19	545
+43	MP:0002551	abnormal blood coagulation		2.207E-12	9.950E-11	8.107E-10	4.279E-9	14	229
+44	MP:0009676	abnormal hemostasis		2.486E-12	1.083E-10	8.823E-10	4.819E-9	14	231
+45	MP:0006159	ocular albinism		2.513E-12	1.083E-10	8.823E-10	4.873E-9	5	5
+46	MP:0002060	abnormal skin morphology		6.716E-12	2.831E-10	2.306E-9	1.302E-8	21	759
+47	MP:0010070	decreased serotonin level		7.633E-12	3.149E-10	2.566E-9	1.480E-8	7	22
+48	MP:0002940	variable body spotting		1.845E-11	7.302E-10	5.949E-9	3.578E-8	6	13
+49	MP:0005171	absent coat pigmentation		1.845E-11	7.302E-10	5.949E-9	3.578E-8	6	13
+50	MP:0009379	abnormal foot pigmentation		2.128E-11	8.252E-10	6.723E-9	4.126E-8	7	25
+7: Pathway [Display Chart] 269 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	83092	Melanogenesis	BioSystems: KEGG	2.160E-7	3.911E-5	2.414E-4	5.809E-5	6	101
+2	119546	Golgi Associated Vesicle Biogenesis	BioSystems: REACTOME	3.201E-7	3.911E-5	2.414E-4	8.611E-5	5	56
+3	119545	Clathrin derived vesicle budding	BioSystems: REACTOME	5.815E-7	3.911E-5	2.414E-4	1.564E-4	5	63
+4	106165	trans-Golgi Network Vesicle Budding	BioSystems: REACTOME	5.815E-7	3.911E-5	2.414E-4	1.564E-4	5	63
+5	106083	Virus Assembly and Release	BioSystems: REACTOME	6.832E-6	3.063E-4	1.891E-3	1.838E-3	2	2
+6	106084	Assembly of Viral Components at the Budding Site	BioSystems: REACTOME	6.832E-6	3.063E-4	1.891E-3	1.838E-3	2	2
+7	106160	Membrane Trafficking	BioSystems: REACTOME	1.015E-5	3.900E-4	2.408E-3	2.730E-3	6	195
+8	366163	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	BioSystems: REACTOME	3.287E-5	1.105E-3	6.823E-3	8.841E-3	3	24
+9	672460	Neural Crest Differentiation	BioSystems: WikiPathways	1.373E-4	4.103E-3	2.533E-2	3.693E-2	4	101
+10	138068	Signaling events mediated by Stem cell factor receptor (c-Kit)	BioSystems: Pathway Interaction Database	3.414E-4	8.279E-3	
+5.111E-2
+9.183E-2
+3	52
+11	530770	Activation of Chaperone Genes by ATF6-alpha	BioSystems: REACTOME	3.693E-4	8.279E-3	
+5.111E-2
+9.934E-2
+2	11
+12	187218	Calnexin/calreticulin cycle	BioSystems: REACTOME	3.693E-4	8.279E-3	
+5.111E-2
+9.934E-2
+2	11
+13	105905	Activation of Chaperones by ATF6-alpha	BioSystems: REACTOME	5.220E-4	1.003E-2	
+6.192E-2
+1.404E-1
+2	13
+14	187217	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	BioSystems: REACTOME	5.220E-4	1.003E-2	
+6.192E-2
+1.404E-1
+2	13
+15	169352	Regulation of Wnt-mediated beta catenin signaling and target gene transcription	BioSystems: Pathway Interaction Database	1.164E-3	2.088E-2	
+1.289E-1
+3.131E-1
+3	79
+16	83074	Antigen processing and presentation	BioSystems: KEGG	1.297E-3	2.180E-2	
+1.346E-1
+3.488E-1
+3	82
+17	547499	(S)-reticuline biosynthesis II	BioSystems: BIOCYC	2.663E-3	3.980E-2	
+2.457E-1
+7.165E-1
+1	1
+18	545322	L-dopachrome biosynthesis	BioSystems: BIOCYC	2.663E-3	3.980E-2	
+2.457E-1
+7.165E-1
+1	1

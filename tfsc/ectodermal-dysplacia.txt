@@ -1,0 +1,489 @@
+1: GO: Molecular Function [Display Chart] 297 annotations before applied cutoff / 18638 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0001228	transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding		7.972E-8	2.368E-5	1.485E-4	2.368E-5	10	357
+2	GO:0003682	chromatin binding		1.949E-7	2.895E-5	1.816E-4	5.790E-5	11	501
+3	GO:0000981	RNA polymerase II transcription factor activity, sequence-specific DNA binding		3.524E-7	3.489E-5	2.189E-4	1.047E-4	12	655
+4	GO:0097110	scaffold protein binding		6.329E-7	4.699E-5	2.948E-4	1.880E-4	5	56
+5	GO:0044877	macromolecular complex binding		1.644E-6	9.031E-5	5.665E-4	4.883E-4	17	1578
+6	GO:0043565	sequence-specific DNA binding		1.824E-6	9.031E-5	5.665E-4	5.418E-4	14	1069
+7	GO:0042802	identical protein binding		4.849E-6	2.057E-4	1.290E-3	1.440E-3	15	1336
+8	GO:0019904	protein domain specific binding		7.166E-6	2.660E-4	1.669E-3	2.128E-3	11	725
+9	GO:0019215	intermediate filament binding		1.325E-5	4.196E-4	2.632E-3	3.936E-3	3	16
+10	GO:0032813	tumor necrosis factor receptor superfamily binding		1.413E-5	4.196E-4	2.632E-3	4.196E-3	4	50
+11	GO:0003700	transcription factor activity, sequence-specific DNA binding		4.523E-5	1.119E-3	7.022E-3	1.343E-2	13	1230
+12	GO:0001071	nucleic acid binding transcription factor activity		4.523E-5	1.119E-3	7.022E-3	1.343E-2	13	1230
+13	GO:1990254	keratin filament binding		8.502E-5	1.933E-3	1.212E-2	2.525E-2	2	5
+14	GO:0000982	transcription factor activity, RNA polymerase II core promoter proximal region sequence-specific binding		9.111E-5	1.933E-3	1.212E-2	2.706E-2	7	363
+15	GO:0001077	transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding		1.114E-4	2.205E-3	1.383E-2	3.308E-2	6	259
+16	GO:0005164	tumor necrosis factor receptor binding		1.246E-4	2.224E-3	1.395E-2	3.701E-2	3	33
+17	GO:0086083	cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication		1.273E-4	2.224E-3	1.395E-2	3.780E-2	2	6
+18	GO:0031625	ubiquitin protein ligase binding		1.370E-4	2.260E-3	1.418E-2	4.068E-2	6	269
+19	GO:0044389	ubiquitin-like protein ligase binding		1.484E-4	2.320E-3	1.455E-2	4.409E-2	6	273
+20	GO:0019899	enzyme binding		2.177E-4	3.233E-3	2.028E-2	
+6.466E-2
+15	1851
+21	GO:0003705	transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding		2.601E-4	3.678E-3	2.307E-2	
+7.725E-2
+4	105
+22	GO:0050839	cell adhesion molecule binding		3.262E-4	4.404E-3	2.762E-2	
+9.688E-2
+5	203
+23	GO:0086080	protein binding involved in heterotypic cell-cell adhesion		3.790E-4	4.771E-3	2.993E-2	
+1.126E-1
+2	10
+24	GO:0019901	protein kinase binding		3.855E-4	4.771E-3	2.993E-2	
+1.145E-1
+8	608
+25	GO:0016175	superoxide-generating NADPH oxidase activity		4.623E-4	5.492E-3	3.445E-2	
+1.373E-1
+2	11
+26	GO:0005102	receptor binding		5.527E-4	5.873E-3	3.684E-2	
+1.642E-1
+13	1581
+27	GO:0015279	store-operated calcium channel activity		5.537E-4	5.873E-3	3.684E-2	
+1.645E-1
+2	12
+28	GO:0098632	protein binding involved in cell-cell adhesion		5.537E-4	5.873E-3	3.684E-2	
+1.645E-1
+2	12
+29	GO:0070016	armadillo repeat domain binding		6.532E-4	6.466E-3	4.056E-2	
+1.940E-1
+2	13
+30	GO:0045295	gamma-catenin binding		6.532E-4	6.466E-3	4.056E-2	
+1.940E-1
+2	13
+31	GO:0044212	transcription regulatory region DNA binding		7.239E-4	6.643E-3	4.167E-2	
+2.150E-1
+9	840
+32	GO:0000975	regulatory region DNA binding		7.426E-4	6.643E-3	4.167E-2	
+2.205E-1
+9	843
+33	GO:0031996	thioesterase binding		7.606E-4	6.643E-3	4.167E-2	
+2.259E-1
+2	14
+34	GO:0001067	regulatory region nucleic acid binding		7.616E-4	6.643E-3	4.167E-2	
+2.262E-1
+9	846
+35	GO:0019900	kinase binding		7.828E-4	6.643E-3	4.167E-2	
+2.325E-1
+8	677
+36	GO:0050664	oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor		1.130E-3	9.325E-3	
+5.849E-2
+3.357E-1
+2	17
+37	GO:0046982	protein heterodimerization activity		1.238E-3	9.665E-3	
+6.062E-2
+3.677E-1
+7	560
+38	GO:0046983	protein dimerization activity		1.247E-3	9.665E-3	
+6.062E-2
+3.702E-1
+11	1298
+39	GO:0098631	protein binding involved in cell adhesion		1.269E-3	9.665E-3	
+6.062E-2
+3.769E-1
+2	18
+40	GO:0070530	K63-linked polyubiquitin binding		1.416E-3	1.051E-2	
+6.594E-2
+4.205E-1
+2	19
+41	GO:0005198	structural molecule activity		1.486E-3	1.076E-2	
+6.751E-2
+4.413E-1
+8	748
+42	GO:0005126	cytokine receptor binding		1.551E-3	1.097E-2	
+6.878E-2
+4.606E-1
+5	287
+43	GO:0008013	beta-catenin binding		1.891E-3	1.306E-2	
+8.192E-2
+5.615E-1
+3	83
+44	GO:0003690	double-stranded DNA binding		2.392E-3	1.615E-2	
+1.013E-1
+7.104E-1
+8	807
+45	GO:0042803	protein homodimerization activity		2.466E-3	1.628E-2	
+1.021E-1
+7.325E-1
+8	811
+46	GO:0051800	phosphatidylinositol-3,4-bisphosphate 3-phosphatase activity		2.960E-3	1.794E-2	
+1.125E-1
+8.790E-1
+1	1
+47	GO:1990450	linear polyubiquitin binding		2.960E-3	1.794E-2	
+1.125E-1
+8.790E-1
+1	1
+48	GO:0051717	inositol-1,3,4,5-tetrakisphosphate 3-phosphatase activity		2.960E-3	1.794E-2	
+1.125E-1
+8.790E-1
+1	1
+49	GO:0005199	structural constituent of cell wall		2.960E-3	1.794E-2	
+1.125E-1
+8.790E-1
+1	1
+50	GO:0035326	enhancer binding		3.587E-3	2.131E-2	
+1.337E-1
+1.000E0
+3	104
+2: GO: Biological Process [Display Chart] 2354 annotations before applied cutoff / 18601 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0009887	organ morphogenesis		1.467E-19	3.453E-16	2.880E-15	3.453E-16	27	1034
+2	GO:0042475	odontogenesis of dentin-containing tooth		4.421E-19	5.203E-16	4.340E-15	1.041E-15	13	89
+3	GO:0042476	odontogenesis		8.297E-19	6.511E-16	5.431E-15	1.953E-15	14	125
+4	GO:0009888	tissue development		1.086E-16	5.387E-14	4.493E-13	2.557E-13	31	1933
+5	GO:0060429	epithelium development		1.144E-16	5.387E-14	4.493E-13	2.693E-13	26	1213
+6	GO:0008544	epidermis development		2.573E-15	1.009E-12	8.419E-12	6.056E-12	16	342
+7	GO:0034166	toll-like receptor 10 signaling pathway		7.776E-15	2.615E-12	2.181E-11	1.830E-11	10	69
+8	GO:0034146	toll-like receptor 5 signaling pathway		1.051E-14	3.093E-12	2.580E-11	2.474E-11	10	71
+9	GO:0038123	toll-like receptor TLR1:TLR2 signaling pathway		2.149E-14	5.058E-12	4.219E-11	5.058E-11	10	76
+10	GO:0038124	toll-like receptor TLR6:TLR2 signaling pathway		2.149E-14	5.058E-12	4.219E-11	5.058E-11	10	76
+11	GO:0034162	toll-like receptor 9 signaling pathway		3.221E-14	6.893E-12	5.750E-11	7.582E-11	10	79
+12	GO:0035666	TRIF-dependent toll-like receptor signaling pathway		4.181E-14	8.201E-12	6.841E-11	9.842E-11	10	81
+13	GO:0034142	toll-like receptor 4 signaling pathway		4.874E-14	8.244E-12	6.877E-11	1.147E-10	11	118
+14	GO:0034134	toll-like receptor 2 signaling pathway		5.389E-14	8.244E-12	6.877E-11	1.269E-10	10	83
+15	GO:0042633	hair cycle		5.886E-14	8.244E-12	6.877E-11	1.386E-10	11	120
+16	GO:0042303	molting cycle		5.886E-14	8.244E-12	6.877E-11	1.386E-10	11	120
+17	GO:0002756	MyD88-independent toll-like receptor signaling pathway		6.104E-14	8.244E-12	6.877E-11	1.437E-10	10	84
+18	GO:0043588	skin development		6.304E-14	8.244E-12	6.877E-11	1.484E-10	14	277
+19	GO:0002755	MyD88-dependent toll-like receptor signaling pathway		8.785E-14	1.088E-11	9.079E-11	2.068E-10	10	87
+20	GO:0051092	positive regulation of NF-kappaB transcription factor activity		2.195E-13	2.583E-11	2.155E-10	5.166E-10	11	135
+21	GO:0051091	positive regulation of sequence-specific DNA binding transcription factor activity		2.419E-13	2.711E-11	2.262E-10	5.694E-10	13	241
+22	GO:0022405	hair cycle process		3.329E-13	3.135E-11	2.615E-10	7.838E-10	10	99
+23	GO:0001942	hair follicle development		3.329E-13	3.135E-11	2.615E-10	7.838E-10	10	99
+24	GO:0022404	molting cycle process		3.329E-13	3.135E-11	2.615E-10	7.838E-10	10	99
+25	GO:0034138	toll-like receptor 3 signaling pathway		3.329E-13	3.135E-11	2.615E-10	7.838E-10	10	99
+26	GO:0098773	skin epidermis development		4.087E-13	3.701E-11	3.087E-10	9.622E-10	10	101
+27	GO:0007249	I-kappaB kinase/NF-kappaB signaling		8.946E-13	7.800E-11	6.506E-10	2.106E-9	13	267
+28	GO:0010628	positive regulation of gene expression		1.517E-12	1.250E-10	1.043E-9	3.571E-9	26	1810
+29	GO:0002224	toll-like receptor signaling pathway		1.540E-12	1.250E-10	1.043E-9	3.626E-9	11	161
+30	GO:0002223	stimulatory C-type lectin receptor signaling pathway		2.573E-12	2.019E-10	1.684E-9	6.057E-9	10	121
+31	GO:0002220	innate immune response activating cell surface receptor signaling pathway		3.296E-12	2.503E-10	2.088E-9	7.758E-9	10	124
+32	GO:0035872	nucleotide-binding domain, leucine rich repeat containing receptor signaling pathway		4.374E-12	3.218E-10	2.684E-9	1.030E-8	8	55
+33	GO:0051090	regulation of sequence-specific DNA binding transcription factor activity		5.334E-12	3.805E-10	3.174E-9	1.256E-8	14	384
+34	GO:0006915	apoptotic process		1.059E-11	7.330E-10	6.114E-9	2.492E-8	26	1970
+35	GO:0002221	pattern recognition receptor signaling pathway		1.321E-11	8.732E-10	7.283E-9	3.110E-8	11	196
+36	GO:0071356	cellular response to tumor necrosis factor		1.335E-11	8.732E-10	7.283E-9	3.143E-8	12	259
+37	GO:0012501	programmed cell death		1.395E-11	8.872E-10	7.401E-9	3.283E-8	26	1994
+38	GO:0070423	nucleotide-binding oligomerization domain containing signaling pathway		1.459E-11	9.038E-10	7.539E-9	3.435E-8	7	37
+39	GO:0034330	cell junction organization		1.670E-11	1.008E-9	8.406E-9	3.930E-8	12	264
+40	GO:0002934	desmosome organization		2.571E-11	1.513E-9	1.262E-8	6.053E-8	5	9
+41	GO:0034612	response to tumor necrosis factor		3.314E-11	1.903E-9	1.587E-8	7.800E-8	12	280
+42	GO:0002758	innate immune response-activating signal transduction		4.596E-11	2.576E-9	2.149E-8	1.082E-7	12	288
+43	GO:0002218	activation of innate immune response		6.071E-11	3.323E-9	2.772E-8	1.429E-7	12	295
+44	GO:0033209	tumor necrosis factor-mediated signaling pathway		7.721E-11	4.131E-9	3.446E-8	1.818E-7	10	170
+45	GO:0045216	cell-cell junction organization		8.149E-11	4.263E-9	3.556E-8	1.918E-7	11	232
+46	GO:0050852	T cell receptor signaling pathway		9.717E-11	4.972E-9	4.148E-8	2.287E-7	10	174
+47	GO:0001816	cytokine production		1.106E-10	5.538E-9	4.620E-8	2.603E-7	16	689
+48	GO:1903508	positive regulation of nucleic acid-templated transcription		1.188E-10	5.709E-9	4.762E-8	2.797E-7	22	1505
+49	GO:0045893	positive regulation of transcription, DNA-templated		1.188E-10	5.709E-9	4.762E-8	2.797E-7	22	1505
+50	GO:1902680	positive regulation of RNA biosynthetic process		1.675E-10	7.884E-9	6.576E-8	3.942E-7	22	1532
+3: GO: Cellular Component [Display Chart] 201 annotations before applied cutoff / 19014 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	GO:0033256	I-kappaB/NF-kappaB complex		4.681E-9	9.409E-7	5.535E-6	9.409E-7	4	8
+2	GO:0005911	cell-cell junction		2.752E-8	2.765E-6	1.627E-5	5.531E-6	11	413
+3	GO:0005913	cell-cell adherens junction		4.711E-8	3.157E-6	1.857E-5	9.470E-6	6	68
+4	GO:0098797	plasma membrane protein complex		2.871E-7	1.443E-5	8.488E-5	5.771E-5	11	521
+5	GO:0030057	desmosome		9.611E-7	3.864E-5	2.273E-4	1.932E-4	4	26
+6	GO:0016342	catenin complex		2.007E-6	6.725E-5	3.956E-4	4.035E-4	3	9
+7	GO:0035631	CD40 receptor complex		3.927E-6	9.865E-5	5.804E-4	7.892E-4	3	11
+8	GO:0008385	IkappaB kinase complex		3.927E-6	9.865E-5	5.804E-4	7.892E-4	3	11
+9	GO:0009898	cytoplasmic side of plasma membrane		8.539E-6	1.907E-4	1.122E-3	1.716E-3	6	164
+10	GO:0098562	cytoplasmic side of membrane		1.407E-5	2.827E-4	1.663E-3	2.827E-3	6	179
+11	GO:0005882	intermediate filament		2.708E-5	4.949E-4	2.912E-3	5.444E-3	6	201
+12	GO:0045111	intermediate filament cytoskeleton		7.794E-5	1.305E-3	7.680E-3	1.567E-2	6	243
+13	GO:0070161	anchoring junction		9.716E-5	1.502E-3	8.838E-3	1.953E-2	8	497
+14	GO:0098796	membrane protein complex		2.258E-4	3.241E-3	1.907E-2	4.538E-2	11	1060
+15	GO:0043020	NADPH oxidase complex		3.776E-4	5.060E-3	2.977E-2	
+7.590E-2
+2	10
+16	GO:0016600	flotillin complex		4.607E-4	5.708E-3	3.358E-2	
+9.259E-2
+2	11
+17	GO:0016328	lateral plasma membrane		4.828E-4	5.708E-3	3.358E-2	
+9.704E-2
+3	52
+18	GO:0030054	cell junction		5.843E-4	6.525E-3	3.839E-2	
+1.175E-1
+11	1185
+19	GO:0098552	side of membrane		6.495E-4	6.541E-3	3.848E-2	
+1.306E-1
+7	502
+20	GO:0005916	fascia adherens		6.508E-4	6.541E-3	3.848E-2	
+1.308E-1
+2	13
+21	GO:1902554	serine/threonine protein kinase complex		7.352E-4	7.037E-3	4.140E-2	
+1.478E-1
+3	60
+22	GO:0043220	Schmidt-Lanterman incisure		8.728E-4	7.974E-3	4.691E-2	
+1.754E-1
+2	15
+23	GO:0097458	neuron part		9.798E-4	8.563E-3	
+5.037E-2
+1.969E-1
+12	1467
+24	GO:0044430	cytoskeletal part		1.084E-3	9.075E-3	
+5.339E-2
+2.178E-1
+12	1484
+25	GO:0043218	compact myelin		1.411E-3	1.134E-2	
+6.673E-2
+2.836E-1
+2	19
+26	GO:0005922	connexon complex		1.565E-3	1.210E-2	
+7.116E-2
+3.145E-1
+2	20
+27	GO:0043005	neuron projection		1.645E-3	1.224E-2	
+7.204E-2
+3.306E-1
+10	1140
+28	GO:0005887	integral component of plasma membrane		1.970E-3	1.414E-2	
+8.321E-2
+3.960E-1
+12	1591
+29	GO:0005791	rough endoplasmic reticulum		2.297E-3	1.592E-2	
+9.367E-2
+4.617E-1
+3	89
+30	GO:1902911	protein kinase complex		2.524E-3	1.678E-2	
+9.870E-2
+5.074E-1
+3	92
+31	GO:0005912	adherens junction		2.743E-3	1.678E-2	
+9.870E-2
+5.513E-1
+6	478
+32	GO:0031226	intrinsic component of plasma membrane		2.743E-3	1.678E-2	
+9.870E-2
+5.513E-1
+12	1655
+33	GO:0045095	keratin filament		2.765E-3	1.678E-2	
+9.870E-2
+5.558E-1
+3	95
+34	GO:0098590	plasma membrane region		2.838E-3	1.678E-2	
+9.870E-2
+5.704E-1
+9	1024
+35	GO:0071665	gamma-catenin-TCF7L2 complex		2.954E-3	1.696E-2	
+9.979E-2
+5.937E-1
+1	1
+36	GO:0005667	transcription factor complex		3.956E-3	2.174E-2	
+1.279E-1
+7.952E-1
+5	357
+37	GO:0044445	cytosolic part		4.002E-3	2.174E-2	
+1.279E-1
+8.044E-1
+4	220
+38	GO:0005921	gap junction		4.499E-3	2.380E-2	
+1.400E-1
+9.043E-1
+2	34
+39	GO:0033257	Bcl3/NF-kappaB2 complex		5.882E-3	2.884E-2	
+1.696E-1
+1.000E0
+1	2
+40	GO:0071159	NF-kappaB complex		5.882E-3	2.884E-2	
+1.696E-1
+1.000E0
+1	2
+41	GO:0005592	collagen type XI trimer		5.882E-3	2.884E-2	
+1.696E-1
+1.000E0
+1	2
+42	GO:0005938	cell cortex		7.384E-3	3.534E-2	
+2.079E-1
+1.000E0
+4	262
+43	GO:0045177	apical part of cell		7.941E-3	3.712E-2	
+2.184E-1
+1.000E0
+5	422
+44	GO:0019898	extrinsic component of membrane		8.191E-3	3.742E-2	
+2.201E-1
+1.000E0
+4	270
+45	GO:1990907	beta-catenin-TCF complex		8.810E-3	3.850E-2	
+2.265E-1
+1.000E0
+1	3
+46	GO:0071664	catenin-TCF7L2 complex		8.810E-3	3.850E-2	
+2.265E-1
+1.000E0
+1	3
+47	GO:0019897	extrinsic component of plasma membrane		9.134E-3	3.906E-2	
+2.298E-1
+1.000E0
+3	146
+48	GO:0098589	membrane region		1.008E-2	4.220E-2	
+2.483E-1
+1.000E0
+9	1246
+49	GO:0072558	NLRP1 inflammasome complex		1.173E-2	4.812E-2	
+2.831E-1
+1.000E0
+1	4
+50	GO:0014704	intercalated disc		1.226E-2	4.928E-2	
+2.899E-1
+1.000E0
+2	57
+4: Human Phenotype [Display Chart] 992 annotations before applied cutoff / 4309 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	HP:0000968	Ectodermal dysplasia		5.739E-30	5.693E-27	4.257E-26	5.693E-27	17	23
+2	HP:0000535	Sparse eyebrow		1.189E-19	5.898E-17	4.410E-16	1.180E-16	16	54
+3	HP:0000653	Sparse eyelashes		6.847E-18	2.264E-15	1.693E-14	6.792E-15	14	43
+4	HP:0000966	Hypohidrosis		1.245E-14	3.089E-12	2.310E-11	1.235E-11	12	42
+5	HP:0007436	Hair-nail ectodermal dysplasia		1.812E-12	3.411E-10	2.550E-9	1.798E-9	6	6
+6	HP:0002164	Nail dysplasia		2.063E-12	3.411E-10	2.550E-9	2.046E-9	12	62
+7	HP:0008404	Nail dystrophy		1.060E-11	1.503E-9	1.124E-8	1.052E-8	11	54
+8	HP:0001006	Hypotrichosis		2.137E-11	2.650E-9	1.981E-8	2.120E-8	9	30
+9	HP:0002046	Heat intolerance		4.934E-11	5.439E-9	4.067E-8	4.895E-8	6	8
+10	HP:0001596	Alopecia		1.197E-10	1.187E-8	8.879E-8	1.187E-7	12	86
+11	HP:0000962	Hyperkeratosis		3.359E-10	3.029E-8	2.265E-7	3.332E-7	11	73
+12	HP:0000982	Palmoplantar keratoderma		4.938E-10	4.082E-8	3.052E-7	4.899E-7	10	57
+13	HP:0011362	Abnormal hair quantity		7.063E-10	5.389E-8	4.030E-7	7.006E-7	10	59
+14	HP:0002209	Sparse scalp hair		2.046E-9	1.450E-7	1.084E-6	2.030E-6	8	33
+15	HP:0001810	Dystrophic toenail		3.540E-9	2.341E-7	1.751E-6	3.512E-6	5	7
+16	HP:0000668	Hypodontia		1.202E-8	7.453E-7	5.573E-6	1.193E-5	10	78
+17	HP:0000691	Microdontia		2.656E-8	1.550E-6	1.159E-5	2.635E-5	9	63
+18	HP:0002213	Fine hair		2.860E-8	1.564E-6	1.170E-5	2.838E-5	8	45
+19	HP:0008388	Abnormality of the toenails		2.996E-8	1.564E-6	1.170E-5	2.972E-5	6	18
+20	HP:0000698	Conical tooth		4.138E-8	2.052E-6	1.535E-5	4.105E-5	5	10
+21	HP:0006482	Abnormality of dental morphology		4.955E-8	2.341E-6	1.750E-5	4.916E-5	7	32
+22	HP:0000958	Dry skin		6.038E-8	2.722E-6	2.036E-5	5.989E-5	9	69
+23	HP:0001231	Abnormality of the fingernails		2.245E-7	9.685E-6	7.242E-5	2.228E-4	9	80
+24	HP:0009804	Reduced number of teeth		3.397E-7	1.404E-5	1.050E-4	3.370E-4	8	61
+25	HP:0008391	Dystrophic fingernails		5.476E-7	2.173E-5	1.625E-4	5.433E-4	4	7
+26	HP:0002224	Woolly hair		6.806E-7	2.559E-5	1.914E-4	6.751E-4	5	16
+27	HP:0100840	Aplasia/Hypoplasia of the eyebrow		6.966E-7	2.559E-5	1.914E-4	6.911E-4	7	46
+28	HP:0000682	Abnormality of dental enamel		1.089E-6	3.858E-5	2.885E-4	1.080E-3	7	49
+29	HP:0000970	Anhidrosis		1.312E-6	4.487E-5	3.355E-4	1.301E-3	5	18
+30	HP:0000607	Periorbital wrinkles		1.487E-6	4.611E-5	3.448E-4	1.475E-3	3	3
+31	HP:0007607	Hypohidrotic ectodermal dysplasia		1.487E-6	4.611E-5	3.448E-4	1.475E-3	3	3
+32	HP:0001106	Periorbital hyperpigmentation		1.487E-6	4.611E-5	3.448E-4	1.475E-3	3	3
+33	HP:0001798	Anonychia		1.566E-6	4.708E-5	3.520E-4	1.554E-3	6	33
+34	HP:0002557	Hypoplastic nipples		1.765E-6	5.002E-5	3.740E-4	1.751E-3	5	19
+35	HP:0000498	Blepharitis		1.765E-6	5.002E-5	3.740E-4	1.751E-3	5	19
+36	HP:0000972	Palmoplantar hyperkeratosis		6.175E-6	1.702E-4	1.272E-3	6.126E-3	5	24
+37	HP:0200042	Skin ulcer		8.499E-6	2.279E-4	1.704E-3	8.431E-3	7	66
+38	HP:0003777	Pili torti		1.063E-5	2.774E-4	2.074E-3	1.054E-2	4	13
+39	HP:0010803	Everted upper lip vermilion		1.447E-5	3.588E-4	2.683E-3	1.435E-2	3	5
+40	HP:0002561	Absent nipple		1.447E-5	3.588E-4	2.683E-3	1.435E-2	3	5
+41	HP:0007400	Irregular hyperpigmentation		1.652E-5	3.901E-4	2.917E-3	1.638E-2	5	29
+42	HP:0002299	Brittle hair		1.652E-5	3.901E-4	2.917E-3	1.638E-2	5	29
+43	HP:0001806	Onycholysis		1.965E-5	4.496E-4	3.362E-3	1.949E-2	5	30
+44	HP:0000561	Absent eyelashes		1.994E-5	4.496E-4	3.362E-3	1.978E-2	4	15
+45	HP:0005406	Recurrent bacterial skin infections		2.870E-5	6.327E-4	4.731E-3	2.847E-2	3	6
+46	HP:0000677	Oligodontia		4.357E-5	9.396E-4	7.026E-3	4.322E-2	4	18
+47	HP:0000674	Anodontia		4.982E-5	9.884E-4	7.390E-3	4.942E-2	3	7
+48	HP:0002231	Sparse body hair		4.982E-5	9.884E-4	7.390E-3	4.942E-2	3	7
+49	HP:0001592	Selective tooth agenesis		4.982E-5	9.884E-4	7.390E-3	4.942E-2	3	7
+50	HP:0100783	Breast aplasia		4.982E-5	9.884E-4	7.390E-3	4.942E-2	3	7
+5: Mouse Phenotype [Display Chart] 2562 annotations before applied cutoff / 7942 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	MP:0010678	abnormal skin adnexa morphology		6.846E-15	9.348E-12	7.877E-11	1.754E-11	26	757
+2	MP:0002060	abnormal skin morphology		7.298E-15	9.348E-12	7.877E-11	1.870E-11	26	759
+3	MP:0010771	integument phenotype		3.211E-14	2.742E-11	2.311E-10	8.227E-11	33	1474
+4	MP:0001510	abnormal coat appearance		2.703E-13	1.731E-10	1.459E-9	6.924E-10	20	448
+5	MP:0000432	abnormal head morphology		4.897E-13	2.233E-10	1.882E-9	1.255E-9	24	741
+6	MP:0000367	abnormal coat/ hair morphology		5.230E-13	2.233E-10	1.882E-9	1.340E-9	20	464
+7	MP:0002073	abnormal hair growth		3.522E-11	1.289E-8	1.086E-7	9.023E-8	14	228
+8	MP:0003743	abnormal facial morphology		5.034E-11	1.612E-8	1.358E-7	1.290E-7	20	594
+9	MP:0005382	craniofacial phenotype		8.063E-11	2.066E-8	1.741E-7	2.066E-7	24	938
+10	MP:0000428	abnormal craniofacial morphology		8.063E-11	2.066E-8	1.741E-7	2.066E-7	24	938
+11	MP:0002098	abnormal vibrissa morphology		7.333E-10	1.611E-7	1.357E-6	1.879E-6	9	79
+12	MP:0001216	abnormal epidermal layer morphology		7.545E-10	1.611E-7	1.357E-6	1.933E-6	14	287
+13	MP:0002357	abnormal spleen white pulp morphology		1.182E-9	2.330E-7	1.964E-6	3.029E-6	14	297
+14	MP:0000416	sparse hair		1.428E-9	2.444E-7	2.059E-6	3.659E-6	9	85
+15	MP:0001191	abnormal skin condition		1.431E-9	2.444E-7	2.059E-6	3.666E-6	13	248
+16	MP:0003704	abnormal hair follicle development		1.953E-9	3.128E-7	2.635E-6	5.005E-6	8	60
+17	MP:0000452	abnormal mouth morphology		2.625E-9	3.956E-7	3.333E-6	6.725E-6	16	440
+18	MP:0001231	abnormal epidermis stratum basale morphology		2.917E-9	4.152E-7	3.498E-6	7.473E-6	8	63
+19	MP:0001240	abnormal epidermis stratum corneum morphology		3.763E-9	5.074E-7	4.276E-6	9.641E-6	10	130
+20	MP:0002100	abnormal tooth morphology		4.552E-9	5.831E-7	4.913E-6	1.166E-5	11	174
+21	MP:0008217	abnormal B cell activation		4.836E-9	5.900E-7	4.972E-6	1.239E-5	11	175
+22	MP:0002689	abnormal molar morphology		7.131E-9	8.304E-7	6.997E-6	1.827E-5	7	45
+23	MP:0000377	abnormal hair follicle morphology		8.686E-9	9.675E-7	8.152E-6	2.225E-5	11	185
+24	MP:0008180	abnormal marginal zone B cell morphology		1.127E-8	1.204E-6	1.014E-5	2.889E-5	9	107
+25	MP:0010832	lethality during fetal growth through weaning		1.923E-8	1.971E-6	1.661E-5	4.928E-5	30	1928
+26	MP:0002074	abnormal hair texture		2.672E-8	2.633E-6	2.218E-5	6.845E-5	7	54
+27	MP:0005371	limbs/digits/tail phenotype		3.714E-8	3.525E-6	2.970E-5	9.516E-5	19	774
+28	MP:0009931	abnormal skin appearance		5.404E-8	4.822E-6	4.063E-5	1.385E-4	14	400
+29	MP:0002362	abnormal spleen marginal zone morphology		5.458E-8	4.822E-6	4.063E-5	1.398E-4	9	128
+30	MP:0013701	abnormal mature B cell number		6.032E-8	5.151E-6	4.340E-5	1.545E-4	12	278
+31	MP:0005358	abnormal incisor morphology		6.700E-8	5.537E-6	4.666E-5	1.717E-4	8	93
+32	MP:0013558	abnormal exocrine gland morphology		8.581E-8	6.870E-6	5.789E-5	2.198E-4	16	562
+33	MP:0000627	abnormal mammary gland morphology		2.152E-7	1.619E-5	1.364E-4	5.514E-4	9	150
+34	MP:0013554	abnormal apocrine gland morphology		2.152E-7	1.619E-5	1.364E-4	5.514E-4	9	150
+35	MP:0002111	abnormal tail morphology		2.212E-7	1.619E-5	1.364E-4	5.667E-4	12	313
+36	MP:0008182	decreased marginal zone B cell number		2.984E-7	2.124E-5	1.790E-4	7.646E-4	7	76
+37	MP:0005153	abnormal B cell proliferation		3.180E-7	2.202E-5	1.855E-4	8.146E-4	9	157
+38	MP:0000414	alopecia		3.293E-7	2.220E-5	1.871E-4	8.437E-4	8	114
+39	MP:0001284	absent vibrissae		3.895E-7	2.559E-5	2.156E-4	9.979E-4	5	26
+40	MP:0008211	decreased mature B cell number		4.184E-7	2.680E-5	2.258E-4	1.072E-3	10	213
+41	MP:0002458	abnormal B cell number		4.905E-7	3.065E-5	2.582E-4	1.257E-3	14	478
+42	MP:0008171	abnormal mature B cell morphology		5.293E-7	3.220E-5	2.714E-4	1.356E-3	14	481
+43	MP:0003935	abnormal craniofacial development		5.405E-7	3.220E-5	2.714E-4	1.385E-3	12	340
+44	MP:0000628	abnormal mammary gland development		6.697E-7	3.899E-5	3.286E-4	1.716E-3	8	125
+45	MP:0001242	hyperkeratosis		9.570E-7	5.449E-5	4.591E-4	2.452E-3	7	90
+46	MP:0005093	decreased B cell proliferation		1.197E-6	6.667E-5	5.618E-4	3.067E-3	7	93
+47	MP:0005379	endocrine/exocrine gland phenotype		1.378E-6	7.511E-5	6.329E-4	3.530E-3	26	1767
+48	MP:0005017	decreased B cell number		1.449E-6	7.735E-5	6.517E-4	3.713E-3	12	373
+49	MP:0002655	abnormal keratinocyte morphology		1.525E-6	7.975E-5	6.719E-4	3.908E-3	6	61
+50	MP:0001846	increased inflammatory response		1.812E-6	9.093E-5	7.661E-4	4.643E-3	18	890
+7: Pathway [Display Chart] 617 annotations before applied cutoff / 10916 genes in category
+ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
+1	160134	TAK1 activates NFkB by phosphorylation and activation of IKKs complex	BioSystems: REACTOME	6.677E-16	4.120E-13	2.885E-12	4.120E-13	9	26
+2	672447	RANKL/RANK Signaling Pathway	BioSystems: WikiPathways	1.640E-14	5.061E-12	3.544E-11	1.012E-11	10	54
+3	634527	NF-kappa B signaling pathway	BioSystems: KEGG	9.889E-14	1.663E-11	1.165E-10	6.102E-11	11	91
+4	M16697	CD40L Signaling Pathway	MSigDB C2: BioCarta	1.078E-13	1.663E-11	1.165E-10	6.654E-11	7	15
+5	83105	Pathways in cancer	BioSystems: KEGG	1.893E-13	2.336E-11	1.636E-10	1.168E-10	16	327
+6	106418	Downstream TCR signaling	BioSystems: REACTOME	2.726E-13	2.803E-11	1.963E-10	1.682E-10	9	47
+7	198855	Toll-like receptor signaling pathway	BioSystems: WikiPathways	4.018E-13	3.542E-11	2.480E-10	2.479E-10	11	103
+8	137944	IL1-mediated signaling events	BioSystems: Pathway Interaction Database	1.362E-12	1.002E-10	7.016E-10	8.402E-10	8	35
+9	187082	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	BioSystems: REACTOME	1.524E-12	1.002E-10	7.016E-10	9.403E-10	10	83
+10	122191	NOD-like receptor signaling pathway	BioSystems: KEGG	1.744E-12	1.002E-10	7.016E-10	1.076E-9	9	57
+11	106396	Toll Like Receptor 7/8 (TLR7/8) Cascade	BioSystems: REACTOME	1.948E-12	1.002E-10	7.016E-10	1.202E-9	10	85
+12	187081	MyD88 dependent cascade initiated on endosome	BioSystems: REACTOME	1.948E-12	1.002E-10	7.016E-10	1.202E-9	10	85
+13	M984	Toll-Like Receptor Pathway	MSigDB C2: BioCarta	2.219E-12	1.053E-10	7.377E-10	1.369E-9	8	37
+14	198790	EBV LMP1 signaling	BioSystems: WikiPathways	2.795E-12	1.232E-10	8.625E-10	1.724E-9	7	22
+15	106397	Toll Like Receptor 9 (TLR9) Cascade	BioSystems: REACTOME	3.127E-12	1.286E-10	9.008E-10	1.929E-9	10	89
+16	M15285	NF-kB Signaling Pathway	MSigDB C2: BioCarta	4.004E-12	1.544E-10	1.081E-9	2.471E-9	7	23
+17	106414	TCR signaling	BioSystems: REACTOME	5.222E-12	1.895E-10	1.327E-9	3.222E-9	9	64
+18	187101	TRAF6 mediated NF-kB activation	BioSystems: REACTOME	5.635E-12	1.932E-10	1.353E-9	3.477E-9	7	24
+19	193147	Osteoclast differentiation	BioSystems: KEGG	6.382E-12	2.059E-10	1.442E-9	3.938E-9	11	132
+20	138058	BCR signaling pathway	BioSystems: Pathway Interaction Database	6.975E-12	2.059E-10	1.442E-9	4.303E-9	9	66
+21	106391	Toll Like Receptor 3 (TLR3) Cascade	BioSystems: REACTOME	7.545E-12	2.059E-10	1.442E-9	4.655E-9	10	97
+22	106401	MyD88-independent cascade	BioSystems: REACTOME	7.545E-12	2.059E-10	1.442E-9	4.655E-9	10	97
+23	PW:0000499	Nuclear Factor Kappa B signaling	Pathway Ontology	7.676E-12	2.059E-10	1.442E-9	4.736E-9	6	13
+24	833828	FCERI mediated NF-kB activation	BioSystems: REACTOME	9.964E-12	2.562E-10	1.794E-9	6.148E-9	8	44
+25	920955	Regulation of toll-like receptor signaling pathway	BioSystems: WikiPathways	1.258E-11	3.105E-10	2.175E-9	7.763E-9	10	102
+26	83076	Toll-like receptor signaling pathway	BioSystems: KEGG	1.858E-11	4.410E-10	3.088E-9	1.147E-8	10	106
+27	M10183	Acetylation and Deacetylation of RelA in The Nucleus	MSigDB C2: BioCarta	3.548E-11	8.108E-10	5.678E-9	2.189E-8	6	16
+28	160140	Signaling by Interleukins	BioSystems: REACTOME	4.613E-11	1.017E-9	7.119E-9	2.846E-8	10	116
+29	M10082	TNFR2 Signaling Pathway	MSigDB C2: BioCarta	8.172E-11	1.739E-9	1.218E-8	5.042E-8	6	18
+30	576258	RIP-mediated NFkB activation via ZBP1	BioSystems: REACTOME	2.366E-10	4.865E-9	3.407E-8	1.460E-7	6	21
+31	160141	Interleukin-1 signaling	BioSystems: REACTOME	4.145E-10	8.086E-9	5.663E-8	2.558E-7	7	42
+32	833825	Fc epsilon receptor (FCERI) signaling	BioSystems: REACTOME	4.194E-10	8.086E-9	5.663E-8	2.588E-7	11	194
+33	138030	Canonical NF-kappaB pathway	BioSystems: Pathway Interaction Database	4.372E-10	8.175E-9	5.725E-8	2.698E-7	6	23
+34	117292	RIG-I-like receptor signaling pathway	BioSystems: KEGG	4.885E-10	8.700E-9	6.093E-8	3.014E-7	8	70
+35	672452	TWEAK Signaling Pathway	BioSystems: WikiPathways	4.935E-10	8.700E-9	6.093E-8	3.045E-7	7	43
+36	144181	Leishmaniasis	BioSystems: KEGG	9.572E-10	1.604E-8	1.123E-7	5.906E-7	8	76
+37	576256	ZBP1(DAI) mediated induction of type I IFNs	BioSystems: REACTOME	9.876E-10	1.604E-8	1.123E-7	6.094E-7	6	26
+38	M14512	Influence of Ras and Rho proteins on G1 to S Transition	MSigDB C2: BioCarta	9.876E-10	1.604E-8	1.123E-7	6.094E-7	6	26
+39	576248	Signaling by the B Cell Receptor (BCR)	BioSystems: REACTOME	1.383E-9	2.188E-8	1.532E-7	8.531E-7	11	217
+40	187097	RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways	BioSystems: REACTOME	1.453E-9	2.241E-8	1.569E-7	8.964E-7	8	80
+41	P00054	Toll receptor signaling pathway	PantherDB	1.496E-9	2.251E-8	1.576E-7	9.229E-7	7	50
+42	169642	Toxoplasmosis	BioSystems: KEGG	1.926E-9	2.830E-8	1.982E-7	1.188E-6	9	122
+43	83118	Small cell lung cancer	BioSystems: KEGG	2.609E-9	3.743E-8	2.621E-7	1.610E-6	8	86
+44	920968	IL17 signaling pathway	BioSystems: WikiPathways	3.108E-9	4.358E-8	3.052E-7	1.918E-6	6	31
+45	83111	Prostate cancer	BioSystems: KEGG	3.439E-9	4.637E-8	3.247E-7	2.122E-6	8	89
+46	M12985	TACI and BCMA stimulation of B cell immune responses.	MSigDB C2: BioCarta	3.457E-9	4.637E-8	3.247E-7	2.133E-6	5	15
+47	83117	Acute myeloid leukemia	BioSystems: KEGG	3.871E-9	5.082E-8	3.559E-7	2.388E-6	7	57
+48	198862	TCR Signaling Pathway	BioSystems: WikiPathways	4.112E-9	5.286E-8	3.702E-7	2.537E-6	8	91
+49	M12095	Signal transduction through IL1R	MSigDB C2: BioCarta	4.645E-9	5.849E-8	4.096E-7	2.866E-6	6	33
+50	377873	Herpes simplex infection	BioSystems: KEGG	5.384E-9	6.644E-8	4.653E-7	3.322E-6	10	188
