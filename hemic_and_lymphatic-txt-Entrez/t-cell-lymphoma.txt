@@ -1,0 +1,655 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	7074	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1	TIAM-1|human T-lymphoma invasion and metastasis inducing TIAM1 protein	21q22.11	21	NC_000021.9	31118418	31559977	minus	33	600687	
+10090	Mus musculus	21844	0	live	Tiam1	AI847750, D16Ium10, D16Ium10e	T cell lymphoma invasion and metastasis 1	T-cell lymphoma invasion and metastasis 1|TIAM-1	16 51.5 cM	16	NC_000082.6	89787111	90145483	minus	34		
+9606	Homo sapiens	8115	0	live	TCL1A	TCL1	T-cell leukemia/lymphoma 1A	T-cell lymphoma-1|oncogene TCL-1|oncogene TCL1|protein p14 TCL1	14q32.1	14	NC_000014.9	95709967	95714196	minus	5	186960	
+10090	Mus musculus	21432	0	live	Tcl1	Tcl1a	T cell lymphoma breakpoint 1	T-cell lymphoma breakpoint 1|TCL-1|oncogene TCL-1|oncogene TCL1|protein p14 TCL1	12 55.28 cM	12	NC_000078.6	105216753	105222737	minus	4		
+10090	Mus musculus	24001	0	live	Tiam2	3000002F19Rik, STEF, mKIAA2016	T cell lymphoma invasion and metastasis 2	RAS-related C3 botulinum substrate 1, guanine nucleotide exchange factor 1|SIF and TIAM1-like exchange factor|T-cell lymphoma invasion and metastasis 2|T-cell lymphoma invasion and metastasis 2; RAS-related C3 botulinum substrate 1, guanine nucleotide exchange factor 1|TIAM-2	17 1.99 cM	17	NC_000083.6	3326300	3519397	plus	36		
+9606	Homo sapiens	26230	0	live	TIAM2	STEF, TIAM-2	T-cell lymphoma invasion and metastasis 2	SIF and TIAM1-like exchange factor	6q25.2	6	NC_000006.12	155090289	155257723	plus	27	604709	
+9606	Homo sapiens	64061	0	live	TSPYL2	CDA1, CINAP, CTCL, DENTT, HRIHFB2216, NP79, SE204, TSPX	TSPY-like 2	CASK-interacting nucleosome assembly protein|CTCL tumor antigen se20-4|CTCL-associated antigen se20-4|TSPY-like protein 2|cell division autoantigen 1|cutaneous T-cell lymphoma-associated antigen se20-4|cutaneous T-cell lymphoma-associated tumor antigen se20-4|differentially expressed nucleolar TGF-beta1 target|differentially-expressed nucleolar TGF-beta1 target protein|nuclear protein of 79 kDa|testis-specific protein Y encoded-like 2	Xp11.2	X	NC_000023.11	53082360	53088546	plus	7	300564	
+9606	Homo sapiens	64693	0	live	CTAGE1	CT21.1, CT21.2, CTAGE, CTAGE-1, CTAGE-2	cutaneous T-cell lymphoma-associated antigen 1	cancer/testis antigen 21.2|cancer/testis antigen family 21, member 1|cancer/testis antigen family 21, member 2|cutaneous T-cell lymphoma-associated antigen 2|protein cTAGE-2	18p11.2	18	NC_000018.10	22413601	22417915	minus	1	608856	
+9606	Homo sapiens	4253	0	live	CTAGE5	MEA6, MGEA, MGEA11, MGEA6	CTAGE family member 5	CTAGE family, member 5|cutaneous T-cell lymphoma-associated antigen 5|meningioma expressed antigen 6 (coiled-coil proline-rich)|meningioma-expressed antigen 6/11|protein cTAGE-5	14q13.3	14	NC_000014.9	39265272	39351193	plus	31	602132	
+10116	Rattus norvegicus	304109	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1		11q11	11	NC_005110.4	29931083	30061173	minus	25		
+9606	Homo sapiens	23613	0	live	ZMYND8	PRKCBP1, PRO2893, RACK7	zinc finger MYND-type containing 8	CTCL tumor antigen se14-3|cutaneous T-cell lymphoma-associated antigen se14-3|predicted protein of HQ2893|zinc finger MYND domain-containing protein 8|zinc finger, MYND-type containing 8	20q13.12	20	NC_000020.11	47209214	47356889	minus	32	615713	
+9606	Homo sapiens	154215	0	live	NKAIN2	FAM77B, NKAIP2, TCBA, TCBA1	Na+/K+ transporting ATPase interacting 2	Na(+)/K(+)-transporting ATPase subunit beta-1-interacting protein 2|T-cell lymphoma breakpoint-associated target protein 1	6q21	6	NC_000006.12	123803837	124825640	plus	12	609758	
+9606	Homo sapiens	27332	0	live	ZNF638	NP220, ZFML, Zfp638	zinc finger protein 638	CTCL tumor antigen se33-1|CTCL-associated antigen se33-1|NP220 nuclear protein|cutaneous T-cell lymphoma-associated antigen se33-1|nuclear protein 220|zinc finger matrin-like protein	2p13.1	2	NC_000002.12	71331755	71435061	plus	29	614349	
+9606	Homo sapiens	51170	0	live	HSD17B11	17-BETA-HSD11, 17-BETA-HSDXI, 17BHSD11, DHRS8, PAN1B, RETSDR2, SDR16C2	hydroxysteroid (17-beta) dehydrogenase 11	17-beta-hydroxysteroid dehydrogenase type XI|CTCL tumor antigen HD-CL-03|CTCL-associated antigen HD-CL-03|cutaneous T-cell lymphoma-associated antigen HD-CL-03|dehydrogenase/reductase SDR family member 8|retinal short-chain dehydrogenase/reductase 2|short chain dehydrogenase/reductase family 16C member 2|short chain dehydrogenase/reductase family 16C, member 2	4q22.1	4	NC_000004.12	87336522	87391303	minus	8	612831	
+9606	Homo sapiens	51347	0	live	TAOK3	DPK, JIK, MAP3K18	TAO kinase 3	CTCL-associated antigen HD-CL-09|JNK/SAPK-inhibitory kinase|STE20-like kinase|cutaneous T-cell lymphoma-associated antigen HD-CL-09|dendritic cell-derived protein kinase|hKFC-A|jun kinase-inhibitory kinase|kinase from chicken homolog A|thousand and one amino acid protein 3	12q	12	NC_000012.12	118149801	118372945	minus	26	616711	
+9606	Homo sapiens	80323	0	live	CCDC68	SE57-1	coiled-coil domain containing 68	CTCL tumor antigen se57-1|CTCL-associated antigen se57-1|cutaneous T-cell lymphoma associated antigen|cutaneous T-cell lymphoma-associated antigen se57-1	18q21	18	NC_000018.10	54901509	54959508	minus	15		
+9606	Homo sapiens	9623	0	live	TCL1B	SYN-1, TML1	T-cell leukemia/lymphoma 1B	T-cell lymphoma/leukemia 1B|TCL1/ MTCP1-like 1|oncogene TCL-1B|syncytiotrophoblast-specific protein	14q32.1	14	NC_000014.9	95686417	95692643	plus	4	603769	
+10090	Mus musculus	432450	0	live	Nkain2	6330571D19Rik, AW455467, Tcba1	Na+/K+ transporting ATPase interacting 2	Na(+)/K(+)-transporting ATPase subunit beta-1-interacting protein 2|T-cell lymphoma breakpoint associated target 1|T-cell lymphoma breakpoint-associated target protein 1	10 A4	10	NC_000076.6	31689310	32893997	minus	8		
+9606	Homo sapiens	64062	0	live	RBM26	ARRS2, C13orf10, PPP1R132, PRO1777, SE70-2, ZC3H17	RNA binding motif protein 26	CTCL tumor antigen se70-2|acidic rich RS domain containing 2|cutaneous T-cell lymphoma tumor antigen se70-2|protein phosphatase 1, regulatory 132	13q31.1	13	NC_000013.11	79311827	79406258	minus	26		
+9606	Homo sapiens	100128553	0	live	CTAGE4	cTAGE-4	CTAGE family member 4	CTAGE family, member 4|cutaneous T-cell lymphoma-associated antigen 4|cutaneous-T-cell-lymphoma-specific tumor antigen 4|protein cTAGE-4	7q35	7	NC_000007.14	144183455	144186080	plus	1	608910	
+8355	Xenopus laevis	735176	0	live	tiam1		T-cell lymphoma invasion and metastasis										
+10116	Rattus norvegicus	100362710	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2		1p11	1	NC_005100.4	44232525	44433450	plus	30		
+10090	Mus musculus	74213	0	live	Rbm26	1700009P03Rik, AI447318, C230097K14Rik, C86225, MLZ-393, Pro1777, Se70-2	RNA binding motif protein 26	RNA-binding motif protein 26|cutaneous T-cell lymphoma tumor antigen se70-2|protein expressed in male leptotene and zygotene spermatocytes 393	14 E2.3	14	NC_000080.6	105114519	105177327	minus	21		
+7955	Danio rerio	567621	0	live	tiam1a	tiam1	T-cell lymphoma invasion and metastasis 1a	T-cell lymphoma invasion and metastasis 1		10	NC_007121.6	25611036	25722721	minus	30		
+8364	Xenopus tropicalis	734013	0	live	tiam1		T-cell lymphoma invasion and metastasis	T-cell lymphoma invasion and metastasis 1		Un							
+6279	Brugia malayi	6104093	0	live	Bm1_46055	Bm1_46055	cutaneous T-cell lymphoma tumor antigen se70-2, putative										
+7209	Loa loa	9940006	0	live	LOAG_02616	LOAG_02616	cutaneous T-cell lymphoma tumor antigen se70-2										
+7955	Danio rerio	100330358	0	live	tiam1b		T-cell lymphoma invasion and metastasis 1b	T-lymphoma invasion and metastasis-inducing protein 1		15	NC_007126.6	42393715	42595035	plus	31		
+10090	Mus musculus	217615	0	live	Ctage5	D12Bwg0579e, Mea6, Mgea, Mgea6	CTAGE family, member 5	cutaneous T-cell lymphoma-associated antigen 5 homolog|meningioma expressed antigen 6 (coiled-coil proline-rich)|meningioma-expressed antigen 6|protein cTAGE-5	12 26.01 cM	12	NC_000078.6	59129740	59190220	plus	27		
+10116	Rattus norvegicus	100912115	0	live	LOC100912115		cutaneous T-cell lymphoma-associated antigen 5 homolog			6	NC_005105.4	80188662	80286918	plus	32		
+9606	Homo sapiens	643854	0	live	CTAGE9		CTAGE family member 9	CTAGE family, member 9|cutaneous T-cell lymphoma-associated antigen 9|protein cTAGE-9	6q23.2	6	NC_000006.12	131708441	131711017	minus	1		
+7227	Drosophila melanogaster	31536	0	live	MCTS1	Dmel_CG5941, CG5941, Dmel\CG5941, MCT-1, anon-WO03040301.150, anon-WO03040301.151	Malignant T cell amplified sequence 1	CG5941-PA|CG5941-PB|MCTS1-PA|MCTS1-PB|malignant T cell amplified sequence 1|multiple copies in T-cell lymphoma-1	5D2-5D2	X	NC_004354.4	6037892	6039576	plus	4		
+8496	Alligator mississippiensis	102569703	0	live	TIAM2	Y1Q_001089, TIAM1	T-cell lymphoma invasion and metastasis 2	T-cell lymphoma invasion and metastasis 1		Un							
+9606	Homo sapiens	220112	0	live	CTAGE3P	CTAGE-3, CTAGE3	CTAGE family member 3, pseudogene	CTAGE family, member 3, pseudogene|cutaneous T-cell lymphoma-associated antigen 3	13q14.3	13	NC_000013.11	51907820	51910559	minus	0	608857	
+9606	Homo sapiens	100142659	0	live	CTAGE8		CTAGE family member 8	CTAGE family, member 4 pseudogene|CTAGE family, member 8|Cutaneous T-cell lymphoma-associated antigen 8|Protein cTAGE-8	7q35	7	NC_000007.14	144266674	144269784	minus	1		
+10029	Cricetulus griseus	100771450	0	live	Tiam2	I79_001186	T-cell lymphoma invasion and metastasis 2	T cell lymphoma invasion and metastasis 2|T-lymphoma invasion and metastasis-inducing protein 2		2	NW_003613604.1	3630856	3799025	plus	29		
+10029	Cricetulus griseus	100756100	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1	T cell lymphoma invasion and metastasis 1		4	NW_003613595.1	2512669	2627197	minus	26		
+10116	Rattus norvegicus	306444	0	live	LOC306444		similar to Protein kinase C-binding protein 1 (Rack7) (Cutaneous T-cell lymphoma associated antigen se14-3) (CTCL tumor antigen se14-3) (Zinc finger MYND domain containing protein 8)		16p11	16	NC_005115.4	42133291	42135023	minus	0		
+10116	Rattus norvegicus	295077	0	live	LOC295077		similar to Protein kinase C-binding protein 1 (Rack7) (Cutaneous T-cell lymphoma associated antigen se14-3) (CTCL tumor antigen se14-3) (Zinc finger MYND domain containing protein 8)		2q31	2	NC_005101.4	150901533	150902716	plus	0		
+9606	Homo sapiens	340307	0	live	CTAGE6	CTAGE6P	CTAGE family member 6	CTAGE family, member 6|CTAGE family, member 6, pseudogene|cutaneous T-cell lymphoma-associated antigen 6|protein cTAGE-6|putative protein cTAGE-6	7q35	7	NC_000007.14	143755089	143757750	minus	1		
+9544	Macaca mulatta	701688	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			4	NC_027896.1	110823171	110994586	minus	29		
+9606	Homo sapiens	100421638	0	live	CTAGE13P		CTAGE family member 13, pseudogene	CTAGE family, member 13, pseudogene|cutaneous T-cell lymphoma-associated antigen 1 pseudogene		6	NC_000006.12	168286997	168289221	minus	0		
+9606	Homo sapiens	100421663	0	live	LOC100421663		cutaneous T-cell lymphoma-associated antigen 1 pseudogene			20	NC_000020.11	19809088	19810021	plus	0		
+9606	Homo sapiens	100421630	0	live	LOC100421630		cutaneous T-cell lymphoma-associated antigen 1 pseudogene			4	NC_000004.12	176631598	176632529	minus	0		
+9606	Homo sapiens	100288590	0	live	LOC100288590		cutaneous T-cell lymphoma-associated antigen 1 pseudogene		21q22.13	21	NC_000021.9	38204544	38205606	minus	0		
+10116	Rattus norvegicus	690575	0	live	Tcl1a	Tcl1	T-cell leukemia/lymphoma 1A	T-cell leukemia/lymphoma protein 1A (P14 TCL1 protein) (TCL1 oncogene) (TCL-1 protein)|T-cell lymphoma breakpoint 1	6q32	6	NC_005105.4	128888768	128894761	minus	4		
+9913	Bos taurus	100139161	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			9	AC_000166.1	93010082	93246673	plus	30		
+9031	Gallus gallus	421648	0	live	TIAM2	null	T-cell lymphoma invasion and metastasis 2			3	NC_006090.4	50652037	50738468	plus	29		
+9031	Gallus gallus	418491	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_006088.4	104461443	104605701	minus	30		
+93934	Coturnix japonica	107311604	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			3	NC_029518.1	45578171	45663384	plus	28		
+93934	Coturnix japonica	107322765	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_029516.1	93969785	94132940	minus	32		
+7955	Danio rerio	338198	0	live	tiam2a	id:ibd5033	T-cell lymphoma invasion and metastasis 2a										
+7868	Callorhinchus milii	103186448	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un	NW_006890196.1	1096759	1218518	plus	29		
+9669	Mustela putorius furo	101684996	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9541	Macaca fascicularis	101865530	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			3	NC_022274.1	15208227	15657398	plus	34		
+1026970	Nannospalax galili	103736475	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+72004	Bos mutus	102283572	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+10181	Heterocephalus glaber	101711984	0	live	Tiam1	GW7_08758	T-cell lymphoma invasion and metastasis 1			Un							
+9669	Mustela putorius furo	101693463	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+103944	Protobothrops mucrosquamatus	107293958	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+103944	Protobothrops mucrosquamatus	107290521	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9157	Parus major	107213264	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_029268.1	113248151	113371190	plus	29		
+9157	Parus major	107201452	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			3	NC_029270.1	54053172	54141847	minus	28		
+9994	Marmota marmota marmota	107153147	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+9994	Marmota marmota marmota	107136135	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+146911	Gekko japonicus	107114195	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+146911	Gekko japonicus	107109049	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+28743	Cyprinodon variegatus	107098749	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+9544	Macaca mulatta	106994443	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_027910.1	10895418	10901033	minus	1		
+32536	Acinonyx jubatus	106986740	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+32536	Acinonyx jubatus	106977842	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+48699	Poecilia latipinna	106962112	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+48699	Poecilia latipinna	106937928	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+48701	Poecilia mexicana	106906779	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+198806	Calidris pugnax	106893062	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+198806	Calidris pugnax	106885734	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9172	Sturnus vulgaris	106860712	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9172	Sturnus vulgaris	106859041	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9793	Equus asinus	106847274	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9793	Equus asinus	106824945	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+8030	Salmo salar	106613350	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			ssa09	NC_027308.1	137527692	137563397	plus	6		
+8030	Salmo salar	106607670	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			ssa06	NC_027305.1	51253693	51310729	minus	26		
+35019	Thamnophis sirtalis	106546455	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+35019	Thamnophis sirtalis	106545197	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+52670	Austrofundulus limnaeus	106520557	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+52670	Austrofundulus limnaeus	106519118	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+202946	Apteryx australis mantelli	106497976	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+202946	Apteryx australis mantelli	106494979	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+381198	Anser cygnoides domesticus	106043428	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+381198	Anser cygnoides domesticus	106034251	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+10020	Dipodomys ordii	105994106	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+10020	Dipodomys ordii	105993613	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+8078	Fundulus heteroclitus	105938001	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+8078	Fundulus heteroclitus	105925934	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+7950	Clupea harengus	105909253	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+30608	Microcebus murinus	105880123	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+30608	Microcebus murinus	105868583	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+379532	Propithecus coquereli	105820791	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+37293	Aotus nancymaae	105716956	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+37293	Aotus nancymaae	105713527	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9531	Cercocebus atys	105588871	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9531	Cercocebus atys	105583923	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			Un							
+9531	Cercocebus atys	105575576	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9568	Mandrillus leucophaeus	105545976	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+336983	Colobus angolensis palliatus	105523089	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			Un							
+336983	Colobus angolensis palliatus	105520967	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+336983	Colobus angolensis palliatus	105519412	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9545	Macaca nemestrina	105478722	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9545	Macaca nemestrina	105472738	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9545	Macaca nemestrina	105464921	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			Un							
+216574	Aquila chrysaetos canadensis	105411198	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+216574	Aquila chrysaetos canadensis	105409081	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+132908	Pteropus vampyrus	105301274	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+132908	Pteropus vampyrus	105293853	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9838	Camelus dromedarius	105100959	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9838	Camelus dromedarius	105086777	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9837	Camelus bactrianus	105077455	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9837	Camelus bactrianus	105070251	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8010	Esox lucius	105015781	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			LG15	NC_025982.2	18164965	18235038	plus	27		
+43346	Bison bison bison	105004638	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+43346	Bison bison bison	104989276	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+8208	Notothenia coriiceps	104963587	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+8208	Notothenia coriiceps	104950251	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+215358	Larimichthys crocea	104923304	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+215358	Larimichthys crocea	104919290	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+885580	Fukomys damarensis	104862966	0	live	Tiam2	H920_05760	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+885580	Fukomys damarensis	104851438	0	live	Tiam1	H920_17024	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+52644	Haliaeetus leucocephalus	104842743	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+52644	Haliaeetus leucocephalus	104840708	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+932674	Corvus cornix cornix	104689964	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+932674	Corvus cornix cornix	104684195	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+61622	Rhinopithecus roxellana	104664652	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+61622	Rhinopithecus roxellana	104657684	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+100784	Balearica regulorum gibbericeps	104644146	0	live	TIAM1	N312_01596	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+100784	Balearica regulorum gibbericeps	104638649	0	live	TIAM2	N312_04077	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+97097	Phaethon lepturus	104622806	0	live	TIAM1	N335_08533	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+97097	Phaethon lepturus	104619439	0	live	TIAM2	N335_11281	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+94827	Tinamus guttatus	104577168	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+94827	Tinamus guttatus	104565312	0	live	TIAM2	N309_06843	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+57412	Colius striatus	104563212	0	live	TIAM2	N325_01995	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+54374	Mesitornis unicolor	104542486	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+54374	Mesitornis unicolor	104536544	0	live	TIAM2	N332_05360	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+279965	Caprimulgus carolinensis	104529417	0	live	TIAM2	N321_09407	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+279965	Caprimulgus carolinensis	104522948	0	live	TIAM1	N321_00718	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+54383	Eurypyga helias	104516923	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+54383	Eurypyga helias	104504766	0	live	TIAM2	N326_11520	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+175836	Buceros rhinoceros silvestris	104501283	0	live	TIAM2	N320_03860	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+175836	Buceros rhinoceros silvestris	104489230	0	live	TIAM1	N320_11972	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+187382	Chlamydotis macqueenii	104483152	0	live	TIAM2	N324_01378	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+187382	Chlamydotis macqueenii	104476028	0	live	TIAM1	N324_09026	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+240206	Pterocles gutturalis	104461030	0	live	TIAM2	N339_00537	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+176057	Nestor notabilis	104412401	0	live	TIAM2	N333_12253	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+176057	Nestor notabilis	104412000	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8897	Chaetura pelagica	104392425	0	live	TIAM1	M959_12335	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+8897	Chaetura pelagica	104388473	0	live	TIAM2	M959_07594	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+121530	Tauraco erythrolophus	104374039	0	live	TIAM2	N340_10465	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+56313	Tyto alba	104368695	0	live	TIAM1	N341_01762	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+56313	Tyto alba	104356940	0	live	TIAM2	N341_12638	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+188344	Leptosomus discolor	104344247	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+188344	Leptosomus discolor	104343461	0	live	TIAM2	N330_03547	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+30419	Opisthocomus hoazin	104330823	0	live	TIAM2	N306_12170	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+30419	Opisthocomus hoazin	104328358	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8969	Haliaeetus albicilla	104310822	0	live	TIAM2	N329_10044	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+118200	Picoides pubescens	104306419	0	live	TIAM1	N307_12729	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+118200	Picoides pubescens	104306239	0	live	TIAM2	N307_11518	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+50402	Charadrius vociferus	104295182	0	live	TIAM1	N301_04808	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+50402	Charadrius vociferus	104288753	0	live	TIAM2	N301_03892	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+57397	Apaloderma vittatum	104280067	0	live	TIAM2	N311_12384	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+57397	Apaloderma vittatum	104279051	0	live	TIAM1	N311_01528	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+37040	Gavia stellata	104263886	0	live	TIAM2	N328_12829	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+441894	Struthio camelus australis	104145465	0	live	TIAM2	N308_11682	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+441894	Struthio camelus australis	104139464	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+188379	Egretta garzetta	104131168	0	live	TIAM2	Z169_09564	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+188379	Egretta garzetta	104128218	0	live	TIAM1	Z169_10939	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+30455	Fulmarus glacialis	104073591	0	live	TIAM2	N327_12593	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+55661	Cuculus canorus	104067587	0	live	TIAM2	N303_00663	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+55661	Cuculus canorus	104064769	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9209	Phalacrocorax carbo	104052747	0	live	CTAGE1	N336_01127	cutaneous T-cell lymphoma-associated antigen 1	cTAGE family member 5		Un							
+9209	Phalacrocorax carbo	104043473	0	live	TIAM2	N336_07467	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9209	Phalacrocorax carbo	104042980	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+36300	Pelecanus crispus	104031801	0	live	TIAM1	N334_01569	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+36300	Pelecanus crispus	104031752	0	live	TIAM2	N334_13273	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+128390	Nipponia nippon	104020113	0	live	TIAM1	Y956_04369	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+128390	Nipponia nippon	104008787	0	live	TIAM2	Y956_00270	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9238	Pygoscelis adeliae	103925563	0	live	TIAM2	AS28_06300	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9238	Pygoscelis adeliae	103920307	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9233	Aptenodytes forsteri	103901960	0	live	TIAM1	AS27_04821	T-cell lymphoma invasion and metastasis 1			Un							
+9233	Aptenodytes forsteri	103900699	0	live	TIAM2	AS27_14763	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9135	Serinus canaria	103820587	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9135	Serinus canaria	103818444	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+57068	Acanthisitta chloris	103807629	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+57068	Acanthisitta chloris	103803899	0	live	TIAM1	N310_11131	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+57421	Merops nubicus	103771133	0	live	TIAM2	N331_05271	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+328815	Manacus vitellinus	103765373	0	live	TIAM2	N305_02089	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+328815	Manacus vitellinus	103754388	0	live	TIAM1	N305_10315	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+1026970	Nannospalax galili	103739081	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+29073	Ursus maritimus	103673212	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007907200.1	20874067	21014580	minus	27		
+29073	Ursus maritimus	103660908	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_007907091.1	11929300	12060743	minus	27		
+85066	Corvus brachyrhynchos	103625244	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_008236761.1	305887	373485	plus	27		
+85066	Corvus brachyrhynchos	103619357	0	live	TIAM2	N302_02930	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un	NW_008239110.1	22086382	22175818	plus	25		
+482537	Galeopterus variegatus	103592484	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_007727269.1	69444	189419	minus	27		
+482537	Galeopterus variegatus	103585520	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007726359.1	190865	318570	minus	25		
+9798	Equus przewalskii	103555037	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_007674081.1	28156	229423	minus	34		
+9798	Equus przewalskii	103550555	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007673518.1	249775	438646	plus	27		
+9244	Calypte anna	103531262	0	live	TIAM2	N300_09643	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un	NW_007620664.1	2526288	2614243	minus	24		
+9244	Calypte anna	103531051	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007620476.1	3148520	3233263	plus	26		
+8081	Poecilia reticulata	103458604	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			LG22	NC_024352.1	13000612	13053101	minus	26		
+244447	Cynoglossus semilaevis	103398714	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			1	NC_024307.1	123578	187937	minus	27		
+144197	Stegastes partitus	103354493	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un	NW_007577840.1	634738	692128	minus	29		
+144197	Stegastes partitus	103353746	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un	NW_007577813.1	265012	316832	plus	25		
+29078	Eptesicus fuscus	103297964	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_007370755.1	3040783	3123228	minus	24		
+29078	Eptesicus fuscus	103289940	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007370683.1	16975331	17049927	plus	23		
+9478	Tarsius syrichta	103267759	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007252334.1	225055	447367	minus	27		
+9478	Tarsius syrichta	103264558	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_007249777.1	510080	679109	plus	29		
+60711	Chlorocebus sabaeus	103240764	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			13	NC_023654.1	82537021	82823525	plus	29		
+60711	Chlorocebus sabaeus	103222654	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_023659.1	58092734	58100018	plus	2		
+60711	Chlorocebus sabaeus	103217191	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			2	NC_023643.1	60573187	61015599	plus	30		
+1230840	Orycteropus afer afer	103210278	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006922168.1	915730	1499011	plus	25		
+1230840	Orycteropus afer afer	103197402	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006921665.1	9448603	9661092	plus	26		
+7868	Callorhinchus milii	103185540	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un	NW_006890171.1	1614839	1712929	plus	28		
+9365	Erinaceus europaeus	103122996	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006804584.1	686668	886897	minus	25		
+9365	Erinaceus europaeus	103107855	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006803927.1	11135765	11336514	plus	25		
+118797	Lipotes vexillifer	103081019	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006777895.1	159137	522839	plus	28		
+118797	Lipotes vexillifer	103073449	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006772359.1	1864259	2013554	plus	26		
+176946	Python bivittatus	103061969	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006532968.1	19608	229265	plus	32		
+176946	Python bivittatus	103061235	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006538947.1	34391	49237	plus	5		
+7994	Astyanax mexicanus	103030446	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+7994	Astyanax mexicanus	103029595	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+310752	Balaenoptera acutorostrata scammoni	103017197	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006728348.1	12233967	12338755	minus	25		
+310752	Balaenoptera acutorostrata scammoni	103016623	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006727575.1	360823	508772	minus	26		
+9755	Physeter catodon	102987810	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006715349.1	29467	133569	minus	26		
+9755	Physeter catodon	102980632	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006713389.1	52109	257013	minus	28		
+74533	Panthera tigris altaica	102955456	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8469	Chelonia mydas	102937785	0	live	TIAM2	UY3_04717	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un	NW_006622187.1	1058035	1164771	plus	25		
+8469	Chelonia mydas	102934808	0	live	TIAM1	UY3_17468	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un	NW_006691154.1	805261	989923	plus	27		
+230844	Peromyscus maniculatus bairdii	102919995	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un	NW_006501135.1	4519225	4730228	minus	27		
+9402	Pteropus alecto	102894150	0	live	TIAM2	PAL_GLEAN10013153	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9402	Pteropus alecto	102883973	0	live	TIAM1	PAL_GLEAN10018531	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+28737	Elephantulus edwardii	102859405	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006399801.1	16544568	16722028	plus	26		
+28737	Elephantulus edwardii	102856394	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006399774.1	7075134	7612279	plus	27		
+185453	Chrysochloris asiatica	102823109	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_006408635.1	2472180	2997139	plus	27		
+185453	Chrysochloris asiatica	102820381	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006408567.1	7041700	7222643	minus	26		
+225400	Myotis davidii	102761891	0	live	TIAM1	MDA_GLEAN10017181	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+225400	Myotis davidii	102752632	0	live	TIAM2	MDA_GLEAN10018821	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+9713	Leptonychotes weddellii	102736196	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_006384762.1	47797	179902	plus	25		
+7918	Lepisosteus oculatus	102696827	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			LG3	NC_023181.1	18235262	18357458	minus	31		
+7918	Lepisosteus oculatus	102684046	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			LG1	NC_023179.1	49920807	49943030	minus	15		
+8496	Alligator mississippiensis	102570650	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2				NW_006230624.1	96262	252841	plus	25		
+30538	Vicugna pacos	102528300	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+30538	Vicugna pacos	102527012	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+419612	Camelus ferus	102519655	0	live	TIAM1	CB1_000995061	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+246437	Tupaia chinensis	102500733	0	live	TIAM1	TREES_T100012066	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+246437	Tupaia chinensis	102487166	0	live	TIAM2	TREES_T100017512	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+13735	Pelodiscus sinensis	102459366	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+13735	Pelodiscus sinensis	102446695	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+59463	Myotis lucifugus	102419105	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+89462	Bubalus bubalis	102413018	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_005784534.1	2577304	3040240	minus	30		
+89462	Bubalus bubalis	102394221	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_005785591.1	1286919	1742400	plus	46		
+38654	Alligator sinensis	102385589	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+38654	Alligator sinensis	102371642	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+7897	Latimeria chalumnae	102353813	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+7897	Latimeria chalumnae	102345775	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+59538	Pantholops hodgsonii	102344169	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_005815074.1	20751	37047	plus	12		
+59538	Pantholops hodgsonii	102343415	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_005813146.1	1127673	1297974	plus	26		
+8153	Haplochromis burtoni	102310738	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+72004	Bos mutus	102267761	0	live	TIAM2	M91_14743	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+109478	Myotis brandtii	102264043	0	live	TIAM2	D623_10023604	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+109478	Myotis brandtii	102243024	0	live	TIAM1	D623_10017909	T-cell lymphoma invasion and metastasis 1	T-lymphoma invasion and metastasis-inducing protein 1		Un							
+8083	Xiphophorus maculatus	102217085	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+303518	Pundamilia nyererei	102203171	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+9925	Capra hircus	102170463	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_022293.1	3504641	3744734	plus	27		
+9925	Capra hircus	102168351	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			9	NC_022301.1	77921880	78036845	plus	25		
+9541	Macaca fascicularis	102133494	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_022289.1	59858777	59864399	plus	1		
+181119	Pseudopodoces humilis	102111323	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+181119	Pseudopodoces humilis	102109961	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8932	Columba livia	102098791	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8932	Columba livia	102097412	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+44394	Zonotrichia albicollis	102071136	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+44394	Zonotrichia albicollis	102068332	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+345164	Falco cherrug	102059489	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+345164	Falco cherrug	102057263	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+48883	Geospiza fortis	102040520	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+48883	Geospiza fortis	102031495	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+34839	Chinchilla lanigera	102019737	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+34839	Chinchilla lanigera	102012732	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+79684	Microtus ochrogaster	102000949	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			2	NC_022010.1	97144270	97343151	minus	28		
+79684	Microtus ochrogaster	101979982	0	live	Tiam2	Scaf8	T-cell lymphoma invasion and metastasis 2	SR-related CTD-associated factor 8		LG9	NC_022034.1	13934861	14352342	minus	46		
+43179	Ictidomys tridecemlineatus	101960769	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+43179	Ictidomys tridecemlineatus	101954893	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+8479	Chrysemys picta	101942038	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			3	NC_024220.1	35791246	36028021	minus	30		
+8479	Chrysemys picta	101936219	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_007359903.1	6222465	6489012	plus	31		
+8954	Falco peregrinus	101917139	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+8954	Falco peregrinus	101914291	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+10036	Mesocricetus auratus	101830242	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+10036	Mesocricetus auratus	101829762	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+59894	Ficedula albicollis	101822177	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			3	NC_021674.1	55048254	55148567	minus	28		
+59894	Ficedula albicollis	101806275	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_004775921.1	807728	922362	plus	30		
+8839	Anas platyrhynchos	101803496	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+8839	Anas platyrhynchos	101791458	0	live	TIAM2	Anapl_12920	T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		Un							
+10181	Heterocephalus glaber	101708471	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+9371	Echinops telfairi	101661493	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9371	Echinops telfairi	101647656	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+143302	Condylura cristata	101635203	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+143302	Condylura cristata	101630188	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+51337	Jaculus jaculus	101610489	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+51337	Jaculus jaculus	101598161	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+10160	Octodon degus	101582423	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+10160	Octodon degus	101569027	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+42254	Sorex araneus	101541293	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+42254	Sorex araneus	101541046	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9978	Ochotona princeps	101527168	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9978	Ochotona princeps	101526247	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+106582	Maylandia zebra	101463881	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+9361	Dasypus novemcinctus	101417075	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9708	Odobenus rosmarus divergens	101365424	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9739	Tursiops truncatus	101336971	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un	NW_004197936.1	201804	313139	minus	22		
+9739	Tursiops truncatus	101317230	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un	NW_004231604.1	9833	11005	minus	2		
+9733	Orcinus orca	101280455	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9733	Orcinus orca	101275135	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+8090	Oryzias latipes	101159628	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			22	NC_019880.1	15751726	15822496	minus	27		
+9593	Gorilla gorilla	101127390	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			6	NC_018430.1	156180869	156362671	plus	27		
+9593	Gorilla gorilla	101125464	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			21	NC_018445.1	19419841	19786936	minus	28		
+9940	Ovis aries	101105923	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2	T-lymphoma invasion and metastasis-inducing protein 2		8	NC_019465.2	78319483	78432591	plus	25		
+9940	Ovis aries	101103280	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_019458.2	122247448	122526064	plus	27		
+9685	Felis catus	101094530	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			C2	NC_018731.2	13502237	13902378	plus	29		
+9685	Felis catus	101085127	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			B2	NC_018727.2	140219836	140365688	plus	29		
+31033	Takifugu rubripes	101079238	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			15	NC_018904.1	11275086	11299553	plus	29		
+31033	Takifugu rubripes	101071335	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			2	NC_018891.1	9202954	9222345	minus	19		
+27679	Saimiri boliviensis	101043132	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+27679	Saimiri boliviensis	101042162	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9555	Papio anubis	101011726	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			3	NC_018154.1	15126346	15394769	plus	31		
+9555	Papio anubis	101002338	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_018169.1	14504949	14508732	minus	2		
+9555	Papio anubis	100999794	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			4	NC_018155.1	107043650	107314404	minus	33		
+9597	Pan paniscus	100979016	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_027886.1	19288226	19292532	minus	1		
+9597	Pan paniscus	100974804	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			6	NC_027874.1	158774096	159038777	plus	30		
+9597	Pan paniscus	100967869	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			21	NC_027889.1	30868308	31213846	minus	31		
+30611	Otolemur garnettii	100951282	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+30611	Otolemur garnettii	100950232	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9601	Pongo abelii	100936542	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_012609.1	34034785	34039087	minus	1		
+9305	Sarcophilus harrisii	100920711	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			3							
+9305	Sarcophilus harrisii	100917340	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			4							
+10141	Cavia porcellus	100735633	0	live	Tiam1		T-cell lymphoma invasion and metastasis 1			Un							
+10141	Cavia porcellus	100714296	0	live	Tiam2		T-cell lymphoma invasion and metastasis 2			Un							
+8128	Oreochromis niloticus	100699296	0	live	tiam2		T-cell lymphoma invasion and metastasis 2			LG19	NC_022217.1	16621765	16685328	plus	18		
+9785	Loxodonta africana	100675466	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			Un							
+9785	Loxodonta africana	100658818	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+61853	Nomascus leucogenys	100605637	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			4	NC_019819.1	58468193	58472496	plus	1		
+61853	Nomascus leucogenys	100605316	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			25	NC_019840.1	17640087	17872050	minus	27		
+28377	Anolis carolinensis	100555790	0	live	tiam1		T-cell lymphoma invasion and metastasis 1			3	NC_014778.1	145722429	145992210	plus	34		
+9103	Meleagris gallopavo	100544801	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			2	NC_015012.2	49309364	49476623	plus	30		
+9103	Meleagris gallopavo	100540208	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_015011.2	102075305	102188795	plus	27		
+9823	Sus scrofa	100524587	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			13	NC_010455.4	205172464	205307819	minus	23		
+9646	Ailuropoda melanoleuca	100483966	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			Un							
+9601	Pongo abelii	100450841	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			6	NC_012597.1	158366778	158641274	plus	30		
+9601	Pongo abelii	100431618	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			21	NC_012612.1	31988551	32155965	minus	26		
+9483	Callithrix jacchus	100391318	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			4	NC_013899.1	156036251	156212305	plus	28		
+9483	Callithrix jacchus	100390844	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			21	NC_013916.1	35052433	35306633	minus	29		
+9986	Oryctolagus cuniculus	100355556	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			12	NC_013680.1	145240061	145485841	plus	28		
+9986	Oryctolagus cuniculus	100338333	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			14	NC_013682.1	161234120	161387098	minus	26		
+59729	Taeniopygia guttata	100223155	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			3	NC_011466.1	54800961	54890499	minus	27		
+59729	Taeniopygia guttata	100219509	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	NC_011462.1	98312677	98455565	minus	29		
+9823	Sus scrofa	100155707	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1		13	13	NC_010455.1	44995884	45040909	minus	13		
+9823	Sus scrofa	100155014	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2		1	1	NC_010443.4	13622596	13664877	minus	14		
+9258	Ornithorhynchus anatinus	100079759	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			2	NC_009095.1	40269577	40514087	plus	29		
+9796	Equus caballus	100061852	0	live	TIAM2	SCAF8	T-cell lymphoma invasion and metastasis 2	SR-related CTD-associated factor 8		31	NC_009174.2	12447084	12649430	minus	32		
+9796	Equus caballus	100052764	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			26	NC_009169.2	28126257	28311771	minus	28		
+13616	Monodelphis domestica	100032275	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			2	NC_008802.1	436019536	436338870	plus	34		
+13616	Monodelphis domestica	100015064	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			4	NC_008804.1	10822374	11126369	plus	31		
+121224	Pediculus humanus corporis	8234571	0	live	Phum_PHUM423560	Phum_PHUM423560	cutaneous t cell lymphoma tumor antigen/rrm/rnp domain, putative										
+10029	Cricetulus griseus	100768570	0	live	LOC100768570	I79_019534, Ctage5	cTAGE family member 5	CTAGE family, member 5|Cutaneous T-cell lymphoma-associated antigen 5-like|cutaneous T-cell lymphoma-associated antigen 5 homolog		Un	NW_003616859.1	76395	95328	plus	10		
+10029	Cricetulus griseus	100768570	0	live	LOC100768570	I79_019534, Ctage5	cTAGE family member 5	CTAGE family, member 5|Cutaneous T-cell lymphoma-associated antigen 5-like|cutaneous T-cell lymphoma-associated antigen 5 homolog		Un	NW_003615023.1	354717	385501	minus	15		
+9913	Bos taurus	100138318	0	live	LOC100138318		cutaneous T-cell lymphoma-associated antigen 5-like			26	NC_007327.4	6595341	6602335	minus	3		
+8496	Alligator mississippiensis	106737085	0	live	TIAM1	Y1Q_030900	T-cell lymphoma invasion and metastasis 1	hypothetical protein		Un							
+9646	Ailuropoda melanoleuca	105242089	0	live	TIAM1	PANDA_019530	T-cell lymphoma invasion and metastasis 1	hypothetical protein		Un							
+419612	Camelus ferus	102505628	0	live	TIAM2	CB1_000719007	T-cell lymphoma invasion and metastasis 2	hypothetical protein		Un							
+13146	Melopsittacus undulatus	101881927	0	live	LOC101881927	TIAM2	T-cell lymphoma invasion and metastasis 2			Un							
+13146	Melopsittacus undulatus	101871464	0	live	LOC101871464	TIAM1	T-cell lymphoma invasion and metastasis 1			Un							
+73337	Ceratotherium simum simum	101408078	0	live	LOC101408078	TIAM2	T-cell lymphoma invasion and metastasis 2			Un							
+73337	Ceratotherium simum simum	101402605	0	live	LOC101402605	TIAM1	T-cell lymphoma invasion and metastasis 1			Un							
+127582	Trichechus manatus latirostris	101352570	0	live	LOC101352570	TIAM1	T-cell lymphoma invasion and metastasis 1			Un							
+127582	Trichechus manatus latirostris	101345247	0	live	LOC101345247	TIAM2	T-cell lymphoma invasion and metastasis 2			Un							
+9593	Gorilla gorilla	101131708	0	live	LOC101131708		cutaneous T-cell lymphoma-associated antigen 8-like			7	NC_018431.1	142182436	142183143	minus	1		
+9615	Canis lupus familiaris	487731	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			31	NC_006613.3	26060514	26440069	minus	31		
+9913	Bos taurus	536517	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			1	AC_000158.1	3483251	3723928	plus	29		
+9544	Macaca mulatta	677684	0	live	RBM26		RNA binding motif protein 26	cutaneous T-cell lymphoma tumor antigen se70-2		17	NC_027909.1	60671916	60767382	minus	24		
+9544	Macaca mulatta	699511	0	live	CTAGE5		CTAGE family member 5	CTAGE family, member 5|cutaneous T-cell lymphoma-associated antigen 5		7	NC_027899.1	100697659	100814553	plus	34		
+9031	Gallus gallus	421720	0	live	NKAIN2	TCBA1	Na+/K+ transporting ATPase interacting 2	T-cell lymphoma breakpoint associated target 1		3							
+9544	Macaca mulatta	702288	0	live	TIAM1	EGK_15637	T-cell lymphoma invasion and metastasis 1			3	NC_027895.1	15102837	15548991	plus	32		
+9598	Pan troglodytes	745961	0	live	NKAIN2	TCBA1	Na+/K+ transporting ATPase interacting 2	T-cell lymphoma breakpoint associated target 1		6	NC_006473.3	125020484	126078467	plus	10		
+9598	Pan troglodytes	741380	0	live	TCL1A		T-cell leukemia/lymphoma 1A	T-cell lymphoma-1		14	NC_006481.3	95305951	95327733	minus	5		
+9615	Canis lupus familiaris	484045	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			1	NC_006583.3	44870103	45001151	plus	27		
+9598	Pan troglodytes	473949	0	live	TIAM1		T-cell lymphoma invasion and metastasis 1			21	NC_006488.3	17222925	17663803	minus	30		
+9598	Pan troglodytes	472168	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			6	NC_006473.3	156725854	156994921	plus	31		
+9598	Pan troglodytes	468496	0	live	CTAGE1		cutaneous T-cell lymphoma-associated antigen 1			18	NC_006485.3	18094050	18098357	minus	1		
+7868	Callorhinchus milii	103178594	0	live	ctage5		CTAGE family, member 5	cutaneous T-cell lymphoma-associated antigen 5		Un	NW_006890081.1	5286334	5311215	plus	28		
+7955	Danio rerio	100034544	0	live	nkain2	si:dkey-72g4.1	Na+/K+ transporting ATPase interacting 2	novel protein similar to human T-cell lymphoma breakpoint associated target 1 (TCBA1)		20							
+9541	Macaca fascicularis	101867132	0	live	TIAM2		T-cell lymphoma invasion and metastasis 2			4	NC_022275.1	61318008	61601915	plus	0		
+9669	Mustela putorius furo	101685512	0	live	SCAF8	TIAM2	SR-related CTD-associated factor 8	T-cell lymphoma invasion and metastasis 2		Un							
+885580	Fukomys damarensis	104868034	0	live	Ctage5	H920_08916	CTAGE family, member 5	Cutaneous T-cell lymphoma-associated antigen 5		Un							
+9402	Pteropus alecto	102885747	0	live	CTAGE5	PAL_GLEAN10008467	CTAGE family member 5	CTAGE family, member 5|Cutaneous T-cell lymphoma-associated antigen 5		Un							
+246437	Tupaia chinensis	102478882	0	live	CTAGE5	TREES_T100010755	CTAGE family, member 5	Cutaneous T-cell lymphoma-associated antigen 5|Melanoma inhibitory activity protein 2		Un							
+109478	Myotis brandtii	102261701	0	live	CTAGE5	D623_10021939	CTAGE family, member 5	Cutaneous T-cell lymphoma-associated antigen 5		Un							
+8932	Columba livia	102083778	0	live	CTAGE5	A306_08103	CTAGE family, member 5	Cutaneous T-cell lymphoma-associated antigen 5		Un							
+8090	Oryzias latipes	101158650	0	live	ctage5		CTAGE family, member 5	cutaneous T-cell lymphoma-associated antigen 5 homolog		22	NC_019880.1	19380752	19387005	plus	10		
+9483	Callithrix jacchus	100385732	0	live	CTAGE5		CTAGE family, member 5	cutaneous T-cell lymphoma-associated antigen 5		10	NC_013905.1	63900675	64020918	plus	34		
+9986	Oryctolagus cuniculus	100346206	0	live	NKAIN2		Na+/K+ transporting ATPase interacting 2	T-cell lymphoma breakpoint-associated target 1		12	NC_013680.1	113008533	114202302	plus	10		
+7955	Danio rerio	100334442	0	live	LOC100334442	tiam2	T-lymphoma invasion and metastasis-inducing protein 2	T-cell lymphoma invasion and metastasis 2		17	NC_007128.6	48999048	49135394	plus	29		
+225400	Myotis davidii	102761280	0	live	LOC102761280	MDA_GLEAN10012502, CTAGE5	cTAGE family member 5	CTAGE family, member 5|Cutaneous T-cell lymphoma-associated antigen 5		Un							
+7955	Danio rerio	795423	0	live	LOC795423		sodium/potassium-transporting ATPase subunit beta-1-interacting protein 2	T-cell lymphoma breakpoint-associated target 1		20	NC_007131.6	39916539	39929483	minus	3		
+7994	Astyanax mexicanus	103039111	0	live	LOC103039111	tiam1	T-lymphoma invasion and metastasis-inducing protein 1	T-cell lymphoma invasion and metastasis 1		Un							
+7994	Astyanax mexicanus	103030910	0	live	LOC103030910	tiam2	T-lymphoma invasion and metastasis-inducing protein 2	T-cell lymphoma invasion and metastasis 2		Un							
+74533	Panthera tigris altaica	102971181	0	live	LOC102971181	TIAM2	T-lymphoma invasion and metastasis-inducing protein 2	T-cell lymphoma invasion and metastasis 2		Un							
+9361	Dasypus novemcinctus	101411543	0	live	LOC101411543	TIAM2	T-lymphoma invasion and metastasis-inducing protein 2	T-cell lymphoma invasion and metastasis 2		Un							
+9708	Odobenus rosmarus divergens	101373050	0	live	LOC101373050	TIAM2	T-lymphoma invasion and metastasis-inducing protein 2	T-cell lymphoma invasion and metastasis 2		Un							
+9593	Gorilla gorilla	101154403	0	live	LOC101154403		cutaneous T-cell lymphoma-associated antigen 5-like			13	NC_018437.1	34200304	34203501	minus	0		
+9593	Gorilla gorilla	101131158	0	live	LOC101131158		cutaneous T-cell lymphoma-associated antigen 5-like			10	NC_018434.1	144049738	144056351	plus	3		
+9593	Gorilla gorilla	101124418	0	live	LOC101124418		cutaneous T-cell lymphoma-associated antigen 9-like			2B	NC_018426.1	55472762	55486351	minus	3		
+10029	Cricetulus griseus	100767997	0	live	LOC100767997	I79_019530	cTAGE family member 5-like	Cutaneous T-cell lymphoma-associated antigen 5		Un	NW_003615023.1	132956	185489	plus	19		
+61853	Nomascus leucogenys	100598161	0	live	LOC100598161	SCAF8, TIAM2	T-lymphoma invasion and metastasis-inducing protein 2	SR-related CTD-associated factor 8|T-cell lymphoma invasion and metastasis 2		3	NC_019818.1	142479113	143002094	plus	46		
+9544	Macaca mulatta	699792	0	live	LOC699792	CTAGE1	cTAGE family member 5	cutaneous T-cell lymphoma-associated antigen 1		4	NC_027896.1	169752943	169755830	minus	1		
+9606	Homo sapiens	7157	0	live	TP53	BCC7, LFS1, P53, TRP53	tumor protein p53	antigen NY-CO-13|mutant tumor protein 53|p53 tumor suppressor|phosphoprotein p53|transformation-related protein 53|tumor protein 53|tumor supressor p53	17p13.1	17	NC_000017.11	7668402	7687550	minus	12	191170	
+9606	Homo sapiens	4288	0	live	MKI67	KIA, MIB-, MIB-1, PPP1R105	marker of proliferation Ki-67	antigen identified by monoclonal antibody Ki-67|proliferation-related Ki-67 antigen|protein phosphatase 1, regulatory subunit 105	10q26.2	10	NC_000010.11	128096659	128126363	minus	16	176741	
+9606	Homo sapiens	10563	0	live	CXCL13	ANGIE, ANGIE2, BCA-1, BCA1, BLC, BLR1L, SCYB13	C-X-C motif chemokine ligand 13	B-cell chemoattractant|B-cell-attracting chemokine 1|B-cell-homing chemokine (ligand for Burkitt's lymphoma receptor-1)|B-lymphocyte chemoattractant|CXC chemokine BLC|b cell-attracting chemokine 1|b lymphocyte chemoattractant|chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant)|small inducible cytokine B subfamily (Cys-X-Cys motif), member 13 (B-cell chemoattractant)|small-inducible cytokine B13	4q21	4	NC_000004.12	77511753	77611834	plus	5	605149	
+10376	Human herpesvirus 4	3783750	0	live	LMP1	HHV4_LMP-1	LMP1	hypothetical protein			NC_007605.1	166461	169055	minus	0		
+9606	Homo sapiens	5133	0	live	PDCD1	CD279, PD-1, PD1, SLEB2, hPD-1, hPD-l, hSLE1	programmed cell death 1	programmed cell death 1 protein|protein PD-1|systemic lupus erythematosus susceptibility 2	2q37.3	2	NC_000002.12	241849881	241858908	minus	6	600244	
+9606	Homo sapiens	4311	0	live	MME	CALLA, CD10, NEP, SFE	membrane metallo-endopeptidase	atriopeptidase|common acute lymphocytic leukemia antigen|enkephalinase|membrane metallo-endopeptidase (neutral endopeptidase, enkephalinase)|membrane metallo-endopeptidase (neutral endopeptidase, enkephalinase, CALLA, CD10)|membrane metallo-endopeptidase variant 1|membrane metallo-endopeptidase variant 2|neprilysin-390|neprilysin-411|neutral endopeptidase 24.11|skin fibroblast elastase	3q25.2	3	NC_000003.12	155024124	155183729	plus	30	120520	
+9606	Homo sapiens	355	0	live	FAS	ALPS1A, APO-1, APT1, CD951, FASTM, TNFRSF6, FAS	Fas cell surface death receptor	APO-1 cell surface antigen|CD95 antigen|FASLG receptor|Fas (TNF receptor superfamily, member 6)|Fas AMA|TNF receptor superfamily member 6|apoptosis antigen 1|apoptosis-mediating surface antigen FAS|tumor necrosis factor receptor superfamily, member 6	10q24.1	10	NC_000010.11	88969801	89017059	plus	14	134637	
+9606	Homo sapiens	7422	0	live	VEGFA	MVCD1, VEGF, VPF	vascular endothelial growth factor A	vascular endothelial growth factor A121|vascular endothelial growth factor A165|vascular permeability factor	6p12	6	NC_000006.12	43770209	43786487	plus	9	192240	
+9606	Homo sapiens	4684	0	live	NCAM1	CD56, MSK39, NCAM	neural cell adhesion molecule 1	antigen recognized by monoclonal antibody 5.1H11|neural cell adhesion molecule, NCAM	11q23.1	11	NC_000011.10	112961247	113278436	plus	25	116930	
+9606	Homo sapiens	5243	0	live	ABCB1	ABC20, CD243, CLCS, GP170, MDR1, P-GP, PGY1	ATP binding cassette subfamily B member 1	ATP-binding cassette, sub-family B (MDR/TAP), member 1|P-glycoprotein 1|colchicin sensitivity|doxorubicin resistance	7q21.12	7	NC_000007.14	87503863	87713323	minus	29	171050	
+9606	Homo sapiens	207	0	live	AKT1	AKT, CWS6, PKB, PKB-ALPHA, PRKBA, RAC, RAC-ALPHA	v-akt murine thymoma viral oncogene homolog 1	AKT1m|PKB alpha|RAC-PK-alpha|protein kinase B alpha|proto-oncogene c-Akt|rac protein kinase alpha|v-akt murine thymoma viral oncogene-like protein 1	14q32.32	14	NC_000014.9	104769349	104795743	minus	17	164730	
+9606	Homo sapiens	3605	0	live	IL17A	CTLA-8, CTLA8, IL-17, IL-17A, IL17	interleukin 17A	cytotoxic T-lymphocyte-associated antigen 8|cytotoxic T-lymphocyte-associated protein 8|interleukin 17 (cytotoxic T-lymphocyte-associated serine esterase 8)	6p12	6	NC_000006.12	52186387	52190638	plus	3	603149	
+9606	Homo sapiens	3718	0	live	JAK3	JAK-3_HUMAN, JAKL, L-JAK, LJAK, JAK3	Janus kinase 3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)|leukocyte Janus kinase	19p13.1	19	NC_000019.10	17824780	17848071	minus	26	600173	
+9606	Homo sapiens	30009	0	live	TBX21	T-PET, T-bet, TBET, TBLYM	T-box 21	T-box expressed in T cells|T-box protein 21|T-cell-specific T-box transcription factor T-bet|transcription factor TBLYM	17q21.32	17	NC_000017.11	47733244	47746122	plus	8	604895	
+9606	Homo sapiens	6774	0	live	STAT3	ADMIO, APRF, HIES	signal transducer and activator of transcription 3 (acute-phase response factor)	DNA-binding protein APRF|acute-phase response factor	17q21.31	17	NC_000017.11	42313324	42388503	minus	24	102582	
+9606	Homo sapiens	332	0	live	BIRC5	API4, EPR-1	baculoviral IAP repeat containing 5	apoptosis inhibitor 4|apoptosis inhibitor survivin|survivin variant 3 alpha	17q25	17	NC_000017.11	78214196	78225635	plus	6	603352	
+9606	Homo sapiens	3559	0	live	IL2RA	CD25, IDDM10, IL2R, IMD41, TCGFR, p55	interleukin 2 receptor subunit alpha	IL-2 receptor subunit alpha|IL-2R subunit alpha|TAC antigen|interleukin 2 receptor, alpha	10p15-p14	10	NC_000010.11	6010694	6062370	minus	8	147730	
+9606	Homo sapiens	3600	0	live	IL15	IL-15	interleukin 15		4q31	4	NC_000004.12	141636596	141733987	plus	10	600554	
+9606	Homo sapiens	7124	0	live	TNF	DIF-alpha, TNFA, TNFSF2, TNLG1F, TNF	tumor necrosis factor	APC1 protein|TNF, macrophage-derived|TNF, monocyte-derived|TNF-a|cachectin|tumor necrosis factor ligand 1F|tumor necrosis factor ligand superfamily member 2|tumor necrosis factor-alpha	6p21.3	6	NC_000006.12	31575567	31578336	plus	4	191160	
+9606	Homo sapiens	6777	0	live	STAT5B	STAT5	signal transducer and activator of transcription 5B	transcription factor STAT5B	17q11.2	17	NC_000017.11	42199177	42276460	minus	20	604260	
+9606	Homo sapiens	4790	0	live	NFKB1	CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	DNA binding factor KBF1|DNA-binding factor KBF1|NF-kappabeta|nuclear factor NF-kappa-B p50 subunit|nuclear factor kappa-B DNA binding subunit	4q24	4	NC_000004.12	102501329	102617302	plus	26	164011	
+9606	Homo sapiens	2475	0	live	MTOR	FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS	mechanistic target of rapamycin	FK506 binding protein 12-rapamycin associated protein 2|FK506-binding protein 12-rapamycin complex-associated protein 1|FKBP-rapamycin associated protein|FKBP12-rapamycin complex-associated protein 1|mammalian target of rapamycin|mechanistic target of rapamycin (serine/threonine kinase)|rapamycin and FKBP12 target 1|rapamycin associated protein FRAP2|rapamycin target protein 1	1p36.2	1	NC_000001.11	11106531	11262557	minus	59	601231	
+9606	Homo sapiens	1026	0	live	CDKN1A	CAP20, CDKN1, CIP1, MDA-6, P21, SDI1, WAF1, p21CIP1	cyclin-dependent kinase inhibitor 1A	CDK-interacting protein 1|CDK-interaction protein 1|DNA synthesis inhibitor|cyclin-dependent kinase inhibitor 1A (p21, Cip1)|melanoma differentiation associated protein 6|wild-type p53-activated fragment 1	6p21.2	6	NC_000006.12	36676460	36687339	plus	6	116899	
+10090	Mus musculus	19211	0	live	Pten	2310035O07Rik, A130070J02Rik, AI463227, B430203M17Rik, MMAC1, TEP1	phosphatase and tensin homolog	mitochondrial PTENalpha|mutated in multiple advanced cancers 1|phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN	19 28.14 cM	19	NC_000085.6	32757577	32826160	plus	10		
+9606	Homo sapiens	387	0	live	RHOA	ARH12, ARHA, RHO12, RHOH12	ras homolog family member A	Aplysia ras-related homolog 12|oncogene RHO H12|small GTP binding protein RhoA	3p21.3	3	NC_000003.12	49359136	49412093	minus	6	165390	
+9606	Homo sapiens	3065	0	live	HDAC1	GON-10, HD1, RPD3, RPD3L1	histone deacetylase 1	reduced potassium dependency, yeast homolog-like 1	1p34	1	NC_000001.11	32292107	32333628	plus	15	601241	
+9606	Homo sapiens	3956	0	live	LGALS1	GAL1, GBP	lectin, galactoside-binding, soluble, 1	14 kDa laminin-binding protein|14 kDa lectin|HBL|HLBP14|HPL|S-Lac lectin 1|beta-galactoside-binding lectin L-14-I|beta-galactoside-binding protein 14kDa|gal-1|galaptin|galectin 1|lactose-binding lectin 1|putative MAPK-activating protein PM12	22q13.1	22	NC_000022.11	37675606	37679802	plus	4	150570	
+9606	Homo sapiens	3066	0	live	HDAC2	HD2, RPD3, YAF1	histone deacetylase 2	YY1-associated factor 1|transcriptional regulator homolog RPD3	6q21	6	NC_000006.12	113936156	113971195	minus	17	605164	
+10090	Mus musculus	16163	0	live	Il13	Il-13	interleukin 13	T-cell activation protein P600	11 31.98 cM	11	NC_000077.6	53631323	53634702	minus	4		
+9606	Homo sapiens	4830	0	live	NME1	AWD, GAAD, NB, NBS, NDKA, NDPK-A, NDPKA, NM23, NM23-H1	NME/NM23 nucleoside diphosphate kinase 1	NDP kinase A|granzyme A-activated DNase|metastasis inhibition factor nm23|non-metastatic cells 1, protein (NM23A) expressed in|tumor metastatic process-associated protein	17q21.3	17	NC_000017.11	51153559	51162089	plus	6	156490	
+9606	Homo sapiens	5777	0	live	PTPN6	HCP, HCPH, HPTP1C, PTP-1C, SH-PTP1, SHP-1, SHP-1L, SHP1	protein tyrosine phosphatase, non-receptor type 6	hematopoietic cell phosphatase|hematopoietic cell protein-tyrosine phosphatase|protein-tyrosine phosphatase 1C|protein-tyrosine phosphatase SHP-1	12p13	12	NC_000012.12	6946576	6961316	plus	17	176883	
+9606	Homo sapiens	604	0	live	BCL6	BCL5A, LAZ3, ZBTB27, ZNF51, BCL6	B-cell CLL/lymphoma 6	B-cell lymphoma 5 protein|B-cell lymphoma 6 protein transcript|BCL-5|BCL-6|cys-his2 zinc finger transcription factor|lymphoma-associated zinc finger gene on chromosome 3|protein LAZ-3|zinc finger and BTB domain-containing protein 27|zinc finger protein 51|zinc finger transcription factor BCL6S	3q27	3	NC_000003.12	187721377	187745725	minus	12	109565	
+9606	Homo sapiens	50616	0	live	IL22	IL-21, IL-22, IL-D110, IL-TIF, ILTIF, TIFIL-23, TIFa, zcyto18	interleukin 22	IL-10-related T-cell-derived inducible factor|IL-10-related T-cell-derived-inducible factor|cytokine Zcyto18	12q15	12	NC_000012.12	68248245	68253501	minus	5	605330	
+9606	Homo sapiens	3418	0	live	IDH2	D2HGA2, ICD-M, IDH, IDHM, IDP, IDPM, mNADP-IDH	isocitrate dehydrogenase 2 (NADP+), mitochondrial	NADP(+)-specific ICDH|oxalosuccinate decarboxylase	15q26.1	15	NC_000015.10	90083978	90102554	minus	12	147650	
+9606	Homo sapiens	10013	0	live	HDAC6	CPBHM, HD6, JM21, PPP1R90	histone deacetylase 6	protein phosphatase 1, regulatory subunit 90	Xp11.23	X	NC_000023.11	48801896	48824976	plus	32	300272	
+9606	Homo sapiens	6364	0	live	CCL20	CKb4, Exodus, LARC, MIP-3-alpha, MIP-3a, MIP3A, SCYA20, ST38	C-C motif chemokine ligand 20	CC chemokine LARC|beta chemokine exodus-1|chemokine (C-C motif) ligand 20|liver and activation-regulated chemokine|macrophage inflammatory protein 3 alpha|small inducible cytokine subfamily A (Cys-Cys), member 20|small-inducible cytokine A20	2q36.3	2	NC_000002.12	227813842	227817564	plus	4	601960	
+9606	Homo sapiens	54790	0	live	TET2	KIAA1546, MDS	tet methylcytosine dioxygenase 2	probable methylcytosine dioxygenase TET2|tet oncogene family member 2	4q24	4	NC_000004.12	105145875	105279803	plus	11	612839	
+9606	Homo sapiens	931	0	live	MS4A1	B1, Bp35, CD20, CVID5, LEU-16, MS4A2, S7	membrane spanning 4-domains A1	B-lymphocyte cell-surface antigen B1|CD20 antigen|CD20 receptor|leukocyte surface antigen Leu-16|membrane-spanning 4-domains subfamily A member 1|membrane-spanning 4-domains, subfamily A, member 1	11q12	11	NC_000011.10	60455809	60470752	plus	8	112210	
+9606	Homo sapiens	639	0	live	PRDM1	BLIMP1, PRDI-BF1	PR domain 1	B-lymphocyte-induced maturation protein 1|BLIMP-1|PR domain containing 1, with ZNF domain|PRDI-binding factor-1|beta-interferon gene positive-regulatory domain I binding factor	6q21	6	NC_000006.12	106086320	106109939	plus	10	603423	
+9606	Homo sapiens	2313	0	live	FLI1	EWSR2, SIC-1	Fli-1 proto-oncogene, ETS transcription factor	Ewing sarcoma breakpoint region 2|Friend leukemia virus integration 1|transcription factor ERGB	11q24.1-q24.3	11	NC_000011.10	128686535	128813267	plus	13	193067	
+9606	Homo sapiens	407008	0	live	MIR223	MIRN223, miRNA223, mir-223	microRNA 223	hsa-mir-223	Xq12	X	NC_000023.11	66018870	66018979	plus	1	300694	
+9606	Homo sapiens	3578	0	live	IL9	HP40, IL-9, P40	interleukin 9	T-cell growth factor p40|cytokine P40|homolog of mouse T cell and mast cell growth factor 40|p40 T-cell and mast cell growth factor|p40 cytokine	5q31.1	5	NC_000005.10	135892246	135895827	minus	5	146931	
+9606	Homo sapiens	121504	0	live	HIST4H4	H4/p	histone cluster 4, H4	histone 4, H4	12p12.3	12	NC_000012.12	14770720	14771131	minus	1	615069	
+9606	Homo sapiens	10344	0	live	CCL26	IMAC, MIP-4a, MIP-4alpha, SCYA26, TSC-1	C-C motif chemokine ligand 26	CC chemokine IMAC|MIP-4-alpha|chemokine (C-C motif) ligand 26|chemokine N1|eotaxin-3|macrophage inflammatory protein 4-alpha|small inducible cytokine A26|small inducible cytokine subfamily A (Cys-Cys), member 26|small-inducible cytokine A26|thymic stroma chemokine-1	7q11.23	7	NC_000007.14	75769524	75789746	minus	4	604697	
+9606	Homo sapiens	3702	0	live	ITK	EMT, LPFS1, LYK, PSCTK2	IL2 inducible T-cell kinase	IL-2-inducible T cell kinase|IL-2-inducible T-cell kinase|IL2-inducible T-cell kinase|T-cell-specific kinase|homolog of mouse T-cell itk/tsk|interleukin-2-inducible T cell kinase|interleukin-2-inducible T-cell kinase|kinase EMT|tyrosine-protein kinase LYK	5q31-q32	5	NC_000005.10	157180896	157255099	plus	17	186973	
+9606	Homo sapiens	640	0	live	BLK	MODY11	BLK proto-oncogene, Src family tyrosine kinase	B lymphoid tyrosine kinase|BLK nonreceptor tyrosine kinase|b lymphocyte kinase|p55-Blk	8p23-p22	8	NC_000008.11	11493991	11564599	plus	16	191305	
+9606	Homo sapiens	4094	0	live	MAF	AYGRP, CCA4, CTRCT21, c-MAF	v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog	Avian musculoaponeurotic fibrosarcoma (MAF) protooncogene|T lymphocyte c-maf long form|c-maf proto-oncogene|proto-oncogene c-Maf	16q22-q23	16	NC_000016.10	79212772	79600786	minus	4	177075	
+9606	Homo sapiens	5108	0	live	PCM1	PTC4, RET/PCM-1	pericentriolar material 1	PCM-1|hPCM-1|pericentriolar material 1, PCM1	8p22-p21.3	8	NC_000008.11	17922857	18029948	plus	46	600299	
+9606	Homo sapiens	50943	0	live	FOXP3	AIID, DIETER, IPEX, JM2, PIDX, XPID	forkhead box P3	FOXP3delta7|immune dysregulation, polyendocrinopathy, enteropathy, X-linked|immunodeficiency, polyendocrinopathy, enteropathy, X-linked|scurfin	Xp11.23	X	NC_000023.11	49250436	49269727	minus	14	300292	
+9606	Homo sapiens	8626	0	live	TP63	AIS, B(p51A), B(p51B), EEC3, KET, LMS, NBP, OFC8, RHS, SHFM4, TP53CP, TP53L, TP73L, p40, p51, p53CP, p63, p73H, p73L	tumor protein p63	CUSP|amplified in squamous cell carcinoma|chronic ulcerative stomatitis protein|keratinocyte transcription factor KET|transformation-related protein 63|tumor protein p53-competing protein|tumor protein p63 deltaN isoform delta	3q28	3	NC_000003.12	189566861	189897279	plus	20	603273	
+9606	Homo sapiens	605	0	live	BCL7A	BCL7	B-cell CLL/lymphoma 7A	B-cell CLL/lymphoma-7	12q24.13	12	NC_000012.12	122021886	122062044	plus	6	601406	
+9606	Homo sapiens	943	0	live	TNFRSF8	CD30, D1S166E, Ki-1	tumor necrosis factor receptor superfamily member 8	CD30L receptor|Ki-1 antigen|cytokine receptor CD30|lymphocyte activation antigen CD30|tumor necrosis factor receptor superfamily, member 8	1p36	1	NC_000001.11	12063330	12144207	plus	18	153243	
+9606	Homo sapiens	1788	0	live	DNMT3A	DNMT3A2, M.HsaIIIA, TBRS	DNA (cytosine-5-)-methyltransferase 3 alpha	DNA MTase HsaIIIA|DNA cytosine methyltransferase 3A2	2p23	2	NC_000002.12	25232961	25342590	minus	33	602769	
+9606	Homo sapiens	3560	0	live	IL2RB	CD122, IL15RB, P70-75	interleukin 2 receptor subunit beta	CD122 antigen|IL-2 receptor subunit beta|IL-2R subunit beta|IL-2RB|high affinity IL-2 receptor beta subunit|high affinity IL-2 receptor subunit beta|interleukin 15 receptor, beta|interleukin 2 receptor, beta|p75	22q13.1	22	NC_000022.11	37125838	37149922	minus	10	146710	
+9606	Homo sapiens	1233	0	live	CCR4	CC-CKR-4, CD194, CKR4, CMKBR4, ChemR13, HGCN:14099, K5-5	chemokine (C-C motif) receptor 4	C-C CKR-4|CCR-4|chemokine (C-C) receptor 4	3p24	3	NC_000003.12	32951574	32954911	plus	2	604836	
+9606	Homo sapiens	3569	0	live	IL6	BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6	interleukin 6	B-cell differentiation factor|B-cell stimulatory factor 2|CTL differentiation factor|hybridoma growth factor|interferon beta-2|interleukin BSF-2	7p21	7	NC_000007.14	22725442	22732002	plus	6	147620	
+10090	Mus musculus	21926	0	live	Tnf	DIF, TNF-a, TNF-alpha, TNFSF2, TNFalphaa, Tnfsf1a, Tnlg1f, Tnf	tumor necrosis factor	cachectin|tumor necrosis factor ligand 1f|tumor necrosis factor ligand superfamily member 2|tumor necrosis factor-alpha	17 18.59 cM	17	NC_000083.6	35199367	35202007	minus	4		
+9606	Homo sapiens	1401	0	live	CRP	PTX1	C-reactive protein, pentraxin-related	pentraxin 1	1q23.2	1	NC_000001.11	159712289	159714609	minus	3	123260	
+9606	Homo sapiens	5728	0	live	PTEN	10q23del, BZS, CWS1, DEC, GLM2, MHAM, MMAC11, TEP1, PTEN	phosphatase and tensin homolog	MMAC1 phosphatase and tensin homolog deleted on chromosome 10|mitochondrial PTENalpha|mitochondrial phosphatase and tensin protein alpha|mutated in multiple advanced cancers 1|phosphatase and tensin-like protein|phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN	10q23.3	10	NC_000010.11	87863438	87971930	plus	16	601728	
+9606	Homo sapiens	920	0	live	CD4	CD4mut	CD4 molecule	CD4 antigen (p55)|CD4 receptor|T-cell surface antigen T4/Leu-3	12p13.31	12	NC_000012.12	6789472	6820810	plus	10	186940	
+9606	Homo sapiens	7015	0	live	TERT	CMM9, DKCA2, DKCB4, EST2, PFBMFT1, TCS1, TP2, TRT, hEST2, hTRT	telomerase reverse transcriptase	telomerase catalytic subunit|telomerase-associated protein 2	5p15.33	5	NC_000005.10	1253167	1295047	minus	18	187270	
+10090	Mus musculus	16153	0	live	Il10	CSIF, Il-10	interleukin 10	cytokine synthesis inhibitory factor	1 56.89 cM	1	NC_000067.6	131019845	131024970	plus	5		
+9606	Homo sapiens	596	0	live	BCL2	Bcl-2, PPP1R50	B-cell CLL/lymphoma 2	protein phosphatase 1, regulatory subunit 50	18q21.3	18	NC_000018.10	63123346	63319778	minus	6	151430	
+9606	Homo sapiens	3717	0	live	JAK2	JTK10, THCYT3	Janus kinase 2	JAK-2|Janus kinase 2 (a protein tyrosine kinase)	9p24	9	NC_000009.12	4985245	5128183	plus	25	147796	
+9606	Homo sapiens	4609	0	live	MYC	MRTLC, bHLHe39, c-Myc, MYC	v-myc avian myelocytomatosis viral oncogene homolog	avian myelocytomatosis viral oncogene homolog|class E basic helix-loop-helix protein 39|myc-related translation/localization regulatory factor|proto-oncogene c-Myc|transcription factor p64|v-myc myelocytomatosis viral oncogene homolog	8q24.21	8	NC_000008.11	127736069	127741434	plus	3	190080	
+9606	Homo sapiens	4193	0	live	MDM2	ACTFS, HDMX, hdm2	MDM2 proto-oncogene, E3 ubiquitin protein ligase	MDM2 oncogene, E3 ubiquitin protein ligase|Mdm2, p53 E3 ubiquitin protein ligase homolog|Mdm2, transformed 3T3 cell double minute 2, p53 binding protein|double minute 2, human homolog of; p53-binding protein|oncoprotein Mdm2	12q14.3-q15	12	NC_000012.12	68808168	68845544	plus	13	164785	
+9606	Homo sapiens	4313	0	live	MMP2	CLG4, CLG4A, MMP-2, MMP-II, MONA, TBE-1	matrix metallopeptidase 2	collagenase type IV-A|matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)|matrix metalloproteinase-2|matrix metalloproteinase-II|neutrophil gelatinase	16q12.2	16	NC_000016.10	55478830	55506691	plus	17	120360	
+9606	Homo sapiens	595	0	live	CCND1	BCL1, D11S287E, PRAD1, U21B31	cyclin D1	B-cell CLL/lymphoma 1|B-cell lymphoma 1 protein|BCL-1 oncogene|PRAD1 oncogene	11q13	11	NC_000011.10	69641105	69654474	plus	6	168461	
+9606	Homo sapiens	3119	0	live	HLA-DQB1	CELIAC1, HLA-DQB, IDDM1	major histocompatibility complex, class II, DQ beta 1	MHC DQ beta|MHC class II DQ beta chain|MHC class II HLA-DQ beta glycoprotein|MHC class II antigen DQB1|MHC class II antigen HLA-DQ-beta-1|MHC class2 antigen|lymphocyte antigen	6p21.3	6	NC_000006.12	32659464	32666689	minus	6	604305	
+9606	Homo sapiens	3606	0	live	IL18	IGIF, IL-18, IL-1g, IL1F4	interleukin 18	IFN-gamma-inducing factor|IL-1 gamma|iboctadekin|interleukin 18 (interferon-gamma-inducing factor)|interleukin-1 gamma	11q23.1	11	NC_000011.10	112143251	112164117	minus	6	600953	
+9606	Homo sapiens	4851	0	live	NOTCH1	AOS5, AOVD1, TAN1, hN1	notch 1	Notch homolog 1, translocation-associated|translocation-associated notch protein TAN-1	9q34.3	9	NC_000009.12	136494444	136545786	minus	34	190198	
+9606	Homo sapiens	3480	0	live	IGF1R	CD221, IGFIR, IGFR, JTK13	insulin like growth factor 1 receptor	IGF-I receptor|soluble IGF1R variant 1|soluble IGF1R variant 2	15q26.3	15	NC_000015.10	98648539	98964530	plus	24	147370	
+9606	Homo sapiens	3725	0	live	JUN	AP-1, AP1, c-Jun	jun proto-oncogene	Jun activation domain binding protein|activator protein 1|enhancer-binding protein AP1|jun oncogene|p39|proto-oncogene c-Jun|v-jun avian sarcoma virus 17 oncogene homolog|v-jun sarcoma virus 17 oncogene homolog	1p32-p31	1	NC_000001.11	58780791	58784113	minus	1	165160	
+9606	Homo sapiens	23411	0	live	SIRT1	SIR2, SIR2L1, SIR2alpha	sirtuin 1	SIR2-like protein 1|regulatory protein SIR2 homolog 1|sirtuin type 1	10q21.3	10	NC_000010.11	67884662	67918390	plus	11	604479	
+9606	Homo sapiens	8743	0	live	TNFSF10	APO2L, Apo-2L, CD253, TL2, TNLG6A, TRAIL	tumor necrosis factor superfamily member 10	Apo-2 ligand|TNF-related apoptosis inducing ligand TRAIL|chemokine tumor necrosis factor ligand superfamily member 10|tumor necrosis factor (ligand) family, member 10|tumor necrosis factor (ligand) superfamily member 10|tumor necrosis factor (ligand) superfamily, member 10|tumor necrosis factor apoptosis-inducing ligand splice variant delta|tumor necrosis factor ligand 6A	3q26	3	NC_000003.12	172505508	172523507	minus	6	603598	
+9606	Homo sapiens	4582	0	live	MUC1	ADMCKD, ADMCKD1, CA 15-3, CD227, EMA, H23AG, KL-6, MAM6, MCD, MCKD, MCKD1, MUC-1, MUC-1/SEC, MUC-1/X/ZD, PEM, PEMT, PUM, MUC1	mucin 1, cell surface associated	DF3 antigen|H23 antigen|Medullary cystic kidney disease, autosomal dominant|breast carcinoma-associated antigen DF3|cancer antigen 15-3|carcinoma-associated mucin|episialin|krebs von den Lungen-6|mucin 1, transmembrane|peanut-reactive urinary mucin|polymorphic epithelial mucin|tumor associated epithelial mucin|tumor-associated epithelial membrane antigen	1q21	1	NC_000001.11	155185824	155192915	minus	8	158340	
+9606	Homo sapiens	3146	0	live	HMGB1	HMG-1, HMG1, HMG3, SBP-1	high mobility group box 1	Amphoterin|Sulfoglucuronyl carbohydrate binding protein|high-mobility group (nonhistone chromosomal) protein 1|high-mobility group box 1	13q12	13	NC_000013.11	30458740	30465944	minus	8	163905	
+9606	Homo sapiens	4843	0	live	NOS2	HEP-NOS, INOS, NOSA, NOS2	nitric oxide synthase 2	NOS type II|NOS, type II|hepatocyte NOS|inducible NO synthase|inducible NOS|nitric oxide synthase 2, inducible|nitric oxide synthase 2A (inducible, hepatocytes)|nitric oxide synthase, macrophage|peptidyl-cysteine S-nitrosylase NOS2	17q11.2	17	NC_000017.11	27756766	27804341	minus	29	163730	
+9606	Homo sapiens	3791	0	live	KDR	CD309, FLK1, VEGFR, VEGFR2	kinase insert domain receptor	fetal liver kinase 1|fetal liver kinase-1|kinase insert domain receptor (a type III receptor tyrosine kinase)|protein-tyrosine kinase receptor Flk-1|soluble VEGFR2|tyrosine kinase growth factor receptor	4q11-q12	4	NC_000004.12	55078259	55125595	minus	30	191306	
+10090	Mus musculus	12578	0	live	Cdkn2a	ARF-INK4a, Arf, INK4a-ARF, Ink4a/Arf, MTS1, Pctr1, p16, p16(INK4a), p16INK4a, p19<ARF>, p19ARF	cyclin-dependent kinase inhibitor 2A	CDK4I|alternative reading frame|cdkn2a|cyclin-dependent kinase 4 inhibitor A|cyclin-dependent kinase inhibitor 2A (p16, inhibits CDK4)|cyclin-dependent kinase inhibitor 2A, isoforms 1/2|cyclin-dependent kinase inhibitor protein|mitochondrial smARF|p16-INK4|p16-INK4a	4 C3-C6	4	NC_000070.6	89274473	89294619	minus	4		
+9606	Homo sapiens	7490	0	live	WT1	AWT1, EWS-WT1, GUD, NPHS4, WAGR, WIT-2, WT33	Wilms tumor 1	Wilms tumor protein isoform Ex4a(+)	11p13	11	NC_000011.10	32387775	32435535	minus	11	607102	
+9606	Homo sapiens	7276	0	live	TTR	CTS, CTS1, HEL111, HsT2651, PALB, TBPA	transthyretin	ATTR|carpal tunnel syndrome 1|epididymis luminal protein 111|prealbumin, amyloidosis type I|thyroxine-binding prealbumin	18q12.1	18	NC_000018.10	31591767	31599024	plus	4	176300	
+9606	Homo sapiens	5599	0	live	MAPK8	JNK, JNK-46, JNK1, JNK1A2, JNK21B1/2, PRKM8, SAPK1, SAPK1c	mitogen-activated protein kinase 8	JUN N-terminal kinase|MAP kinase 8|c-Jun N-terminal kinase 1|mitogen-activated protein kinase 8 isoform JNK1 alpha1|mitogen-activated protein kinase 8 isoform JNK1 beta2|stress-activated protein kinase 1|stress-activated protein kinase 1c	10q11.22	10	NC_000010.11	48306639	48439360	plus	15	601158	
+9606	Homo sapiens	2146	0	live	EZH2	ENX-1, ENX1, EZH1b, KMT6, KMT6A, WVS, WVS2, EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit	enhancer of zeste homolog 2|lysine N-methyltransferase 6	7q35-q36	7	NC_000007.14	148807372	148884349	minus	25	601573	
+9606	Homo sapiens	5781	0	live	PTPN11	BPTP3, CFC, JMML, METCDS, NS1, PTP-1D, PTP2C, SH-PTP2, SH-PTP3, SHP2	protein tyrosine phosphatase, non-receptor type 11	PTP-2C|protein-tyrosine phosphatase 1D|protein-tyrosine phosphatase 2C	12q24	12	NC_000012.12	112418732	112509918	plus	16	176876	
+10090	Mus musculus	56717	0	live	Mtor	2610315D21Rik, AI327068, FRAP, FRAP2, Frap1, RAFT1, RAPT1, flat	mechanistic target of rapamycin (serine/threonine kinase)	FK506 binding protein 12-rapamycin associated protein 1|FK506-binding protein 12-rapamycin complex-associated protein 1|FKBP-rapamycin associated protein (FRAP)|FKBP-rapamycin-associated protein FRAP|FKBP12-rapamycin complex-associated protein|angiopoietin-like factor CDT6|mammalian target of rapamycin|rapamycin target protein 1	4 E1	4	NC_000070.6	148448582	148557685	plus	58		
+10090	Mus musculus	12043	0	live	Bcl2	AW986256, Bcl-2, C430015F12Rik, D630044D05Rik, D830018M01Rik	B cell leukemia/lymphoma 2	B-cell leukemia/lymphoma 2	1 49.76 cM	1	NC_000067.6	106538178	106714290	minus	2		
+9606	Homo sapiens	3958	0	live	LGALS3	CBP35, GAL3, GALBP, GALIG, L31, LGALS2, MAC2	lectin, galactoside-binding, soluble, 3	35 kDa lectin|IgE-binding protein|MAC-2 antigen|advanced glycation end-product receptor 3|carbohydrate-binding protein 35|galactose-specific lectin 3|laminin-binding protein|lectin L-29	14q22.3	14	NC_000014.9	55129217	55145430	plus	7	153619	
+10090	Mus musculus	16183	0	live	Il2	Il-2	interleukin 2	T-cell growth factor|TCGF	3 B-C	3	NC_000069.6	37120713	37125954	minus	4		
+10090	Mus musculus	12028	0	live	Bax		BCL2-associated X protein		7 B5	7	NC_000073.6	45461695	45466903	minus	7		
+10090	Mus musculus	12576	0	live	Cdkn1b	AA408329, AI843786, Kip1, p27, p27Kip1	cyclin-dependent kinase inhibitor 1B	cyclin-dependent kinase inhibitor p27	6 65.77 cM	6	NC_000072.6	134920401	134925525	plus	3		
+9606	Homo sapiens	6790	0	live	AURKA	AIK, ARK1, AURA, AURORA2, BTAK, PPP1R47, STK15, STK6, STK7	aurora kinase A	ARK-1|Aurora-A kinase|IPL1-related kinase|aurora 2|aurora-related kinase 1|aurora/IPL1-like kinase|aurora/IPL1-related kinase 1|breast tumor-amplified kinase|breast-tumor-amplified kinase|hARK1|protein phosphatase 1, regulatory subunit 47|serine/threonine kinase 6|serine/threonine protein kinase 15|serine/threonine-protein kinase 15|serine/threonine-protein kinase 6|serine/threonine-protein kinase aurora-A	20q13	20	NC_000020.11	56369389	56392295	minus	11	603072	
+9606	Homo sapiens	2261	0	live	FGFR3	ACH, CD333, CEK2, HSFGFR3EX, JTK4	fibroblast growth factor receptor 3	FGFR-3|fibroblast growth factor receptor 3 variant 4|hydroxyaryl-protein kinase|tyrosine kinase JTK4	4p16.3	4	NC_000004.12	1793299	1808872	plus	19	134934	
+9606	Homo sapiens	3596	0	live	IL13	IL-13, P600	interleukin 13		5q31	5	NC_000005.10	132658173	132661109	plus	4	147683	
+9606	Homo sapiens	3627	0	live	CXCL10	C7, IFI10, INP10, IP-10, SCYB10, crg-2, gIP-10, mob-1	C-X-C motif chemokine ligand 10	10 kDa interferon gamma-induced protein|chemokine (C-X-C motif) ligand 10|gamma IP10|gamma-IP10|interferon-inducible cytokine IP-10|protein 10 from interferon (gamma)-induced cell line|small inducible cytokine subfamily B (Cys-X-Cys), member 10|small-inducible cytokine B10	4q21	4	NC_000004.12	76021116	76023536	minus	4	147310	
+9606	Homo sapiens	4049	0	live	LTA	LT, TNFB, TNFSF1, TNLG1E	lymphotoxin alpha	LT-alpha|TNF superfamily, member 1|TNF-beta|tumor necrosis factor beta|tumor necrosis factor ligand 1E|tumor necrosis factor ligand superfamily member 1	6p21.3	6	NC_000006.12	31560550	31574324	plus	8	153440	
+9606	Homo sapiens	867	0	live	CBL	C-CBL2, FRA11B, NSLL, RNF55, CBL	Cbl proto-oncogene, E3 ubiquitin protein ligase	Cas-Br-M (murine) ecotropic retroviral transforming sequence|RING finger protein 55|casitas B-lineage lymphoma proto-oncogene|fragile site, folic acid type, rare, fra(11)(q23.3)|oncogene CBL2|proto-oncogene c-Cbl|signal transduction protein CBL	11q23.3	11	NC_000011.10	119206276	119308149	plus	17	165360	
+9606	Homo sapiens	1803	0	live	DPP4	ADABP, ADCP2, CD26, DPPIV, TP103	dipeptidyl peptidase 4	ADCP-2|DPP IV|T-cell activation antigen CD26|adenosine deaminase complexing protein 2|dipeptidyl peptidase IV|dipeptidyl-peptidase 4|dipeptidylpeptidase 4|dipeptidylpeptidase IV (CD26, adenosine deaminase complexing protein 2)	2q24.3	2	NC_000002.12	161992241	162074542	minus	26	102720	
+9606	Homo sapiens	6850	0	live	SYK	p72-Syk	spleen tyrosine kinase		9q22	9	NC_000009.12	90801680	90898560	plus	16	600085	
+9606	Homo sapiens	2022	0	live	ENG	END, HHT1, ORW1	endoglin	CD105 antigen	9q34.11	9	NC_000009.12	127815012	127854773	minus	16	131195	
+9606	Homo sapiens	567	0	live	B2M	IMD43	beta-2-microglobulin	beta chain of MHC class I molecules|beta-2-microglobin	15q21.1	15	NC_000015.10	44711487	44718159	plus	4	109700	
+9606	Homo sapiens	7424	0	live	VEGFC	Flt4-L, LMPH1D, VRP	vascular endothelial growth factor C	FLT4 ligand DHM|vascular endothelial growth factor-related protein	4q34.3	4	NC_000004.12	176683534	176792745	minus	7	601528	
+9606	Homo sapiens	2272	0	live	FHIT	AP3Aase, FRA3B	fragile histidine triad	AP3A hydrolase|diadenosine 5',5'''-P1,P3-triphosphate hydrolase|dinucleosidetriphosphatase	3p14.2	3	NC_000003.12	59747587	61251459	minus	14	601153	
+9606	Homo sapiens	4683	0	live	NBN	AT-V1, AT-V2, ATV, NBS, NBS1, P95	nibrin	Nijmegen breakage syndrome 1 (nibrin)|cell cycle regulatory protein p95|p95 protein of the MRE11/RAD50 complex	8q21	8	NC_000008.11	89933336	89984733	minus	19	602667	
+10090	Mus musculus	16168	0	live	Il15	AI503618, IL-15	interleukin 15		8 39.33 cM	8	NC_000074.6	82331624	82403227	minus	11		
+9606	Homo sapiens	10018	0	live	BCL2L11	BAM, BIM, BOD	BCL2 like 11	BCL2-like 11 (apoptosis facilitator)|bcl-2 interacting mediator of cell death|bcl-2 interacting protein Bim|bcl-2-related ovarian death agonist	2q13	2	NC_000002.12	111120618	111168445	plus	15	603827	
+9606	Homo sapiens	406947	0	live	MIR155	MIRN155, miRNA155, mir-155	microRNA 155	hsa-mir-155	21q21.3	21	NC_000021.9	25573980	25574044	plus	1	609337	
+9606	Homo sapiens	4363	0	live	ABCC1	ABC29, ABCC, GS-X, MRP, MRP1	ATP binding cassette subfamily C member 1	ATP-binding cassette transporter variant ABCC1delta-ex13|ATP-binding cassette transporter variant ABCC1delta-ex13&14|ATP-binding cassette transporter variant ABCC1delta-ex25|ATP-binding cassette transporter variant ABCC1delta-ex25&26|ATP-binding cassette, sub-family C (CFTR/MRP), member 1|LTC4 transporter|leukotriene C(4) transporter	16p13.1	16	NC_000016.10	15949577	16143074	plus	33	158343	
+9606	Homo sapiens	8678	0	live	BECN1	ATG6, VPS30, beclin1	beclin 1, autophagy related	ATG6 autophagy related 6 homolog|beclin 1 (coiled-coil, moesin-like BCL2-interacting protein)|coiled-coil myosin-like BCL2-interacting protein	17q21	17	NC_000017.11	42810132	42824292	minus	13	604378	
+9606	Homo sapiens	22914	0	live	KLRK1	CD314, D12S2489E, KLR, NKG2-D, NKG2D	killer cell lectin like receptor K1	NK cell receptor D|NKG2-D-activating NK receptor|killer cell lectin-like receptor subfamily K, member 1	12p13.2-p12.3	12	NC_000012.12	10372353	10390054	minus	8	611817	
+9606	Homo sapiens	8837	0	live	CFLAR	CASH, CASP8AP1, CLARP, Casper, FLAME, FLAME-1, FLAME1, FLIP, I-FLICE, MRIT, c-FLIP, c-FLIPL, c-FLIPR, c-FLIPS	CASP8 and FADD like apoptosis regulator	FADD-like antiapoptotic molecule 1|MACH-related inducer of toxicity|caspase homolog|caspase-eight-related protein|caspase-like apoptosis regulatory protein|caspase-related inducer of apoptosis|cellular FLICE-like inhibitory protein|inhibitor of FLICE|usurpin beta	2q33-q34	2	NC_000002.12	201116154	201172688	plus	14	603599	
+10090	Mus musculus	12125	0	live	Bcl2l11	1500006F24Rik, Bim, Bod, bcl2-L-11	BCL2-like 11 (apoptosis facilitator)	Bcl2 interacting mediator of cell death|bcl2-interacting mediator of cell death	2 F3-G1	2	NC_000068.7	128126038	128162547	plus	7		
+9606	Homo sapiens	7486	0	live	WRN	RECQ3, RECQL2, RECQL3	Werner syndrome RecQ like helicase	DNA helicase, RecQ-like type 3|Werner syndrome, RecQ helicase-like|exonuclease WRN|recQ protein-like 2	8p12	8	NC_000008.11	31033262	31173761	plus	37	604611	
+9606	Homo sapiens	407040	0	live	MIR34A	MIRN34A, miRNA34A, mir-34, mir-34a	microRNA 34a	hsa-mir-34a	1p36.22	1	NC_000001.11	9151668	9151777	minus	1	611172	
+9606	Homo sapiens	2956	0	live	MSH6	GTBP, GTMBP, HNPCC5, HSAP, p160	mutS homolog 6	G/T mismatch-binding protein|mutS-alpha 160 kDa subunit|sperm-associated protein	2p16	2	NC_000002.12	47783082	47806953	plus	13	600678	
+9606	Homo sapiens	5335	0	live	PLCG1	NCKAP3, PLC-II, PLC1, PLC148, PLCgamma1	phospholipase C gamma 1	1-phosphatidyl-D-myo-inositol-4,5-bisphosphate|1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma 1|1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma-1|PLC-148|PLC-gamma-1|inositoltrisphosphohydrolase|monophosphatidylinositol phosphodiesterase|phosphatidylinositol phospholipase C|phosphoinositidase C|phosphoinositide phospholipase C|phosphoinositide phospholipase C-gamma-1|phospholipase C, gamma 1 (formerly subtype 148)|phospholipase C-148|phospholipase C-II|phospholipase C-gamma-1|triphosphoinositide phosphodiesterase	20q12-q13.1	20	NC_000020.11	41137519	41175721	plus	32	172420	
+9606	Homo sapiens	6776	0	live	STAT5A	MGF, STAT5	signal transducer and activator of transcription 5A		17q11.2	17	NC_000017.11	42287547	42311943	plus	20	601511	
+10090	Mus musculus	60533	0	live	Cd274	A530045L16Rik, B7h1, Pdcd1l1, Pdcd1lg1, Pdl1	CD274 antigen	B7 homolog 1|PDCD1 ligand 1	19 C2	19	NC_000085.6	29367438	29388095	plus	7		
+9606	Homo sapiens	3574	0	live	IL7	IL-7	interleukin 7		8q12-q13	8	NC_000008.11	78675872	78805523	minus	9	146660	
+9606	Homo sapiens	5551	0	live	PRF1	FLH2, HPLH2, P1, PFN1, PFP	perforin 1	cytolysin|lymphocyte pore forming protein|lymphocyte pore-forming protein|perforin 1 (pore forming protein)	10q22	10	NC_000010.11	70597348	70602775	minus	3	170280	
+9606	Homo sapiens	10320	0	live	IKZF1	Hs.54452, IK1, IKAROS, LYF1, LyF-1, PPP1R92, PRO0758, ZNFN1A1	IKAROS family zinc finger 1	CLL-associated antigen KW-6|IKAROS family zinc finger 1 (Ikaros)|ikaros family zinc finger protein 1|lymphoid transcription factor LyF-1|protein phosphatase 1, regulatory subunit 92|zinc finger protein, subfamily 1A, 1 (Ikaros)	7p12.2	7	NC_000007.14	50303465	50405101	plus	15	603023	
+10090	Mus musculus	16818	0	live	Lck	Hck-3, Lsk, Lskt, p56<lck>, p56Lck	lymphocyte protein tyrosine kinase	leukocyte C-terminal Src kinase|lymphocyte cell-specific protein-tyrosine kinase	4 63.26 cM	4	NC_000070.6	129548344	129573641	minus	15		
+9606	Homo sapiens	834	0	live	CASP1	ICE, IL1BC, P45	caspase 1	CASP1 nirs variant 1|IL-1 beta-converting enzyme|IL1B-convertase|caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)|interleukin 1, beta, convertase|interleukin 1-B converting enzyme	11q23	11	NC_000011.10	105025508	105036662	minus	11	147678	
+10090	Mus musculus	20963	0	live	Syk	Sykb	spleen tyrosine kinase		13 B-C2	13	NC_000079.6	52582329	52648792	plus	15		
+9606	Homo sapiens	2120	0	live	ETV6	TEL, TEL/ABL, THC5	ETS variant 6	ETS translocation variant 6|ETS-related protein Tel1|TEL1 oncogene|ets variant gene 6 (TEL oncogene)	12p13	12	NC_000012.12	11649854	11895402	plus	13	600618	
+9606	Homo sapiens	3567	0	live	IL5	EDF, IL-5, TRF	interleukin 5	B-cell differentiation factor I|T-cell replacing factor|colony-stimulating factor, eosinophil|eosinophil differentiation factor	5q31.1	5	NC_000005.10	132541444	132556890	minus	6	147850	
+9606	Homo sapiens	1021	0	live	CDK6	MCPH12, PLSTIRE	cyclin-dependent kinase 6	cell division protein kinase 6|serine/threonine-protein kinase PLSTIRE	7q21-q22	7	NC_000007.14	92604921	92836627	minus	11	603368	
+10090	Mus musculus	20683	0	live	Sp1	1110003E12Rik, AA450830, AI845540-1, Sp1	trans-acting transcription factor 1		15 F3	15	NC_000081.6	102406316	102436404	plus	7		
+9606	Homo sapiens	7409	0	live	VAV1	VAV	vav guanine nucleotide exchange factor 1	vav 1 guanine nucleotide exchange factor|vav 1 oncogene	19p13.3	19	NC_000019.10	6772668	6857366	plus	28	164875	
+9606	Homo sapiens	1028	0	live	CDKN1C	BWCR, BWS, KIP2, WBS, p57, p57Kip2	cyclin-dependent kinase inhibitor 1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)|cyclin-dependent kinase inhibitor p57	11p15.5	11	NC_000011.10	2883218	2885816	minus	4	600856	
+9606	Homo sapiens	23705	0	live	CADM1	BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	cell adhesion molecule 1	TSLC-1|TSLC1/Nectin-like 2/IGSF4|immunoglobulin superfamily member 4|immunoglobulin superfamily, member 4|immunoglobulin superfamily, member 4D variant 1|immunoglobulin superfamily, member 4D variant 2|nectin-like 2|nectin-like protein 2|spermatogenic immunoglobulin superfamily|synaptic cell adhesion molecule|truncated CADM1 protein|tumor suppressor in lung cancer 1	11q23.2	11	NC_000011.10	115173625	115504523	minus	12	605686	
+9606	Homo sapiens	5588	0	live	PRKCQ	PRKCT, nPKC-theta	protein kinase C theta	protein kinase C, theta	10p15	10	NC_000010.11	6393595	6580646	minus	22	600448	
+10090	Mus musculus	22778	0	live	Ikzf1	5832432G11Rik, Ikaros, LyF-1, Zfpn1a1, Znfn1a1, hlk-1, mKIAA4227	IKAROS family zinc finger 1	ikaros family zinc finger protein 1|lymphoid transcription factor LyF-1|zinc finger protein subfamily 1A, 1|zinc finger protein, subfamily 1A, 1 (Ikaros)	11 7.02 cM	11	NC_000077.6	11684969	11772926	plus	13		
+10090	Mus musculus	21752	0	live	Tert	EST2, TCS1, TP2, TR, TRT	telomerase reverse transcriptase	telomerase catalytic subunit|telomerase reverse transcriptase beta	13 40.12 cM	13	NC_000079.6	73626797	73649843	plus	17		
+10090	Mus musculus	22324	0	live	Vav1	Vav, vav-T	vav 1 oncogene	p95vav|vav oncogene	17 29.76 cM	17	NC_000083.6	57279079	57329236	plus	27		
+9606	Homo sapiens	3055	0	live	HCK	JTK9, p59Hck, p61Hck	HCK proto-oncogene, Src family tyrosine kinase	hematopoietic cell kinase|hemopoietic cell kinase|p59-HCK/p60-HCK	20q11-q12	20	NC_000020.11	32052188	32101856	plus	15	142370	
+9606	Homo sapiens	6356	0	live	CCL11	SCYA11	C-C motif chemokine ligand 11	chemokine (C-C motif) ligand 11|eosinophil chemotactic protein|eotaxin-1|small inducible cytokine subfamily A (Cys-Cys), member 11 (eotaxin)	17q12	17	NC_000017.11	34285668	34288180	plus	3	601156	
+9606	Homo sapiens	9235	0	live	IL32	IL-32alpha, IL-32beta, IL-32delta, IL-32gamma, NK4, TAIF, TAIFa, TAIFb, TAIFc, TAIFd	interleukin 32	interleukin-32 eta|interleukin-32 small|interleukin-32 theta|natural killer cell transcript 4|natural killer cells protein 4|tumor necrosis factor alpha-inducing factor	16p13.3	16	NC_000016.10	3065312	3069667	plus	7	606001	
+9606	Homo sapiens	5079	0	live	PAX5	ALL3, BSAP	paired box 5	B-cell lineage specific activator|paired box homeotic gene 5|paired domain gene 5|transcription factor PAX 5	9p13	9	NC_000009.12	36833275	37035319	minus	12	167414	
+10090	Mus musculus	27007	0	live	Klrk1	D6H12S2489E, NKG2-D, Nkg2d	killer cell lectin-like receptor subfamily K, member 1	NK cell receptor D|NKG2-D-activating NK receptor|natural killer cell group 2D	6 63.44 cM	6	NC_000072.6	129610323	129623864	minus	9		
+9606	Homo sapiens	1232	0	live	CCR3	CC-CKR-3, CD193, CKR3, CMKBR3	chemokine (C-C motif) receptor 3	C-C CKR-3|CC chemokine receptor 3|CCR-3|b-chemokine receptor|eosinophil CC chemokine receptor 3|eosinophil eotaxin receptor	3p21.3	3	NC_000003.12	46210695	46266706	plus	5	601268	
+10090	Mus musculus	16852	0	live	Lgals1	AA410090, Gal-1, Galbp, L-14.5, L14, Lect14, galectin-1	lectin, galactose binding, soluble 1	14 kDa lectin|S-Lac lectin 1|beta-galactoside binding protein|beta-galactoside-binding lectin L-14-I|galaptin|lactose-binding lectin 1|lectin galactoside-binding soluble 1	15 E	15	NC_000081.6	78926725	78930465	plus	4		
+9606	Homo sapiens	1235	0	live	CCR6	BN-1, C-C CKR-6, CC-CKR-6, CCR-6, CD196, CKR-L3, CKRL3, CMKBR6, DCR2, DRY6, GPR29, GPRCY4, STRL22	chemokine (C-C motif) receptor 6	G protein-coupled receptor 29|G-protein coupled receptor 29|LARC receptor|chemokine (C-C) receptor 6|chemokine receptor-like 3|seven-transmembrane receptor, lymphocyte, 22	6q27	6	NC_000006.12	167111807	167139141	plus	4	601835	
+9606	Homo sapiens	6304	0	live	SATB1		SATB homeobox 1	special AT-rich sequence binding protein 1 (binds to nuclear matrix/scaffold-associating DNA)|special AT-rich sequence-binding protein 1	3p23	3	NC_000003.12	18345806	18445588	minus	16	602075	
+9606	Homo sapiens	274	0	live	BIN1	AMPH2, AMPHL, SH3P9	bridging integrator 1	amphiphysin II|amphiphysin-like protein|box dependant MYC interacting protein 1|box-dependent myc-interacting protein 1	2q14	2	NC_000002.12	127048023	127107400	minus	22	601248	
+10090	Mus musculus	15903	0	live	Id3	Hlh462, Idb3, bHLHb25	inhibitor of DNA binding 3	ID-like protein inhibitor HLH 462|inhibitor of differentiation 3	4 68.34 cM	4	NC_000070.6	136143822	136145392	plus	3		
+9606	Homo sapiens	29851	0	live	ICOS	AILIM, CD278, CVID1	inducible T-cell co-stimulator	activation-inducible lymphocyte immunomediatory molecule|inducible costimulator	2q33	2	NC_000002.12	203936731	203961579	plus	8	604558	
+9606	Homo sapiens	27086	0	live	FOXP1	12CC4, HSPC215, MFH, QRF1, hFKH1B	forkhead box P1	fork head-related protein like B|glutamine-rich factor 1|mac-1-regulated forkhead	3p14.1	3	NC_000003.12	70954714	71583989	minus	36	605515	
+9606	Homo sapiens	112744	0	live	IL17F	CANDF6, IL-17F, ML-1, ML1	interleukin 17F	cytokine ML-1	6p12	6	NC_000006.12	52236681	52245689	minus	4	606496	
+9606	Homo sapiens	1654	0	live	DDX3X	CAP-Rf, DBX, DDX14, DDX3, HLP2, MRX102	DEAD-box helicase 3, X-linked	DEAD (Asp-Glu-Ala-Asp) box helicase 3, X-linked|DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked|DEAD box protein 3, X-chromosomal|DEAD box, X isoform|DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3|DEAD/H box-3|helicase-like protein 2	Xp11.3-p11.23	X	NC_000023.11	41333308	41364472	plus	20	300160	
+10090	Mus musculus	16428	0	live	Itk	Emt, Tcsk, Tsk	IL2 inducible T cell kinase	T-cell-specific kinase|interleukin-2-inducible T cell kinase|kinase TLK	11 27.75 cM	11	NC_000077.6	46325148	46389515	minus	18		
+9606	Homo sapiens	6957	0	live	TRB	TCRB@, TRB	T cell receptor beta locus	T-cell antigen receptor, beta polypeptide, T-cell receptor, beta cluster|T-cell receptor, beta cluster	7q34	7	NC_000007.14	142299011	142813287	plus	0		
+10090	Mus musculus	22632	0	live	Yy1	AW488674, NF-E1	YY1 transcription factor	UCR-motif DNA-binding protein|UCRBP transcription factor|YY-1|Yin Yang 1|delta transcription factor|yin and yang 1	12 59.58 cM	12	NC_000078.6	108793269	108816632	plus	6		
+9606	Homo sapiens	9961	0	live	MVP	LRP, VAULT1	major vault protein	lung resistance-related protein	16p11.2	16	NC_000016.10	29820394	29848039	plus	15	605088	
+9606	Homo sapiens	930	0	live	CD19	B4, CVID3	CD19 molecule	B-lymphocyte surface antigen B4|T-cell surface antigen Leu-12|differentiation antigen CD19	16p11.2	16	NC_000016.10	28931916	28939347	plus	15	107265	
+9606	Homo sapiens	6362	0	live	CCL18	AMAC-1, AMAC1, CKb7, DC-CK1, DCCK1, MIP-4, PARC, SCYA18	C-C motif chemokine ligand 18	CC chemokine PARC|CC chemokine ligand 18|alternative macrophage activation-associated CC chemokine 1|chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated)|chemokine (C-C), dendritic|dendritic cell chemokine 1|macrophage inflammatory protein 4|pulmonary and activation-regulated chemokine|small inducible cytokine A18|small inducible cytokine subfamily A (Cys-Cys), member 18, pulmonary and activation-regulated|small-inducible cytokine A18	17q12	17	NC_000017.11	36064272	36071481	plus	3	603757	
+9606	Homo sapiens	4345	0	live	CD200	MOX1, MOX2, MRC, OX-2	CD200 molecule	CD200 antigen|antigen identified by monoclonal antibody MRC OX-2	3q13.2	3	NC_000003.12	112332347	112362812	plus	10	155970	
+9606	Homo sapiens	9020	0	live	MAP3K14	FTDCR1B, HS, HSNIK, NIK	mitogen-activated protein kinase kinase kinase 14	NF-kappa-beta-inducing kinase|serine/threonine-protein kinase NIK	17q21	17	NC_000017.11	45263119	45317064	minus	17	604655	
+9606	Homo sapiens	406942	0	live	MIR150	MIRN150, miRNA150, mir-150	microRNA 150	hsa-mir-150	19q13.33	19	NC_000019.10	49500785	49500868	minus	1	611114	
+10090	Mus musculus	17132	0	live	Maf	2810401A20Rik, A230108G15Rik, AW047063, c-maf	avian musculoaponeurotic fibrosarcoma oncogene homolog	V-maf musculoaponeurotic fibrosarcoma oncogene homolog|avian musculoaponeurotic fibrosarcoma (v-maf) AS42 oncogene homolog|c-Maf long form|proto-oncogene c-maf	8 62.61 cM	8	NC_000074.6	115703253	115706894	minus	1		
+9606	Homo sapiens	3812	0	live	KIR3DL2	3DL2, CD158K, KIR-3DL2, NKAT-4, NKAT4, NKAT4B, p140	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 2	CD158 antigen-like family member K|KIR antigen 3DL2|MHC class I NK cell receptor|killer Ig receptor|killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2|killer-cell immunoglobulin-like receptor|natural killer-associated transcript 4|p70 NK receptor CL-5|p70 killer cell inhibitory receptor|p70 natural killer cell receptor clone CL-5	19q13.4	19	NC_000019.10	54850443	54867215	plus	9	604947	
+9606	Homo sapiens	4507	0	live	MTAP	BDMF, DMSFH, DMSMFH, HEL-249, LGMBF, MSAP, c86fus	methylthioadenosine phosphorylase	5'-methylthioadenosine phosphorylase|MTA phosphorylase|MTAPase|MeSAdo phosphorylase|epididymis luminal protein 249	9p21	9	NC_000009.12	21802636	21865971	plus	8	156540	
+9606	Homo sapiens	386653	0	live	IL31	IL-31	interleukin 31		12q24.31	12	NC_000012.12	122172030	122182963	minus	4	609509	
+9606	Homo sapiens	9437	0	live	NCR1	CD335, LY94, NK-p46, NKP46	natural cytotoxicity triggering receptor 1	NK cell-activating receptor|lymphocyte antigen 94 homolog (activating NK-receptor; NK-p46)|natural killer cell p46-related protein	19q13.42	19	NC_000019.10	54905992	54938208	plus	9	604530	
+9606	Homo sapiens	7072	0	live	TIA1	TIA-1, WDM	TIA1 cytotoxic granule-associated RNA binding protein	T-cell-restricted intracellular antigen-1|p40-TIA-1 (containing p15-TIA-1)	2p13	2	NC_000002.12	70209444	70248707	minus	16	603518	
+9606	Homo sapiens	1119	0	live	CHKA	CHK, CK, CKI, EK	choline kinase alpha	CHETK-alpha|ethanolamine kinase	11q13.2	11	NC_000011.10	68052859	68121391	minus	17	118491	
+9606	Homo sapiens	23136	0	live	EPB41L3	4.1B, DAL-1, DAL1	erythrocyte membrane protein band 4.1-like 3	differentially expressed in adenocarcinoma of the lung protein 1	18p11.32	18	NC_000018.10	5392381	5630666	minus	33	605331	
+9606	Homo sapiens	5819	0	live	NECTIN2	CD112, HVEB, PRR2, PVRL2, PVRR2	nectin cell adhesion molecule 2	herpesvirus entry protein B|poliovirus receptor-like 2|poliovirus receptor-related 2 (herpesvirus entry mediator B)	19q13.2	19	NC_000019.10	44846136	44889228	plus	10	600798	
+9606	Homo sapiens	7060	0	live	THBS4	TSP-4, TSP4	thrombospondin 4		5q13	5	NC_000005.10	79991311	80083637	plus	24	600715	
+9606	Homo sapiens	9260	0	live	PDLIM7	LMP1, LMP3	PDZ and LIM domain 7	1110003B01Rik|LIM domain protein|LMP|Lim mineralization protein 3|PDZ and LIM domain 7 (enigma)|protein enigma	5q35.3	5	NC_000005.10	177483394	177497619	minus	15	605903	
+9606	Homo sapiens	54806	0	live	AHI1	AHI-1, JBTS3, ORF1, dJ71N10.1	Abelson helper integration site 1	abelson helper integration site 1 protein homolog|contatins SH3 and WD40 domains	6q23.3	6	NC_000006.12	135283972	135497765	minus	35	608894	
+9606	Homo sapiens	5358	0	live	PLS3	BMND18, T-plastin	plastin 3	T fimbrin|T plastin	Xq23	X	NC_000023.11	115560850	115650861	plus	21	300131	
+9606	Homo sapiens	6964	0	live	TRD	TCRD, TCRDV1@, TRD	T cell receptor delta locus	T-cell antigen receptor, delta polypeptide|T-cell receptor, delta (V,D,J,C)	14q11.2	14	NC_000014.9	22422546	22466577	plus	0		
+9606	Homo sapiens	80380	0	live	PDCD1LG2	B7DC, Btdc, CD273, PD-L2, PDCD1L2, PDL2, bA574F11.2	programmed cell death 1 ligand 2	B7 dendritic cell molecule|B7-DC|PD-1 ligand 2|PD-1-ligand 2|PDCD1 ligand 2|butyrophilin B7-DC|programmed death ligand 2	9p24.2	9	NC_000009.12	5510491	5571282	plus	7	605723	
+9606	Homo sapiens	8569	0	live	MKNK1	MNK1	MAP kinase interacting serine/threonine kinase 1	MAP kinase signal-integrating kinase 1|MAPK signal-integrating kinase 1	1p33	1	NC_000001.11	46557407	46604294	minus	20	606724	
+9606	Homo sapiens	6346	0	live	CCL1	I-309, P500, SCYA1, SISe, TCA3	C-C motif chemokine ligand 1	T lymphocyte-secreted protein I-309|chemokine (C-C motif) ligand 1|inflammatory cytokine I-309|small inducible cytokine A1 (I-309, homologous to mouse Tca-3)	17q12	17	NC_000017.11	34360328	34363233	minus	3	182281	
+10090	Mus musculus	20687	0	live	Sp3	D130027J01Rik	trans-acting transcription factor 3		2 C3	2	NC_000068.7	72936430	72980446	minus	7		
+9606	Homo sapiens	6965	0	live	TRG	TCRG@, TRG	T cell receptor gamma locus	T-cell antigen receptor, gamma polypeptide|T-cell rearranging gene, gamma|T-cell receptor, gamma cluster	7p14	7	NC_000007.14	38240024	38368055	minus	0		
+9606	Homo sapiens	5793	0	live	PTPRG	HPTPG, PTPG, R-PTP-GAMMA, RPTPG	protein tyrosine phosphatase, receptor type G	H_RG317H01.1|protein tyrosine phosphatase gamma|protein tyrosine phosphatase, receptor type, G|protein tyrosine phosphatase, receptor type, gamma polypeptide|protein-tyrosine phosphatase gamma|receptor type protein tyrosine phosphatase gamma|receptor tyrosine phosphatase gamma|receptor-type protein phosphatase gamma	3p21-p14	3	NC_000003.12	61561569	62297609	plus	31	176886	
+9606	Homo sapiens	1124	0	live	CHN2	ARHGAP3, BCH-3, RHOGAP3, CHN2	chimerin 2	beta-chimerin|beta3-chimaerin|chimerin (chimaerin) 2|chimerin, beta-2|chimerin, testis-specific|rho-GTPase-activating protein 3	7p15.3	7	NC_000007.14	29146547	29514335	plus	21	602857	
+9606	Homo sapiens	5796	0	live	PTPRK	R-PTP-kappa	protein tyrosine phosphatase, receptor type K	dJ480J14.2.1 (protein tyrosine phosphatase, receptor type, K (R-PTP-KAPPA, protein tyrosine phosphatase kappa , protein tyrosine phosphatase kappa|protein tyrosine phosphatase, receptor type, K|protein-tyrosine phosphatase kappa|protein-tyrosine phosphatase, receptor type, kappa	6q22.2-q22.3	6	NC_000006.12	127968779	128520847	minus	41	602545	
+9606	Homo sapiens	57531	0	live	HACE1	SPPRS	HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1		6q16.3	6	NC_000006.12	104682659	104859919	minus	30	610876	
+9606	Homo sapiens	7593	0	live	MZF1	MZF-1B, ZFP98, ZNF42, ZSCAN6, MZF1	myeloid zinc finger 1	zinc finger and SCAN domain-containing protein 6|zinc finger protein 42 (myeloid-specific retinoic acid-responsive)	19q13.4	19	NC_000019.10	58561917	58574439	minus	8	194550	
+10090	Mus musculus	80898	0	live	Erap1	Arts1, ERAAP, PILSA, PILSAP	endoplasmic reticulum aminopeptidase 1	A-LAP|ARTS-1|PILS-AP|VEGF-induced aminopeptidase|adipocyte-derived leucine aminopeptidase|aminopeptidase PILS|puromycin-insensitive leucyl-specific aminopeptidase|type 1 tumor necrosis factor receptor shedding aminopeptidase regulator	13 C1	13	NC_000079.6	74639624	74691931	plus	20		
+10090	Mus musculus	381305	0	live	Rc3h1	5730557L09Rik, Gm551, N28103, mKIAA2025	RING CCCH (C3H) domains 1	RING finger and C3H zinc finger protein 1|RING finger and CCCH-type zinc finger domain-containing protein 1|probable E3 ubiquitin-protein ligase Roquin|protein Sanroque|roquin	1 H2.1	1	NC_000067.6	160906411	160974976	plus	21		
+9606	Homo sapiens	2826	0	live	CCR10	GPR2	chemokine (C-C motif) receptor 10	C-C CKR-10|CC chemokine receptor 10|CC-CKR-10|CCR-10|G protein-coupled receptor 2|G-protein coupled receptor 2	17q21.1-q21.3	17	NC_000017.11	42679402	42681827	minus	2	600240	
+9606	Homo sapiens	55245	0	live	UQCC1	BFZB, C20orf44, CBP3, UQCC	ubiquinol-cytochrome c reductase complex assembly factor 1	bFGF-repressed Zic-binding protein|basic FGF-repressed Zic-binding protein|cytochrome B protein synthesis 3 homolog|ubiquinol-cytochrome c reductase complex chaperone CBP3 homolog	20q11.22	20	NC_000020.11	35302566	35412142	minus	12	611797	
+9606	Homo sapiens	89795	0	live	NAV3	POMFIL1, STEERIN3, unc53H3	neuron navigator 3	pore membrane and/or filament interacting like protein 1|unc-53 homolog 3	12q21.2	12	NC_000012.12	77571862	78213012	plus	42	611629	
+10090	Mus musculus	19418	0	live	Rasgrf2	6330417G04Rik, AW048350, Grf2, Ras-GRF2	RAS protein-specific guanine nucleotide-releasing factor 2	ras guanine nucleotide exchange factor 2	13 C3-D1	13	NC_000079.6	91880407	91988042	minus	24		
+10090	Mus musculus	19418	0	live	Rasgrf2	6330417G04Rik, AW048350, Grf2, Ras-GRF2	RAS protein-specific guanine nucleotide-releasing factor 2	ras guanine nucleotide exchange factor 2	13 C3-D1	13	NC_000079.6	92022789	92131494	minus	24		
+9606	Homo sapiens	9760	0	live	TOX	TOX1	thymocyte selection associated high mobility group box	thymus high mobility group box protein TOX	8q12.1	8	NC_000008.11	58805418	59119208	minus	9	606863	
+10090	Mus musculus	380669	0	live	Lin28b	2810403D23Rik, D030047M17Rik, Lin-28.2	lin-28 homolog B (C. elegans)	lin-28B	10 B2	10	NC_000076.6	45376619	45487303	minus	10		
+9606	Homo sapiens	5924	0	live	RASGRF2	GRF2, RAS-GRF2	Ras protein specific guanine nucleotide releasing factor 2	Ras protein-specific guanine nucleotide-releasing factor 2|ras guanine nucleotide exchange factor 2	5q13	5	NC_000005.10	80960672	81230162	plus	28	606614	
+9606	Homo sapiens	6847	0	live	SYCP1	CT8, HOM-TES-14, SCP-1, SCP1	synaptonemal complex protein 1	cancer/testis antigen 8	1p13-p12	1	NC_000001.11	114854416	114995370	plus	36	602162	
+9606	Homo sapiens	55607	0	live	PPP1R9A	NRB1, NRBI, Neurabin-I	protein phosphatase 1 regulatory subunit 9A	neural tissue-specific F-actin-binding protein I|protein phosphatase 1, regulatory (inhibitor) subunit 9A|protein phosphatase 1, regulatory subunit 9A	7q21.3	7	NC_000007.14	94907202	95296415	plus	26	602468	
+7227	Drosophila melanogaster	31198	0	live	Mct1	Dmel_CG3456, CG3456, Dmel\CG3456, EG:103B4.3	Monocarboxylate transporter 1	CG3456-PA|CG3456-PB|Mct1-PA|Mct1-PB|monocarboxylate transporter 1	2E1-2E2	X	NC_004354.4	2189188	2205373	plus	10		
+9606	Homo sapiens	121355	0	live	GTSF1	FAM112B	gametocyte specific factor 1	family with sequence similarity 112, member B	12q13.13	12	NC_000012.12	54455952	54473602	minus	11		
+7227	Drosophila melanogaster	32679	0	live	DENR	Dmel_CG9099, CG9099, Dmel\CG9099	Density regulated protein	CG9099-PA|CG9099-PB|DENR-PA|DENR-PB|density regulated protein	15B4-15B4	X	NC_004354.4	16885546	16886560	minus	4		
+9606	Homo sapiens	28605	0	live	TRBV6-2	TCRBV13S2, TCRBV13S2A1T, TCRBV6S2, TRBV62	T cell receptor beta variable 6-2 (gene/pseudogene)	V_segment translation product	7q34	7	NC_000007.14	142349232	142349664	plus	0		
+9606	Homo sapiens	7040	0	live	TGFB1	CED, DPD1, LAP, TGFB, TGFbeta	transforming growth factor beta 1	TGF-beta-1|latency-associated peptide|prepro-transforming growth factor beta-1	19q13.1	19	NC_000019.10	41330531	41353933	minus	7	190180	
+9606	Homo sapiens	3586	0	live	IL10	CSIF, GVHDS, IL-10A, TGIF, IL10	interleukin 10	T-cell growth inhibitory factor|cytokine synthesis inhibitory factor	1q31-q32	1	NC_000001.11	206767602	206774607	minus	6	124092	
+9606	Homo sapiens	3845	0	live	KRAS	C-K-RAS, CFC2, K-RAS2A, K-RAS2B, K-RAS4A, K-RAS4B, KI-RAS1, KRAS2, NS, NS3, RALD, RASK2, KRAS	Kirsten rat sarcoma viral oncogene homolog	K-Ras 2|K-ras p21 protein|PR310 c-K-ras oncogene|c-Ki-ras|c-Kirsten-ras protein|cellular c-Ki-ras2 proto-oncogene|oncogene KRAS2|transforming protein p21|v-Ki-ras2 Kirsten rat sarcoma 2 viral oncogene homolog	12p12.1	12	NC_000012.12	25204789	25250931	minus	6	190070	
+9606	Homo sapiens	1499	0	live	CTNNB1	CTNNB, MRD19, armadillo	catenin beta 1	catenin (cadherin-associated protein), beta 1|catenin (cadherin-associated protein), beta 1, 88kDa	3p21	3	NC_000003.12	41199451	41240448	plus	17	116806	
+10376	Human herpesvirus 4	8655057	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Epstein Barr virus; Epstein-Barr virus; Epstein-Barr virus EBV; Epstein-Barr-virus EBV; Human herpesvirus type 4).										
+11908	Human T-lymphotropic virus 1	2828765	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Human T cell leukemia virus type 1; Human T-cell leukemia virus type 1; Human T-cell leukemia virus type I; Human T-cell leukemia virus type I HTLV-I; Human T-cell lymphotrophic virus type 1; Human T-cell lymphotropic virus 1; Human T-cell lymphotropic virus type 1; Human T-cell lymphotropic virus type I; Human T-lymphotropic virus type 1; Human adult T-cell leukemia virus; Human lymphotropic virus type I; human T cell leukemia virus type 1 HTLV-1; human T cell leukemia virus type I HTLV-I; human T cell lymphotropic virus type I HTLV-I; human T-cell leukemia virus I; human T-cell leukemia virus type 1 HTLV-1; human T-cell leukemia virus-1 HTLV-1; human T-cell leukemia/lymphoma virus type I HTLV-I; human T-cell leukemia/lymphotropic virus type I HTLV-I; human T-cell lymphoma/leukemia virus type I HTLV-I; human T-cell lymphotropic virus type 1, HTLV-1; human T-lymphotropic virus type 1 HTLV-1; human T-lymphotropic virus type I HTLV-I).										
+9606	Homo sapiens	7852	0	live	CXCR4	CD184, D2S201E, FB22, HM89, HSY3RR, LAP-3, LAP3, LCR1, LESTR, NPY3R, NPYR, NPYRL, NPYY3R, WHIM, WHIMS	chemokine (C-X-C motif) receptor 4	CD184 antigen|LPS-associated protein 3|SDF-1 receptor|chemokine receptor|fusin|leukocyte-derived seven transmembrane domain receptor|lipopolysaccharide-associated protein 3|neuropeptide Y receptor Y3|neuropeptide Y3 receptor|seven transmembrane helix receptor|seven-transmembrane-segment receptor, spleen|stromal cell-derived factor 1 receptor	2q21	2	NC_000002.12	136114349	136118155	minus	2	162643	
+9606	Homo sapiens	3815	0	live	KIT	C-Kit, CD117, PBT, SCFR	KIT proto-oncogene receptor tyrosine kinase	p145 c-kit|piebald trait protein|proto-oncogene c-Kit|proto-oncogene tyrosine-protein kinase Kit|soluble KIT variant 1|tyrosine-protein kinase Kit|v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog|v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene-like protein	4q12	4	NC_000004.12	54657928	54740715	plus	21	164920	
+9606	Homo sapiens	4869	0	live	NPM1	B23, NPM	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	nucleolar protein NO38|nucleophosmin/nucleoplasmin family, member 1	5q35.1	5	NC_000005.10	171387648	171410884	plus	12	164040	
+9606	Homo sapiens	356	0	live	FASLG	ALPS1B, APT1LG1, APTL, CD178, CD95-L, CD95L, FASL, TNFSF6, TNLG1A	Fas ligand	CD95 ligand|Fas ligand (TNF superfamily, member 6)|apoptosis (APO-1) antigen ligand 1|apoptosis antigen ligand|fas antigen ligand|mutant tumor necrosis factor family member 6|tumor necrosis factor ligand 1A	1q23	1	NC_000001.11	172659008	172666873	plus	4	134638	
+9606	Homo sapiens	238	0	live	ALK	CD246, NBLST3	anaplastic lymphoma receptor tyrosine kinase	CD246 antigen|mutant anaplastic lymphoma kinase	2p23	2	NC_000002.12	29192774	29921611	minus	29	105590	
+9606	Homo sapiens	3308	0	live	HSPA4	APG-2, HEL-S-5a, HS24/P52, HSPH2, RY, hsp70, hsp70RY	heat shock protein family A (Hsp70) member 4	epididymis secretory sperm binding protein Li 5a|heat shock 70-related protein APG-2|heat shock 70kD protein 4|heat shock 70kDa protein 4|heat shock protein, 110 kDa|hsp70 RY	5q31.1	5	NC_000005.10	133051970	133105017	plus	19	601113	
+9606	Homo sapiens	23405	0	live	DICER1	DCR1, Dicer, Dicer1e, HERNA, K12H4.8-LIKE, MNG1, RMSE2	dicer 1 ribonuclease III	Dicer1, Dcr-1 homolog|dicer 1, double-stranded RNA-specific endoribonuclease|dicer 1, ribonuclease type III|helicase MOI|helicase with RNAse motif	14q32.13	14	NC_000014.9	95086228	95158010	minus	34	606241	
+9606	Homo sapiens	3014	0	live	H2AFX	H2A.X, H2A/X, H2AX	H2A histone family member X	H2A histone family, member X|H2AX histone|histone H2A.x	11q23.3	11	NC_000011.10	119093874	119095467	minus	1	601772	
+9606	Homo sapiens	6502	0	live	SKP2	FBL1, FBXL1, FLB1, p45	S-phase kinase-associated protein 2, E3 ubiquitin protein ligase	CDK2/cyclin A-associated protein p45|F-box/LRR-repeat protein 1|S-phase kinase-associated protein 2 (p45)|p45skp2	5p13	5	NC_000005.10	36151989	36192788	plus	12	601436	
+10090	Mus musculus	16196	0	live	Il7	A630026I06Rik, Il-7, hlb368	interleukin 7		3 2.02 cM	3	NC_000069.6	7572028	7613427	minus	6		
+9606	Homo sapiens	952	0	live	CD38	ADPRC 1, ADPRC1	CD38 molecule	2'-phospho-ADP-ribosyl cyclase|2'-phospho-cyclic-ADP-ribose transferase|ADP-ribosyl cyclase 1|CD38 antigen (p45)|NAD(+) nucleosidase|cluster of differentiation 38|cyclic ADP-ribose hydrolase 1|ecto-nicotinamide adenine dinucleotide glycohydrolase	4p15	4	NC_000004.12	15778298	15849083	plus	8	107270	
+9606	Homo sapiens	9332	0	live	CD163	M130, MM130	CD163 molecule	hemoglobin scavenger receptor|macrophage-associated antigen	12p13.3	12	NC_000012.12	7470816	7503818	minus	17	605545	
+9606	Homo sapiens	283	0	live	ANG	ALS9, HEL168, RAA1, RNASE4, RNASE5	angiogenin, ribonuclease, RNase A family, 5	RNase 5|epididymis luminal protein 168|ribonuclease 5|ribonuclease A A1	14q11.1-q11.2	14	NC_000014.9	20684177	20694186	plus	3	105850	
+10090	Mus musculus	21423	0	live	Tcf3	A1, AA408400, ALF2, AW209082, E12, E12/E47, E2A, E47, ME2, Pan1, Pan2, TCF-3, Tcfe2a, VDIR, bHLHb21	transcription factor 3	immunoglobulin enhancer-binding factor E12/E47|transcription factor A1|transcription factor E2a	10 39.72 cM	10	NC_000076.6	80409165	80433653	minus	20		
+10090	Mus musculus	20302	0	live	Ccl3	AI323804, G0S19-1, LD78alpha, MIP-1alpha, MIP1-(a), MIP1-alpha, Mip1a, Scya3	chemokine (C-C motif) ligand 3	L2G25B|MIP-1 alpha|MIP-1-alpha|MIP1 (a)|SIS-alpha|TY-5|heparin-binding chemotaxis protein|macrophage inflammatory protein 1-alpha|macrophage inflammatory protein-1alpha|small inducible cytokine A3|small-inducible cytokine A3	11 51.04 cM	11	NC_000077.6	83647843	83649378	minus	3		
+9606	Homo sapiens	3662	0	live	IRF4	LSIRF, MUM1, NF-EM5, SHEP8	interferon regulatory factor 4	lymphocyte-specific interferon regulatory factor|multiple myeloma oncogene 1	6p25.3	6	NC_000006.12	391739	411443	plus	10	601900	
+9606	Homo sapiens	9531	0	live	BAG3	BAG-3, BIS, CAIR-1, MFM6	BCL2 associated athanogene 3	BCL2-associated athanogene 3|BCL2-binding athanogene 3|bcl-2-binding protein Bis|docking protein CAIR-1	10q25.2-q26.2	10	NC_000010.11	119651347	119677819	plus	4	603883	
+9606	Homo sapiens	3561	0	live	IL2RG	CD132, CIDX, IL-2RG, IMD4, P64, SCIDX, SCIDX1	interleukin 2 receptor subunit gamma	CD132 antigen|IL-2 receptor subunit gamma|IL-2R subunit gamma|common cytokine receptor gamma chain|gammaC|interleukin 2 receptor, gamma	Xq13.1	X	NC_000023.11	71107404	71111631	minus	8	308380	
+9606	Homo sapiens	4070	0	live	TACSTD2	EGP-1, EGP1, GA733-1, GA7331, GP50, M1S1, TROP2	tumor-associated calcium signal transducer 2	40kD glycoprotein, identified by monoclonal antibody GA733|cell surface glycoprotein TROP2|cell surface glycoprotein Trop-2|epithelial glycoprotein-1|gastrointestinal tumor-associated antigen GA7331|membrane component chromosome 1 surface marker 1|membrane component, chromosome 1, surface marker 1|pancreatic carcinoma marker protein GA733-1|pancreatic carcinoma marker protein GA7331	1p32	1	NC_000001.11	58575423	58577494	minus	1	137290	
+9606	Homo sapiens	7317	0	live	UBA1	A1S9, A1S9T, A1ST, AMCX1, CFAP124, GXP1, POC20, SMAX2A, UBE1, UBE1X, UBA1	ubiquitin like modifier activating enzyme 1	A1S9T and BN75 temperature sensitivity complementing|POC20 centriolar protein homolog|UBA1, ubiquitin-activating enzyme E1 homolog A|ubiquitin-like modifier activating enzyme 1	Xp11.23	X	NC_000023.11	47190800	47215128	plus	31	314370	
+9606	Homo sapiens	4923	0	live	NTSR1	NTR	neurotensin receptor 1 (high affinity)	NT-R-1|NTR1|NTRH|high-affinity levocabastine-insensitive neurotensin receptor	20q13	20	NC_000020.11	62708783	62762771	plus	4	162651	
+9606	Homo sapiens	3821	0	live	KLRC1	CD159A, NKG2, NKG2A	killer cell lectin like receptor C1	C-lectin type II protein|CD159 antigen-like family member A|NK cell receptor A|NKG2-1/B activating NK receptor|NKG2-A/B type II integral membrane protein|NKG2-A/B-activating NK receptor|killer cell lectin-like receptor subfamily C, member 1|natural killer cell lectin|natural killer group protein 2	12p13	12	NC_000012.12	10442264	10454685	minus	9	161555	
+9606	Homo sapiens	440	0	live	ASNS	ASNSD, TS11	asparagine synthetase (glutamine-hydrolyzing)	TS11 cell cycle control protein|glutamine-dependent asparagine synthetase	7q21.3	7	NC_000007.14	97852117	97872542	minus	15	108370	
+9606	Homo sapiens	3824	0	live	KLRD1	CD94	killer cell lectin like receptor D1	CD94 antigen|KP43|NK cell receptor|killer cell lectin-like receptor subfamily D, member 1	12p13	12	NC_000012.12	10304446	10360876	plus	13	602894	
+9606	Homo sapiens	56288	0	live	PARD3	ASIP, Baz, PAR3, PAR3alpha, PARD-3A, PPP1R118, SE2-5L16, SE2-5LT1, SE2-5T2, PARD3	par-3 family cell polarity regulator	CTCL tumor antigen se2-5|PAR3-alpha|atypical PKC isotype-specific interacting protein|atypical PKC isotype-specific-interacting protein|bazooka|par-3 family cell polarity regulator alpha|par-3 partitioning defective 3 homolog|protein phosphatase 1, regulatory subunit 118	10p11.21	10	NC_000010.11	34109560	34815325	minus	30	606745	
+10090	Mus musculus	13163	0	live	Daxx		Fas death domain-associated protein	death-domain associated protein	17 17.98 cM	17	NC_000083.6	33909381	33915590	plus	9		
+10090	Mus musculus	20303	0	live	Ccl4	AT744.1, Act-2, MIP-1B, Mip1b, Scya4	chemokine (C-C motif) ligand 4	ACT2|MIP-1 beta|MIP-1-beta|SIS-gamma|immune activation protein 2|macrophage inflammatory protein 1-beta|small inducible cytokine A4|small-inducible cytokine A4	11 51.09 cM	11	NC_000077.6	83648624	83664683	plus	5		
+10090	Mus musculus	20587	0	live	Smarcb1	AU020204, Baf47, Ini1, SNF5/INI1, Snf5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily b, member 1	BRG1-associated factor 47|SNF5 homolog|integrase interactor 1 protein|mSNF5	10 C1	10	NC_000076.6	75896769	75921614	minus	9		
+10090	Mus musculus	15273	0	live	Hivep2	Gm20114, MIBP1, Schnurri-2, Shn-2	human immunodeficiency virus type I enhancer binding protein 2	MIBP-1|human immunodeficiency virus type I enhancer-binding protein 2 homolog|myc intron-binding protein 1	10 A2	10	NC_000076.6	13965779	14151378	plus	14		

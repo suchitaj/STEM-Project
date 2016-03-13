@@ -1,0 +1,1258 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	5265	0	live	SERPINA1	A1A, A1AT, AAT, PI, PI1, PRO2275, alpha1AT	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1 protease inhibitor|alpha-1-antiproteinase|alpha-1-antitrypsin null|protease inhibitor 1 (anti-elastase), alpha-1-antitrypsin|serine (or cysteine) proteinase inhibitor, clade A, member 1|serpin A1|serpin peptidase inhibitor clade A member 1	14q32.1	14	NC_000014.9	94376747	94390692	minus	7	107400	
+10116	Rattus norvegicus	24648	0	live	Serpina1	AAT, Pi, Spi1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1-antitrypsin (protease inhibitor)|alpha-1-protease inhibitor|alpha-1-proteinase inhibitor|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1|serine (or cysteine) proteinase inhibitor, clade A, member 1|serine protease inhibitor alpha 1|serpin A1	6q32	6	NC_005105.4	127610241	127632265	minus	7		
+10090	Mus musculus	20700	0	live	Serpina1a	Aat-2, Aat2, Dom1, PI1, Spi1-1, Spi1-3	serine (or cysteine) peptidase inhibitor, clade A, member 1A	AAT|alpha-1 protease inhibitor 1|alpha-1-antiproteinase|alpha-1-antitrypsin 2|serine (or cysteine) proteinase inhibitor, clade A, member 1a|serine protease inhibitor 1-1|serine protease inhibitor A1a|serpin A1a	12 52.98 cM	12	NC_000078.6	103853295	103863619	minus	6		
+10090	Mus musculus	20702	0	live	Serpina1c	Pi3, Pi6, Skalp, Spi1-3, Spi1-6, Wap3	serine (or cysteine) peptidase inhibitor, clade A, member 1C	alpha-1 protease inhibitor 3|alpha-1 protease inhibitor 6|alpha-1-antitrypsin 1-6|apha-1 protease inhibitor 3|pre-elafin|serine (or cysteine) proteinase inhibitor, clade A, member 1c|serine protease inhibitor 1-3|serine protease inhibitor 1-6|serine protease inhibitor A1c|serpin A1c|trappin-2	12 52.98 cM	12	NC_000078.6	103894926	103904950	minus	5		
+9940	Ovis aries	443388	0	live	SERPINA1	A1AT, PI, alpha-1-PI	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1 antitrypsin|alpha-1-antitrypsin|alpha-1-proteinase inhibitor|protease inhibitor 1|serine (or cysteine) proteinase inhibitor, clade A (alpha-1antiproteinase, antitrypsin), member 1		18	NC_019475.2	57826317	57844098	minus	6		
+9913	Bos taurus	280699	0	live	SERPINA1	PI	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1-antitrypsin|alpha-1-proteinase inhibitor|protease inhibitor 1 (anti-elastase, antitrypsin, alpha-1)|serine (or cysteine) proteinase inhibitor, clade A (alpha-1antiproteinase, antitrypsin), member 1|serine proteinase inhibitor, clade A, member 1|serpin A1		21	AC_000178.1	59578526	59590437	minus	6		
+9796	Equus caballus	100065158	0	live	SPI2		alpha-1-antitrypsin	alpha-1-antitrypsin 2|alpha-1-proteinase inhibitor 2		24	NC_009167.2	37051738	37061552	minus	6		
+9986	Oryctolagus cuniculus	100008973	0	live	LOC100008973		alpha-1-antiproteinase F precursor	APF|alpha-1-antitrypsin|alpha-1-proteinase inhibitor		Un	NW_003159509.1	375194	383968	minus	5		
+9986	Oryctolagus cuniculus	100328621	0	live	LOC100328621		alpha-1-antitrypsin			Un	NW_003159509.1	388015	393656	minus	5		
+8839	Anas platyrhynchos	101803775	0	live	LOC101803775	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor clade A member 1|serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+9669	Mustela putorius furo	101675098	0	live	LOC101675098	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+9646	Ailuropoda melanoleuca	100478918	0	live	LOC100478918	PANDA_009257	alpha-1-antitrypsin			Un							
+9531	Cercocebus atys	105596621	0	live	LOC105596621		alpha-1-antitrypsin			Un							
+74533	Panthera tigris altaica	102965075	0	live	LOC102965075	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+8496	Alligator mississippiensis	102566140	0	live	LOC102566140	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+109478	Myotis brandtii	102238599	0	live	LOC102238599	D623_10004130	alpha-1-antitrypsin			Un							
+181119	Pseudopodoces humilis	102104025	0	live	LOC102104025	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+8932	Columba livia	102091562	0	live	LOC102091562	A306_03313	alpha-1-antitrypsin	Alpha-1-antitrypsin-like protein CM55-SI		Un							
+8932	Columba livia	102091381	0	live	LOC102091381	A306_03312	alpha-1-antitrypsin			Un							
+44394	Zonotrichia albicollis	102068016	0	live	LOC102068016	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+345164	Falco cherrug	102055546	0	live	LOC102055546	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+8954	Falco peregrinus	101916320	0	live	LOC101916320	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+9708	Odobenus rosmarus divergens	101365253	0	live	LOC101365253	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+10029	Cricetulus griseus	100761387	0	live	LOC100761387		alpha-1-antitrypsin			Un	NW_003614700.1	445586	450055	minus	4		
+9402	Pteropus alecto	102893714	0	live	SERPINA1	PAL_GLEAN10020808	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1-antitrypsin		Un							
+43179	Ictidomys tridecemlineatus	101963508	0	live	LOC101963508		alpha-1-antitrypsin-like protein GS55-LT	alpha1-antitrypsin-like protein		Un							
+9555	Papio anubis	101002028	0	live	SERPINA1	AAT, PI	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1 protease inhibitor|Alpha-1-antiproteinase|Alpha-1-antitrypsin|Serpin A1		7	NC_018158.1	150525465	150537844	minus	6		
+8364	Xenopus tropicalis	100488834	0	live	LOC100488834		alpha-1-antitrypsin-like			Un							
+9994	Marmota marmota marmota	107150222	0	live	LOC107150222		alpha-1-antitrypsin-like protein GS55-MS			Un							
+9994	Marmota marmota marmota	107144711	0	live	LOC107144711		alpha-1-antitrypsin-like protein GS55-MS			Un							
+146911	Gekko japonicus	107114093	0	live	LOC107114093		alpha-1-antitrypsin-like			Un							
+198806	Calidris pugnax	106897147	0	live	LOC106897147		alpha-1-antitrypsin-like			Un							
+198806	Calidris pugnax	106897146	0	live	LOC106897146		alpha-1-antitrypsin-like			Un							
+198806	Calidris pugnax	106897145	0	live	LOC106897145		alpha-1-antitrypsin-like			Un							
+9172	Sturnus vulgaris	106858054	0	live	LOC106858054		alpha-1-antitrypsin-like			Un							
+9172	Sturnus vulgaris	106858053	0	live	LOC106858053		alpha-1-antitrypsin-like			Un							
+9172	Sturnus vulgaris	106858043	0	live	LOC106858043		alpha-1-antitrypsin-like			Un							
+181119	Pseudopodoces humilis	106628067	0	live	LOC106628067		alpha-1-antitrypsin-like			Un							
+8030	Salmo salar	106608112	0	live	LOC106608112		alpha-1-antitrypsin homolog			ssa06	NC_027305.1	73190354	73193026	plus	5		
+202946	Apteryx australis mantelli	106483136	0	live	LOC106483136		alpha-1-antitrypsin-like			Un							
+202946	Apteryx australis mantelli	106483127	0	live	LOC106483127		alpha-1-antitrypsin-like			Un							
+202946	Apteryx australis mantelli	106483126	0	live	LOC106483126		alpha-1-antitrypsin-like			Un							
+202946	Apteryx australis mantelli	106483125	0	live	LOC106483125		alpha-1-antitrypsin-like			Un							
+381198	Anser cygnoides domesticus	106036374	0	live	LOC106036374		alpha-1-antitrypsin-like			Un							
+381198	Anser cygnoides domesticus	106033760	0	live	LOC106033760		alpha-1-antitrypsin-like			Un							
+381198	Anser cygnoides domesticus	106033756	0	live	LOC106033756		alpha-1-antitrypsin-like			Un							
+8839	Anas platyrhynchos	106017690	0	live	LOC106017690		alpha-1-antitrypsin-like			Un							
+10020	Dipodomys ordii	105986455	0	live	LOC105986455		alpha-1-antitrypsin-like protein CM55-ST			Un							
+10020	Dipodomys ordii	105986366	0	live	LOC105986366		alpha-1-antitrypsin-like			Un							
+7950	Clupea harengus	105892963	0	live	LOC105892963		alpha-1-antitrypsin homolog			Un							
+7950	Clupea harengus	105892962	0	live	LOC105892962		alpha-1-antitrypsin homolog			Un							
+379532	Propithecus coquereli	105819056	0	live	LOC105819056		alpha-1-antitrypsin-like			Un							
+216574	Aquila chrysaetos canadensis	105399861	0	live	LOC105399861		alpha-1-antitrypsin-like			Un							
+216574	Aquila chrysaetos canadensis	105399859	0	live	LOC105399859		alpha-1-antitrypsin-like			Un							
+216574	Aquila chrysaetos canadensis	105399858	0	live	LOC105399858		alpha-1-antitrypsin-like			Un							
+9685	Felis catus	105259609	0	live	LOC105259609		alpha-1-antitrypsin-like			B3							
+8010	Esox lucius	105006329	0	live	LOC105006329		alpha-1-antitrypsin homolog			LG18	NC_025985.2	7437566	7443033	plus	5		
+52644	Haliaeetus leucocephalus	104841891	0	live	LOC104841891		alpha-1-antitrypsin-like			Un							
+52644	Haliaeetus leucocephalus	104841890	0	live	LOC104841890		alpha-1-antitrypsin-like			Un							
+52644	Haliaeetus leucocephalus	104841889	0	live	LOC104841889		alpha-1-antitrypsin-like			Un							
+932674	Corvus cornix cornix	104686239	0	live	LOC104686239		alpha-1-antitrypsin-like			Un							
+100784	Balearica regulorum gibbericeps	104640039	0	live	LOC104640039	N312_01149	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+97097	Phaethon lepturus	104628165	0	live	LOC104628165	N335_06937	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+97097	Phaethon lepturus	104628164	0	live	LOC104628164	N335_06936	alpha-1-antitrypsin-like	hypothetical protein		Un							
+94827	Tinamus guttatus	104580908	0	live	LOC104580908	N309_12029	alpha-1-antitrypsin-like			Un							
+94827	Tinamus guttatus	104580907	0	live	LOC104580907	N309_12030	alpha-1-antitrypsin-like	Alpha-1-antitrypsin		Un							
+94827	Tinamus guttatus	104580906	0	live	LOC104580906	N309_12031	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+94827	Tinamus guttatus	104580903	0	live	LOC104580903	N309_12028	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+57412	Colius striatus	104559448	0	live	LOC104559448	N325_04385	alpha-1-antitrypsin-like	Alpha-1-antitrypsin		Un							
+57412	Colius striatus	104555400	0	live	LOC104555400	N325_05428	alpha-1-antitrypsin-like	Alpha-1-antitrypsin-like GS55-MS		Un							
+54374	Mesitornis unicolor	104541249	0	live	LOC104541249		alpha-1-antitrypsin-like			Un							
+54374	Mesitornis unicolor	104537459	0	live	LOC104537459	N332_04248	alpha-1-antitrypsin-like	hypothetical protein		Un							
+279965	Caprimulgus carolinensis	104532362	0	live	LOC104532362	N321_09441	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+279965	Caprimulgus carolinensis	104522511	0	live	LOC104522511	N321_03316	alpha-1-antitrypsin-like	Alpha-1-antitrypsin		Un							
+54383	Eurypyga helias	104513727	0	live	LOC104513727	N326_03194	alpha-1-antitrypsin-like			Un							
+175836	Buceros rhinoceros silvestris	104501041	0	live	LOC104501041	N320_09566	alpha-1-antitrypsin-like			Un							
+175836	Buceros rhinoceros silvestris	104494334	0	live	LOC104494334	N320_01257	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+187382	Chlamydotis macqueenii	104479250	0	live	LOC104479250	N324_04579	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+187382	Chlamydotis macqueenii	104479249	0	live	LOC104479249	N324_04578	alpha-1-antitrypsin-like	hypothetical protein		Un							
+187382	Chlamydotis macqueenii	104479248	0	live	LOC104479248	N324_04577	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+240206	Pterocles gutturalis	104472517	0	live	LOC104472517	N339_11666	alpha-1-antitrypsin-like	hypothetical protein		Un							
+240206	Pterocles gutturalis	104472513	0	live	LOC104472513	N339_11667	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+240206	Pterocles gutturalis	104472512	0	live	LOC104472512	N339_11665	alpha-1-antitrypsin-like	Alpha-1-antitrypsin		Un							
+176057	Nestor notabilis	104403763	0	live	LOC104403763	N333_10026	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+8897	Chaetura pelagica	104394174	0	live	LOC104394174	M959_10899	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+8897	Chaetura pelagica	104394173	0	live	LOC104394173	M959_10898	alpha-1-antitrypsin-like			Un							
+8897	Chaetura pelagica	104394172	0	live	LOC104394172	M959_10896	alpha-1-antitrypsin-like			Un							
+121530	Tauraco erythrolophus	104377765	0	live	LOC104377765	N340_13304	alpha-1-antitrypsin-like			Un							
+121530	Tauraco erythrolophus	104377764	0	live	LOC104377764	N340_13303	alpha-1-antitrypsin-like			Un							
+56313	Tyto alba	104367449	0	live	LOC104367449	N341_12021	alpha-1-antitrypsin-like	hypothetical protein		Un							
+56313	Tyto alba	104367448	0	live	LOC104367448	N341_12020	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+188344	Leptosomus discolor	104353722	0	live	LOC104353722		alpha-1-antitrypsin-like			Un							
+188344	Leptosomus discolor	104353712	0	live	LOC104353712	N330_02115	alpha-1-antitrypsin-like			Un							
+30419	Opisthocomus hoazin	104331502	0	live	LOC104331502	N306_04595	alpha-1-antitrypsin-like	hypothetical protein		Un							
+8969	Haliaeetus albicilla	104319185	0	live	LOC104319185	N329_04315	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+8969	Haliaeetus albicilla	104319184	0	live	LOC104319184	N329_04314	alpha-1-antitrypsin-like			Un							
+8969	Haliaeetus albicilla	104319183	0	live	LOC104319183	N329_04313	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+118200	Picoides pubescens	104306874	0	live	LOC104306874	N307_13631	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+118200	Picoides pubescens	104306873	0	live	LOC104306873	N307_13630	alpha-1-antitrypsin-like	Alpha-1-antitrypsin-like GS55-MS		Un							
+50402	Charadrius vociferus	104283428	0	live	LOC104283428	N301_06974	alpha-1-antitrypsin-like	hypothetical protein		Un							
+50402	Charadrius vociferus	104283357	0	live	LOC104283357		alpha-1-antitrypsin-like			Un							
+50402	Charadrius vociferus	104283356	0	live	LOC104283356	N301_06973	alpha-1-antitrypsin-like	hypothetical protein		Un							
+57397	Apaloderma vittatum	104274140	0	live	LOC104274140	N311_11967	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+57397	Apaloderma vittatum	104272202	0	live	LOC104272202	N311_02610	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+37040	Gavia stellata	104256846	0	live	LOC104256846	N328_06806	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+37040	Gavia stellata	104256845	0	live	LOC104256845	N328_06805	alpha-1-antitrypsin-like			Un							
+37040	Gavia stellata	104251656	0	live	LOC104251656		alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+54380	Cariama cristata	104169155	0	live	LOC104169155	N322_05679	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+54380	Cariama cristata	104157414	0	live	LOC104157414	N322_03284	alpha-1-antitrypsin-like	Alpha-1-antitrypsin-like GS55-MS		Un							
+441894	Struthio camelus australis	104153762	0	live	LOC104153762	N308_06913	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+441894	Struthio camelus australis	104153760	0	live	LOC104153760	N308_06911	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+441894	Struthio camelus australis	104153759	0	live	LOC104153759		alpha-1-antitrypsin-like			Un							
+441894	Struthio camelus australis	104153758	0	live	LOC104153758	N308_06910	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+188379	Egretta garzetta	104127802	0	live	LOC104127802	Z169_04208	alpha-1-antitrypsin-like			Un							
+30455	Fulmarus glacialis	104073879	0	live	LOC104073879	N327_00955	alpha-1-antitrypsin-like			Un							
+30455	Fulmarus glacialis	104073877	0	live	LOC104073877	N327_00956	alpha-1-antitrypsin-like			Un							
+9209	Phalacrocorax carbo	104053139	0	live	LOC104053139	N336_04429	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9209	Phalacrocorax carbo	104051789	0	live	LOC104051789	N336_08221	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9209	Phalacrocorax carbo	104046315	0	live	LOC104046315	N336_03476	alpha-1-antitrypsin-like			Un							
+36300	Pelecanus crispus	104031001	0	live	LOC104031001	N334_12108	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+36300	Pelecanus crispus	104028621	0	live	LOC104028621	N334_06797	alpha-1-antitrypsin-like			Un							
+128390	Nipponia nippon	104014800	0	live	LOC104014800	Y956_05070	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+128390	Nipponia nippon	104014799	0	live	LOC104014799	Y956_05068	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9238	Pygoscelis adeliae	103923938	0	live	LOC103923938	AS28_10540	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9233	Aptenodytes forsteri	103900303	0	live	LOC103900303	AS27_04573	alpha-1-antitrypsin-like	hypothetical protein		Un							
+9233	Aptenodytes forsteri	103900184	0	live	LOC103900184	AS27_04574	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9233	Aptenodytes forsteri	103900183	0	live	LOC103900183	AS27_04572	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+9135	Serinus canaria	103826888	0	live	LOC103826888		alpha-1-antitrypsin-like			Un							
+9135	Serinus canaria	103826452	0	live	LOC103826452		alpha-1-antitrypsin-like			Un							
+9135	Serinus canaria	103826450	0	live	LOC103826450		alpha-1-antitrypsin-like			Un							
+9135	Serinus canaria	103826449	0	live	LOC103826449		alpha-1-antitrypsin-like			Un							
+57068	Acanthisitta chloris	103809960	0	live	LOC103809960	N310_04938	alpha-1-antitrypsin-like			Un							
+57068	Acanthisitta chloris	103806488	0	live	LOC103806488	N310_08235	alpha-1-antitrypsin-like	hypothetical protein		Un							
+57068	Acanthisitta chloris	103806487	0	live	LOC103806487	N310_08234	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+57421	Merops nubicus	103770936	0	live	LOC103770936	N331_08113	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un							
+57421	Merops nubicus	103770935	0	live	LOC103770935	N331_08112	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+328815	Manacus vitellinus	103766534	0	live	LOC103766534	N305_01291	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+328815	Manacus vitellinus	103766533	0	live	LOC103766533	N305_01292	alpha-1-antitrypsin-like	hypothetical protein		Un							
+328815	Manacus vitellinus	103766531	0	live	LOC103766531	N305_01293	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+1026970	Nannospalax galili	103748548	0	live	LOC103748548		alpha-1-antitrypsin-like			Un							
+29073	Ursus maritimus	103669781	0	live	LOC103669781		alpha-1-antitrypsin-like			Un	NW_007907032.1	5696400	5700745	plus	4		
+85066	Corvus brachyrhynchos	103612135	0	live	LOC103612135	N302_00099	alpha-1-antitrypsin-like	Alpha-1-antitrypsin-like GS55-MS		Un	NW_008237222.1	5682487	5685696	minus	4		
+85066	Corvus brachyrhynchos	103612133	0	live	LOC103612133	N302_00097	alpha-1-antitrypsin-like	hypothetical protein		Un	NW_008237222.1	5651762	5657644	minus	5		
+9244	Calypte anna	103527758	0	live	LOC103527758	N300_00587	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un	NW_007618597.1	4079268	4082365	minus	4		
+8479	Chrysemys picta	103305921	0	live	LOC103305921		alpha-1-antitrypsin-like			Un	NW_007359910.1	7023694	7037225	minus	5		
+29078	Eptesicus fuscus	103302517	0	live	LOC103302517		alpha-1-antitrypsin-like			Un	NW_007370890.1	204777	209212	minus	4		
+9365	Erinaceus europaeus	103118859	0	live	LOC103118859		alpha-1-antitrypsin-like			Un	NW_006804339.1	1922575	1926518	plus	4		
+176946	Python bivittatus	103056874	0	live	LOC103056874		alpha-1-antitrypsin-like			Un	NW_006533408.1	164922	171670	minus	5		
+7994	Astyanax mexicanus	103033541	0	live	LOC103033541		alpha-1-antitrypsin homolog			Un							
+8469	Chelonia mydas	102931769	0	live	LOC102931769	UY3_10487	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un	NW_006642290.1	5175302	5183729	plus	5		
+8469	Chelonia mydas	102931543	0	live	LOC102931543	UY3_10486	alpha-1-antitrypsin-like	Alpha-1-antiproteinase		Un	NW_006642290.1	5155321	5163111	plus	4		
+28737	Elephantulus edwardii	102875569	0	live	LOC102875569		alpha-1-antitrypsin-like			Un	NW_006399752.1	40206157	40238387	plus	4		
+28737	Elephantulus edwardii	102875154	0	live	LOC102875154		alpha-1-antitrypsin-like			Un	NW_006399752.1	40188284	40194712	plus	4		
+28737	Elephantulus edwardii	102874350	0	live	LOC102874350		alpha-1-antitrypsin-like			Un	NW_006399752.1	40139390	40147707	plus	4		
+7918	Lepisosteus oculatus	102690581	0	live	LOC102690581		alpha-1-antitrypsin-like			LG2	NC_023180.1	34410451	34416563	minus	5		
+7918	Lepisosteus oculatus	102690176	0	live	LOC102690176		alpha-1-antitrypsin-like protein CM55-MS			LG2	NC_023180.1	34386769	34393330	minus	5		
+7918	Lepisosteus oculatus	102684797	0	live	LOC102684797		alpha-1-antitrypsin homolog			LG7	NC_023185.1	411158	416485	plus	5		
+8496	Alligator mississippiensis	102567485	0	live	LOC102567485	Y1Q_016097	alpha-1-antitrypsin-like protein CM55-MM	hypothetical protein		Un							
+8496	Alligator mississippiensis	102567291	0	live	LOC102567291	Y1Q_019051	alpha-1-antitrypsin-like	hypothetical protein		Un							
+8496	Alligator mississippiensis	102567070	0	live	LOC102567070		alpha-1-antitrypsin-like			Un							
+8496	Alligator mississippiensis	102566804	0	live	LOC102566804	Y1Q_016096	alpha-1-antitrypsin-like	hypothetical protein		Un							
+8496	Alligator mississippiensis	102566376	0	live	LOC102566376		alpha-1-antitrypsin-like			Un							
+8496	Alligator mississippiensis	102565901	0	live	LOC102565901	Y1Q_019050, SERPINA4	alpha-1-antitrypsin-like	serpin peptidase inhibitor, clade A, member 4		Un							
+13735	Pelodiscus sinensis	102457230	0	live	LOC102457230		alpha-1-antitrypsin-like			Un							
+13735	Pelodiscus sinensis	102456985	0	live	LOC102456985		alpha-1-antitrypsin-like			Un							
+13735	Pelodiscus sinensis	102456742	0	live	LOC102456742		alpha-1-antitrypsin-like			Un							
+13735	Pelodiscus sinensis	102456319	0	live	LOC102456319		alpha-1-antitrypsin-like			Un							
+13735	Pelodiscus sinensis	102443612	0	live	LOC102443612		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102375789	0	live	LOC102375789		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102371045	0	live	LOC102371045		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102370638	0	live	LOC102370638		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102370152	0	live	LOC102370152		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102369915	0	live	LOC102369915		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102369647	0	live	LOC102369647		alpha-1-antitrypsin-like protein CM55-MM			Un							
+181119	Pseudopodoces humilis	102112172	0	live	LOC102112172		alpha-1-antitrypsin-like			Un							
+44394	Zonotrichia albicollis	102068200	0	live	LOC102068200		alpha-1-antitrypsin-like			Un							
+44394	Zonotrichia albicollis	102067706	0	live	LOC102067706		alpha-1-antitrypsin-like			Un							
+44394	Zonotrichia albicollis	102067522	0	live	LOC102067522		alpha-1-antitrypsin-like			Un							
+345164	Falco cherrug	102055714	0	live	LOC102055714		alpha-1-antitrypsin-like			Un							
+345164	Falco cherrug	102055371	0	live	LOC102055371		alpha-1-antitrypsin-like			Un							
+48883	Geospiza fortis	102041207	0	live	LOC102041207		alpha-1-antitrypsin-like			Un							
+48883	Geospiza fortis	102041039	0	live	LOC102041039		alpha-1-antitrypsin-like			Un							
+48883	Geospiza fortis	102040760	0	live	LOC102040760		alpha-1-antitrypsin-like			Un							
+79684	Microtus ochrogaster	101989607	0	live	LOC101989607		alpha-1-antitrypsin-like			1	NC_022009.1	39493847	39506722	minus	6		
+8479	Chrysemys picta	101938951	0	live	LOC101938951		alpha-1-antitrypsin-like			Un	NW_007359910.1	7055630	7065267	minus	5		
+8479	Chrysemys picta	101933557	0	live	LOC101933557		alpha-1-antitrypsin-like			Un	NW_007359910.1	7095249	7110802	minus	5		
+8479	Chrysemys picta	101933271	0	live	LOC101933271		alpha-1-antitrypsin-like			Un	NW_007359910.1	7118009	7126854	minus	5		
+8479	Chrysemys picta	101933012	0	live	LOC101933012		alpha-1-antitrypsin-like			Un	NW_007359910.1	7148169	7153398	minus	4		
+8479	Chrysemys picta	101931719	0	live	LOC101931719		alpha-1-antitrypsin-like			Un	NW_007359910.1	7170321	7283667	minus	8		
+8954	Falco peregrinus	101916147	0	live	LOC101916147		alpha-1-antitrypsin-like			Un							
+13146	Melopsittacus undulatus	101876729	0	live	LOC101876729		alpha-1-antitrypsin-like			Un							
+13146	Melopsittacus undulatus	101868540	0	live	LOC101868540		alpha-1-antitrypsin-like			Un							
+8839	Anas platyrhynchos	101790996	0	live	LOC101790996	Anapl_03306	alpha-1-antitrypsin-like	Alpha-1-antiproteinase 2		Un							
+51337	Jaculus jaculus	101611323	0	live	LOC101611323		alpha-1-antitrypsin-like			Un							
+9361	Dasypus novemcinctus	101423918	0	live	LOC101423918		alpha-1-antitrypsin-like			Un							
+9739	Tursiops truncatus	101329058	0	live	LOC101329058		alpha-1-antitrypsin-like			Un	NW_004201704.1	102557	114137	plus	6		
+31033	Takifugu rubripes	101073758	0	live	LOC101073758		alpha-1-antitrypsin homolog			16	NC_018905.1	2228305	2230283	plus	5		
+28377	Anolis carolinensis	100564098	0	live	LOC100564098		alpha-1-antitrypsin-like			1	NC_014776.1	6509435	6516308	minus	4		
+28377	Anolis carolinensis	100563900	0	live	LOC100563900		alpha-1-antitrypsin-like			1	NC_014776.1	6492108	6496542	minus	4		
+28377	Anolis carolinensis	100563120	0	live	LOC100563120		alpha-1-antitrypsin-like			1	NC_014776.1	6413714	6420607	minus	4		
+28377	Anolis carolinensis	100562920	0	live	LOC100562920		alpha-1-antitrypsin-like			1	NC_014776.1	6355246	6364969	minus	6		
+28377	Anolis carolinensis	100560417	0	live	LOC100560417		alpha-1-antitrypsin-like			1	NC_014776.1	6446027	6455213	minus	5		
+28377	Anolis carolinensis	100560217	0	live	LOC100560217		alpha-1-antitrypsin-like			1	NC_014776.1	6424948	6431253	minus	5		
+9103	Meleagris gallopavo	100544713	0	live	LOC100544713		alpha-1-antitrypsin-like			5	NC_015015.2	44736656	44742168	minus	5		
+9103	Meleagris gallopavo	100542224	0	live	LOC100542224		alpha-1-antitrypsin-like			5	NC_015015.2	44763799	44768953	minus	5		
+9103	Meleagris gallopavo	100542070	0	live	LOC100542070		alpha-1-antitrypsin-like			5	NC_015015.2	44744955	44753154	minus	5		
+59729	Taeniopygia guttata	100228673	0	live	LOC100228673		alpha-1-antitrypsin-like			5	NC_011469.1	46538220	46547572	minus	5		
+59729	Taeniopygia guttata	100225789	0	live	LOC100225789		alpha-1-antitrypsin-like			5	NC_011469.1	46565870	46571875	minus	5		
+59729	Taeniopygia guttata	100220049	0	live	LOC100220049		alpha-1-antitrypsin-like			5	NC_011469.1	46599895	46604639	minus	6		
+9258	Ornithorhynchus anatinus	100087033	0	live	LOC100087033		alpha-1-antitrypsin-like protein GS55-MS			Un	NW_001739179.1	3514	6946	minus	3		
+9796	Equus caballus	100065068	0	live	LOC100065068	Spi2-10, Spi2-11, Spi2-12, Spi2-13, Spi2-8, Spi2-9	alpha-1-antiproteinase 2-like	alpha-1-antitrypsin		24	NC_009167.2	37035220	37044673	minus	5		
+10141	Cavia porcellus	100379266	0	live	Apf		alpha-1-antiproteinase F	alpha-1-antitrypsin|alpha-1-proteinase inhibitor		Un							
+10141	Cavia porcellus	100379265	0	live	Sh2b2	Aps	SH2B adaptor protein 2	alpha-1-antitrypsin|alpha-1-proteinase inhibitor		Un							
+9483	Callithrix jacchus	100388369	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1-antitrypsin precursor-like protein		10	NC_013905.1	120002462	120015175	minus	6		
+225400	Myotis davidii	102766940	0	live	SERPINA1	MDA_GLEAN10008164	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1-antitrypsin		Un							
+419612	Camelus ferus	102506231	0	live	SERPINA1	CB1_000726084	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1-antitrypsin precursor-like protein		Un							
+246437	Tupaia chinensis	102495980	0	live	SERPINA1	TREES_T100005837	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1-antitrypsin		Un							
+55661	Cuculus canorus	104057805	0	live	LOC104057805	N303_15534	uncharacterized LOC104057805	Alpha-1-antiproteinase 2|Alpha-1-antitrypsin		Un							
+9238	Pygoscelis adeliae	103923949	0	live	LOC103923949	AS28_10541	alpha-1-antiproteinase-like	Alpha-1-antitrypsin-like GS55-MS		Un							
+6185	Schistosoma haematobium	24593540	0	live	MS3_06130	MS3_06130	Alpha-1-antitrypsin 1-4			Unknown							
+10116	Rattus norvegicus	690319	0	live	LOC690319		similar to Alpha-1-antitrypsin-related protein precursor		6q32	6	NC_005105.4	127590734	127600821	minus	5		
+10116	Rattus norvegicus	690311	0	live	LOC690311		similar to Alpha-1-antitrypsin-related protein precursor		6q32	6	NC_005105.4	127569502	127582204	minus	5		
+215358	Larimichthys crocea	104932753	0	live	LOC104932753	EH28_09619	alpha-1-antitrypsin homolog	Alpha-1-antitrypsin		Un							
+225400	Myotis davidii	102767222	0	live	LOC102767222	MDA_GLEAN10008163	alpha-1-antitrypsin			Un							
+59463	Myotis lucifugus	102440783	0	live	LOC102440783	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+43179	Ictidomys tridecemlineatus	101976399	0	live	LOC101976399	Serpina1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+10160	Octodon degus	101568174	0	live	LOC101568174	Serpina1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+9978	Ochotona princeps	101525593	0	live	LOC101525593	SERPINA1	alpha-1-antitrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		Un							
+93934	Coturnix japonica	107315246	0	live	LOC107315246		alpha-1-antitrypsin-like			5	NC_029520.1	41349869	41373167	minus	4		
+93934	Coturnix japonica	107315244	0	live	LOC107315244		alpha-1-antitrypsin-like			5	NC_029520.1	41317509	41322597	minus	6		
+93934	Coturnix japonica	107315245	0	live	LOC107315245		alpha-1-antitrypsin-like			5	NC_029520.1	41324659	41337533	minus	6		
+93934	Coturnix japonica	107315243	0	live	LOC107315243		alpha-1-antitrypsin-like			5	NC_029520.1	41339087	41347210	minus	8		
+9544	Macaca mulatta	701220	0	live	LOC701220	SERPINA2	putative alpha-1-antitrypsin-related protein			7	NC_027899.1	156619462	156624453	minus	4		
+103944	Protobothrops mucrosquamatus	107302069	0	live	LOC107302069		alpha-1-antitrypsin-like			Un							
+103944	Protobothrops mucrosquamatus	107301543	0	live	LOC107301543		alpha-1-antitrypsin-like			Un							
+9157	Parus major	107205503	0	live	LOC107205503		alpha-1-antitrypsin-like			5	NC_029274.1	47139602	47145698	minus	5		
+9157	Parus major	107205501	0	live	LOC107205501		alpha-1-antitrypsin-like			5	NC_029274.1	47151256	47157546	minus	5		
+9157	Parus major	107205500	0	live	LOC107205500		alpha-1-antitrypsin-like			5	NC_029274.1	47168021	47173368	minus	5		
+143948	Diuraphis noxia	107166783	0	live	LOC107166783		alpha-1-antitrypsin-like protein GS55-MS			Un							
+9994	Marmota marmota marmota	107144704	0	live	LOC107144704		putative alpha-1-antitrypsin-related protein			Un							
+9994	Marmota marmota marmota	107144696	0	live	LOC107144696		alpha-1-antitrypsin-like protein GS55-MS			Un							
+9994	Marmota marmota marmota	107135269	0	live	LOC107135269		alpha-1-antitrypsin-like protein GS55-MS			Un							
+9994	Marmota marmota marmota	107135032	0	live	LOC107135032		alpha-1-antitrypsin-like protein GS55-LT			Un							
+9994	Marmota marmota marmota	107134779	0	live	LOC107134779		alpha-1-antitrypsin-like protein GS55-LT			Un							
+146911	Gekko japonicus	107111313	0	live	LOC107111313		alpha-1-antitrypsin-like			Un							
+28743	Cyprinodon variegatus	107097361	0	live	LOC107097361		alpha-1-antitrypsin homolog			Un							
+28743	Cyprinodon variegatus	107081198	0	live	LOC107081198		alpha-1-antitrypsin homolog			Un							
+48699	Poecilia latipinna	106947497	0	live	LOC106947497		alpha-1-antitrypsin homolog			Un							
+48701	Poecilia mexicana	106921719	0	live	LOC106921719		alpha-1-antitrypsin homolog			Un							
+7493	Trichogramma pretiosum	106658311	0	live	LOC106658311		alpha-1-antitrypsin homolog			Un							
+29053	Copidosoma floridanum	106637624	0	live	LOC106637624		alpha-1-antitrypsin homolog			Un							
+8030	Salmo salar	106585699	0	live	LOC106585699		alpha-1-antitrypsin-like			ssa24	NC_027323.1	30486034	30493475	minus	6		
+35019	Thamnophis sirtalis	106552215	0	live	LOC106552215		alpha-1-antitrypsin-like			Un							
+35019	Thamnophis sirtalis	106551985	0	live	LOC106551985		alpha-1-antitrypsin-like			Un							
+35019	Thamnophis sirtalis	106551983	0	live	LOC106551983		alpha-1-antitrypsin-like			Un							
+52670	Austrofundulus limnaeus	106520101	0	live	LOC106520101		alpha-1-antitrypsin homolog			Un							
+52670	Austrofundulus limnaeus	106513824	0	live	LOC106513824		alpha-1-antitrypsin homolog			Un							
+202946	Apteryx australis mantelli	106483079	0	live	LOC106483079		alpha-1-antitrypsin-like			Un							
+303518	Pundamilia nyererei	106455919	0	live	LOC106455919		alpha-1-antitrypsin homolog			Un							
+8128	Oreochromis niloticus	106097902	0	live	LOC106097902		alpha-1-antitrypsin homolog			LG15	NC_022213.1	25427722	25432799	minus	6		
+10020	Dipodomys ordii	106002538	0	live	LOC106002538		alpha-1-antitrypsin-like			Un							
+10020	Dipodomys ordii	105984484	0	live	LOC105984484		alpha-1-antitrypsin-like			Un							
+8078	Fundulus heteroclitus	105936996	0	live	LOC105936996		alpha-1-antitrypsin homolog	serine/cysteine proteinase inhibitor		Un							
+7950	Clupea harengus	105892974	0	live	LOC105892974		alpha-1-antitrypsin homolog			Un							
+7950	Clupea harengus	105892961	0	live	LOC105892961		alpha-1-antitrypsin homolog			Un							
+7950	Clupea harengus	105892960	0	live	LOC105892960		alpha-1-antitrypsin homolog			Un							
+30608	Microcebus murinus	105856778	0	live	LOC105856778		alpha-1-antitrypsin-like			Un							
+379532	Propithecus coquereli	105819036	0	live	LOC105819036		alpha-1-antitrypsin-like			Un							
+9531	Cercocebus atys	105596622	0	live	LOC105596622		putative alpha-1-antitrypsin-related protein			Un							
+9568	Mandrillus leucophaeus	105547925	0	live	LOC105547925		putative alpha-1-antitrypsin-related protein			Un							
+336983	Colobus angolensis palliatus	105518509	0	live	LOC105518509		putative alpha-1-antitrypsin-related protein			Un							
+9545	Macaca nemestrina	105467497	0	live	LOC105467497		putative alpha-1-antitrypsin-related protein			Un							
+8208	Notothenia coriiceps	104958581	0	live	LOC104958581		alpha-1-antitrypsin homolog			Un							
+61622	Rhinopithecus roxellana	104679069	0	live	LOC104679069		putative alpha-1-antitrypsin-related protein			Un							
+94827	Tinamus guttatus	104579626	0	live	LOC104579626		alpha-1-antitrypsin-like			Un							
+8969	Haliaeetus albicilla	104322859	0	live	LOC104322859		alpha-1-antitrypsin-like			Un							
+441894	Struthio camelus australis	104153757	0	live	LOC104153757	N308_06909	alpha-1-antitrypsin-like	Plasma serine protease inhibitor		Un							
+7955	Danio rerio	103911083	0	live	LOC103911083		alpha-1-antitrypsin homolog			5	NC_007116.6	28224468	28248388	plus	3		
+7955	Danio rerio	103911082	0	live	LOC103911082		alpha-1-antitrypsin homolog			5	NC_007116.6	28224911	28225471	plus	2		
+1026970	Nannospalax galili	103748556	0	live	LOC103748556		putative alpha-1-antitrypsin-related protein			Un							
+1026970	Nannospalax galili	103748555	0	live	LOC103748555		alpha-1-antitrypsin-like			Un							
+29073	Ursus maritimus	103673713	0	live	LOC103673713		alpha-1-antitrypsin-like			Un	NW_007907032.1	5711376	5713276	plus	2		
+9244	Calypte anna	103527748	0	live	LOC103527748		alpha-1-antitrypsin-like			Un	NW_007618597.1	4058387	4076900	minus	6		
+8081	Poecilia reticulata	103457796	0	live	LOC103457796		alpha-1-antitrypsin homolog			LG21	NC_024351.1	20426120	20428745	minus	5		
+244447	Cynoglossus semilaevis	103398029	0	live	LOC103398029		alpha-1-antitrypsin-like protein CM55-ST			Z	NC_024328.1	14675262	14678810	minus	7		
+244447	Cynoglossus semilaevis	103380731	0	live	LOC103380731		alpha-1-antitrypsin homolog			7	NC_024313.1	3082344	3084754	plus	5		
+144197	Stegastes partitus	103367617	0	live	LOC103367617		alpha-1-antitrypsin homolog			Un	NW_007578803.1	51933	56100	plus	7		
+144197	Stegastes partitus	103361337	0	live	LOC103361337		alpha-1-antitrypsin homolog			Un	NW_007578229.1	65613	69160	minus	6		
+144197	Stegastes partitus	103361325	0	live	LOC103361325		alpha-1-antitrypsin homolog			Un	NW_007578229.1	71750	74255	minus	5		
+9986	Oryctolagus cuniculus	103345931	0	live	LOC103345931		alpha-1-antitrypsin-like			Un	NW_003159509.1	352367	361386	minus	3		
+29078	Eptesicus fuscus	103302516	0	live	LOC103302516		alpha-1-antitrypsin-like			Un	NW_007370890.1	189710	194647	minus	4		
+60711	Chlorocebus sabaeus	103229611	0	live	LOC103229611		putative alpha-1-antitrypsin-related protein			24	NC_023665.1	72140258	72148478	minus	5		
+10029	Cricetulus griseus	103158570	0	live	LOC103158570		alpha-1-antitrypsin 1-6-like			Un	NW_003614700.1	398170	402595	minus	4		
+48698	Poecilia formosa	103149677	0	live	LOC103149677		alpha-1-antitrypsin homolog			Un	NW_006800172.1	927240	929677	minus	5		
+9365	Erinaceus europaeus	103128406	0	live	LOC103128406		alpha-1-antitrypsin-like			Un	NW_006808034.1	4	646	plus	2		
+9365	Erinaceus europaeus	103118892	0	live	LOC103118892		alpha-1-antitrypsin-like protein CM55-MS			Un	NW_006804339.1	1932560	1935944	plus	3		
+13616	Monodelphis domestica	103094055	0	live	LOC103094055		alpha-1-antitrypsin homolog			4	NC_008804.1	150232907	150234592	minus	2		
+7994	Astyanax mexicanus	103041583	0	live	LOC103041583		alpha-1-antitrypsin homolog			Un							
+7994	Astyanax mexicanus	103022745	0	live	LOC103022745		alpha-1-antitrypsin-like protein CM55-ST			Un							
+32507	Neolamprologus brichardi	102797598	0	live	LOC102797598		alpha-1-antitrypsin-like protein CM55-MS-like			Un	NW_006272149.1	249473	252760	plus	6		
+32507	Neolamprologus brichardi	102789805	0	live	LOC102789805		alpha-1-antitrypsin homolog			Un	NW_006272027.1	768124	769176	plus	2		
+32507	Neolamprologus brichardi	102776590	0	live	LOC102776590		alpha-1-antitrypsin homolog			Un	NW_006272027.1	760693	762776	plus	5		
+8496	Alligator mississippiensis	102567032	0	live	LOC102567032	Y1Q_016094	alpha-1-antitrypsin-like	hypothetical protein		Un							
+246437	Tupaia chinensis	102479883	0	live	LOC102479883		putative alpha-1-antitrypsin-related protein			Un							
+246437	Tupaia chinensis	102475074	0	live	LOC102475074	TREES_T100005838	putative alpha-1-antitrypsin-related protein			Un							
+13735	Pelodiscus sinensis	102443854	0	live	LOC102443854		alpha-1-antitrypsin-like protein GS55-MS			Un							
+13735	Pelodiscus sinensis	102443359	0	live	LOC102443359		alpha-1-antitrypsin-like			Un							
+8153	Haplochromis burtoni	102289849	0	live	LOC102289849		alpha-1-antitrypsin homolog			Un							
+8153	Haplochromis burtoni	102289563	0	live	LOC102289563		alpha-1-antitrypsin homolog			Un							
+109478	Myotis brandtii	102238925	0	live	LOC102238925		alpha-1-antitrypsin-like			Un							
+8083	Xiphophorus maculatus	102221872	0	live	LOC102221872		alpha-1-antitrypsin homolog			Un							
+303518	Pundamilia nyererei	102206236	0	live	LOC102206236		alpha-1-antitrypsin homolog			Un							
+303518	Pundamilia nyererei	102205952	0	live	LOC102205952		alpha-1-antitrypsin homolog			Un							
+9541	Macaca fascicularis	102136648	0	live	LOC102136648	SERPINA2P	putative alpha-1-antitrypsin-related protein	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 2, pseudogene		7	NC_022278.1	159411527	159420089	minus	5		
+34839	Chinchilla lanigera	102012583	0	live	LOC102012583		putative alpha-1-antitrypsin-related protein			Un							
+79684	Microtus ochrogaster	101989317	0	live	LOC101989317		alpha-1-antitrypsin-like			1	NC_022009.1	39419357	39428827	minus	5		
+43179	Ictidomys tridecemlineatus	101976685	0	live	LOC101976685		alpha-1-antitrypsin-like protein GS55-LT			Un							
+43179	Ictidomys tridecemlineatus	101959979	0	live	LOC101959979		alpha-1-antitrypsin-like protein GS55-MS			Un							
+6500	Aplysia californica	101853729	0	live	LOC101853729		alpha-1-antitrypsin-like			Un							
+10036	Mesocricetus auratus	101837937	0	live	LOC101837937		alpha-1-antitrypsin-like protein GS55-MS			Un							
+10036	Mesocricetus auratus	101837671	0	live	LOC101837671		alpha-1-antitrypsin 1-6-like			Un							
+10036	Mesocricetus auratus	101837407	0	live	LOC101837407		alpha-1-antitrypsin-like			Un							
+10036	Mesocricetus auratus	101837132	0	live	LOC101837132		alpha-1-antitrypsin-like			Un							
+10181	Heterocephalus glaber	101708823	0	live	LOC101708823		putative alpha-1-antitrypsin-related protein			Un							
+143302	Condylura cristata	101629460	0	live	LOC101629460		alpha-1-antitrypsin-like			Un							
+143302	Condylura cristata	101629234	0	live	LOC101629234		alpha-1-antitrypsin-like			Un							
+51337	Jaculus jaculus	101615284	0	live	LOC101615284		alpha-1-antitrypsin-like			Un							
+106582	Maylandia zebra	101466770	0	live	LOC101466770		alpha-1-antitrypsin homolog			Un							
+106582	Maylandia zebra	101466493	0	live	LOC101466493		alpha-1-antitrypsin homolog			Un							
+73337	Ceratotherium simum simum	101406053	0	live	LOC101406053		alpha-1-antitrypsin-like			Un							
+9708	Odobenus rosmarus divergens	101373206	0	live	LOC101373206		putative alpha-1-antitrypsin-related protein			Un							
+9733	Orcinus orca	101269662	0	live	LOC101269662		alpha-1-antitrypsin-like			Un							
+8090	Oryzias latipes	101158815	0	live	LOC101158815		alpha-1-antitrypsin homolog			24	NC_019882.1	12703941	12706003	minus	5		
+9593	Gorilla gorilla	101154167	0	live	LOC101154167		putative alpha-1-antitrypsin-related protein-like			14	NC_018438.1	76177519	76182264	minus	3		
+31033	Takifugu rubripes	101076095	0	live	LOC101076095		alpha-1-antitrypsin-like protein CM55-MS			Un							
+31033	Takifugu rubripes	101075645	0	live	LOC101075645		alpha-1-antitrypsin homolog			Un							
+31033	Takifugu rubripes	101063850	0	live	LOC101063850		alpha-1-antitrypsin homolog			Un							
+31033	Takifugu rubripes	101063034	0	live	LOC101063034		alpha-1-antitrypsin-like protein CM55-MS			Un							
+27679	Saimiri boliviensis	101054388	0	live	LOC101054388		putative alpha-1-antitrypsin-related protein			Un							
+9555	Papio anubis	101002601	0	live	LOC101002601		putative alpha-1-antitrypsin-related protein			7	NC_018158.1	150508722	150513782	minus	4		
+9601	Pongo abelii	100937118	0	live	LOC100937118		putative alpha-1-antitrypsin-related protein			14	NC_012605.1	95719389	95724473	minus	4		
+10141	Cavia porcellus	100721110	0	live	LOC100721110		putative alpha-1-antitrypsin-related protein			Un							
+10141	Cavia porcellus	100720020	0	live	LOC100720020		putative alpha-1-antitrypsin-related protein			Un							
+10141	Cavia porcellus	100714351	0	live	LOC100714351		putative alpha-1-antitrypsin-related protein			Un							
+8128	Oreochromis niloticus	100706723	0	live	LOC100706723		alpha-1-antitrypsin homolog			LG15	NC_022213.1	25433650	25435927	minus	5		
+8128	Oreochromis niloticus	100706454	0	live	LOC100706454		alpha-1-antitrypsin homolog			LG15	NC_022213.1	25409485	25417895	minus	9		
+9823	Sus scrofa	100621494	0	live	LOC100621494		alpha-1-antitrypsin-like			7	NC_010449.4	122597177	122614557	minus	5		
+28377	Anolis carolinensis	100560613	0	live	LOC100560613		alpha-1-antitrypsin-like			1	NC_014776.1	6530286	6585983	minus	6		
+9646	Ailuropoda melanoleuca	100480426	0	live	LOC100480426	PANDA_009255	alpha-1-antitrypsin 1-1-like	hypothetical protein		Un							
+9483	Callithrix jacchus	100404462	0	live	LOC100404462		putative alpha-1-antitrypsin-related protein			1	NC_013896.1	23789101	23790704	minus	2		
+9483	Callithrix jacchus	100388006	0	live	LOC100388006		putative alpha-1-antitrypsin-related protein			10	NC_013905.1	119987408	119993744	minus	3		
+9986	Oryctolagus cuniculus	100358746	0	live	LOC100358746		putative alpha-1-antitrypsin-related protein			Un	NW_003159509.1	488352	495340	plus	5		
+9986	Oryctolagus cuniculus	100358486	0	live	LOC100358486		putative alpha-1-antitrypsin-related protein			Un	NW_003159509.1	335984	343627	minus	5		
+9986	Oryctolagus cuniculus	100358221	0	live	LOC100358221		putative alpha-1-antitrypsin-related protein			Un	NW_003159509.1	316707	327944	minus	5		
+9986	Oryctolagus cuniculus	100346690	0	live	LOC100346690		alpha-1-antitrypsin-like			Un	NW_003161350.1	2197	9252	plus	5		
+7868	Callorhinchus milii	103185420	0	live	serpina10		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10	alpha-1-antitrypsin|protein Z-dependent protease inhibitor		Un	NW_006890167.1	2310049	2325929	minus	9		
+103944	Protobothrops mucrosquamatus	107300764	0	live	LOC107300764		alpha-1-antitrypsin pseudogene			Un							
+7994	Astyanax mexicanus	107197708	0	live	LOC107197708		alpha-1-antitrypsin homolog			Un							
+146911	Gekko japonicus	107125071	0	live	LOC107125071		alpha-1-antitrypsin-like			Un							
+52670	Austrofundulus limnaeus	106524056	0	live	LOC106524056		alpha-1-antitrypsin homolog			Un							
+202946	Apteryx australis mantelli	106483078	0	live	LOC106483078		alpha-1-antitrypsin-like			Un							
+64838	Fopius arisanus	105273582	0	live	LOC105273582	ALMS_0, ALMS_1	leukocyte elastase inhibitor-like	Alpha-1-antitrypsin-like protein GS55-MS		Un							
+9103	Meleagris gallopavo	104911228	0	live	LOC104911228		alpha-1-antitrypsin-like			5	NC_015015.2	44778116	44783245	minus	0		
+885580	Fukomys damarensis	104856813	0	live	LOC104856813	H920_20368	alpha-1-antiproteinase 2-like	Putative alpha-1-antitrypsin-related protein		Un							
+97097	Phaethon lepturus	104628163	0	live	LOC104628163		alpha-1-antitrypsin-like			Un							
+57412	Colius striatus	104561410	0	live	LOC104561410		alpha-1-antitrypsin-like			Un							
+279965	Caprimulgus carolinensis	104521396	0	live	LOC104521396		alpha-1-antitrypsin-like			Un							
+175836	Buceros rhinoceros silvestris	104494335	0	live	LOC104494335		alpha-1-antitrypsin-like			Un							
+176057	Nestor notabilis	104403764	0	live	LOC104403764		alpha-1-antitrypsin-like			Un							
+121530	Tauraco erythrolophus	104382437	0	live	LOC104382437		alpha-1-antitrypsin-like			Un							
+56313	Tyto alba	104364512	0	live	LOC104364512		alpha-1-antitrypsin-like			Un							
+30419	Opisthocomus hoazin	104331552	0	live	LOC104331552		alpha-1-antitrypsin-like			Un							
+57397	Apaloderma vittatum	104272203	0	live	LOC104272203		alpha-1-antitrypsin-like			Un							
+54380	Cariama cristata	104157413	0	live	LOC104157413		alpha-1-antitrypsin-like			Un							
+188379	Egretta garzetta	104127800	0	live	LOC104127800		alpha-1-antitrypsin-like protein GS55-MS			Un							
+188379	Egretta garzetta	104127799	0	live	LOC104127799		alpha-1-antitrypsin-like			Un							
+30455	Fulmarus glacialis	104073878	0	live	LOC104073878		alpha-1-antitrypsin-like			Un							
+128390	Nipponia nippon	104014825	0	live	LOC104014825		alpha-1-antitrypsin-like			Un							
+7994	Astyanax mexicanus	103041885	0	live	LOC103041885		alpha-1-antitrypsin homolog			Un							
+8496	Alligator mississippiensis	102567525	0	live	LOC102567525		alpha-1-antitrypsin-like			Un							
+38654	Alligator sinensis	102375293	0	live	LOC102375293		alpha-1-antitrypsin-like			Un							
+8153	Haplochromis burtoni	102312254	0	live	LOC102312254		alpha-1-antitrypsin homolog			Un							
+8932	Columba livia	102091201	0	live	LOC102091201		alpha-1-antitrypsin-like			Un							
+13146	Melopsittacus undulatus	101868371	0	live	LOC101868371		alpha-1-antitrypsin-like			Un							
+9739	Tursiops truncatus	101330421	0	live	LOC101330421		alpha-1-antitrypsin-like			Un	NW_004201704.1	122579	126901	plus	0		
+9606	Homo sapiens	145264	0	live	SERPINA12	OL-64	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12|vaspin|visceral adipose tissue-derived serine protease inhibitor|visceral adipose-specific SERPIN	14q32.13	14	NC_000014.9	94481651	94517844	minus	10		
+9606	Homo sapiens	6906	0	live	SERPINA7	TBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7|serpin A7|thyroxin-binding globulin	Xq22.2	X	NC_000023.11	106033199	106038727	minus	5	314200	
+9606	Homo sapiens	5267	0	live	SERPINA4	KAL, KLST, KST, PI-4, PI4, kallistatin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	kallikrein inhibitor|peptidase inhibitor 4|protease inhibitor 4 (kallistatin)|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4|serpin A4	14q32.13	14	NC_000014.9	94561420	94569913	plus	5	147935	
+9606	Homo sapiens	12	0	live	SERPINA3	AACT, ACT, GIG24, GIG25	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	cell growth-inhibiting gene 24/25 protein|growth-inhibiting protein 24|growth-inhibiting protein 25|serine (or cysteine) proteinase inhibitor, clade A, member 3|serpin A3	14q32.1	14	NC_000014.9	94612377	94624053	plus	5	107280	
+10116	Rattus norvegicus	81806	0	live	Serpina7	Tbg	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antipeptidase, antitrypsin), member 7|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7|serine (or cysteine) proteinase inhibitor clade A (alpha-1 antiproteinase antitrypsin) member 7|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7|serpin A7	Xq35	X	NC_005120.4	110226353	110232201	minus	6		
+10116	Rattus norvegicus	24794	0	live	Serpina3c	CPi-21, GHR-P63, Kbp, Klkbp, SPI-2, SPI-2.3, SPI2, Serpina3k, Spin2, Spin2b	serine (or cysteine) proteinase inhibitor, clade A, member 3C	contrapsin-like protease inhibitor 1|growth hormone-regulated proteinase inhibitor|kallikrein-binding protein|kallistatin|serine (or cysteine) peptidase inhibitor, clade A, member 3K|serine protease inhibitor 2|serine protease inhibitor 2b|serpin A3K|thyroid hormone-regulated protein	6q32	6	NC_005105.4	127996162	128003435	minus	5		
+10090	Mus musculus	20701	0	live	Serpina1b	D12Ucla2, Dom2, PI2, Spi1-2	serine (or cysteine) preptidase inhibitor, clade A, member 1B	AAT|alpha-1 protease inhibitor 2|alpha-1-antiproteinase|serine (or cysteine) proteinase inhibitor, clade A, member 1b|serine protease inhibitor 1-2|serine protease inhibitor A1b|serpin A1b	12 52.98 cM	12	NC_000078.6	103728156	103738189	minus	5		
+10090	Mus musculus	268591	0	live	Serpina5	4933415L04, PAI-3, Pci	serine (or cysteine) peptidase inhibitor, clade A, member 5	PAI3|alpha-1 antiproteinase|antitrypsin|plasminogen activator inhibitor 3|plasminogen activator inhibitor-3|protein C inhibitor|serine (or cysteine) proteinase inhibitor, clade A, member 5|serpin A5	12 F1	12	NC_000078.6	104099313	104106138	plus	6		
+9606	Homo sapiens	327657	0	live	SERPINA9	GCET1, SERPINA11, SERPINA11b	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	centerin|germinal center B-cell-expressed transcript 1 protein|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9|serine proteinase inhibitor A11	14q32.13	14	NC_000014.9	94462721	94476333	minus	7	615677	
+10090	Mus musculus	20716	0	live	Serpina3n	Spi2-2, Spi2.2, Spi2/eb.4	serine (or cysteine) peptidase inhibitor, clade A, member 3N	alpha-1 antiproteinase|antitrypsin|serine (or cysteine) proteinase inhibitor, clade A, member 3N|serine protease inhibitor 2-2|serpin A3N	12 F1	12	NC_000078.6	104406675	104414334	plus	6		
+10090	Mus musculus	16625	0	live	Serpina3c	1A1, Kalbp, Klkbp, spi2	serine (or cysteine) peptidase inhibitor, clade A, member 3C	KBP|alpha-1 antiproteinase|kallikrein binding protein|kallikrein-binding protein|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3C|serine (or cysteine) proteinase inhibitor, clade A, member 3C|serpin A3C	12 E	12	NC_000078.6	104146907	104153933	minus	6		
+10090	Mus musculus	20704	0	live	Serpina1e	Dom5, PI5, Spi1-5	serine (or cysteine) peptidase inhibitor, clade A, member 1E	alpha-1 protease inhibitor 5|serine (or cysteine) proteinase inhibitor, clade A, member 1e|serine protease inhibitor 1-5|serine protease inhibitor A1e|serpin A1e	12 E	12	NC_000078.6	103946931	103956897	minus	5		
+9913	Bos taurus	497203	0	live	SERPINA3-7		endopin 2	alpha1-antichymotrypsin		21	AC_000178.1	60956870	60964953	plus	5		
+10090	Mus musculus	20703	0	live	Serpina1d	AI118301, Dom4, PI4, Spi1-4	serine (or cysteine) peptidase inhibitor, clade A, member 1D	alpha-1 protease inhibitor 4|serine (or cysteine) proteinase inhibitor, clade A, member 1d|serine protease inhibitor 1-4|serine protease inhibitor A1d|serpin A1d	12 52.98 cM	12	NC_000078.6	103763587	103773633	minus	5		
+9823	Sus scrofa	396736	0	live	SERPINA6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	corticosteroid binding globulin|serpin A6|transcortin	7	7	NC_010449.4	122544744	122563955	minus	6		
+10090	Mus musculus	238393	0	live	Serpina3f	2A1, BC049975	serine (or cysteine) peptidase inhibitor, clade A, member 3F	alpha-1 antiproteinasin|antitrypsin|serpin A3F	12 E	12	NC_000078.6	104214544	104221129	plus	7		
+10090	Mus musculus	71907	0	live	Serpina9	2310014L03Rik, AW049635, Centerin	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	12 E	12	NC_000078.6	103996613	104013776	minus	7		
+10116	Rattus norvegicus	65051	0	live	Serpina5	Pci	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	protein C inhibitor|serine (or cysteine) peptidase inhibitor, clade A, member 5|serpin peptidase inhibitor, clade A, member 5	6q32	6	NC_005105.4	127753143	127772403	plus	8		
+9913	Bos taurus	615103	0	live	SERPINA3-3	SERPINA3-4	endopin 1b	SERPINA3-4|Serpin A3-4|endopin-1B|mEndopin-1B|muscle endopin-1B		21	AC_000178.1	60927758	60935160	plus	6		
+10090	Mus musculus	331535	0	live	Serpina7	C730040N12Rik, Tbg	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antipeptidase, antitrypsin), member 7|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7|serpin A7	X F1	X	NC_000086.7	139079245	139085270	minus	6		
+9615	Canis lupus familiaris	480422	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			8	NC_006590.3	63388498	63400237	minus	6		
+10090	Mus musculus	628900	0	live	Serpina3i	2B2, EG628900, Gm6930	serine (or cysteine) peptidase inhibitor, clade A, member 3I	alpha-1 antiproteinase|antitrypsin|serine (or cysteine) proteinase inhibitor, clade A, member 3I	12 E	12	NC_000078.6	104263045	104269365	plus	6		
+9823	Sus scrofa	397688	0	live	SERPINA1	PI	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1 protease inhibitor|alpha-1-antiproteinase|serpin A1	7q24-q26	7	NC_010449.4	122616080	122628726	minus	7		
+7955	Danio rerio	322701	0	live	serpina1	wu:fb61c07, wu:fb71a09, zgc:153807, zgc:158145	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		20	NC_007131.6	10556871	10560175	plus	5		
+10116	Rattus norvegicus	362774	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Ab1-046|liver regeneration-related protein LRRG023|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11|serpin peptidase inhibitor, clade A, member 11	6q32	6	NC_005105.4	127647180	127656603	minus	6		
+9913	Bos taurus	282518	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7|serine (or cysteine) proteinase inhibitor, clade A, member 7|serpin A7		X	AC_000187.1	53581375	53588116	minus	5		
+9544	Macaca mulatta	701361	0	live	SERPINA1	EGK_18500	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			7	NC_027899.1	156619488	156648453	minus	7		
+9598	Pan troglodytes	467541	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1		14	NC_006481.3	93962195	93974519	minus	8		
+10036	Mesocricetus auratus	101841330	0	live	Serpina1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1 protease inhibitor|alpha-1-antiproteinase		Un							
+9601	Pongo abelii	100171544	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	alpha-1 protease inhibitor|alpha-1-antiproteinase|serpin A1		14	NC_012605.1	95734507	95748915	minus	7		
+9606	Homo sapiens	5104	0	live	SERPINA5	PAI-3, PAI3, PCI, PCI-B, PLANH3, PROCI	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	acrosomal serine protease inhibitor|plasminogen activator inhibitor III|plasminogen activator inhibitor-3|protein C inhibitor|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	14q32.1	14	NC_000014.9	94581369	94593120	plus	6	601841	
+9913	Bos taurus	513746	0	live	SERPINA6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin|Serpin A6|Transcortin		21	AC_000178.1	59517403	59541532	minus	5		
+10116	Rattus norvegicus	299274	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9|serpin peptidase inhibitor, clade A, member 9	6q32	6	NC_005105.4	127662365	127680232	minus	6		
+10116	Rattus norvegicus	100909605	0	live	LOC100909605		serine protease inhibitor A3F-like			6	NC_005105.4	129052483	129058971	plus	5		
+9606	Homo sapiens	866	0	live	SERPINA6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	corticosteroid binding globulin|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6|serpin A6|transcortin	14q32.1	14	NC_000014.9	94304248	94323351	minus	5	122500	
+8364	Xenopus tropicalis	100145012	0	live	serpina1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9598	Pan troglodytes	100610228	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			14	NC_006481.3	94170611	94182097	plus	7		
+9913	Bos taurus	777604	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		21	AC_000178.1	59708487	59724100	minus	5		
+9913	Bos taurus	617667	0	live	SERPINA3	SERPINA3-5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	SERPINA3-5		21	AC_000178.1	60978518	60988211	plus	5		
+9913	Bos taurus	538280	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			21	AC_000178.1	59650972	59664697	minus	6		
+9913	Bos taurus	505820	0	live	SERPINA3-8		SERPINA3-8			21	AC_000178.1	60994014	61003303	plus	5		
+7955	Danio rerio	791587	0	live	zgc:174259		zgc:174259			5	NC_007116.6	28248717	28251256	plus	5		
+9031	Gallus gallus	772339	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			5	NC_006092.4	45685021	45692382	minus	6		
+9544	Macaca mulatta	707962	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			7	NC_027899.1	156719781	156733195	minus	6		
+9544	Macaca mulatta	701846	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			7	NC_027899.1	156812980	156821789	plus	6		
+9544	Macaca mulatta	701121	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			7	NC_027899.1	156559290	156579238	minus	5		
+9544	Macaca mulatta	700439	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_027913.1	99946779	99971233	minus	6		
+9615	Canis lupus familiaris	481007	0	live	SERPINA7	TBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_006621.3	79571169	79589025	minus	7		
+9615	Canis lupus familiaris	480425	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			8	NC_006590.3	63588217	63596955	plus	5		
+9615	Canis lupus familiaris	480424	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			8	NC_006590.3	63567098	63577015	plus	6		
+9598	Pan troglodytes	467618	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		14	NC_006481.3	94073480	94104120	minus	7		
+9598	Pan troglodytes	467544	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4		14	NC_006481.3	94149758	94158943	plus	6		
+9598	Pan troglodytes	465791	0	live	SERPINA7	TBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serpin A7		X	NC_006491.3	106496660	106502870	minus	5		
+9940	Ovis aries	443462	0	live	SERPINA7	THYROXINE-BINDING GLOBULIN	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serpin A7		X	NC_019484.2	124446227	124451632	minus	5		
+9031	Gallus gallus	423436	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			5	NC_006092.4	45670099	45677331	minus	5		
+9031	Gallus gallus	423435	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			5	NC_006092.4	45651547	45659688	minus	7		
+9913	Bos taurus	784932	0	live	LOC784932		serpin A3-7-like	endopin 2C		21	AC_000178.1	61687755	61694368	plus	4		
+9823	Sus scrofa	396686	0	live	SERPINA3-2		alpha-1-antichymotrypsin 2		7q	7	NC_010449.4	123110551	123119612	minus	5		
+10141	Cavia porcellus	100135614	0	live	Serpina3k	contrapsin	serine (or cysteine) peptidase inhibitor, clade A, member 3K	CP|serpin A3K		Un							
+9544	Macaca mulatta	574106	0	live	SERPINA3	EGK_18506	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	hypothetical protein|serpin peptidase inhibitor, clade A, member 3		7	NC_027899.1	156863547	156875607	plus	5		
+9823	Sus scrofa	100153513	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		7	7	NC_010449.4	122916002	122927421	plus	7		
+9541	Macaca fascicularis	101865984	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			7	NC_022278.1	159627211	159638473	plus	6		
+9669	Mustela putorius furo	101683277	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9669	Mustela putorius furo	101672240	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9541	Macaca fascicularis	102134991	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			7	NC_022278.1	159411551	159440535	minus	9		
+10181	Heterocephalus glaber	101719070	0	live	Serpina12	GW7_16186	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12		Un							
+10181	Heterocephalus glaber	101717918	0	live	Serpina11	GW7_16188	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un							
+9994	Marmota marmota marmota	107150270	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9994	Marmota marmota marmota	107150190	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+32536	Acinonyx jubatus	106977457	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+30608	Microcebus murinus	105883775	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+30608	Microcebus murinus	105856774	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+30608	Microcebus murinus	105856773	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+30608	Microcebus murinus	105856771	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+30608	Microcebus murinus	105856770	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+379532	Propithecus coquereli	105819062	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+379532	Propithecus coquereli	105819046	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+379532	Propithecus coquereli	105819045	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+37293	Aotus nancymaae	105721290	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+37293	Aotus nancymaae	105721289	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+37293	Aotus nancymaae	105721288	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9940	Ovis aries	105603227	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			18	NC_019475.2	57905021	57918106	minus	5		
+9531	Cercocebus atys	105596634	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9531	Cercocebus atys	105596633	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9531	Cercocebus atys	105596627	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9531	Cercocebus atys	105596626	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9531	Cercocebus atys	105571627	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9568	Mandrillus leucophaeus	105547923	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9568	Mandrillus leucophaeus	105547921	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9568	Mandrillus leucophaeus	105547917	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9568	Mandrillus leucophaeus	105547916	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+336983	Colobus angolensis palliatus	105518510	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+336983	Colobus angolensis palliatus	105518507	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+336983	Colobus angolensis palliatus	105518505	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+336983	Colobus angolensis palliatus	105518504	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+336983	Colobus angolensis palliatus	105518503	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9545	Macaca nemestrina	105499704	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9545	Macaca nemestrina	105467499	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9545	Macaca nemestrina	105467493	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9545	Macaca nemestrina	105467491	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9545	Macaca nemestrina	105467489	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9545	Macaca nemestrina	105467485	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+132908	Pteropus vampyrus	105305154	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9838	Camelus dromedarius	105095569	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9837	Camelus bactrianus	105079895	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+43346	Bison bison bison	104985846	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+43346	Bison bison bison	104985845	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+885580	Fukomys damarensis	104851833	0	live	Serpina6	H920_17272	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin		Un							
+885580	Fukomys damarensis	104851831	0	live	Serpina11	H920_17267	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un							
+885580	Fukomys damarensis	104851826	0	live	Serpina3	H920_17263	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	Alpha-1-antichymotrypsin		Un							
+61622	Rhinopithecus roxellana	104679077	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+61622	Rhinopithecus roxellana	104679076	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+61622	Rhinopithecus roxellana	104679073	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+61622	Rhinopithecus roxellana	104679071	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+27679	Saimiri boliviensis	104651536	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9555	Papio anubis	103886458	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			7	NC_018158.1	150610260	150624330	minus	6		
+9597	Pan paniscus	103782686	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			14	NC_027882.1	94418728	94431999	minus	6		
+29073	Ursus maritimus	103669749	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_007907032.1	5501783	5511194	minus	7		
+60711	Chlorocebus sabaeus	103232441	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_023671.1	93895103	93899718	minus	4		
+60711	Chlorocebus sabaeus	103229620	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			24	NC_023665.1	72369082	72388439	plus	8		
+60711	Chlorocebus sabaeus	103229617	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			24	NC_023665.1	72345566	72356257	plus	7		
+60711	Chlorocebus sabaeus	103229613	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			24	NC_023665.1	72223849	72236880	minus	7		
+60711	Chlorocebus sabaeus	103229609	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			24	NC_023665.1	72158521	72171139	minus	6		
+118797	Lipotes vexillifer	103082359	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006772141.1	966332	977029	minus	7		
+310752	Balaenoptera acutorostrata scammoni	103001294	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006726576.1	20115899	20136157	plus	8		
+310752	Balaenoptera acutorostrata scammoni	103000652	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006726576.1	20057109	20068335	plus	8		
+9755	Physeter catodon	102986488	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006716064.1	1838	12850	minus	6		
+230844	Peromyscus maniculatus bairdii	102912709	0	live	Serpina1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006501521.1	2414932	2424243	minus	5		
+225400	Myotis davidii	102767510	0	live	SERPINA11	MDA_GLEAN10008165	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un							
+246437	Tupaia chinensis	102498472	0	live	SERPINA6	TREES_T100005841	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin		Un							
+246437	Tupaia chinensis	102494208	0	live	SERPINA4	TREES_T100005827	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	Kallistatin		Un							
+246437	Tupaia chinensis	102493237	0	live	SERPINA5	TREES_T100005828	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	Plasma serine protease inhibitor		Un							
+89462	Bubalus bubalis	102415968	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_005784222.1	86627	124152	plus	7		
+89462	Bubalus bubalis	102415073	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_005784222.1	34790	52610	minus	6		
+72004	Bos mutus	102280970	0	live	SERPINA11	M91_13735	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un							
+72004	Bos mutus	102280489	0	live	SERPINA1	M91_13734	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	Alpha-1-antiproteinase		Un							
+9925	Capra hircus	102172209	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			21	NC_022313.1	55942236	55955267	minus	6		
+9925	Capra hircus	102171661	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			21	NC_022313.1	55802996	55827252	minus	6		
+9541	Macaca fascicularis	102142784	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			7	NC_022278.1	159657730	159669823	plus	5		
+9541	Macaca fascicularis	102140513	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_022292.1	103096358	103101808	minus	5		
+9541	Macaca fascicularis	102140041	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			7	NC_022278.1	159607082	159615904	plus	7		
+9541	Macaca fascicularis	102137796	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			7	NC_022278.1	159512377	159525959	minus	5		
+9541	Macaca fascicularis	102134394	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			7	NC_022278.1	159351162	159371308	minus	5		
+34839	Chinchilla lanigera	102020610	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+43179	Ictidomys tridecemlineatus	101958459	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+10036	Mesocricetus auratus	101836873	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+10036	Mesocricetus auratus	101836095	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9669	Mustela putorius furo	101673481	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9978	Ochotona princeps	101530772	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9978	Ochotona princeps	101530282	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9978	Ochotona princeps	101525824	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9978	Ochotona princeps	101524870	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9361	Dasypus novemcinctus	101440399	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9708	Odobenus rosmarus divergens	101366731	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9593	Gorilla gorilla	101151888	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			14	NC_018438.1	76380329	76388760	plus	5		
+9593	Gorilla gorilla	101151276	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			14	NC_018438.1	76410879	76444336	plus	8		
+9593	Gorilla gorilla	101147918	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			14	NC_018438.1	76192574	76206703	minus	6		
+9940	Ovis aries	101119257	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			18	NC_019475.2	58033790	58046625	plus	5		
+9940	Ovis aries	101118733	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			18	NC_019475.2	57960537	57976249	minus	5		
+9940	Ovis aries	101118224	0	live	SERPINA6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin|Serpin A6|Transcortin		18	NC_019475.2	57758016	57783832	minus	5		
+9685	Felis catus	101081903	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			B3	NC_018728.2	137633454	137643361	plus	6		
+27679	Saimiri boliviensis	101038540	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+27679	Saimiri boliviensis	101038224	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9555	Papio anubis	101011547	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_018172.1	95134312	95139868	minus	5		
+9555	Papio anubis	101004922	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			7	NC_018158.1	150706592	150715093	plus	5		
+9555	Papio anubis	101004351	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			7	NC_018158.1	150726411	150740040	plus	6		
+9555	Papio anubis	101003995	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			7	NC_018158.1	150629383	150662674	minus	7		
+9597	Pan paniscus	100993474	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			14	NC_027882.1	94551934	94579515	plus	7		
+9597	Pan paniscus	100992073	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			14	NC_027882.1	94537115	94548803	plus	7		
+9597	Pan paniscus	100991734	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			14	NC_027882.1	94442931	94473779	minus	7		
+9597	Pan paniscus	100990043	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			14	NC_027882.1	94334258	94347085	minus	7		
+9597	Pan paniscus	100974005	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_027891.1	105542386	105547774	minus	5		
+30611	Otolemur garnettii	100959522	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+10029	Cricetulus griseus	100770740	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7		Un	NW_003614399.1	376372	381410	minus	5		
+10029	Cricetulus griseus	100766333	0	live	Serpina6	I79_017523	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin		Un	NW_003614700.1	355078	364860	minus	4		
+10029	Cricetulus griseus	100765747	0	live	Serpina11	I79_017526	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un	NW_003614700.1	482213	490188	minus	5		
+10029	Cricetulus griseus	100761965	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		Un	NW_003614700.1	529730	536891	minus	4		
+10029	Cricetulus griseus	100761678	0	live	Serpina9	I79_017527	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	Serpin A9|serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9		Un	NW_003614700.1	499272	509733	minus	4		
+10029	Cricetulus griseus	100759896	0	live	Serpina5	I79_007748	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	Serine protease inhibitor A3C		7	NW_003613846.1	42245	45521	plus	4		
+61853	Nomascus leucogenys	100604083	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_019841.1	93533195	93538490	minus	5		
+61853	Nomascus leucogenys	100586800	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			22a	NC_019837.1	11557512	11565941	minus	5		
+61853	Nomascus leucogenys	100586470	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			22a	NC_019837.1	11533106	11545839	minus	6		
+61853	Nomascus leucogenys	100585221	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			22a	NC_019837.1	11762926	11775528	plus	7		
+9483	Callithrix jacchus	100389823	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			10	NC_013905.1	120200921	120221281	plus	7		
+9986	Oryctolagus cuniculus	100357192	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		Un	NW_003159509.1	454413	467310	minus	6		
+9986	Oryctolagus cuniculus	100356935	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_003159509.1	435087	445130	minus	7		
+9986	Oryctolagus cuniculus	100356417	0	live	SERPINA6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin|Serpin A6|Transcortin		Un	NW_003159509.1	274102	294497	minus	5		
+9601	Pongo abelii	100172119	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	serpin A4		14	NC_012605.1	95926706	95935138	plus	5		
+9258	Ornithorhynchus anatinus	100080470	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_001794301.1	1097519	1113059	minus	7		
+9796	Equus caballus	100065308	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			24	NC_009167.2	37176897	37188839	minus	6		
+9796	Equus caballus	100065007	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			24	NC_009167.2	36961781	36979850	minus	5		
+9615	Canis lupus familiaris	612386	0	live	LOC612386	SERPINA12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		8	NC_006590.3	63497542	63511701	minus	5		
+9615	Canis lupus familiaris	490838	0	live	LOC490838	SERPINA6	corticosteroid-binding globulin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6		8	NC_006590.3	63323676	63348529	minus	6		
+9615	Canis lupus familiaris	480423	0	live	LOC480423	SERPINA9	serpin A9	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9		8	NC_006590.3	63473269	63487570	minus	6		
+9823	Sus scrofa	100156325	0	live	LOC100156325		serpin A3-6	alpha-1-antichymotrypsin 2	7	7	NC_010449.4	123094660	123119649	minus	6		
+9669	Mustela putorius furo	101675610	0	live	LOC101675610	SERPINA6	corticosteroid-binding globulin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6		Un							
+10181	Heterocephalus glaber	101717359	0	live	LOC101717359	GW7_16189	alpha-1-antiproteinase S			Un							
+9994	Marmota marmota marmota	107150230	0	live	LOC107150230		serpin A11-like			Un							
+9031	Gallus gallus	107049127	0	live	LOC107049127		serpin A3-4-like			5	NC_006092.4	45698479	45722860	minus	7		
+198806	Calidris pugnax	106897074	0	live	LOC106897074		alpha-1-antiproteinase 2-like			Un							
+9172	Sturnus vulgaris	106858044	0	live	LOC106858044		alpha-1-antiproteinase 2-like			Un							
+9793	Equus asinus	106832399	0	live	LOC106832399		serpin A3-8-like			Un							
+9793	Equus asinus	106825414	0	live	LOC106825414		serpin A12-like			Un							
+381198	Anser cygnoides domesticus	106036370	0	live	LOC106036370		serine protease inhibitor 2.1-like			Un							
+381198	Anser cygnoides domesticus	106036355	0	live	LOC106036355		serpin A3-4-like			Un							
+30608	Microcebus murinus	105866181	0	live	LOC105866181		alpha-1-antichymotrypsin-like			Un							
+30608	Microcebus murinus	105866180	0	live	LOC105866180		alpha-1-antichymotrypsin-like			Un							
+9545	Macaca nemestrina	105467486	0	live	LOC105467486		kallistatin			Un							
+216574	Aquila chrysaetos canadensis	105399863	0	live	LOC105399863		alpha-1-antiproteinase F-like			Un							
+216574	Aquila chrysaetos canadensis	105399857	0	live	LOC105399857		alpha-1-antiproteinase 2-like			Un							
+43346	Bison bison bison	104985854	0	live	LOC104985854		serpin A3-8			Un							
+30455	Fulmarus glacialis	104072081	0	live	LOC104072081	N327_10511	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+482537	Galeopterus variegatus	103608542	0	live	LOC103608542		alpha-1-antiproteinase-like			Un	NW_007734657.1	7985	18746	minus	6		
+8496	Alligator mississippiensis	102567253	0	live	LOC102567253	Y1Q_016095	alpha-1-antiproteinase-like	hypothetical protein		Un							
+13735	Pelodiscus sinensis	102455909	0	live	LOC102455909		alpha-1-antiproteinase-like			Un							
+89462	Bubalus bubalis	102411401	0	live	LOC102411401		serpin A3-8-like			Un	NW_005784977.1	89232	99112	minus	7		
+89462	Bubalus bubalis	102410174	0	live	LOC102410174		serpin A3-7-like			Un	NW_005784977.1	18275	26554	plus	7		
+89462	Bubalus bubalis	102389600	0	live	LOC102389600		alpha-1-antiproteinase-like			Un	NW_005784222.1	243905	255813	plus	6		
+59538	Pantholops hodgsonii	102331088	0	live	LOC102331088		serpin A3-8-like			Un	NW_005811513.1	64216	76620	plus	6		
+59538	Pantholops hodgsonii	102325929	0	live	LOC102325929		alpha-1-antiproteinase-like			Un	NW_005810424.1	265685	277914	minus	6		
+109478	Myotis brandtii	102241471	0	live	SERPINA11	D623_10004131	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11|hypothetical protein		Un							
+9925	Capra hircus	102174291	0	live	LOC102174291		serpin A3-8			Un							
+9925	Capra hircus	102174166	0	live	LOC102174166		serpin A3-3			21	NC_022313.1	56101650	56110893	plus	5		
+9925	Capra hircus	102172943	0	live	LOC102172943	SERPINA12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		21	NC_022313.1	55998178	56028683	minus	7		
+181119	Pseudopodoces humilis	102103850	0	live	LOC102103850		alpha-1-antiproteinase 2-like			Un							
+8932	Columba livia	102091752	0	live	LOC102091752	A306_03315	alpha-1-antiproteinase 2			Un							
+79684	Microtus ochrogaster	101992344	0	live	LOC101992344		serine protease inhibitor A3N-like			1	NC_022009.1	39725033	39731147	plus	5		
+79684	Microtus ochrogaster	101990278	0	live	LOC101990278	Serpina11	serpin A11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11		1	NC_022009.1	39533803	39544311	minus	5		
+8479	Chrysemys picta	101931445	0	live	LOC101931445		alpha-1-antichymotrypsin-like			Un	NW_007359910.1	7069793	7084069	minus	5		
+10036	Mesocricetus auratus	101840529	0	live	LOC101840529	HPP	serine protease inhibitor A3N-like	pregnancy protein 60 kDa		Un							
+59894	Ficedula albicollis	101809259	0	live	LOC101809259		alpha-1-antiproteinase 2-like			5	NC_021677.1	48914913	48922187	minus	5		
+9708	Odobenus rosmarus divergens	101367019	0	live	LOC101367019	SERPINA3	alpha-1-antichymotrypsin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3		Un							
+9940	Ovis aries	101119509	0	live	LOC101119509		serpin A3-8			18	NC_019475.2	58065448	58091882	plus	7		
+9940	Ovis aries	101117146	0	live	LOC101117146		serpin A3-7-like			Un							
+9940	Ovis aries	101111083	0	live	LOC101111083		serpin A3-5-like			Un							
+9597	Pan paniscus	100992646	0	live	LOC100992646	SERPINA4	kallistatin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4		14	NC_027882.1	94517341	94525820	plus	5		
+9305	Sarcophilus harrisii	100920247	0	live	LOC100920247		alpha-1-antiproteinase-like			1							
+10029	Cricetulus griseus	100764848	0	live	LOC100764848	Serpina3n	serine protease inhibitor A3N	serine (or cysteine) peptidase inhibitor, clade A, member 3N		7	NW_003613846.1	138688	143398	minus	4		
+10029	Cricetulus griseus	100764251	0	live	LOC100764251	I79_007750	serine protease inhibitor A3N-like	Serine protease inhibitor A3F		7	NW_003613846.1	104734	114061	plus	6		
+10029	Cricetulus griseus	100763955	0	live	LOC100763955	I79_007749	serine protease inhibitor A3N-like	Serine protease inhibitor A3N		7	NW_003613846.1	90670	95942	plus	4		
+9646	Ailuropoda melanoleuca	100481925	0	live	SERPINA3	PANDA_009263	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	hypothetical protein		Un							
+9646	Ailuropoda melanoleuca	100481424	0	live	SERPINA9	PANDA_009259	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	hypothetical protein		Un							
+9796	Equus caballus	100065191	0	live	LOC100065191		alpha-1-antiproteinase 2-like			24	NC_009167.2	37068110	37074660	minus	5		
+9796	Equus caballus	100053600	0	live	LOC100053600		serpin A3-8-like			24	NC_009167.2	37261998	37270118	plus	5		
+13616	Monodelphis domestica	100024653	0	live	LOC100024653		thyroxine-binding globulin-like			1	NC_008801.1	328455401	328482868	plus	8		
+13616	Monodelphis domestica	100024568	0	live	LOC100024568		serine protease inhibitor A3N-like			1	NC_008801.1	328159285	328194969	minus	6		
+11676	Human immunodeficiency virus 1	155971	0	live	env	HIV1gp8	gp160; envelope glycoprotein	Envelope surface glycoprotein gp160, precursor			NC_001802.1	5771	8341	plus	0		
+10116	Rattus norvegicus	24795	0	live	Serpina3n	CPi-26, SPI3, Spi-2.2, Spin2c, Spin3	serine (or cysteine) peptidase inhibitor, clade A, member 3N	SPI-3|contrapsin-like protease inhibitor 6|serine protease inhibitor 2c|serine protease inhibitor 3|serpin A3N|serpina3n-like protein	6q32	6	NC_005105.4	128073344	128080878	plus	5		
+10090	Mus musculus	20714	0	live	Serpina3k	1300001I07Rik, D12Rp54, MMCM2, MMSpi2, RP54, Spi-2, Spi2, contrapsin	serine (or cysteine) peptidase inhibitor, clade A, member 3K	alpha-1 antiproteinase|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3K|serine (or cysteine) proteinase inhibitor, clade A, member 3K|serine protease inhibitor 2|serpin A3K	12 53.99 cM	12	NC_000078.6	104338486	104345739	plus	5		
+10090	Mus musculus	20715	0	live	Serpina3g	2A2, AI119734, Spi2-1, Spi2/eb.1, Spi2A, spi2	serine (or cysteine) peptidase inhibitor, clade A, member 3G	alpha-1 antiproteinase|serine (or cysteine) proteinase inhibitor, clade A, member 3G|serine protease inhibitor 2-1|serine protease inhibitor 2A|serpin 2A|serpin A3G	12 E	12	NC_000078.6	104236242	104241934	plus	5		
+10116	Rattus norvegicus	191570	0	live	Serpina12	Ol-64, Ol64	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12|serine (or cysteine) peptidase inhibitor, clade A, member 12|serpin peptidase inhibitor, clade A, member 12|vaspin|visceral adipose tissue-derived serine protease inhibitor|visceral adipose tissue-derived serpin|visceral adipose-specific serpin	6q32	6	NC_005105.4	127696501	127711238	minus	5		
+10116	Rattus norvegicus	299270	0	live	Serpina6	Cbg	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	corticosteroid binding globulin|serine (or cysteine) peptidase inhibitor, clade A, member 6|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6|serpin A6|serpin peptidase inhibitor, clade A, member 6|transcortin	6q32	6	NC_005105.4	127523948	127534178	minus	5		
+10090	Mus musculus	68054	0	live	Serpina12	4632419J12Rik	serine (or cysteine) peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12|vaspin|visceral adipose tissue-derived serine protease inhibitor|visceral adipose-specific SERPIN	12 F1	12	NC_000078.6	104028769	104044443	minus	5		
+10090	Mus musculus	20717	0	live	Serpina3m	3e46, AI195004, MMCM7, MMSPi2.4, Spi-2l, Spi-2rs1, Spi2-rs1, Spi2.4, spi2	serine (or cysteine) peptidase inhibitor, clade A, member 3M	alpha-1 antiproteinase|antitrypsin|serine (or cysteine) proteinase inhibitor, clade A, member 3M|serine protease inhibitor-2 related sequence 1|serpin A3M	12 E	12	NC_000078.6	104387157	104394259	plus	5		
+9913	Bos taurus	286804	0	live	SERPINA3-1	SERPINA3	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	endopin-1A|mEndopin-1A|muscle endopin 1a|muscle endopin-1A|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3		21	AC_000178.1	59824345	59830426	plus	4		
+9913	Bos taurus	338050	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	PCI|protein C inhibitor|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5|serpin A5		21	AC_000178.1	59782814	59795813	plus	5		
+9606	Homo sapiens	256394	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	antiproteinase-like 2|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	14q32.13	14	NC_000014.9	94442464	94452850	minus	5		
+9544	Macaca mulatta	702078	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	protein C inhibitor|serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		7	NC_027899.1	156833116	156843737	plus	6		
+9823	Sus scrofa	396684	0	live	LOC396684	AACT, Pi2, SERPINA3-1	serpin A3-5	alpha-1-antichymotrypsin 1	7q23-q26	7	NC_010449.4	122933477	122938468	plus	3		
+9606	Homo sapiens	7124	0	live	TNF	DIF-alpha, TNFA, TNFSF2, TNLG1F, TNF	tumor necrosis factor	APC1 protein|TNF, macrophage-derived|TNF, monocyte-derived|TNF-a|cachectin|tumor necrosis factor ligand 1F|tumor necrosis factor ligand superfamily member 2|tumor necrosis factor-alpha	6p21.3	6	NC_000006.12	31575567	31578336	plus	4	191160	
+7955	Danio rerio	321195	0	live	serpina1l	cb301, fb70a01, sb:cb301, wu:fb66d09, wu:fb70a01, zgc:136659	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1, like			20	NC_007131.6	10550792	10553960	plus	5		
+9823	Sus scrofa	397125	0	live	SERPINA7	tbg	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	T4-binding globulin|serpin A7		X	NC_010461.4	101067043	101072645	minus	5		
+10116	Rattus norvegicus	299279	0	live	RGD1565462		similar to BC049975 protein		6q32	6	NC_005105.4	127927716	127934204	plus	5		
+8355	Xenopus laevis	373636	0	live	serpina6	ep45, ep45-A	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	estrogen-regulated protein EP45|serpin|serpin A6									
+8364	Xenopus tropicalis	595085	0	live	serpina3m	3e46, mmcm7, spi-2l, spi2, spi2.4	serine (or cysteine) peptidase inhibitor, clade A, member 3M	serine (or cysteine) proteinase inhibitor, clade A, member 3M		Un							
+8022	Oncorhynchus mykiss	100136095	0	live	antiprot1		alpha-1-antiproteinase-like protein										
+9544	Macaca mulatta	701483	0	live	SERPINA11	EGK_18501	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			7	NC_027899.1	156697048	156710033	minus	5		
+7955	Danio rerio	100137107	0	live	zgc:174260	wu:fb66f08, wu:fb68e04	zgc:174260			5	NC_007116.6	28212323	28218456	plus	6		
+8364	Xenopus tropicalis	496632	0	live	serpina3k	contrapsin	serine (or cysteine) proteinase inhibitor, clade A, member 3K			Un							
+7955	Danio rerio	100148906	0	live	si:ch211-186e20.2		si:ch211-186e20.2			5	NC_007116.6	28257839	28259878	plus	5		
+9544	Macaca mulatta	701708	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			7	NC_027899.1	156743139	156755297	minus	4		
+9615	Canis lupus familiaris	612381	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			8	NC_006590.3	63436708	63453328	minus	5		
+7955	Danio rerio	566630	0	live	si:ch211-186e20.7		si:ch211-186e20.7			5	NC_007116.6	28197644	28202097	plus	5		
+9615	Canis lupus familiaris	490840	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			8	NC_006590.3	63552062	63560667	plus	5		
+9598	Pan troglodytes	467543	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			14	NC_006481.3	94049004	94062382	minus	6		
+9598	Pan troglodytes	453133	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	serpin peptidase inhibitor, clade A, member 3		14	NC_006481.3	94201577	94213259	plus	5		
+9598	Pan troglodytes	453131	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	corticosteroid binding globulin		14	NC_006481.3	93896827	93915925	minus	5		
+9031	Gallus gallus	423434	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			5	NC_006092.4	45639753	45645089	minus	5		
+9031	Gallus gallus	423433	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4		5	NC_006092.4	45611921	45622004	minus	6		
+9913	Bos taurus	100272171	0	live	SERPINA3-6		serpin A3-6			21							
+9913	Bos taurus	100272170	0	live	SERPINA3-2		SERPIN A3-2			21							
+7955	Danio rerio	449799	0	live	serpina7	zgc:103617	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			5	NC_007116.1	24153642	24156201	minus	5		
+8355	Xenopus laevis	447118	0	live	serpina3k	contrapsin	serine (or cysteine) proteinase inhibitor, clade A, member 3K										
+8355	Xenopus laevis	379963	0	live	serpina1	serpina1d	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1	serine (or cysteine) proteinase inhibitor, clade A, member 1d									
+9669	Mustela putorius furo	101674514	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9669	Mustela putorius furo	101673183	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9669	Mustela putorius furo	101672895	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+1026970	Nannospalax galili	103737723	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+1026970	Nannospalax galili	103737722	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9402	Pteropus alecto	102892883	0	live	SERPINA7	PAL_GLEAN10003092	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+9402	Pteropus alecto	102880221	0	live	SERPINA12	PAL_GLEAN10020812	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12		Un							
+419612	Camelus ferus	102516956	0	live	SERPINA5	CB1_000726079	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	plasma serine protease inhibitor		Un							
+419612	Camelus ferus	102508801	0	live	SERPINA7	CB1_001279003	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	thyroxine-binding globulin		Un							
+419612	Camelus ferus	102505199	0	live	SERPINA4	CB1_000726080	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	kallistatin		Un							
+72004	Bos mutus	102282080	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	Plasma serine protease inhibitor		Un							
+109478	Myotis brandtii	102240043	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	Kallistatin		Un							
+9541	Macaca fascicularis	102138431	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			7	NC_022278.1	159490201	159502609	minus	5		
+10181	Heterocephalus glaber	101700129	0	live	Serpina7	GW7_09460	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+9646	Ailuropoda melanoleuca	100480212	0	live	SERPINA7	PANDA_020127	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9646	Ailuropoda melanoleuca	100479422	0	live	SERPINA5	PANDA_009262	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9646	Ailuropoda melanoleuca	100479170	0	live	SERPINA12	PANDA_009260	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+7955	Danio rerio	564060	0	live	LOC564060		serpin peptidase inhibitor-like			5	NC_007116.6	28230265	28232801	plus	5		
+7955	Danio rerio	556938	0	live	zgc:113828		zgc:113828			5	NC_007116.1	24129872	24137807	minus	5		
+9994	Marmota marmota marmota	107152416	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9994	Marmota marmota marmota	107150288	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9994	Marmota marmota marmota	107150252	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+32536	Acinonyx jubatus	106988880	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+32536	Acinonyx jubatus	106977461	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+32536	Acinonyx jubatus	106977460	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+32536	Acinonyx jubatus	106977459	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+32536	Acinonyx jubatus	106977456	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9793	Equus asinus	106840490	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9793	Equus asinus	106825413	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9793	Equus asinus	106825405	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+109478	Myotis brandtii	106725196	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+59463	Myotis lucifugus	106694990	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9823	Sus scrofa	106504546	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			7	NC_010449.4	122847583	122861498	plus	5		
+79684	Microtus ochrogaster	106143812	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			1	NC_022009.1	39642765	39646661	plus	4		
+10020	Dipodomys ordii	105992775	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+10020	Dipodomys ordii	105984726	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+10020	Dipodomys ordii	105984668	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+10020	Dipodomys ordii	105984607	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+10020	Dipodomys ordii	105983377	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+10020	Dipodomys ordii	105982694	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9978	Ochotona princeps	105941506	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+30608	Microcebus murinus	105856776	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+30608	Microcebus murinus	105856775	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+30608	Microcebus murinus	105856768	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+143302	Condylura cristata	105853170	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+379532	Propithecus coquereli	105819063	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+379532	Propithecus coquereli	105819050	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+379532	Propithecus coquereli	105819048	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+379532	Propithecus coquereli	105819035	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+379532	Propithecus coquereli	105810823	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+61853	Nomascus leucogenys	105737992	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			22a	NC_019837.1	11699596	11709729	plus	5		
+37293	Aotus nancymaae	105721287	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+37293	Aotus nancymaae	105721272	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+37293	Aotus nancymaae	105721271	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9531	Cercocebus atys	105596625	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9531	Cercocebus atys	105596624	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9531	Cercocebus atys	105596620	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9568	Mandrillus leucophaeus	105547926	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9568	Mandrillus leucophaeus	105547922	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9568	Mandrillus leucophaeus	105547920	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9568	Mandrillus leucophaeus	105547918	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9568	Mandrillus leucophaeus	105536380	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+336983	Colobus angolensis palliatus	105523514	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+336983	Colobus angolensis palliatus	105518511	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+336983	Colobus angolensis palliatus	105518508	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+336983	Colobus angolensis palliatus	105518506	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9545	Macaca nemestrina	105467500	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+132908	Pteropus vampyrus	105306075	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+132908	Pteropus vampyrus	105305169	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+132908	Pteropus vampyrus	105305155	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+132908	Pteropus vampyrus	105305153	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+132908	Pteropus vampyrus	105305152	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9838	Camelus dromedarius	105096107	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9838	Camelus dromedarius	105095651	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9838	Camelus dromedarius	105095641	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9838	Camelus dromedarius	105095634	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9838	Camelus dromedarius	105095617	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9838	Camelus dromedarius	105095607	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9838	Camelus dromedarius	105095597	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9838	Camelus dromedarius	105089022	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9837	Camelus bactrianus	105080003	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+9837	Camelus bactrianus	105079903	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9837	Camelus bactrianus	105079901	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9837	Camelus bactrianus	105079900	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9837	Camelus bactrianus	105079899	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9837	Camelus bactrianus	105079897	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9837	Camelus bactrianus	105079894	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9837	Camelus bactrianus	105075864	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+43346	Bison bison bison	104985851	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+43346	Bison bison bison	104985849	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+43346	Bison bison bison	104985844	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+885580	Fukomys damarensis	104859206	0	live	Serpina7	H920_03439	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+885580	Fukomys damarensis	104851829	0	live	Serpina9	H920_17266	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9	Serpin A9		Un							
+885580	Fukomys damarensis	104851828	0	live	Serpina12	H920_17265	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12		Un							
+932674	Corvus cornix cornix	104686254	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+61622	Rhinopithecus roxellana	104679075	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+61622	Rhinopithecus roxellana	104679072	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+61622	Rhinopithecus roxellana	104679068	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+61622	Rhinopithecus roxellana	104668891	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+279965	Caprimulgus carolinensis	104518728	0	live	SERPINA7	N321_01446	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Alpha-1-antiproteinase 2		Un							
+9598	Pan troglodytes	104002149	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			14	NC_006481.3	94028532	94038853	minus	5		
+9601	Pongo abelii	103888560	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			14	NC_012605.1	95824820	95838987	minus	5		
+9483	Callithrix jacchus	103795906	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			10	NC_013905.1	120092970	120099461	minus	5		
+1026970	Nannospalax galili	103750072	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+1026970	Nannospalax galili	103748547	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+1026970	Nannospalax galili	103737720	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+1026970	Nannospalax galili	103737719	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+29073	Ursus maritimus	103673724	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_007907032.1	5751967	5771450	plus	7		
+29073	Ursus maritimus	103673689	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_007907032.1	5614286	5624097	plus	4		
+29073	Ursus maritimus	103673677	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_007907032.1	5538625	5545748	minus	4		
+29073	Ursus maritimus	103673670	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_007907032.1	5522358	5526746	minus	4		
+29073	Ursus maritimus	103669765	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_007907032.1	5644869	5657287	plus	4		
+29073	Ursus maritimus	103668925	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_007907158.1	2217614	2221175	plus	4		
+85066	Corvus brachyrhynchos	103612138	0	live	SERPINA12	N302_00101	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A3-4		Un	NW_008237222.1	5718808	5730322	minus	4		
+482537	Galeopterus variegatus	103609638	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_007735991.1	25996	36258	minus	4		
+482537	Galeopterus variegatus	103603618	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_007730814.1	273497	280778	minus	5		
+482537	Galeopterus variegatus	103603615	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_007730814.1	238845	248995	minus	5		
+482537	Galeopterus variegatus	103603614	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_007730814.1	210371	222150	minus	5		
+482537	Galeopterus variegatus	103603609	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_007730810.1	160639	165964	plus	5		
+482537	Galeopterus variegatus	103600642	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_007729522.1	40176	50129	plus	4		
+9798	Equus przewalskii	103560121	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_007675009.1	59619	70322	plus	5		
+9798	Equus przewalskii	103544205	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_007681402.1	7248	12505	plus	5		
+9798	Equus przewalskii	103543148	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_007679913.1	47	10643	plus	4		
+29078	Eptesicus fuscus	103302522	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_007370890.1	260592	267564	minus	4		
+29078	Eptesicus fuscus	103302521	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_007370890.1	245162	252336	minus	4		
+29078	Eptesicus fuscus	103302515	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_007370890.1	157193	164076	minus	4		
+29078	Eptesicus fuscus	103302509	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_007370890.1	292735	299310	plus	4		
+29078	Eptesicus fuscus	103300435	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_007370813.1	2482394	2487731	minus	5		
+9478	Tarsius syrichta	103265386	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_007250605.1	64380	74195	plus	6		
+9478	Tarsius syrichta	103265384	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_007250605.1	35618	38514	plus	4		
+9478	Tarsius syrichta	103265383	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_007250605.1	715	18892	plus	5		
+9478	Tarsius syrichta	103264911	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_007040986.1	57495	63015	minus	5		
+9478	Tarsius syrichta	103250404	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_007074499.1	163650	173690	minus	5		
+9478	Tarsius syrichta	103250403	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_007074499.1	143730	150899	minus	4		
+9478	Tarsius syrichta	103250402	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_007074499.1	81220	86773	minus	4		
+9478	Tarsius syrichta	103250401	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_007074499.1	12011	22740	minus	4		
+60711	Chlorocebus sabaeus	103229619	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			24	NC_023665.1	72388948	72415746	plus	7		
+60711	Chlorocebus sabaeus	103229615	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			24	NC_023665.1	72273041	72285367	minus	4		
+60711	Chlorocebus sabaeus	103229614	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			24	NC_023665.1	72247517	72255199	minus	5		
+60711	Chlorocebus sabaeus	103229608	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			24	NC_023665.1	72079084	72098549	minus	5		
+1230840	Orycteropus afer afer	103200129	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_006921714.1	7042345	7057221	plus	4		
+1230840	Orycteropus afer afer	103200128	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_006921714.1	6973872	6978105	plus	4		
+1230840	Orycteropus afer afer	103200127	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006921714.1	6887514	6905186	minus	4		
+1230840	Orycteropus afer afer	103200101	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006921714.1	6996924	7005922	plus	4		
+1230840	Orycteropus afer afer	103200100	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006921714.1	6858382	6873053	minus	4		
+1230840	Orycteropus afer afer	103200099	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006921714.1	6818133	6824625	minus	4		
+9365	Erinaceus europaeus	103125157	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006804789.1	458852	465333	minus	5		
+118797	Lipotes vexillifer	103083631	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006772141.1	1020616	1033741	minus	5		
+118797	Lipotes vexillifer	103083088	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006772141.1	1134943	1138529	plus	4		
+118797	Lipotes vexillifer	103081813	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006772141.1	900201	919499	minus	5		
+118797	Lipotes vexillifer	103072873	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006789243.1	607888	613841	minus	5		
+310752	Balaenoptera acutorostrata scammoni	103017846	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006727453.1	445809	451031	minus	5		
+310752	Balaenoptera acutorostrata scammoni	103000368	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006726576.1	20002984	20014201	plus	5		
+310752	Balaenoptera acutorostrata scammoni	102999816	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006726576.1	19949732	19960689	plus	4		
+310752	Balaenoptera acutorostrata scammoni	102999271	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006726576.1	19885440	19895759	minus	5		
+9755	Physeter catodon	102996989	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006713050.1	149191	154640	plus	5		
+9755	Physeter catodon	102988100	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006716064.1	168186	171695	plus	4		
+9755	Physeter catodon	102987244	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006716064.1	55566	68165	minus	5		
+9755	Physeter catodon	102976945	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006718258.1	33023	52461	minus	5		
+74533	Panthera tigris altaica	102965806	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+74533	Panthera tigris altaica	102965356	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+74533	Panthera tigris altaica	102964774	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+74533	Panthera tigris altaica	102964485	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+74533	Panthera tigris altaica	102963900	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+74533	Panthera tigris altaica	102949367	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+230844	Peromyscus maniculatus bairdii	102920784	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006501766.1	1284582	1290667	minus	5		
+230844	Peromyscus maniculatus bairdii	102913855	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006501521.1	2503181	2519284	minus	5		
+230844	Peromyscus maniculatus bairdii	102913543	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_006501521.1	2469461	2480199	minus	4		
+230844	Peromyscus maniculatus bairdii	102913236	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006501521.1	2451445	2459084	minus	4		
+230844	Peromyscus maniculatus bairdii	102912066	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006501521.1	2307979	2319995	minus	5		
+28737	Elephantulus edwardii	102871520	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_006399752.1	39824815	39839943	minus	4		
+28737	Elephantulus edwardii	102871113	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006399752.1	39799343	39805339	minus	4		
+28737	Elephantulus edwardii	102865706	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006399752.1	40333740	40344927	plus	4		
+28737	Elephantulus edwardii	102864908	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006399752.1	40083752	40096683	plus	4		
+28737	Elephantulus edwardii	102864498	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006399752.1	40023507	40035982	plus	4		
+185453	Chrysochloris asiatica	102842813	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006408543.1	13716834	13731711	plus	4		
+185453	Chrysochloris asiatica	102842435	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006408543.1	13620067	13625905	minus	4		
+185453	Chrysochloris asiatica	102833456	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006408677.1	5038282	5043973	plus	5		
+185453	Chrysochloris asiatica	102831179	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_006408543.1	13900357	13909041	plus	4		
+185453	Chrysochloris asiatica	102830800	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un	NW_006408543.1	13853987	13860903	plus	4		
+185453	Chrysochloris asiatica	102830430	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006408543.1	13781467	13795061	plus	4		
+185453	Chrysochloris asiatica	102830046	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_006408543.1	13564989	13593222	minus	4		
+225400	Myotis davidii	102768365	0	live	SERPINA12	MDA_GLEAN10008167	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12		Un							
+225400	Myotis davidii	102766658	0	live	SERPINA6	MDA_GLEAN10008162	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin		Un							
+9713	Leptonychotes weddellii	102747988	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_006384716.1	111753	119287	minus	4		
+9713	Leptonychotes weddellii	102747698	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un	NW_006384716.1	88543	98752	minus	4		
+9713	Leptonychotes weddellii	102747108	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_006384716.1	202424	212433	plus	5		
+9713	Leptonychotes weddellii	102746809	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_006384716.1	181724	192142	plus	5		
+9713	Leptonychotes weddellii	102746511	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un	NW_006384716.1	165302	175297	plus	5		
+9713	Leptonychotes weddellii	102745904	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_006384716.1	57820	71618	minus	5		
+9713	Leptonychotes weddellii	102730633	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_006383424.1	1214071	1217947	minus	5		
+30538	Vicugna pacos	102545262	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+30538	Vicugna pacos	102527756	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+30538	Vicugna pacos	102527485	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+30538	Vicugna pacos	102527225	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+30538	Vicugna pacos	102526709	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+30538	Vicugna pacos	102526448	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+30538	Vicugna pacos	102526193	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+419612	Camelus ferus	102505974	0	live	SERPINA11	CB1_000726083	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	serpin A11		Un							
+419612	Camelus ferus	102505449	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+246437	Tupaia chinensis	102500344	0	live	SERPINA7	TREES_T100019113	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+246437	Tupaia chinensis	102495580	0	live	SERPINA11	TREES_T100005836	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11	Serpin A11		Un							
+246437	Tupaia chinensis	102494886	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+246437	Tupaia chinensis	102474658	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+246437	Tupaia chinensis	102474225	0	live	SERPINA3	TREES_T100005829	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	Alpha-1-antichymotrypsin		Un							
+59463	Myotis lucifugus	102441387	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+59463	Myotis lucifugus	102441084	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+59463	Myotis lucifugus	102440471	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+59463	Myotis lucifugus	102440154	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+59463	Myotis lucifugus	102429135	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+89462	Bubalus bubalis	102399391	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_005785270.1	2013261	2019016	minus	5		
+89462	Bubalus bubalis	102389286	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_005784222.1	170153	184045	plus	5		
+59538	Pantholops hodgsonii	102327962	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_005810424.1	468170	481052	plus	5		
+59538	Pantholops hodgsonii	102327227	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un	NW_005810424.1	395339	410807	minus	5		
+59538	Pantholops hodgsonii	102326507	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_005810424.1	337840	351027	minus	5		
+59538	Pantholops hodgsonii	102325573	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_005810424.1	198283	223283	minus	5		
+59538	Pantholops hodgsonii	102320287	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_005811103.1	232120	237481	plus	5		
+72004	Bos mutus	102282004	0	live	SERPINA7	M91_07042	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+72004	Bos mutus	102280207	0	live	SERPINA6	M91_13733	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin		Un							
+109478	Myotis brandtii	102263957	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+109478	Myotis brandtii	102243641	0	live	SERPINA7	D623_10027674	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7	Thyroxine-binding globulin		Un							
+109478	Myotis brandtii	102239741	0	live	SERPINA5	D623_10004139	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	Plasma serine protease inhibitor		Un							
+109478	Myotis brandtii	102239426	0	live	SERPINA12	D623_10004135	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12	Serpin A12		Un							
+9925	Capra hircus	102186282	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_022322.1	9477879	9483260	plus	5		
+9925	Capra hircus	102185401	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			21	NC_022313.1	55869132	55878681	minus	5		
+9925	Capra hircus	102173891	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			21	NC_022313.1	56072447	56085296	plus	5		
+9541	Macaca fascicularis	102138798	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			7	NC_022278.1	159536473	159550273	minus	4		
+34839	Chinchilla lanigera	102020957	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+34839	Chinchilla lanigera	102020287	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+34839	Chinchilla lanigera	102014492	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+34839	Chinchilla lanigera	102006287	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+79684	Microtus ochrogaster	101988852	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			1	NC_022009.1	39396934	39407089	minus	5		
+43179	Ictidomys tridecemlineatus	101973017	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+43179	Ictidomys tridecemlineatus	101967087	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+43179	Ictidomys tridecemlineatus	101958737	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+10036	Mesocricetus auratus	101841062	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+10036	Mesocricetus auratus	101840794	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+10036	Mesocricetus auratus	101838201	0	live	Serpina6	CBG	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Serpin A6|Transcortin|corticosteroid-binding protein		Un							
+59894	Ficedula albicollis	101809793	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			5	NC_021677.1	48926483	48934814	minus	5		
+10181	Heterocephalus glaber	101719778	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+10181	Heterocephalus glaber	101718737	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+10181	Heterocephalus glaber	101710127	0	live	Serpina6	GW7_17166, Serpina10	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	Corticosteroid-binding globulin|serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10		Un							
+9371	Echinops telfairi	101661580	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9371	Echinops telfairi	101661256	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9371	Echinops telfairi	101653832	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9371	Echinops telfairi	101653519	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9371	Echinops telfairi	101652893	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9371	Echinops telfairi	101652575	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9371	Echinops telfairi	101647766	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+143302	Condylura cristata	101629375	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+143302	Condylura cristata	101629003	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+143302	Condylura cristata	101628537	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+143302	Condylura cristata	101628076	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+143302	Condylura cristata	101627406	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+51337	Jaculus jaculus	101613270	0	live	Serpina5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+51337	Jaculus jaculus	101611902	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+51337	Jaculus jaculus	101610741	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+51337	Jaculus jaculus	101610461	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+51337	Jaculus jaculus	101595442	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+10160	Octodon degus	101576240	0	live	Serpina12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+10160	Octodon degus	101575844	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+10160	Octodon degus	101575458	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+10160	Octodon degus	101571839	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+10160	Octodon degus	101568576	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+10160	Octodon degus	101561020	0	live	Serpina6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+42254	Sorex araneus	101542573	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9978	Ochotona princeps	101530529	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9978	Ochotona princeps	101525348	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9361	Dasypus novemcinctus	101442143	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9361	Dasypus novemcinctus	101439964	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9361	Dasypus novemcinctus	101424656	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9361	Dasypus novemcinctus	101418827	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9708	Odobenus rosmarus divergens	101381029	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9708	Odobenus rosmarus divergens	101366436	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+9708	Odobenus rosmarus divergens	101366155	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+9708	Odobenus rosmarus divergens	101365562	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9708	Odobenus rosmarus divergens	101364949	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9739	Tursiops truncatus	101330711	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un	NW_004201704.1	160213	179502	plus	5		
+9739	Tursiops truncatus	101330155	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un	NW_004205555.1	45690	50942	plus	5		
+9739	Tursiops truncatus	101328772	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_004201704.1	47080	58316	plus	5		
+9733	Orcinus orca	101275115	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9733	Orcinus orca	101274868	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9733	Orcinus orca	101274375	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9733	Orcinus orca	101271166	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9733	Orcinus orca	101269424	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9593	Gorilla gorilla	101150920	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			14	NC_018438.1	76400281	76411943	plus	6		
+9593	Gorilla gorilla	101150544	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			14	NC_018438.1	76305404	76336550	minus	6		
+9593	Gorilla gorilla	101150185	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			14	NC_018438.1	76260362	76271075	minus	5		
+9593	Gorilla gorilla	101149586	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			14	NC_018438.1	76281042	76294501	minus	5		
+9593	Gorilla gorilla	101148090	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_018447.1	103322566	103328092	minus	5		
+9593	Gorilla gorilla	101147204	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			14	NC_018438.1	76118541	76137621	minus	5		
+9685	Felis catus	101100545	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_018741.2	85553447	85557246	minus	4		
+9685	Felis catus	101089197	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			B3	NC_018728.2	137655457	137662377	plus	4		
+9685	Felis catus	101088938	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			B3	NC_018728.2	137567169	137575374	minus	4		
+9685	Felis catus	101081642	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			B3	NC_018728.2	137619779	137626477	plus	4		
+9685	Felis catus	101081390	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			B3	NC_018728.2	137543967	137554638	minus	4		
+9685	Felis catus	101081145	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			B3	NC_018728.2	137510284	137525009	minus	5		
+9685	Felis catus	101080897	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			B3	NC_018728.2	137460658	137469848	minus	5		
+9685	Felis catus	101080642	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			B3	NC_018728.2	137391604	137405273	minus	4		
+27679	Saimiri boliviensis	101044646	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+27679	Saimiri boliviensis	101039064	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+27679	Saimiri boliviensis	101037907	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+27679	Saimiri boliviensis	101036735	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+27679	Saimiri boliviensis	101036409	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9555	Papio anubis	101008160	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			7	NC_018158.1	150759435	150771298	plus	6		
+9555	Papio anubis	101003644	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			7	NC_018158.1	150588363	150600409	minus	5		
+9555	Papio anubis	101001659	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			7	NC_018158.1	150450849	150469814	minus	5		
+9597	Pan paniscus	100991379	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			14	NC_027882.1	94398596	94408909	minus	5		
+9597	Pan paniscus	100985000	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			14	NC_027882.1	94269299	94288391	minus	5		
+30611	Otolemur garnettii	100960454	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+30611	Otolemur garnettii	100960146	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+30611	Otolemur garnettii	100960125	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+30611	Otolemur garnettii	100959841	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+30611	Otolemur garnettii	100959206	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+30611	Otolemur garnettii	100943123	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9305	Sarcophilus harrisii	100928757	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			1							
+10141	Cavia porcellus	100730068	0	live	Serpina7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+10141	Cavia porcellus	100727548	0	live	Serpina9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+10141	Cavia porcellus	100726710	0	live	Serpina3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+10141	Cavia porcellus	100724253	0	live	Serpina11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9785	Loxodonta africana	100674536	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9785	Loxodonta africana	100672516	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+9785	Loxodonta africana	100672228	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+9785	Loxodonta africana	100671650	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+9785	Loxodonta africana	100671365	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			Un							
+9785	Loxodonta africana	100664453	0	live	SERPINA1		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+9823	Sus scrofa	100620680	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			7	NC_010449.4	122649114	122684975	minus	4		
+61853	Nomascus leucogenys	100595468	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			22a	NC_019837.1	11502083	11513745	minus	5		
+61853	Nomascus leucogenys	100586128	0	live	SERPINA9		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			22a	NC_019837.1	11678142	11689690	plus	5		
+61853	Nomascus leucogenys	100585811	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11				NW_003501389.1	31767539	31777676	minus	5		
+61853	Nomascus leucogenys	100584018	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			22a	NC_019837.1	11834046	11853817	plus	5		
+9646	Ailuropoda melanoleuca	100478664	0	live	LOC100478664	PANDA_009254	corticosteroid-binding globulin	hypothetical protein		Un							
+9601	Pongo abelii	100458476	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			14	NC_012605.1	95850908	95882160	minus	6		
+9601	Pongo abelii	100455945	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			14	NC_012605.1	95803993	95814909	minus	5		
+9601	Pongo abelii	100445447	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_012614.1	104991745	104997041	minus	5		
+9483	Callithrix jacchus	100394774	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			10	NC_013905.1	120250239	120269774	plus	5		
+9483	Callithrix jacchus	100394053	0	live	SERPINA12		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			10	NC_013905.1	120117784	120134628	minus	5		
+9483	Callithrix jacchus	100390613	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_013918.1	94735538	94739073	minus	4		
+9483	Callithrix jacchus	100389091	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			10	NC_013905.1	120181347	120188218	plus	4		
+9483	Callithrix jacchus	100388730	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			10	NC_013905.1	120069897	120082938	minus	5		
+9483	Callithrix jacchus	100387282	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6			10	NC_013905.1	119945312	119963138	minus	5		
+9986	Oryctolagus cuniculus	100359259	0	live	SERPINA5		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un	NW_003159509.1	517843	523742	plus	3		
+9986	Oryctolagus cuniculus	100357709	0	live	SERPINA3		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un	NW_003159535.1	9662	19951	plus	5		
+9986	Oryctolagus cuniculus	100356676	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un	NW_003159509.1	417016	429575	minus	5		
+9986	Oryctolagus cuniculus	100351289	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_013690.1	54738768	54746324	minus	5		
+9601	Pongo abelii	100189861	0	live	DKFZP470L1511		DKFZP470L1511 protein										
+9601	Pongo abelii	100173860	0	live	SERPINA3	AACT	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3	ACT|serpin A3		14	NC_012605.1	95979135	95988659	plus	4		
+9601	Pongo abelii	100172888	0	live	SERPINA6		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	CBG|serpin A6|transcortin		14	NC_012605.1	95659762	95678887	minus	5		
+9823	Sus scrofa	100157117	0	live	SERPINA4		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4		7	7	NC_010449.4	122899948	122909065	plus	4		
+9796	Equus caballus	100061538	0	live	SERPINA7		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			X	NC_009175.2	83696003	83701281	minus	5		
+13616	Monodelphis domestica	100017441	0	live	SERPINA10		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 10			1	NC_008801.1	222105229	222171666	minus	10		
+9986	Oryctolagus cuniculus	100008986	0	live	LOC100008986		alpha-1-antiproteinase E			Un	NW_003159509.1	366228	371227	minus	5		
+9986	Oryctolagus cuniculus	100008980	0	live	LOC100008980		alpha-1-antiproteinase S-1 precursor			Un	NW_003159509.1	397536	405022	minus	5		
+9598	Pan troglodytes	467542	0	live	SERPINA11		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			14	NC_006481.3	94028532	94038738	minus	5		
+9823	Sus scrofa	396685	0	live	LOC396685	SERPINA3-3	serpin A3-8	alpha-1-antichymotrypsin 3	7	7	NC_010449.4	123016238	123025025	minus	5		
+9823	Sus scrofa	100153899	0	live	LOC100153899		serpin A3-8	alpha-1-antichymotrypsin 2	7	7	NC_010449.4	122961721	122969848	plus	5		
+8355	Xenopus laevis	397792	0	live	LOC397792		alpha-1-antiproteinase										
+9402	Pteropus alecto	102894368	0	live	LOC102894368	PAL_GLEAN10020814, SERPINA5	plasma serine protease inhibitor	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		Un							
+72004	Bos mutus	102288173	0	live	LOC102288173	M91_18312	serpin A3-3			Un							
+9823	Sus scrofa	100155953	0	live	LOC100155953		serpin A11		7	7	NC_010449.4	122785173	122800708	minus	5		
+146911	Gekko japonicus	107116428	0	live	LOC107116428		alpha-1-antiproteinase-like			Un							
+146911	Gekko japonicus	107114092	0	live	LOC107114092		alpha-1-antiproteinase-like			Un							
+32536	Acinonyx jubatus	106977455	0	live	LOC106977455		corticosteroid-binding globulin-like			Un							
+32536	Acinonyx jubatus	106977450	0	live	LOC106977450		serpin A9-like			Un							
+32536	Acinonyx jubatus	106977446	0	live	LOC106977446		serpin A12-like			Un							
+198806	Calidris pugnax	106897149	0	live	LOC106897149		alpha-1-antiproteinase F-like			Un							
+9172	Sturnus vulgaris	106858035	0	live	LOC106858035		serpin A3-4-like			Un							
+9793	Equus asinus	106832398	0	live	LOC106832398		plasma serine protease inhibitor-like			Un							
+9793	Equus asinus	106825333	0	live	LOC106825333		alpha-1-antiproteinase 2-like			Un							
+9823	Sus scrofa	106504545	0	live	LOC106504545		serpin A3-8-like			7	NC_010449.4	122999381	123002765	plus	3		
+202946	Apteryx australis mantelli	106483128	0	live	LOC106483128		serine protease inhibitor 2.1-like			Un							
+381198	Anser cygnoides domesticus	106033766	0	live	LOC106033766		alpha-1-antiproteinase 2-like			Un							
+10020	Dipodomys ordii	105986464	0	live	LOC105986464		alpha-1-antiproteinase-like			Un							
+127582	Trichechus manatus latirostris	105756295	0	live	LOC105756295		serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+37293	Aotus nancymaae	105721294	0	live	LOC105721294		alpha-1-antichymotrypsin-like			Un							
+9545	Macaca nemestrina	105467494	0	live	LOC105467494		serpin A11			Un							
+9837	Camelus bactrianus	105079904	0	live	LOC105079904		serpin A3-8-like			Un							
+43346	Bison bison bison	104985852	0	live	LOC104985852		serpin A3-1			Un							
+885580	Fukomys damarensis	104851832	0	live	LOC104851832	H920_17268	alpha-1-antiproteinase S-like	Alpha-1-antiproteinase S		Un							
+52644	Haliaeetus leucocephalus	104841893	0	live	LOC104841893		alpha-1-antiproteinase F-like			Un							
+52644	Haliaeetus leucocephalus	104841888	0	live	LOC104841888		alpha-1-antiproteinase 2-like			Un							
+932674	Corvus cornix cornix	104688718	0	live	LOC104688718		uncharacterized LOC104688718			Un							
+932674	Corvus cornix cornix	104686244	0	live	LOC104686244		serine protease inhibitor 2.1-like			Un							
+100784	Balearica regulorum gibbericeps	104640041	0	live	LOC104640041	N312_01150	uncharacterized LOC104640041	Alpha-1-antiproteinase 2|hypothetical protein		Un							
+100784	Balearica regulorum gibbericeps	104636522	0	live	LOC104636522	N312_11533	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+100784	Balearica regulorum gibbericeps	104634812	0	live	LOC104634812	N312_12259	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+97097	Phaethon lepturus	104628166	0	live	LOC104628166	N335_06938	alpha-1-antiproteinase-like	Alpha-1-antiproteinase 2		Un							
+97097	Phaethon lepturus	104628162	0	live	LOC104628162	N335_06934	serine protease inhibitor 2.1-like	Alpha-1-antichymotrypsin		Un							
+97097	Phaethon lepturus	104624738	0	live	LOC104624738	N335_14303	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+57412	Colius striatus	104563139	0	live	LOC104563139		serine protease inhibitor 2.1-like			Un							
+57412	Colius striatus	104563138	0	live	LOC104563138	N325_09529	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+57412	Colius striatus	104560700	0	live	LOC104560700	N325_03298	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+54374	Mesitornis unicolor	104541248	0	live	LOC104541248	N332_06633	serine protease inhibitor 2.1-like	Alpha-1-antichymotrypsin		Un							
+54374	Mesitornis unicolor	104541247	0	live	LOC104541247	N332_06632	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+54374	Mesitornis unicolor	104537458	0	live	LOC104537458	N332_04247	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+279965	Caprimulgus carolinensis	104532360	0	live	LOC104532360	N321_09439	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+54383	Eurypyga helias	104517273	0	live	LOC104517273	N326_11967	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+54383	Eurypyga helias	104514111	0	live	LOC104514111	N326_08176	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+54383	Eurypyga helias	104508781	0	live	LOC104508781	N326_12390	uncharacterized LOC104508781	Alpha-1-antiproteinase 2|hypothetical protein		Un							
+54383	Eurypyga helias	104508779	0	live	LOC104508779	N326_12389	serine protease inhibitor 2.1-like	Alpha-1-antiproteinase		Un							
+175836	Buceros rhinoceros silvestris	104495365	0	live	LOC104495365	N320_01151	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+175836	Buceros rhinoceros silvestris	104493257	0	live	LOC104493257	N320_12799	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+187382	Chlamydotis macqueenii	104479252	0	live	LOC104479252	N324_04580	alpha-1-antiproteinase-like	Alpha-1-antiproteinase 2|Alpha-1-antiproteinase F		Un							
+187382	Chlamydotis macqueenii	104479247	0	live	LOC104479247	N324_04576	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+240206	Pterocles gutturalis	104472516	0	live	LOC104472516		alpha-1-antiproteinase F-like			Un							
+240206	Pterocles gutturalis	104458573	0	live	LOC104458573	N339_12112	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+176057	Nestor notabilis	104413691	0	live	LOC104413691		alpha-1-antiproteinase F-like			Un							
+176057	Nestor notabilis	104403762	0	live	LOC104403762	N333_10025	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+8897	Chaetura pelagica	104394203	0	live	LOC104394203	M959_10901	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+8897	Chaetura pelagica	104394202	0	live	LOC104394202	M959_10894	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+8897	Chaetura pelagica	104394176	0	live	LOC104394176	M959_10900	serine protease inhibitor 2.1-like	Serine protease inhibitor A3C		Un							
+121530	Tauraco erythrolophus	104382438	0	live	LOC104382438	N340_12448	alpha-1-antiproteinase 2-like	Alpha-1-antichymotrypsin|Alpha-1-antiproteinase F		Un							
+121530	Tauraco erythrolophus	104377763	0	live	LOC104377763	N340_13302	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+56313	Tyto alba	104367447	0	live	LOC104367447	N341_12019	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+56313	Tyto alba	104359841	0	live	LOC104359841	N341_05157	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+188344	Leptosomus discolor	104347627	0	live	LOC104347627	N330_12467	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+188344	Leptosomus discolor	104343301	0	live	LOC104343301	N330_03588	serine protease inhibitor A3M-like	Alpha-1-antichymotrypsin|Alpha-1-antiproteinase F		Un							
+30419	Opisthocomus hoazin	104331553	0	live	LOC104331553	N306_04599	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+30419	Opisthocomus hoazin	104331503	0	live	LOC104331503	N306_04598	serine protease inhibitor 2.1-like	Alpha-1-antiproteinase 2		Un							
+30419	Opisthocomus hoazin	104331501	0	live	LOC104331501	N306_04594	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+8969	Haliaeetus albicilla	104317202	0	live	LOC104317202	N329_06832	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+118200	Picoides pubescens	104306881	0	live	LOC104306881	N307_13628	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+118200	Picoides pubescens	104306325	0	live	LOC104306325	N307_08460	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+50402	Charadrius vociferus	104283427	0	live	LOC104283427	N301_06972	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+50402	Charadrius vociferus	104283360	0	live	LOC104283360	N301_06977	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+57397	Apaloderma vittatum	104279249	0	live	LOC104279249	N311_05384	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+57397	Apaloderma vittatum	104274142	0	live	LOC104274142	N311_11969	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+37040	Gavia stellata	104263897	0	live	LOC104263897	N328_12842	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+37040	Gavia stellata	104257780	0	live	LOC104257780	N328_11371	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+54380	Cariama cristata	104169156	0	live	LOC104169156	N322_05680	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+54380	Cariama cristata	104157411	0	live	LOC104157411	N322_03282	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+441894	Struthio camelus australis	104153756	0	live	LOC104153756		alpha-1-antiproteinase F-like			Un							
+188379	Egretta garzetta	104127816	0	live	LOC104127816		alpha-1-antiproteinase F-like			Un							
+188379	Egretta garzetta	104127803	0	live	LOC104127803	Z169_04209	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+30455	Fulmarus glacialis	104075215	0	live	LOC104075215	N327_01571	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+55661	Cuculus canorus	104057804	0	live	LOC104057804	N303_15532	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+55661	Cuculus canorus	104057762	0	live	LOC104057762	N303_15536	alpha-1-antiproteinase-like	Alpha-1-antiproteinase 2		Un							
+9209	Phalacrocorax carbo	104053413	0	live	LOC104053413	N336_00359	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+9209	Phalacrocorax carbo	104051791	0	live	LOC104051791	N336_08222	serine protease inhibitor 2.1-like	Alpha-1-antichymotrypsin		Un							
+36300	Pelecanus crispus	104034245	0	live	LOC104034245	N334_02342	serine protease inhibitor 2.1-like	Alpha-1-antichymotrypsin		Un							
+36300	Pelecanus crispus	104034244	0	live	LOC104034244	N334_02341	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+36300	Pelecanus crispus	104028620	0	live	LOC104028620	N334_06798	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+128390	Nipponia nippon	104014826	0	live	LOC104014826	Y956_05072	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+128390	Nipponia nippon	104014798	0	live	LOC104014798	Y956_05067	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+9238	Pygoscelis adeliae	103923940	0	live	LOC103923940	AS28_10544	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+9238	Pygoscelis adeliae	103923937	0	live	LOC103923937	AS28_10539	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+9233	Aptenodytes forsteri	103900186	0	live	LOC103900186	AS27_04576	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+9233	Aptenodytes forsteri	103900182	0	live	LOC103900182	AS27_04571	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+9135	Serinus canaria	103826887	0	live	LOC103826887		alpha-1-antiproteinase F-like			Un							
+57068	Acanthisitta chloris	103809961	0	live	LOC103809961	N310_04939	alpha-1-antiproteinase-like	Alpha-1-antiproteinase		Un							
+57068	Acanthisitta chloris	103806485	0	live	LOC103806485	N310_08233	serine protease inhibitor 2.1-like	Alpha-1-antiproteinase 2		Un							
+57068	Acanthisitta chloris	103806484	0	live	LOC103806484	N310_08232	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+57421	Merops nubicus	103774381	0	live	LOC103774381	N331_02960	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+57421	Merops nubicus	103770938	0	live	LOC103770938	N331_08110	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+328815	Manacus vitellinus	103766535	0	live	LOC103766535	N305_01294	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un							
+328815	Manacus vitellinus	103766530	0	live	LOC103766530	N305_01290	serine protease inhibitor 2.1-like	Alpha-1-antichymotrypsin		Un							
+328815	Manacus vitellinus	103766529	0	live	LOC103766529	N305_01289	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase F		Un							
+85066	Corvus brachyrhynchos	103612137	0	live	LOC103612137	N302_00100	serine protease inhibitor 2.1-like	Plasma serine protease inhibitor		Un	NW_008237222.1	5697782	5701375	minus	4		
+85066	Corvus brachyrhynchos	103612134	0	live	LOC103612134	N302_00096	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un	NW_008237222.1	5624526	5629103	minus	4		
+482537	Galeopterus variegatus	103608543	0	live	LOC103608543		serpin A11-like			Un	NW_007734657.1	70516	87752	minus	7		
+482537	Galeopterus variegatus	103582454	0	live	LOC103582454		serpin A9-like			Un	NW_007742432.1	1847	10220	plus	4		
+9244	Calypte anna	103527769	0	live	LOC103527769	N300_00589	alpha-1-antiproteinase-like	Alpha-1-antiproteinase F		Un	NW_007618597.1	4109923	4210994	minus	5		
+9244	Calypte anna	103527377	0	live	LOC103527377	N300_00588	serine protease inhibitor 2.1-like	Plasma serine protease inhibitor		Un	NW_007618597.1	4092206	4096436	minus	4		
+9244	Calypte anna	103527366	0	live	LOC103527366	N300_00585	alpha-1-antiproteinase F-like	Alpha-1-antiproteinase 2		Un	NW_007618597.1	4026809	4031050	minus	4		
+1230840	Orycteropus afer afer	103212585	0	live	LOC103212585		thyroxine-binding globulin-like			Un	NW_006922600.1	31685	35349	minus	4		
+8469	Chelonia mydas	102937127	0	live	LOC102937127	UY3_10488	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un	NW_006642290.1	5216200	5223250	plus	4		
+8469	Chelonia mydas	102936902	0	live	LOC102936902	UY3_10483	alpha-1-antiproteinase 2-like	Alpha-1-antiproteinase 2		Un	NW_006642290.1	5118932	5126500	plus	5		
+8469	Chelonia mydas	102933968	0	live	LOC102933968	UY3_11870	alpha-1-antiproteinase-like	Alpha-1-antiproteinase F		Un	NW_006648956.1	49805	61919	minus	4		
+8469	Chelonia mydas	102933737	0	live	LOC102933737	UY3_11869	alpha-1-antiproteinase 2-like	Serpin A3-6		Un	NW_006648956.1	27520	32164	minus	4		
+230844	Peromyscus maniculatus bairdii	102920046	0	live	LOC102920046		serine protease inhibitor A3N-like			Un	NW_006501521.1	2624453	2631732	plus	5		
+230844	Peromyscus maniculatus bairdii	102917436	0	live	LOC102917436		serine protease inhibitor A3N-like			Un	NW_006510837.1	23710	53778	plus	8		
+230844	Peromyscus maniculatus bairdii	102917133	0	live	LOC102917133		serine protease inhibitor A3N-like			Un	NW_006510837.1	1975	7299	plus	4		
+230844	Peromyscus maniculatus bairdii	102916027	0	live	LOC102916027		serine protease inhibitor A3N-like			Un	NW_006501521.1	2799925	2807094	plus	5		
+230844	Peromyscus maniculatus bairdii	102915717	0	live	LOC102915717		serine protease inhibitor A3G-like			Un	NW_006501521.1	2756685	2764881	plus	5		
+230844	Peromyscus maniculatus bairdii	102915408	0	live	LOC102915408		serine protease inhibitor A3F-like			Un	NW_006501521.1	2719196	2726931	plus	5		
+230844	Peromyscus maniculatus bairdii	102914483	0	live	LOC102914483		serine protease inhibitor A3N-like			Un	NW_006501521.1	2601642	2609240	plus	5		
+9402	Pteropus alecto	102894114	0	live	LOC102894114	PAL_GLEAN10020813, SERPINA4	kallistatin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4		Un							
+28737	Elephantulus edwardii	102870299	0	live	LOC102870299		alpha-1-antichymotrypsin-like			Un	NW_006399752.1	39727920	39747608	minus	5		
+28737	Elephantulus edwardii	102851834	0	live	LOC102851834		thyroxine-binding globulin-like			Un	NW_006399833.1	1183364	1187674	minus	4		
+419612	Camelus ferus	102506482	0	live	LOC102506482	CB1_000726087, SERPINA6	corticosteroid-binding globulin	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6		Un							
+419612	Camelus ferus	102504930	0	live	LOC102504930		serpin A3-8-like			Un							
+59463	Myotis lucifugus	102422074	0	live	LOC102422074	SERPINA5	plasma serine protease inhibitor	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		Un							
+89462	Bubalus bubalis	102411078	0	live	LOC102411078		serpin A3-3-like			Un	NW_005784977.1	40855	49254	plus	5		
+89462	Bubalus bubalis	102390152	0	live	LOC102390152		corticosteroid-binding globulin-like			Un	NW_005784222.1	292990	316945	plus	5		
+38654	Alligator sinensis	102375544	0	live	LOC102375544		protein Z-dependent protease inhibitor-like			Un							
+38654	Alligator sinensis	102375061	0	live	LOC102375061		alpha-1-antiproteinase-like			Un							
+59538	Pantholops hodgsonii	102331911	0	live	LOC102331911		serpin A3-6-like			Un	NW_005811513.1	108205	117955	minus	5		
+59538	Pantholops hodgsonii	102330733	0	live	LOC102330733		serpin A3-3-like			Un	NW_005811513.1	48485	54899	plus	4		
+59538	Pantholops hodgsonii	102330361	0	live	LOC102330361		serpin A3-7-like			Un	NW_005811513.1	22153	30567	plus	5		
+59538	Pantholops hodgsonii	102328316	0	live	LOC102328316		serpin A3-1-like			Un	NW_005810424.1	497557	506296	plus	6		
+59538	Pantholops hodgsonii	102318523	0	live	LOC102318523		serpin A3-6-like			Un	NW_005810643.1	13091	22824	plus	5		
+72004	Bos mutus	102281536	0	live	LOC102281536	M91_13737, SERPINA12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		Un							
+72004	Bos mutus	102276041	0	live	LOC102276041	M91_09333	serpin A3-7			Un							
+72004	Bos mutus	102269727	0	live	LOC102269727		serpin A3-8-like			Un							
+9796	Equus caballus	102149028	0	live	LOC102149028	SERPINA11	serpin A11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11		24	NC_009167.2	37116387	37130172	minus	5		
+181119	Pseudopodoces humilis	102103481	0	live	LOC102103481		uncharacterized LOC102103481			Un							
+8932	Columba livia	102088134	0	live	LOC102088134	A306_03310	serpin A3-4	Alpha-1-antiproteinase F		Un							
+44394	Zonotrichia albicollis	102068558	0	live	LOC102068558		alpha-1-antiproteinase F-like			Un							
+345164	Falco cherrug	102055028	0	live	LOC102055028		uncharacterized LOC102055028			Un							
+345164	Falco cherrug	102047349	0	live	LOC102047349		alpha-1-antiproteinase 2-like			Un							
+48883	Geospiza fortis	102041724	0	live	LOC102041724		alpha-1-antiproteinase F-like			Un							
+34839	Chinchilla lanigera	102021597	0	live	LOC102021597		alpha-1-antiproteinase S-like			Un							
+34839	Chinchilla lanigera	102021280	0	live	LOC102021280	Serpina11	serpin A11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11		Un							
+79684	Microtus ochrogaster	101993087	0	live	LOC101993087		serine protease inhibitor A3N-like			1	NC_022009.1	39739604	39747477	plus	5		
+79684	Microtus ochrogaster	101992242	0	live	LOC101992242	Serpina5	serine protease inhibitor A3N	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		1	NC_022009.1	39652871	39662714	plus	7		
+79684	Microtus ochrogaster	101992057	0	live	LOC101992057		serine protease inhibitor A3F-like			1	NC_022009.1	39701867	39709740	plus	5		
+79684	Microtus ochrogaster	101991777	0	live	LOC101991777		serine protease inhibitor A3N-like			1	NC_022009.1	39673588	39681816	plus	5		
+79684	Microtus ochrogaster	101991036	0	live	LOC101991036	Serpina12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		1	NC_022009.1	39580721	39597148	minus	5		
+79684	Microtus ochrogaster	101990747	0	live	LOC101990747	Serpina9	serpin A9	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9		1	NC_022009.1	39550424	39561294	minus	4		
+43179	Ictidomys tridecemlineatus	101958160	0	live	LOC101958160	Serpina12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		Un							
+8954	Falco peregrinus	101921011	0	live	LOC101921011		alpha-1-antiproteinase 2-like			Un							
+8954	Falco peregrinus	101916828	0	live	LOC101916828		alpha-1-antiproteinase F-like			Un							
+8954	Falco peregrinus	101916659	0	live	LOC101916659		serine protease inhibitor 2.1-like			Un							
+8954	Falco peregrinus	101916488	0	live	LOC101916488		alpha-1-antiproteinase-like			Un							
+13146	Melopsittacus undulatus	101876561	0	live	LOC101876561		alpha-1-antiproteinase 2-like			Un							
+10036	Mesocricetus auratus	101840257	0	live	LOC101840257		serine protease inhibitor A3N-like			Un							
+10036	Mesocricetus auratus	101835835	0	live	LOC101835835		serine protease inhibitor A3N-like			Un							
+59894	Ficedula albicollis	101810473	0	live	LOC101810473		alpha-1-antiproteinase-like			5	NC_021677.1	48970997	48982627	minus	4		
+59894	Ficedula albicollis	101810295	0	live	LOC101810295		alpha-1-antiproteinase 2-like			5	NC_021677.1	48952630	48959356	minus	5		
+59894	Ficedula albicollis	101809980	0	live	LOC101809980		alpha-1-antiproteinase 2-like			5	NC_021677.1	48943008	48948212	minus	5		
+8839	Anas platyrhynchos	101804095	0	live	LOC101804095		serine protease inhibitor 2.1-like			Un							
+8839	Anas platyrhynchos	101803572	0	live	LOC101803572	Anapl_03302	alpha-1-antiproteinase-like	Alpha-1-antiproteinase		Un							
+8839	Anas platyrhynchos	101791174	0	live	LOC101791174		serpin A3-4-like			Un							
+10160	Octodon degus	101575061	0	live	LOC101575061		alpha-1-antiproteinase S-like			Un							
+42254	Sorex araneus	101543456	0	live	LOC101543456	SERPINA11	serpin A11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11		Un							
+9978	Ochotona princeps	101526068	0	live	LOC101526068	SERPINA12	serpin A12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12		Un							
+9978	Ochotona princeps	101525103	0	live	LOC101525103		alpha-1-antichymotrypsin-like			Un							
+73337	Ceratotherium simum simum	101407969	0	live	LOC101407969	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5			Un							
+73337	Ceratotherium simum simum	101407705	0	live	LOC101407705	SERPINA9	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9			Un							
+73337	Ceratotherium simum simum	101407627	0	live	LOC101407627	SERPINA3	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+73337	Ceratotherium simum simum	101407083	0	live	LOC101407083	SERPINA12	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 12			Un							
+73337	Ceratotherium simum simum	101406814	0	live	LOC101406814	SERPINA11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+73337	Ceratotherium simum simum	101406564	0	live	LOC101406564		alpha-1-antiproteinase 2-like			Un							
+73337	Ceratotherium simum simum	101406319	0	live	LOC101406319		alpha-1-antiproteinase 2-like			Un							
+73337	Ceratotherium simum simum	101399539	0	live	LOC101399539	SERPINA7	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+9708	Odobenus rosmarus divergens	101373497	0	live	LOC101373497	SERPINA9	serpin A9	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 9		Un							
+127582	Trichechus manatus latirostris	101345710	0	live	LOC101345710	SERPINA3	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3			Un							
+127582	Trichechus manatus latirostris	101345453	0	live	LOC101345453	SERPINA4	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4			Un							
+127582	Trichechus manatus latirostris	101345202	0	live	LOC101345202	SERPINA11	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 11			Un							
+127582	Trichechus manatus latirostris	101344953	0	live	LOC101344953	SERPINA1	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1			Un							
+127582	Trichechus manatus latirostris	101344757	0	live	LOC101344757	SERPINA7	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7			Un							
+30611	Otolemur garnettii	100942810	0	live	LOC100942810		uncharacterized LOC100942810			Un							
+9305	Sarcophilus harrisii	100931899	0	live	LOC100931899		alpha-1-antichymotrypsin-like			1							
+9305	Sarcophilus harrisii	100919984	0	live	LOC100919984		thyroxine-binding globulin-like			1							
+10029	Cricetulus griseus	100764548	0	live	LOC100764548		serine protease inhibitor A3N			7	NW_003613846.1	121036	125831	minus	4		
+28377	Anolis carolinensis	100563702	0	live	LOC100563702		alpha-1-antiproteinase-like			1	NC_014776.1	6473456	6485329	minus	5		
+28377	Anolis carolinensis	100563314	0	live	LOC100563314		uncharacterized LOC100563314			1	NC_014776.1	6432509	6465528	minus	9		
+9103	Meleagris gallopavo	100544555	0	live	LOC100544555		alpha-1-antiproteinase 2-like			5	NC_015015.2	44706186	44716771	minus	5		
+9646	Ailuropoda melanoleuca	100481675	0	live	SERPINA4	PANDA_009261	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 4	hypothetical protein		Un							
+9646	Ailuropoda melanoleuca	100480928	0	live	LOC100480928	PANDA_009258	serpin A11-like	hypothetical protein		Un							
+9483	Callithrix jacchus	100413803	0	live	LOC100413803		alpha-1-antichymotrypsin-like			Un							
+59729	Taeniopygia guttata	100229618	0	live	LOC100229618		alpha-1-antiproteinase F-like			5	NC_011469.1	46632333	46643136	minus	5		
+9258	Ornithorhynchus anatinus	100089477	0	live	LOC100089477		kallistatin-like			Un	NW_001618001.1	8623	16342	plus	5		
+9258	Ornithorhynchus anatinus	100086374	0	live	LOC100086374		alpha-1-antichymotrypsin-like			Un	NW_001718764.1	7	8423	minus	4		
+9796	Equus caballus	100065370	0	live	LOC100065370	SERPINA5	plasma serine protease inhibitor	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5		24	NC_009167.2	37241206	37251884	plus	5		
+9986	Oryctolagus cuniculus	100008605	0	live	LOC100008605		ATS-22										
+9606	Homo sapiens	390502	0	live	SERPINA2	ARGS, ATR, PILP, psiATR, SERPINA2	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 2 (gene/pseudogene)	serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 2|serpin A2|serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 2, pseudogene	14q32.13	14	NC_000014.9	94364318	94366702	minus	2	107410	
+10090	Mus musculus	68348	0	live	Serpina1f	0610012A11Rik, AI327419, Serpina2, epserin	serine (or cysteine) peptidase inhibitor, clade A, member 1F	alpha-1 protease inhibitor 6|alpha-1-antiproteinase|epididymal serine protease inhibitor|epsin|serine protease inhibitor 1-6|serine protease inhibitor A1f|serpin A1f|serpina1f	12 E	12	NC_000078.6	103688044	103695529	minus	6		
+9606	Homo sapiens	354	0	live	KLK3	APS, KLK2A1, PSA, hK3	kallikrein related peptidase 3	P-30 antigen|gamma-seminoprotein|kallikrein-3|kallikrein-related peptidase 3|prostate specific antigen|semenogelase|seminin	19q13.41	19	NC_000019.10	50854915	50877702	plus	6	176820	
+9606	Homo sapiens	3240	0	live	HP	BP2ALPHA2, HPA1S, HP	haptoglobin	binding peptide|haptoglobin alpha(1S)-beta|haptoglobin alpha(2FS)-beta|haptoglobin, alpha polypeptide|haptoglobin, beta polypeptide|zonulin	16q22.2	16	NC_000016.10	72054609	72061056	plus	7	140100	
+10116	Rattus norvegicus	314406	0	live	Serpina1f	RGD1307899	serine (or cysteine) peptidase inhibitor, clade A, member 1F		6q32	6	NC_005105.4	127564811	127571016	minus	6		
+1836	Saccharopolyspora erythraea	4960931	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Actinomyces erythreus; Streptomyces erythraeus.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).										
+10090	Mus musculus	21926	0	live	Tnf	DIF, TNF-a, TNF-alpha, TNFSF2, TNFalphaa, Tnfsf1a, Tnlg1f, Tnf	tumor necrosis factor	cachectin|tumor necrosis factor ligand 1f|tumor necrosis factor ligand superfamily member 2|tumor necrosis factor-alpha	17 18.59 cM	17	NC_000083.6	35199367	35202007	minus	4		
+9606	Homo sapiens	1080	0	live	CFTR	ABC35, ABCC7, CF/MRP, MRP7, TNR-CFTR, dJ760C5.1, CFTR	cystic fibrosis transmembrane conductance regulator	cAMP-dependent chloride channel|channel conductance-controlling ATPase|cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	7q31.2	7	NC_000007.14	117478340	117668665	plus	33	602421	
+10090	Mus musculus	16153	0	live	Il10	CSIF, Il-10	interleukin 10	cytokine synthesis inhibitory factor	1 56.89 cM	1	NC_000067.6	131019845	131024970	plus	5		
+9606	Homo sapiens	3077	0	live	HFE	HFE1, HH, HLA-H, MVCD7, TFQTL2	hemochromatosis	MHC class I-like protein HFE|hereditary hemochromatosis protein HLA-H|high Fe	6p21.3	6	NC_000006.12	26087281	26096117	plus	7	613609	
+9606	Homo sapiens	3162	0	live	HMOX1	HMOX1D, HO-1, HSP32, bK286B10	heme oxygenase 1	heat shock protein, 32-kD|heme oxygenase (decycling) 1	22q13.1	22	NC_000022.11	35381067	35394214	plus	5	141250	
+9606	Homo sapiens	7276	0	live	TTR	CTS, CTS1, HEL111, HsT2651, PALB, TBPA	transthyretin	ATTR|carpal tunnel syndrome 1|epididymis luminal protein 111|prealbumin, amyloidosis type I|thyroxine-binding prealbumin	18q12.1	18	NC_000018.10	31591767	31599024	plus	4	176300	
+11676	Human immunodeficiency virus 1	155030	0	live	gag	HIV1gp2	Pr55(Gag)				NC_001802.1	336	1838	plus	0		
+9606	Homo sapiens	4792	0	live	NFKBIA	IKBA, MAD-3, NFKBI	NFKB inhibitor alpha	I-kappa-B-alpha|IkappaBalpha|ikB-alpha|major histocompatibility complex enhancer-binding protein MAD3|nuclear factor of kappa light chain gene enhancer in B-cells|nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	14q13	14	NC_000014.9	35401510	35404754	minus	6	164008	
+9606	Homo sapiens	57817	0	live	HAMP	HEPC, HFE2B, LEAP1, PLTR	hepcidin antimicrobial peptide	liver-expressed antimicrobial peptide 1|putative liver tumor regressor	19q13.1	19	NC_000019.10	35282507	35285143	plus	3	606464	
+9606	Homo sapiens	7018	0	live	TF	HEL-S-71p, PRO1557, PRO2086QTL1, TF	transferrin	beta-1 metal-binding globulin|epididymis secretory sperm binding protein Li 71p|siderophilin	3q22.1	3	NC_000003.12	133661998	133779006	plus	24	190000	
+9606	Homo sapiens	5617	0	live	PRL	GHA1	prolactin	decidual prolactin|growth hormone A1	6p22.3	6	NC_000006.12	22287244	22302883	minus	7	176760	
+9606	Homo sapiens	6280	0	live	S100A9	60B8AG, CAGB, CFAG, CGLB, L1AG, LIAG, MAC387, MIF, MRP14, NIF, P14	S100 calcium binding protein A9	MRP-14|S100 calcium-binding protein A9 (calgranulin B)|calgranulin B|calgranulin-B|calprotectin L1H subunit|leukocyte L1 complex heavy chain|migration inhibitory factor-related protein 14	1q21	1	NC_000001.11	153357854	153361027	plus	3	123886	
+9606	Homo sapiens	1991	0	live	ELANE	ELA2, GE, HLE, HNE, NE, PMN-E, SCN1	elastase, neutrophil expressed	PMN elastase|bone marrow serine protease|elastase 2, neutrophil|elastase-2|granulocyte-derived elastase|leukocyte elastase|medullasin|polymorphonuclear elastase	19p13.3	19	NC_000019.10	850997	856250	plus	6	130130	
+9606	Homo sapiens	6928	0	live	HNF1B	FJHN, HNF-1-beta, HNF-1B, HNF1beta, HNF2, HPC11, LF-B3, LFB3, MODY5, TCF-2, TCF2, VHNF1	HNF1 homeobox B	HNF1 beta A|homeoprotein LFB3|transcription factor 2, hepatic	17q12	17	NC_000017.11	37686431	37745078	minus	11	189907	
+9606	Homo sapiens	5654	0	live	HTRA1	ARMD7, CADASIL2, CARASIL, HtrA, L56, ORF480, PRSS11	HtrA serine peptidase 1	IGFBP5-protease|high-temperature requirement A serine peptidase 1|protease, serine, 11 (IGF binding)	10q26.3	10	NC_000010.11	122461525	122514908	plus	9	602194	
+9606	Homo sapiens	1136	0	live	CHRNA3	LNCR2, NACHRA3, PAOD2	cholinergic receptor nicotinic alpha 3 subunit	cholinergic receptor, nicotinic alpha 3|cholinergic receptor, nicotinic, alpha 3 (neuronal)|cholinergic receptor, nicotinic, alpha polypeptide 3|neuronal nicotinic acetylcholine receptor, alpha3 subunit	15q24	15	NC_000015.10	78593052	78621295	minus	10	118503	
+9606	Homo sapiens	5657	0	live	PRTN3	ACPA, AGP7, C-ANCA, CANCA, MBN, MBT, NP-4, NP4, P29, PR-3, PR3	proteinase 3	C-ANCA antigen|Wegener granulomatosis autoantigen|azurophil granule protein 7|leukocyte proteinase 3|neutrophil proteinase 4|serine proteinase, neutrophil|wegener autoantigen	19p13.3	19	NC_000019.10	840965	848175	plus	5	177020	
+10090	Mus musculus	17381	0	live	Mmp12	AV378681, MME, Mmel	matrix metallopeptidase 12	macrophage elastase|matrix metalloproteinase 12	9 2.46 cM	9	NC_000075.6	7344397	7360461	plus	11		
+9606	Homo sapiens	5345	0	live	SERPINF2	A2AP, AAP, ALPHA-2-PI, API, PLI	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2	alpha-2-AP|alpha-2-plasmin inhibitor|serine (or cysteine) proteinase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2|serpin F2	17p13	17	NC_000017.11	1742807	1755265	plus	13	613168	
+9606	Homo sapiens	1241	0	live	LTB4R	BLT1, BLTR, CMKRL1, GPR161, LTBR1, P2RY7, P2Y7, LTB4R	leukotriene B4 receptor	G protein-coupled receptor 16|G-protein coupled receptor 16|LTB4-R 1|LTB4-R1|P2Y purinoceptor 7|chemoattractant receptor-like 1|chemokine receptor-like 1|purinergic receptor P2Y, G-protein coupled, 7	14q11.2-q12	14	NC_000014.9	24311499	24318036	plus	3	601531	
+9606	Homo sapiens	3658	0	live	IREB2	ACO3, IRP2, IRP2AD	iron responsive element binding protein 2	IRE-BP 2|iron regulatory protein 2|iron-responsive element binding protein 2	15q25.1	15	NC_000015.10	78438176	78501456	plus	22	147582	
+9606	Homo sapiens	56547	0	live	MMP26		matrix metallopeptidase 26	MMP-26|endometase|matrilysin 2|matrilysin-2|matrix metalloproteinase 26	11p15	11	NC_000011.10	4988194	4992429	plus	7	605470	
+9606	Homo sapiens	60528	0	live	ELAC2	COXPD17, ELC2, HPC2	elaC ribonuclease Z 2	RNase Z 2|elaC homolog 2|elaC homolog protein 2|elaC-like protein 2|heredity prostate cancer protein 2|putative prostate cancer susceptibility protein HPC2/ELAC2|ribonuclease Z 2|tRNA 3 endonuclease 2|tRNase Z (long form)|tRNase Z 2	17p11.2	17	NC_000017.11	12991612	13018064	minus	24	605367	
+9606	Homo sapiens	89876	0	live	MAATS1	AAT1, AAT1alpha, C3orf15, CaM-IP2, SPATA26	MYCBP-associated, testis expressed 1	AAT-1|AAT1-alpha|AMY-1-associating protein expressed in testis 1|MYCBP-binding protein|MYCBP/AMY-1-associated testis-expressed protein 1|MYCBP/AMY-1-associated, testis expressed 1|spermatogenesis associated 26	3q13.33	3	NC_000003.12	119703022	119767102	plus	19	609910	
+51031	Necator americanus	25358040	0	live	NECAME_18015	NECAME_18015	hypothetical protein			Unknown							
+1314	Streptococcus pyogenes	2828055	0	live	NEWENTRY		Record to support submission of GeneRIFs for a gene not in Gene (Micrococcus scarlatinae; Streptococcus erysipelatos; Streptococcus hemolyticus; Streptococcus pyrogenes; Streptococcus scarlatinae.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.).										

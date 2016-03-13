@@ -154,8 +154,6 @@ ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annot
 48	GO:0000323	lytic vacuole		9.813E-5	1.009E-3	6.865E-3	4.946E-2	15	530
 49	GO:0005764	lysosome		9.813E-5	1.009E-3	6.865E-3	4.946E-2	15	530
 50	GO:0005719	nuclear euchromatin		1.287E-4	1.297E-3	8.823E-3	
-6.487E-2
-4	29
 4: Human Phenotype [Display Chart] 1260 annotations before applied cutoff / 4309 genes in category
 ID	Name	Source	pValue	FDR B&H	FDR B&Y	Bonferroni	Genes from Input	Genes in Annotation
 1	HP:0000726	Dementia		3.321E-8	4.185E-5	3.229E-4	4.185E-5	14	121

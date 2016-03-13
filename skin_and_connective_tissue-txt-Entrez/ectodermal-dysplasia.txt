@@ -1,0 +1,228 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	10913	0	live	EDAR	DL, ECTD10A, ECTD10B, ED1R, ED3, ED5, EDA-A1R, EDA1R, EDA3, HRM1	ectodysplasin A receptor	EDA-A1 receptor|anhidrotic ectodysplasin receptor 1|downless homolog|downless, mouse, homolog of|ectodermal dysplasia receptor|ectodysplasin 1, anhidrotic receptor|ectodysplasin-A receptor	2q13	2	NC_000002.12	108894471	108989372	minus	14	604095	
+9606	Homo sapiens	1896	0	live	EDA	ECTD1, ED1, ED1-A1, ED1-A2-A1, EDA-A2, EDA1, EDA2, HED, HED1, ODT1, STHAGX1, TNLG7C, XHED, XLHED, EDA	ectodysplasin A	X-linked anhidroitic ectodermal dysplasia protein|oligodontia 1|tumor necrosis factor ligand 7C	Xq12-q13.1	X	NC_000023.11	69616067	70039472	plus	11	300451	
+9606	Homo sapiens	10804	0	live	GJB6	CX30, DFNA3, DFNA3B, DFNB1B, ECTD2, ED2, EDH, HED, HED2	gap junction protein beta 6	connexin 30|connexin-30|ectodermal dysplasia 2, hidrotic (Clouston syndrome)|gap junction protein, beta 6 (connexin 30)|gap junction protein, beta 6, 30kDa	13q12	13	NC_000013.11	20221962	20232395	minus	6	604418	
+9606	Homo sapiens	8626	0	live	TP63	AIS, B(p51A), B(p51B), EEC3, KET, LMS, NBP, OFC8, RHS, SHFM4, TP53CP, TP53L, TP73L, p40, p51, p53CP, p63, p73H, p73L	tumor protein p63	CUSP|amplified in squamous cell carcinoma|chronic ulcerative stomatitis protein|keratinocyte transcription factor KET|transformation-related protein 63|tumor protein p53-competing protein|tumor protein p63 deltaN isoform delta	3q28	3	NC_000003.12	189566861	189897279	plus	20	603273	
+9606	Homo sapiens	8517	0	live	IKBKG	AMCBX1, FIP-3, FIP3, Fip3p, IKK-gamma, IMD33, IP, IP1, IP2, IPD2, NEMO, ZC2HC9	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	I-kappa-B kinase subunit gamma|IKKAP1|IKKG|IkB kinase gamma subunit|NF-kappa-B essential modifier|NFkappaB essential modulator|ikB kinase subunit gamma|ikB kinase-associated protein 1|incontinentia pigmenti|inhibitor of nuclear factor kappa-B kinase subunit gamma	Xq28	X	NC_000023.11	154541204	154568573	plus	15	300248	
+9606	Homo sapiens	1913	0	live	EEC1	EEC	ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 1	Ectrodactyly, ectodermal dysplasia, cleft lip/palate, 1	7q11.2-q21.3	7						129900	
+9606	Homo sapiens	5818	0	live	NECTIN1	CD111, CLPED1, ED4, HIgR, HV1S, HVEC, OFC7, PRR, PRR1, PVRL1, PVRR, PVRR1, SK-12, nectin-1	nectin cell adhesion molecule 1	ectodermal dysplasia 4 (Margarita Island type)|herpes simplex virus type 1 sensitivity|herpes virus entry mediator C|herpesvirus Ig-like receptor|nectin 1|poliovirus receptor-like 1|poliovirus receptor-related 1 (herpesvirus entry mediator C)|poliovirus receptor-related protein 1	11q23.3	11	NC_000011.10	119638098	119728725	minus	10	600644	
+9606	Homo sapiens	128178	0	live	EDARADD	ECTD11A, ECTD11B, ED3, EDA3	EDAR-associated death domain	EDAR-associated death domain protein|crinkled homolog|ectodysplasia A receptor associated death domain|ectodysplasin A receptor associated adapter protein	1q42.3	1	NC_000001.11	236394380	236484708	plus	7	606603	
+9606	Homo sapiens	1914	0	live	EEC2		ectrodactyly, ectodermal dysplasia and cleft lip/palate syndrome 2			19							
+9606	Homo sapiens	101101771	0	live	ECTD7		Ectodermal dysplasia 7, hair/nail type									614929	
+9606	Homo sapiens	101101770	0	live	ECTD6		Ectodermal dysplasia 6, hair/nail type		17p12-q21.2	17						614928	
+9606	Homo sapiens	101101769	0	live	ECTD5		Ectodermal dysplasia 5, hair/nail type		10q24.32-q25.1	10						614927	
+9606	Homo sapiens	101101768	0	live	ECTD8		Ectodermal dysplasia 8, hair/tooth/nail type		18q22.1-q22.3	18						602401	
+9606	Homo sapiens	100505394	0	live	EDSS2		Ectodermal dysplasia-syndactyly syndrome 2		7p21.2-p14.3	7						613576	
+10090	Mus musculus	13608	0	live	Edar	ED1R, ED3, ED5, EDA-A1R, EDA3, dl	ectodysplasin-A receptor	anhidrotic ectodysplasin receptor 1|downless|ectodermal dysplasia receptor	10 B3	10	NC_000076.6	58600780	58675696	minus	13		
+9913	Bos taurus	616179	0	live	EDA	ED1	ectodysplasin A	Ectodysplasin 1|ectodermal dysplasia 1, anhidrotic|ectodermal dysplasia protein|ectodysplasin-1		X	AC_000187.1	85691506	86100195	minus	9		
+9913	Bos taurus	281405	0	live	PKP1		plakophilin 1	B6P|armadillo|band 6|band-6 protein|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		16	AC_000173.1	81683409	81721837	plus	12		
+9615	Canis lupus familiaris	607140	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			7	NC_006589.3	1921143	1966910	minus	14		
+8496	Alligator mississippiensis	102567363	0	live	PKP1	Y1Q_010683	plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome) isoform A|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome) isoform B		Un							
+7719	Ciona intestinalis	494373	0	live	LOC494373		ectodermal dysplasia/anhidrotic-like			7	NC_020172.2	1333210	1338022	plus	8		
+144197	Stegastes partitus	103360406	0	live	pkp1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_007578166.1	247693	265178	plus	15		
+29078	Eptesicus fuscus	103302956	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_007370910.1	862027	888910	minus	13		
+9478	Tarsius syrichta	103269545	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_007253390.1	971562	1019300	plus	14		
+60711	Chlorocebus sabaeus	103230335	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			25	NC_023666.1	28083358	28129356	minus	14		
+1230840	Orycteropus afer afer	103197231	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006921662.1	8120852	8171399	plus	13		
+7868	Callorhinchus milii	103179099	0	live	pkp1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006890086.1	3091345	3116746	minus	13		
+48698	Poecilia formosa	103149624	0	live	pkp1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006800171.1	331759	347232	minus	15		
+9365	Erinaceus europaeus	103112618	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006804090.1	1043947	1083324	plus	13		
+118797	Lipotes vexillifer	103091291	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006783542.1	1280042	1324258	plus	15		
+176946	Python bivittatus	103049943	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006532088.1	250506	308489	plus	14		
+310752	Balaenoptera acutorostrata scammoni	103013484	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006725443.1	5579966	5621166	minus	14		
+9755	Physeter catodon	102987680	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006724249.1	1239963	1273968	plus	14		
+8469	Chelonia mydas	102942653	0	live	PKP1	UY3_01814	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)	Plakophilin-1		Un	NW_006602229.1	6694081	6745302	plus	14		
+230844	Peromyscus maniculatus bairdii	102911407	0	live	Pkp1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006501213.1	3944936	3987216	plus	13		
+28737	Elephantulus edwardii	102876754	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006399860.1	282643	337089	minus	13		
+185453	Chrysochloris asiatica	102835113	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_006408527.1	22754686	22803587	minus	14		
+89462	Bubalus bubalis	102398477	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_005785823.1	2792640	2832805	plus	14		
+59538	Pantholops hodgsonii	102325446	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_005810165.1	335938	367509	plus	15		
+8479	Chrysemys picta	101931529	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_007281845.1	39088	68967	minus	11		
+59894	Ficedula albicollis	101815884	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			26	NC_021697.1	7018702	7070240	minus	15		
+9593	Gorilla gorilla	101151013	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			1	NC_018424.1	181208962	181258098	plus	14		
+10029	Cricetulus griseus	100764930	0	live	Pkp1	I79_004842	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)	Plakophilin-1		5	NW_003613706.1	1706068	1756943	minus	14		
+28377	Anolis carolinensis	100564914	0	live	pkp1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			4	NC_014779.1	131268502	131324421	plus	14		
+9986	Oryctolagus cuniculus	100338080	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			16	NC_013684.1	70170432	70207820	minus	13		
+9258	Ornithorhynchus anatinus	100077476	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			Un	NW_001794072.1	1054389	1072765	minus	12		
+13616	Monodelphis domestica	100013844	0	live	PKP1		plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)			2	NC_008802.1	104819383	104910134	plus	14		
+8364	Xenopus tropicalis	100496099	0	live	pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9544	Macaca mulatta	708177	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_027893.1	165438185	165484852	minus	14		
+9598	Pan troglodytes	457616	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_006468.3	180043441	180090346	plus	14		
+9031	Gallus gallus	421158	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		26	NC_006113.4	817987	850942	minus	15		
+8932	Columba livia	102085216	0	live	PKP1		plakophilin 1	Plakophilin-1|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9541	Macaca fascicularis	102133972	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_022272.1	59635635	59681954	plus	14		
+9669	Mustela putorius furo	101673488	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+74533	Panthera tigris altaica	102950388	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9402	Pteropus alecto	102891177	0	live	PKP1	PAL_GLEAN10003772	plakophilin 1	Plakophilin-1|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+225400	Myotis davidii	102759353	0	live	PKP1	MDA_GLEAN10006254	plakophilin 1	Plakophilin-1|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+30538	Vicugna pacos	102535360	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+419612	Camelus ferus	102522981	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+246437	Tupaia chinensis	102482852	0	live	PKP1	TREES_T100007847	plakophilin 1	Plakophilin-1|plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+13735	Pelodiscus sinensis	102457252	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+7897	Latimeria chalumnae	102361088	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+109478	Myotis brandtii	102243834	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9925	Capra hircus	102176987	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		16	NC_022308.1	77379597	77395308	plus	10		
+181119	Pseudopodoces humilis	102103216	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+44394	Zonotrichia albicollis	102065422	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+345164	Falco cherrug	102060169	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+48883	Geospiza fortis	102035240	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+34839	Chinchilla lanigera	102012608	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+79684	Microtus ochrogaster	101991995	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		6	NC_022013.1	26507437	26550533	minus	14		
+43179	Ictidomys tridecemlineatus	101977194	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+8954	Falco peregrinus	101916602	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+10036	Mesocricetus auratus	101834982	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+8839	Anas platyrhynchos	101798848	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+10181	Heterocephalus glaber	101724616	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9371	Echinops telfairi	101659900	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+143302	Condylura cristata	101626178	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+51337	Jaculus jaculus	101599626	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+10160	Octodon degus	101564512	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+42254	Sorex araneus	101554668	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9978	Ochotona princeps	101528528	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9361	Dasypus novemcinctus	101437993	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9708	Odobenus rosmarus divergens	101386534	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9733	Orcinus orca	101271909	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9940	Ovis aries	101109291	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		12	NC_019469.2	77797138	77830846	plus	9		
+9685	Felis catus	101099353	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		F1	NC_018739.2	40510660	40559014	plus	15		
+27679	Saimiri boliviensis	101043907	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9555	Papio anubis	101022968	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_018152.1	162643631	162685668	minus	14		
+9597	Pan paniscus	100981577	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_027868.1	181182829	181232347	plus	15		
+30611	Otolemur garnettii	100940946	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+10141	Cavia porcellus	100733998	0	live	Pkp1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9785	Loxodonta africana	100670518	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9823	Sus scrofa	100623590	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		10	NC_010452.3	28237387	28276472	minus	10		
+61853	Nomascus leucogenys	100583273	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		9	NC_019824.1	14913776	14962821	minus	15		
+9646	Ailuropoda melanoleuca	100468306	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9601	Pongo abelii	100461789	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		1	NC_012591.1	48985102	49034493	minus	15		
+9483	Callithrix jacchus	100395425	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)|plakophilin-1		19	NC_013914.1	22884494	22935805	plus	14		
+59729	Taeniopygia guttata	100223063	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		26	NC_011490.1	2566880	2612406	minus	13		
+9796	Equus caballus	100051894	0	live	PKP1		plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		30	NC_009173.2	28347167	28395790	plus	15		
+13146	Melopsittacus undulatus	101871422	0	live	LOC101871422	PKP1	plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+73337	Ceratotherium simum simum	101402218	0	live	LOC101402218	PKP1	plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+127582	Trichechus manatus latirostris	101345879	0	live	LOC101345879	PKP1	plakophilin 1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)		Un							
+9606	Homo sapiens	4792	0	live	NFKBIA	IKBA, MAD-3, NFKBI	NFKB inhibitor alpha	I-kappa-B-alpha|IkappaBalpha|ikB-alpha|major histocompatibility complex enhancer-binding protein MAD3|nuclear factor of kappa light chain gene enhancer in B-cells|nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	14q13	14	NC_000014.9	35401510	35404754	minus	6	164008	
+9606	Homo sapiens	5317	0	live	PKP1	B6P	plakophilin 1	band 6 protein	1q32	1	NC_000001.11	201283452	201332993	plus	15	601975	
+9606	Homo sapiens	22861	0	live	NLRP1	CARD7, CIDED, CLR17.1, DEFCAP, DEFCAP-L/S, NAC, NALP1, PP1044, SLEV1, VAMAS1	NLR family, pyrin domain containing 1	NACHT, LRR and PYD containing protein 1|NACHT, leucine rich repeat and PYD (pyrin domain) containing 1|NACHT, leucine rich repeat and PYD containing 1|caspase recruitment domain protein 7|caspase recruitment domain-containing protein 7|death effector filament-forming Ced-4-like apoptosis protein|nucleotide-binding domain and caspase recruitment domain|nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 1	17p13.2	17	NC_000017.11	5501399	5584512	minus	18	606636	
+9606	Homo sapiens	81607	0	live	NECTIN4	EDSS1, LNIR, PRR4, PVRL4, nectin-4	nectin cell adhesion molecule 4	Ig superfamily receptor LNIR|nectin 4|poliovirus receptor-related 4|poliovirus receptor-related protein 4	1q23.3	1	NC_000001.11	161070991	161089595	minus	9	609607	
+9606	Homo sapiens	79977	0	live	GRHL2	BOM, DFNA28, ECTDS, TFCP2L3	grainyhead like transcription factor 2	brother of mammalian grainyhead|grainyhead-like 2|grainyhead-like transcription factor 2|transcription factor CP2-like 3	8q22.3	8	NC_000008.11	101492406	101678098	plus	18	608576	
+9606	Homo sapiens	3229	0	live	HOXC13	ECTD9, HOX3, HOX3G	homeobox C13	NUP98/HOXC13|homeo box 3G|homeobox protein Hox-3G	12q13.3	12	NC_000012.12	53938792	53946544	plus	2	142976	
+9606	Homo sapiens	117581	0	live	TWIST2	AMS, BBRSAY, DERMO1, FFDD3, SETLSS, bHLHa39	twist family bHLH transcription factor 2	class A basic helix-loop-helix protein 39|dermis-expressed protein 1|twist basic helix-loop-helix transcription factor 2|twist homolog 2|twist-related bHLH protein Dermo1	2q37.3	2	NC_000002.12	238847934	238910548	plus	4	607556	
+9606	Homo sapiens	3891	0	live	KRT85	ECTD4, HB5, Hb-5, K85, KRTHB5, hHb5	keratin 85	hair keratin K2.12|hard keratin, type II, 5|keratin 85, type II|keratin, hair, basic, 5|keratin-85|type II hair keratin Hb5|type-II keratin Kb25	12q13	12	NC_000012.12	52360006	52367525	minus	10	602767	
+9606	Homo sapiens	121391	0	live	KRT74	ADWH, HTSS2, HYPT3, K6IRS4, KRT5C, KRT6IRS4	keratin 74	CK-74|K5C|K74|cytokeratin-74|keratin 5c|keratin 6 irs4|keratin 74, type II|keratin-5c|keratin-74|type II inner root sheath-specific keratin-K6irs4|type-II keratin Kb37	12q13.13	12	NC_000012.12	52565722	52574092	minus	10	608248	
+9606	Homo sapiens	60401	0	live	EDA2R	EDA-A2R, EDAA2R, TNFRSF27, XEDAR	ectodysplasin A2 receptor	EDA-A2 receptor|X-linked ectodysplasin-A2 receptor|tumor necrosis factor receptor superfamily member XEDAR	Xq12	X	NC_000023.11	66594384	66639298	minus	9	300276	
+10029	Cricetulus griseus	100752833	0	live	Eda2r		ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un	NW_003614284.1	411038	456305	minus	9		
+9531	Cercocebus atys	105586158	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9913	Bos taurus	100301324	0	live	EDA2R		ectodysplasin A2 receptor			X	AC_000187.1	89621107	89711104	plus	8		
+30608	Microcebus murinus	105856847	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+60711	Chlorocebus sabaeus	103232104	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_023671.1	56527838	56574646	minus	10		
+9601	Pongo abelii	100435021	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_012614.1	64072588	64118968	minus	9		
+10090	Mus musculus	245527	0	live	Eda2r	9430060M22Rik, TNFRSF27, Xedar	ectodysplasin A2 receptor	EDA-A2 receptor|X linked ectodysplasin receptor|X-linked ectodysplasin-A2 receptor|ectodysplasin A2 isoform receptor	X C3	X	NC_000086.7	97333837	97377218	minus	7		
+10116	Rattus norvegicus	296872	0	live	Eda2r	RGD1564025	ectodysplasin A2 receptor	ectodysplasin A2 isoform receptor	Xq31	X	NC_005120.4	66560221	66602509	minus	8		
+29073	Ursus maritimus	103681147	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_007927193.1	1450443	1496987	minus	9		
+37293	Aotus nancymaae	105722992	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9545	Macaca nemestrina	105476691	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9646	Ailuropoda melanoleuca	100482463	0	live	EDA2R	PANDA_018042	ectodysplasin A2 receptor			Un							
+34839	Chinchilla lanigera	102011535	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+9940	Ovis aries	101118670	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_019484.2	55204476	55343256	minus	7		
+9555	Papio anubis	101020000	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_018172.1	58093537	58138440	minus	7		
+9597	Pan paniscus	100976789	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_027891.1	65851559	65894775	minus	8		
+9483	Callithrix jacchus	100400510	0	live	EDA2R		ectodysplasin A2 receptor	tumor necrosis factor receptor superfamily member 27		X	NC_013918.1	58250728	58299959	minus	8		
+9541	Macaca fascicularis	102116506	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_022292.1	63479585	63508969	minus	5		
+9478	Tarsius syrichta	103256827	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_007240894.1	307094	351570	minus	7		
+9713	Leptonychotes weddellii	102740674	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_006383471.1	792999	837175	minus	7		
+30538	Vicugna pacos	102540926	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+59538	Pantholops hodgsonii	102335010	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_005811932.1	171791	248136	minus	7		
+9708	Odobenus rosmarus divergens	101367854	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9593	Gorilla gorilla	101140930	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_018447.1	63808100	63853626	minus	9		
+9606	Homo sapiens	80326	0	live	WNT10A	OODD, SSPS, STHAG4	wingless-type MMTV integration site family member 10A	wingless-type MMTV integration site family, member 10A	2q35	2	NC_000002.12	218874323	218893931	plus	6	606268	
+9031	Gallus gallus	422166	0	live	EDA2R		ectodysplasin A2 receptor	X-linked ectodysplasin receptor|xedar		4	NC_006091.4	367532	376480	minus	10		
+9544	Macaca mulatta	710244	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_027913.1	61158187	61206347	minus	6		
+72004	Bos mutus	102286680	0	live	EDA2R	M91_04096	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+109478	Myotis brandtii	102251816	0	live	EDA2R	D623_10002317	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+10181	Heterocephalus glaber	101710101	0	live	Eda2r	GW7_08560	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+9172	Sturnus vulgaris	106860112	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+379532	Propithecus coquereli	105809527	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9568	Mandrillus leucophaeus	105529590	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+336983	Colobus angolensis palliatus	105525606	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9837	Camelus bactrianus	105083717	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+885580	Fukomys damarensis	104867746	0	live	Eda2r	H920_08720	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+118797	Lipotes vexillifer	103072191	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_006797490.1	925304	995224	plus	8		
+13735	Pelodiscus sinensis	102460687	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+59463	Myotis lucifugus	102429449	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+79684	Microtus ochrogaster	101999176	0	live	Eda2r		ectodysplasin A2 receptor			X	NC_022026.1	26780462	26824189	plus	8		
+43179	Ictidomys tridecemlineatus	101971532	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+10036	Mesocricetus auratus	101838515	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+27679	Saimiri boliviensis	101029002	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+230844	Peromyscus maniculatus bairdii	102922382	0	live	LOC102922382		tumor necrosis factor receptor superfamily member 27-like			Un	NW_006501190.1	4484157	4532214	plus	8		
+9606	Homo sapiens	7189	0	live	TRAF6	MGC:3310, RNF85	TNF receptor associated factor 6	E3 ubiquitin-protein ligase TRAF6|RING finger protein 85|TNF receptor-associated factor 6, E3 ubiquitin protein ligase|interleukin-1 signal transducer	11p12	11	NC_000011.10	36483767	36510313	minus	8	602355	
+9598	Pan troglodytes	473648	0	live	EDA2R		ectodysplasin A2 receptor	X-linked ectodysplasin receptor		X	NC_006491.3	66273599	66315679	minus	6		
+1026970	Nannospalax galili	103743141	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+9994	Marmota marmota marmota	107155689	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+198806	Calidris pugnax	106895745	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+35019	Thamnophis sirtalis	106544471	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+202946	Apteryx australis mantelli	106493589	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+381198	Anser cygnoides domesticus	106045564	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+216574	Aquila chrysaetos canadensis	105403903	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+132908	Pteropus vampyrus	105299649	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9838	Camelus dromedarius	105090654	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+52644	Haliaeetus leucocephalus	104834855	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+932674	Corvus cornix cornix	104691276	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+175836	Buceros rhinoceros silvestris	104491372	0	live	EDA2R	N320_03532	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+8897	Chaetura pelagica	104387842	0	live	EDA2R	M959_00465	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+188344	Leptosomus discolor	104354628	0	live	EDA2R	N330_08103	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+118200	Picoides pubescens	104306373	0	live	EDA2R	N307_12531	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+50402	Charadrius vociferus	104282583	0	live	EDA2R	N301_11285	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+441894	Struthio camelus australis	104145678	0	live	EDA2R	N308_13655	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+55661	Cuculus canorus	104054338	0	live	EDA2R	N303_06697	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+128390	Nipponia nippon	104012916	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9238	Pygoscelis adeliae	103925538	0	live	EDA2R	AS28_04509	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+9233	Aptenodytes forsteri	103906150	0	live	EDA2R	AS27_14041	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+9135	Serinus canaria	103816559	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+328815	Manacus vitellinus	103767774	0	live	EDA2R	N305_03815	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un							
+9244	Calypte anna	103535188	0	live	EDA2R	N300_09891	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un	NW_007621604.1	303050	307892	minus	9		
+9755	Physeter catodon	102979614	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_006714281.1	20935	80968	minus	8		
+8469	Chelonia mydas	102946408	0	live	EDA2R	UY3_07446	ectodysplasin A2 receptor	Tumor necrosis factor receptor superfamily member 27		Un	NW_006630072.1	17633467	17640914	minus	8		
+89462	Bubalus bubalis	102395900	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_005785335.1	175291	282429	minus	9		
+38654	Alligator sinensis	102377405	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9925	Capra hircus	102185640	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_022322.1	80545275	80638413	plus	7		
+181119	Pseudopodoces humilis	102103378	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+44394	Zonotrichia albicollis	102073065	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+345164	Falco cherrug	102057310	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+48883	Geospiza fortis	102038760	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+8479	Chrysemys picta	101947140	0	live	EDA2R		ectodysplasin A2 receptor			Un	NW_007281466.1	2129511	2150743	minus	10		
+8954	Falco peregrinus	101915715	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+59894	Ficedula albicollis	101805789	0	live	EDA2R		ectodysplasin A2 receptor			4A	NC_021676.1	6586139	6591146	plus	8		
+8839	Anas platyrhynchos	101804271	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+51337	Jaculus jaculus	101610919	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+10160	Octodon degus	101588452	0	live	Eda2r		ectodysplasin A2 receptor			Un							
+9978	Ochotona princeps	101529895	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+9733	Orcinus orca	101284101	0	live	EDA2R		ectodysplasin A2 receptor			Un							
+61853	Nomascus leucogenys	100603908	0	live	EDA2R		ectodysplasin A2 receptor			X	NC_019841.1	59772127	59817414	minus	8		
+9103	Meleagris gallopavo	100550140	0	live	EDA2R		ectodysplasin A2 receptor			9	NC_015019.2	2646548	2656086	minus	8		
+9986	Oryctolagus cuniculus	100355079	0	live	EDA2R		ectodysplasin A2 receptor	X-linked ectodysplasin receptor		X	NC_013690.1	45565649	45596748	minus	8		
+59729	Taeniopygia guttata	100222733	0	live	EDA2R		ectodysplasin A2 receptor			4A	NC_011468.1	6502686	6507175	plus	8		
+94827	Tinamus guttatus	104570040	0	live	LOC104570040	N309_14310	tumor necrosis factor receptor superfamily member 27-like	Tumor necrosis factor receptor superfamily member 27		Un							
+54374	Mesitornis unicolor	104542594	0	live	LOC104542594	N332_06550	tumor necrosis factor receptor superfamily member 27-like	Tumor necrosis factor receptor superfamily member 27		Un							
+54383	Eurypyga helias	104505049	0	live	LOC104505049	N326_08962	tumor necrosis factor receptor superfamily member 27-like	Tumor necrosis factor receptor superfamily member 27		Un							
+8496	Alligator mississippiensis	102577344	0	live	EDA2R	Y1Q_000764	ectodysplasin A2 receptor	hypothetical protein		Un							
+9606	Homo sapiens	4790	0	live	NFKB1	CVID12, EBP-1, KBF1, NF-kB1, NF-kappa-B, NF-kappaB, NFKB-p105, NFKB-p50, NFkappaB, p105, p50	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1	DNA binding factor KBF1|DNA-binding factor KBF1|NF-kappabeta|nuclear factor NF-kappa-B p50 subunit|nuclear factor kappa-B DNA binding subunit	4q24	4	NC_000004.12	102501329	102617302	plus	26	164011	
+9606	Homo sapiens	6786	0	live	STIM1	D11S4896E, GOK, IMD10, STRMK, TAM, TAM1	stromal interaction molecule 1		11p15.5	11	NC_000011.10	3855703	4093210	plus	13	605921	
+9606	Homo sapiens	6885	0	live	MAP3K7	MEKK7, TAK1, TGF1a	mitogen-activated protein kinase kinase kinase 7	TGF-beta activated kinase 1|TGF-beta-activated kinase 1|transforming growth factor-beta-activated kinase 1	6q15	6	NC_000006.12	90513573	90587301	minus	17	602614	
+9606	Homo sapiens	23118	0	live	TAB2	CHTD2, MAP3K7IP2, TAB-2	TGF-beta activated kinase 1/MAP3K7 binding protein 2	TAK1-binding protein 2|mitogen-activated protein kinase kinase kinase 7-interacting protein 2	6q25.1	6	NC_000006.12	149217924	149411613	plus	15	605101	
+10090	Mus musculus	18033	0	live	Nfkb1	NF-KB1, NF-kappaB, NF-kappaB1, p105, p50, p50/p105	nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105	DNA-binding factor KBF1|EBP-1|NF kappaB1|NF-kappa-B1 p84/NF-kappa-B1 p98|NF-kappaB p50|nuclear factor kappaB p50|nuclear factor of kappa light chain gene enhancer in B-cells 1, p105|nuclear factor of kappa light polypeptide gene enhancer in B-cells 1, p105|nuclear factor-kappaB p50|p50 subunit of NF kappaB|p50 subunit of NF-kappaB	3 62.82 cM	3	NC_000069.6	135584655	135691547	minus	26		
+9606	Homo sapiens	2706	0	live	GJB2	CX26, DFNA3, DFNA3A, DFNB1, DFNB1A, HID, KID, NSRD1, PPK	gap junction protein beta 2	connexin 26|gap junction protein, beta 2, 26kDa|mutant gap junction protein beta 2	13q11-q12	13	NC_000013.11	20187463	20192975	minus	3	121011	
+9606	Homo sapiens	1147	0	live	CHUK	IKBKA, IKK-alpha, IKK1, IKKA, NFKBIKA, TCF16	conserved helix-loop-helix ubiquitous kinase	I-kappa-B kinase 1|I-kappa-B kinase-alpha|IKK-a kinase|IkB kinase alpha subunit|Nuclear factor NFkappaB inhibitor kinase alpha|TCF-16|transcription factor 16	10q24-q25	10	NC_000010.11	100186113	100229610	minus	23	600664	
+9606	Homo sapiens	1536	0	live	CYBB	AMCBX2, CGD, GP91-1, GP91-PHOX, GP91PHOX, IMD34, NOX2, p91-PHOX	cytochrome b-245, beta polypeptide	CGD91-phox|NADPH oxidase 2|cytochrome b(558) subunit beta|cytochrome b-245 beta polypeptide|cytochrome b558 subunit beta|heme-binding membrane glycoprotein gp91phox|neutrophil cytochrome b 91 kDa polypeptide|p22 phagocyte B-cytochrome|superoxide-generating NADPH oxidase heavy chain subunit	Xp21.1	X	NC_000023.11	37780017	37813465	plus	14	300481	
+10090	Mus musculus	22061	0	live	Trp63	AI462811, Ket, P51/P63, P63, P73l, Tp63, Trp53rp1	transformation related protein 63	transformation-related protein 63	16 17.37 cM	16	NC_000082.6	25683763	25892103	plus	17		
+9606	Homo sapiens	84876	0	live	ORAI1	CRACM1, IMD9, ORAT1, TAM2, TMEM142A	ORAI calcium release-activated calcium modulator 1	calcium release-activated calcium modulator 1|protein orai-1|transmembrane protein 142A	12q24.31	12	NC_000012.12	121626550	121642040	plus	2	610277	
+10090	Mus musculus	22034	0	live	Traf6	2310003F17Rik, AI851288, C630032O20Rik	TNF receptor-associated factor 6	E3 ubiquitin-protein ligase TRAF6	2 E2	2	NC_000068.7	101678420	101701668	plus	8		
+9606	Homo sapiens	7187	0	live	TRAF3	CAP-1, CAP1, CD40bp, CRAF1, IIAE5, LAP1	TNF receptor associated factor 3	CD40 associated protein 1|CD40 binding protein|CD40 receptor associated factor 1|LMP1-associated protein 1	14q32.32	14	NC_000014.9	102777475	102911500	plus	13	601896	
+9606	Homo sapiens	1832	0	live	DSP	DCWHKTA, DP	desmoplakin	250/210 kDa paraneoplastic pemphigus antigen	6p24	6	NC_000006.12	7541575	7586713	plus	24	125647	
+9606	Homo sapiens	653361	0	live	NCF1	NCF1A, NOXO2, SH3PXD1A, p47phox	neutrophil cytosolic factor 1	47 kDa autosomal chronic granulomatous disease protein|47 kDa neutrophil oxidase factor|NADPH oxidase organizer 2|NCF-1|NCF-47K|SH3 and PX domain-containing protein 1A|neutrophil NADPH oxidase factor 1|neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)|nox organizer 2|nox-organizing protein 2|p47-phox	7q11.23	7	NC_000007.14	74773962	74789376	plus	13	608512	
+9606	Homo sapiens	3861	0	live	KRT14	CK14, EBS3, EBS4, K14, NFJ	keratin 14	cytokeratin 14|cytokeratin-14|keratin 14, type I|keratin-14	17q21.2	17	NC_000017.11	41582279	41586895	minus	8	148066	
+9606	Homo sapiens	1001	0	live	CDH3	CDHP, HJMD, PCAD	cadherin 3	cadherin 3, type 1, P-cadherin (placental)|calcium-dependent adhesion protein, placental	16q22.1	16	NC_000016.10	68644248	68727577	plus	18	114021	
+9606	Homo sapiens	8313	0	live	AXIN2	AXIL, ODCRCS	axin 2	axin-like protein|axis inhibition protein 2|conductin	17q24.1	17	NC_000017.11	65528563	65561622	minus	14	604025	
+10090	Mus musculus	12560	0	live	Cdh3	AI385538, Cadp, Cdhp, P-cadherin, Pcad	cadherin 3	RPE-specific cadherin|placental cadherin	8 53.16 cM	8	NC_000074.6	106510852	106556911	plus	16		
+9606	Homo sapiens	7278	0	live	TUBA3C	TUBA2, bA408E5.3	tubulin alpha 3c	alpha-tubulin 2|alpha-tubulin 3C/D|tubulin alpha-2 chain|tubulin, alpha 2|tubulin, alpha 3c	13q11	13	NC_000013.11	19173770	19181852	minus	5	602528	
+9606	Homo sapiens	64065	0	live	PERP	KCP1, KRTCAP1, PIGPC1, THW, dJ496H19.1	PERP, TP53 apoptosis effector	1110017A08Rik|KCP-1|keratinocyte associated protein 1|keratinocyte-associated protein 1|keratinocytes associated protein 1|p53 apoptosis effector related to PMP22|p53-induced protein PIGPC1|transmembrane protein THW	6q24	6	NC_000006.12	138088505	138107523	minus	3	609301	
+9615	Canis lupus familiaris	491935	0	live	EDA		ectodysplasin A			X	NC_006621.3	54078743	54515535	plus	8		

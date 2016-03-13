@@ -1,0 +1,487 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	7299	0	live	TYR	ATN, CMM8, OCA1, OCA1A, OCAIA, SHEP3	tyrosinase	LB24-AB|SK29-AB|monophenol monooxygenase|oculocutaneous albinism IA|tumor rejection antigen AB	11q14.3	11	NC_000011.10	89177858	89295759	plus	6	606933	
+9606	Homo sapiens	4948	0	live	OCA2	BEY, BEY1, BEY2, BOCA, D15S12, EYCL, EYCL2, EYCL3, HCL3, P, PED, SHEP1	OCA2 melanosomal transmembrane protein	P-protein|eye color 2 (central brown)|eye color 3 (brown)|hair color 3 (brown)|melanocyte-specific transporter protein|oculocutaneous albinism II (pink-eye dilution homolog, mouse)|pink-eyed dilution protein homolog|total brown iris pigmentation	15q	15	NC_000015.10	27754873	28099340	minus	29	611409	
+9606	Homo sapiens	4935	0	live	GPR143	NYS6, OA1	G protein-coupled receptor 143	ocular albinism 1|ocular albinism type 1 protein	Xp22.3	X	NC_000023.11	9725413	9765965	minus	10	300808	
+10090	Mus musculus	18431	0	live	Oca2	D7H15S12, D7Icr28RN, D7Nic1, p	oculocutaneous albinism II	melanocyte-specific transporter protein|pink-eyed dilution protein	7 33.44 cM	7	NC_000073.6	56239593	56536517	plus	26		
+9606	Homo sapiens	122	0	live	ADFN	ALDS	albinism-deafness syndrome		Xq26.3-q27.1	X						300700	
+9606	Homo sapiens	101926885	0	live	OCA5	OCA7	oculocutaneous albinism 5 (autosomal recessive)	Albinism, oculocutaneous, type VII	4q24	4						615312	
+10090	Mus musculus	18241	0	live	Gpr143	Oa1	G protein-coupled receptor 143	MOA1|homolog of human ocular albinism 1 (Nettleship-Falls)|ocular albinism type 1 protein homolog	X F2-F3	X	NC_000086.7	152781921	152808651	plus	9		
+9606	Homo sapiens	4936	0	live	OA3	OAR	ocular albinism 3 (autosomal recessive)	Ocular albinism, autosomal recessive	6q13-q15	6							
+9606	Homo sapiens	4941	0	live	OASD		ocular albinism and sensorineural deafness		Xp22.3	X						300650	
+9606	Homo sapiens	283652	0	live	SLC24A5	JSX, NCKX5, OCA6, SHEP4	solute carrier family 24 member 5	Na(+)/K(+)/Ca(2+)-exchange protein 5|ion transporter JSX|oculocutaneous albinism 6 (autosomal recessive)|solute carrier family 24 (sodium/potassium/calcium exchanger), member 5|solute carrier family 24, member 5	15q21.1	15	NC_000015.10	48120972	48142392	plus	9	609802	
+9598	Pan troglodytes	453261	0	live	OCA2		oculocutaneous albinism II	oculocutaneous albinism II (pink-eye dilution homolog, mouse)		15	NC_006482.3	25409333	25755401	minus	29		
+9545	Macaca nemestrina	105497437	0	live	OCA2		oculocutaneous albinism II			Un							
+885580	Fukomys damarensis	104854458	0	live	Oca2	H920_18883	oculocutaneous albinism II	P protein		Un							
+60711	Chlorocebus sabaeus	103245999	0	live	OCA2		oculocutaneous albinism II			26	NC_023667.1	54022346	54429991	plus	35		
+9531	Cercocebus atys	105592986	0	live	OCA2		oculocutaneous albinism II			Un							
+9555	Papio anubis	101022567	0	live	OCA2		oculocutaneous albinism II			7	NC_018158.1	3534945	3892463	minus	27		
+8364	Xenopus tropicalis	100487559	0	live	oca2		oculocutaneous albinism II			Un							
+7918	Lepisosteus oculatus	102694045	0	live	oca2		oculocutaneous albinism II			LG17	NC_023195.1	20893727	21019463	plus	27		
+7955	Danio rerio	567419	0	live	oca2		oculocutaneous albinism II	P		6	NC_007117.6	37881031	38058111	plus	24		
+9031	Gallus gallus	428009	0	live	OCA2		oculocutaneous albinism II	oculocutaneous albinism II (pink-eye dilution homolog, mouse)		1	NC_006088.4	130666248	130847586	plus	26		
+9940	Ovis aries	101102287	0	live	OCA2		oculocutaneous albinism II			2	NC_019459.2	112096431	112434902	minus	24		
+9597	Pan paniscus	100969256	0	live	OCA2		oculocutaneous albinism II			15	NC_027883.1	25181417	25523703	minus	28		
+381198	Anser cygnoides domesticus	106035669	0	live	OCA2		oculocutaneous albinism II			Un							
+336983	Colobus angolensis palliatus	105512428	0	live	OCA2		oculocutaneous albinism II			Un							
+8128	Oreochromis niloticus	100711675	0	live	oca2		oculocutaneous albinism II			LG23	NC_022220.1	8680466	8733996	minus	25		
+48699	Poecilia latipinna	106938371	0	live	oca2		oculocutaneous albinism II			Un							
+28588	Bactrocera cucurbitae	105215247	0	live	Oca2		oculocutaneous albinism II	P protein		Un							
+61622	Rhinopithecus roxellana	104655701	0	live	OCA2		oculocutaneous albinism II			Un							
+1026970	Nannospalax galili	103734604	0	live	Oca2		oculocutaneous albinism II			Un							
+29073	Ursus maritimus	103677086	0	live	OCA2		oculocutaneous albinism II			Un	NW_007907264.1	7648686	8087226	minus	24		
+8081	Poecilia reticulata	103463915	0	live	oca2		oculocutaneous albinism II			LG4	NC_024334.1	17683406	17741115	minus	26		
+9925	Capra hircus	102186347	0	live	OCA2		oculocutaneous albinism II			2	NC_022294.1	355579	706931	minus	25		
+8839	Anas platyrhynchos	101795922	0	live	OCA2		oculocutaneous albinism II			Un							
+10029	Cricetulus griseus	100758485	0	live	Oca2	I79_014089	oculocutaneous albinism II	P protein		3	NW_003614268.1	152943	441400	minus	23		
+28377	Anolis carolinensis	100564181	0	live	oca2		oculocutaneous albinism II			3	NC_014778.1	111252905	111519012	minus	25		
+9615	Canis lupus familiaris	403405	0	live	TYR		tyrosinase	monophenol monooxygenase|tyrosinase (oculocutaneous albinism IA)		21	NC_006603.3	10799940	10894187	minus	5		
+9544	Macaca mulatta	712220	0	live	OCA2		oculocutaneous albinism II			7	NC_027899.1	4740472	5078474	minus	23		
+9913	Bos taurus	524289	0	live	OCA2		OCA2 melanosomal transmembrane protein	P protein-like|oculocutaneous albinism II		2	AC_000159.1	347040	631226	minus	24		
+9823	Sus scrofa	397171	0	live	OCA2		oculocutaneous albinism II	melanocyte-specific transporter protein|oculocutaneous albinism II (pink-eye dilution homolog, mouse)|pink eye dilution|pink-eyed dilution protein homolog	15	15	NC_010457.4	63929054	64060069	plus	20		
+9823	Sus scrofa	397171	0	live	OCA2		oculocutaneous albinism II	melanocyte-specific transporter protein|oculocutaneous albinism II (pink-eye dilution homolog, mouse)|pink eye dilution|pink-eyed dilution protein homolog	15	15	NC_010457.4	156879489	156880169	minus	20		
+9796	Equus caballus	100034107	0	live	OCA2		oculocutaneous albinism II			1	NC_009144.2	113261417	113619510	minus	24		
+9615	Canis lupus familiaris	488683	0	live	OCA2		oculocutaneous albinism II	P protein-like|oculocutaneous albinism II (pink-eye dilution homolog, mouse)		3	NC_006585.3	32362239	32713263	plus	22		
+419612	Camelus ferus	102512002	0	live	OCA2	CB1_001631003	oculocutaneous albinism II			Un							
+9646	Ailuropoda melanoleuca	100474507	0	live	OCA2	PANDA_020785	oculocutaneous albinism II			Un							
+28743	Cyprinodon variegatus	107100445	0	live	oca2		oculocutaneous albinism II			Un							
+32536	Acinonyx jubatus	106967804	0	live	OCA2		oculocutaneous albinism II			Un							
+198806	Calidris pugnax	106898776	0	live	OCA2		oculocutaneous albinism II			Un							
+9172	Sturnus vulgaris	106862702	0	live	OCA2		oculocutaneous albinism II			Un							
+9793	Equus asinus	106825541	0	live	OCA2		oculocutaneous albinism II			Un							
+52670	Austrofundulus limnaeus	106527513	0	live	oca2		oculocutaneous albinism II			Un							
+202946	Apteryx australis mantelli	106493965	0	live	OCA2		oculocutaneous albinism II			Un							
+10020	Dipodomys ordii	105982336	0	live	Oca2		oculocutaneous albinism II			Un							
+8078	Fundulus heteroclitus	105925432	0	live	oca2		oculocutaneous albinism II			Un							
+7950	Clupea harengus	105895012	0	live	oca2		oculocutaneous albinism II			Un							
+30608	Microcebus murinus	105868891	0	live	OCA2		oculocutaneous albinism II			Un							
+379532	Propithecus coquereli	105813351	0	live	OCA2		oculocutaneous albinism II			Un							
+37293	Aotus nancymaae	105722666	0	live	OCA2		oculocutaneous albinism II			Un							
+9568	Mandrillus leucophaeus	105540760	0	live	OCA2		oculocutaneous albinism II			Un							
+216574	Aquila chrysaetos canadensis	105408360	0	live	OCA2		oculocutaneous albinism II			Un							
+132908	Pteropus vampyrus	105305787	0	live	OCA2		oculocutaneous albinism II			Un							
+9837	Camelus bactrianus	105081104	0	live	OCA2		oculocutaneous albinism II			Un							
+8010	Esox lucius	105027380	0	live	oca2		oculocutaneous albinism II			LG08	NC_025975.2	3820177	3906074	plus	24		
+43346	Bison bison bison	104998000	0	live	OCA2		oculocutaneous albinism II			Un							
+215358	Larimichthys crocea	104929476	0	live	oca2		oculocutaneous albinism II			Un							
+52644	Haliaeetus leucocephalus	104839888	0	live	OCA2		oculocutaneous albinism II			Un							
+932674	Corvus cornix cornix	104686032	0	live	OCA2		oculocutaneous albinism II			Un							
+94827	Tinamus guttatus	104575307	0	live	OCA2	N309_02837	oculocutaneous albinism II	P protein		Un							
+54383	Eurypyga helias	104505917	0	live	OCA2	N326_13373	oculocutaneous albinism II	P protein		Un							
+175836	Buceros rhinoceros silvestris	104489319	0	live	OCA2	N320_12876	oculocutaneous albinism II	P protein		Un							
+8897	Chaetura pelagica	104386252	0	live	OCA2	M959_06149	oculocutaneous albinism II	P protein		Un							
+121530	Tauraco erythrolophus	104381704	0	live	OCA2	N340_00572	oculocutaneous albinism II	P protein		Un							
+188344	Leptosomus discolor	104347719	0	live	OCA2	N330_02793	oculocutaneous albinism II	P protein		Un							
+30419	Opisthocomus hoazin	104326368	0	live	OCA2	N306_14216	oculocutaneous albinism II	P protein		Un							
+50402	Charadrius vociferus	104283869	0	live	OCA2	N301_06784	oculocutaneous albinism II	P protein		Un							
+54380	Cariama cristata	104163097	0	live	OCA2	N322_11557	oculocutaneous albinism II	P protein		Un							
+441894	Struthio camelus australis	104138674	0	live	OCA2	N308_07477	oculocutaneous albinism II	P protein		Un							
+188379	Egretta garzetta	104132370	0	live	OCA2	Z169_15277	oculocutaneous albinism II	P protein		Un							
+55661	Cuculus canorus	104066346	0	live	OCA2	N303_07771	oculocutaneous albinism II	P protein		Un							
+128390	Nipponia nippon	104019315	0	live	OCA2	Y956_02745	oculocutaneous albinism II	P protein		Un							
+9238	Pygoscelis adeliae	103923045	0	live	OCA2	AS28_02784	oculocutaneous albinism II	P protein		Un							
+9233	Aptenodytes forsteri	103900625	0	live	OCA2	AS27_05328	oculocutaneous albinism II	P protein		Un							
+9135	Serinus canaria	103812336	0	live	OCA2		oculocutaneous albinism II			Un							
+57421	Merops nubicus	103774264	0	live	OCA2	N331_05204	oculocutaneous albinism II	P protein		Un							
+328815	Manacus vitellinus	103765005	0	live	OCA2	N305_08287	oculocutaneous albinism II	P protein		Un							
+85066	Corvus brachyrhynchos	103611780	0	live	OCA2	N302_15898	oculocutaneous albinism II	P protein		Un	NW_008236973.1	5406849	5570946	plus	23		
+9244	Calypte anna	103532342	0	live	OCA2	N300_03207	oculocutaneous albinism II	P protein		Un	NW_007620825.1	5202409	5361592	minus	23		
+244447	Cynoglossus semilaevis	103392601	0	live	oca2		oculocutaneous albinism II			2	NC_024308.1	124960	134702	minus	24		
+29078	Eptesicus fuscus	103304006	0	live	OCA2		oculocutaneous albinism II			Un	NW_007371000.1	59369	82988	minus	21		
+1230840	Orycteropus afer afer	103201308	0	live	OCA2		oculocutaneous albinism II			Un	NW_006921733.1	764436	1338875	plus	22		
+7868	Callorhinchus milii	103177224	0	live	oca2		oculocutaneous albinism II			Un	NW_006890071.1	1828779	1935415	plus	22		
+48698	Poecilia formosa	103149326	0	live	oca2		oculocutaneous albinism II			Un	NW_006800161.1	171702	216853	minus	24		
+9365	Erinaceus europaeus	103123238	0	live	OCA2		oculocutaneous albinism II			Un	NW_006804606.1	63189	509175	minus	23		
+176946	Python bivittatus	103059581	0	live	OCA2		oculocutaneous albinism II			Un	NW_006534198.1	85721	191467	minus	15		
+8469	Chelonia mydas	102934638	0	live	OCA2	UY3_10268	oculocutaneous albinism II	P protein		Un	NW_006641179.1	1294334	1580686	minus	23		
+28737	Elephantulus edwardii	102863729	0	live	OCA2		oculocutaneous albinism II			Un	NW_006399984.1	1395968	1965770	minus	21		
+185453	Chrysochloris asiatica	102841964	0	live	OCA2		oculocutaneous albinism II			Un	NW_006408562.1	8819201	9042728	plus	23		
+8496	Alligator mississippiensis	102573211	0	live	OCA2	Y1Q_014532	oculocutaneous albinism II			Un							
+246437	Tupaia chinensis	102495596	0	live	OCA2	TREES_T100018942	oculocutaneous albinism II	P protein		Un							
+13735	Pelodiscus sinensis	102454604	0	live	OCA2		oculocutaneous albinism II			Un							
+59463	Myotis lucifugus	102435109	0	live	OCA2		oculocutaneous albinism II			Un							
+38654	Alligator sinensis	102386238	0	live	OCA2		oculocutaneous albinism II			Un							
+8153	Haplochromis burtoni	102313523	0	live	oca2		oculocutaneous albinism II			Un							
+109478	Myotis brandtii	102252220	0	live	OCA2	D623_10003484	oculocutaneous albinism II	P protein		Un							
+8083	Xiphophorus maculatus	102234960	0	live	oca2		oculocutaneous albinism II			Un							
+303518	Pundamilia nyererei	102197726	0	live	oca2		oculocutaneous albinism II			Un							
+181119	Pseudopodoces humilis	102100217	0	live	OCA2		oculocutaneous albinism II			Un							
+8932	Columba livia	102097272	0	live	OCA2	A306_07163	oculocutaneous albinism II	P protein		Un							
+44394	Zonotrichia albicollis	102072943	0	live	OCA2		oculocutaneous albinism II			Un							
+345164	Falco cherrug	102046824	0	live	OCA2		oculocutaneous albinism II			Un							
+48883	Geospiza fortis	102036475	0	live	OCA2		oculocutaneous albinism II			Un							
+34839	Chinchilla lanigera	102023950	0	live	Oca2		oculocutaneous albinism II			Un							
+79684	Microtus ochrogaster	101996800	0	live	Oca2		oculocutaneous albinism II			22	NC_022023.1	29867214	30067439	plus	23		
+43179	Ictidomys tridecemlineatus	101955919	0	live	Oca2		oculocutaneous albinism II			Un							
+8479	Chrysemys picta	101941062	0	live	OCA2		oculocutaneous albinism II			Un	NW_007281338.1	6417929	6711684	plus	20		
+8954	Falco peregrinus	101920091	0	live	OCA2		oculocutaneous albinism II			Un							
+10036	Mesocricetus auratus	101830013	0	live	Oca2		oculocutaneous albinism II			Un							
+59894	Ficedula albicollis	101816924	0	live	OCA2		oculocutaneous albinism II			1	NC_021671.1	34868212	35041894	minus	27		
+10181	Heterocephalus glaber	101723256	0	live	Oca2		oculocutaneous albinism II			Un							
+9371	Echinops telfairi	101658758	0	live	OCA2		oculocutaneous albinism II			Un							
+143302	Condylura cristata	101622219	0	live	OCA2		oculocutaneous albinism II			Un							
+51337	Jaculus jaculus	101614509	0	live	Oca2		oculocutaneous albinism II			Un							
+10160	Octodon degus	101565987	0	live	Oca2		oculocutaneous albinism II			Un							
+42254	Sorex araneus	101541903	0	live	OCA2		oculocutaneous albinism II			Un							
+9978	Ochotona princeps	101517771	0	live	OCA2		oculocutaneous albinism II			Un							
+106582	Maylandia zebra	101467480	0	live	oca2		oculocutaneous albinism II			Un							
+9361	Dasypus novemcinctus	101447483	0	live	OCA2		oculocutaneous albinism II			Un							
+9708	Odobenus rosmarus divergens	101370813	0	live	OCA2		oculocutaneous albinism II			Un							
+9733	Orcinus orca	101276275	0	live	OCA2		oculocutaneous albinism II			Un							
+9593	Gorilla gorilla	101141246	0	live	OCA2		oculocutaneous albinism II			15	NC_018439.1	6467776	6836703	minus	24		
+9685	Felis catus	101091026	0	live	OCA2		oculocutaneous albinism II			B3	NC_018728.2	27467630	27938874	minus	23		
+31033	Takifugu rubripes	101068719	0	live	oca2		oculocutaneous albinism II			20	NC_018909.1	1834341	1858584	minus	23		
+27679	Saimiri boliviensis	101029131	0	live	OCA2		oculocutaneous albinism II			Un							
+30611	Otolemur garnettii	100945207	0	live	OCA2		oculocutaneous albinism II			Un							
+9305	Sarcophilus harrisii	100915416	0	live	OCA2		oculocutaneous albinism II			3							
+10141	Cavia porcellus	100724327	0	live	Oca2		oculocutaneous albinism II			Un							
+9785	Loxodonta africana	100664120	0	live	OCA2		oculocutaneous albinism II			Un							
+61853	Nomascus leucogenys	100585527	0	live	OCA2		oculocutaneous albinism II			6	NC_019821.1	71169627	71487098	plus	23		
+9483	Callithrix jacchus	100392680	0	live	OCA2		oculocutaneous albinism II			6	NC_013901.1	3483267	3757056	minus	24		
+9986	Oryctolagus cuniculus	100340522	0	live	OCA2		oculocutaneous albinism II			17	NC_013685.1	78022259	78397118	plus	24		
+59729	Taeniopygia guttata	100228502	0	live	OCA2		oculocutaneous albinism II			1	NC_011462.1	32957619	33100577	minus	22		
+9669	Mustela putorius furo	101680974	0	live	LOC101680974	OCA2	P protein	oculocutaneous albinism II		Un							
+13146	Melopsittacus undulatus	101873360	0	live	LOC101873360	OCA2	oculocutaneous albinism II			Un							
+73337	Ceratotherium simum simum	101392855	0	live	LOC101392855	OCA2	oculocutaneous albinism II			Un							
+127582	Trichechus manatus latirostris	101359793	0	live	LOC101359793	OCA2	oculocutaneous albinism II			Un							
+10116	Rattus norvegicus	100365773	0	live	LOC100365773	Oca2, p	pink-eyed dilution-like	oculocutaneous albinism II		1	NC_005100.4	114661970	114987433	plus	24		
+7994	Astyanax mexicanus	103023169	0	live	oca2		OCA2 melanosomal transmembrane protein	oculocutaneous albinism II		Un							
+8090	Oryzias latipes	100049406	0	live	oca2		oculocutaneous albinism II	pink-eyed dilution protein		4	NC_019862.1	30124038	30185525	minus	24		
+74533	Panthera tigris altaica	102954648	0	live	OCA2		OCA2 melanosomal transmembrane protein	oculocutaneous albinism II		Un							
+9541	Macaca fascicularis	102134738	0	live	OCA2		OCA2 melanosomal transmembrane protein	oculocutaneous albinism II		7	NC_022278.1	5740520	6072474	minus	24		
+13616	Monodelphis domestica	100012265	0	live	LOC100012265	OCA2	P protein-like	oculocutaneous albinism II		7	NC_008807.1	53905496	54623935	plus	24		
+9913	Bos taurus	280951	0	live	TYR		tyrosinase	monophenol monooxygenase|tyrosinase (oculocutaneous albinism IA)	29qter	29	AC_000186.1	6351877	6462240	minus	5		
+9940	Ovis aries	780502	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		21	NC_019478.2	5718880	5833349	minus	6		
+9606	Homo sapiens	352896	0	live	GPR143P	OA1P	G protein-coupled receptor 143 pseudogene	ocular albinism 1 (Nettleship-Falls) Y-linked pseudogene	Yp11.2	Y	NC_000024.10	7100398	7106505	minus	0		
+35019	Thamnophis sirtalis	106542380	0	live	OCA2		oculocutaneous albinism II			Un							
+9838	Camelus dromedarius	105105416	0	live	OCA2		oculocutaneous albinism II			Un							
+8208	Notothenia coriiceps	104942182	0	live	oca2		oculocutaneous albinism II			Un							
+100784	Balearica regulorum gibbericeps	104629473	0	live	OCA2	N312_13319	oculocutaneous albinism II	P protein		Un							
+97097	Phaethon lepturus	104622451	0	live	OCA2	N335_01122	oculocutaneous albinism II	P protein		Un							
+279965	Caprimulgus carolinensis	104521190	0	live	OCA2	N321_03091	oculocutaneous albinism II	P protein		Un							
+187382	Chlamydotis macqueenii	104482134	0	live	OCA2	N324_01661	oculocutaneous albinism II	P protein		Un							
+240206	Pterocles gutturalis	104464856	0	live	OCA2	N339_12123	oculocutaneous albinism II	P protein		Un							
+8969	Haliaeetus albicilla	104313825	0	live	OCA2		oculocutaneous albinism II			Un							
+118200	Picoides pubescens	104299941	0	live	OCA2		oculocutaneous albinism II			Un							
+57397	Apaloderma vittatum	104271135	0	live	OCA2		oculocutaneous albinism II			Un							
+30455	Fulmarus glacialis	104084158	0	live	OCA2		oculocutaneous albinism II			Un							
+9209	Phalacrocorax carbo	104041481	0	live	OCA2		oculocutaneous albinism II			Un							
+36300	Pelecanus crispus	104027235	0	live	OCA2		oculocutaneous albinism II			Un							
+57068	Acanthisitta chloris	103811915	0	live	OCA2	N310_01694	oculocutaneous albinism II	P protein		Un							
+144197	Stegastes partitus	103365206	0	live	oca2		oculocutaneous albinism II			Un	NW_007578550.1	1016	21616	plus	5		
+7897	Latimeria chalumnae	102365489	0	live	OCA2		oculocutaneous albinism II			Un							
+72004	Bos mutus	102276414	0	live	OCA2	M91_07928	oculocutaneous albinism II	P protein		Un							
+9258	Ornithorhynchus anatinus	100074504	0	live	OCA2		oculocutaneous albinism II			Un	NW_001794206.1	1001192	1067793	minus	12		
+8364	Xenopus tropicalis	100125152	0	live	tyr		tyrosinase	tyrosinase (oculocutaneous albinism IA)		Un							
+9544	Macaca mulatta	705792	0	live	TYR	EGK_06755	tyrosinase	tyrosinase (oculocutaneous albinism IA)		14	NC_027906.1	81696187	81824825	plus	5		
+9986	Oryctolagus cuniculus	100008753	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		1	NC_013669.1	127563000	127667237	minus	5		
+9598	Pan troglodytes	451473	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		11	NC_006478.3	87144124	87263449	plus	5		
+8355	Xenopus laevis	398715	0	live	tyr		tyrosinase	tyrosinase (oculocutaneous albinism IA)									
+9823	Sus scrofa	407745	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		9	NC_010451.3	25164768	25214580	plus	4		
+9402	Pteropus alecto	102887648	0	live	OCA2	PAL_GLEAN10004669	OCA2 melanosomal transmembrane protein	P protein|oculocutaneous albinism II		Un							
+27679	Saimiri boliviensis	101043674	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		Un							
+9555	Papio anubis	101020866	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		14	NC_018165.1	79079578	79194654	plus	5		
+9597	Pan paniscus	100989128	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		11	NC_027879.1	87769989	87888138	plus	5		
+30611	Otolemur garnettii	100962911	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		Un							
+61853	Nomascus leucogenys	100594055	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		15	NC_019830.1	47776450	47897325	minus	6		
+9601	Pongo abelii	100453479	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		11	NC_012602.1	85042357	85158224	plus	5		
+9483	Callithrix jacchus	100399713	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		11	NC_013906.1	48473496	48593012	minus	5		
+9601	Pongo abelii	100171838	0	live	OCA2		oculocutaneous albinism II			15	NC_012606.1	24239595	24240081	minus	27		
+9601	Pongo abelii	100171838	0	live	OCA2		oculocutaneous albinism II			15	NC_012606.1	24340091	24479074	minus	27		
+9601	Pongo abelii	100171838	0	live	OCA2		oculocutaneous albinism II			15	NC_012606.1	24503691	24618341	minus	27		
+9258	Ornithorhynchus anatinus	100080574	0	live	TYR		tyrosinase	tyrosinase (oculocutaneous albinism IA)		Un	NW_001794203.1	1015754	1043806	plus	5		
+9103	Meleagris gallopavo	100550272	0	live	LOC100550272	OCA2	P protein	oculocutaneous albinism II		1	NC_015011.2	124834500	124908672	plus	21		
+9606	Homo sapiens	4157	0	live	MC1R	CMM5, MSH-R, SHEP2	melanocortin 1 receptor	MC1-R|alpha melanocyte stimulating hormone receptor|melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)|melanotropin receptor	16q24.3	16	NC_000016.10	89917879	89920977	plus	1	155555	
+9606	Homo sapiens	7306	0	live	TYRP1	CAS2, CATB, GP75, OCA3, TRP, TRP1, TYRP, b-PROTEIN	tyrosinase-related protein 1	DHICA oxidase|catalase B|glycoprotein 75|melanoma antigen gp75	9p23	9	NC_000009.12	12693386	12710266	plus	8	115501	
+9606	Homo sapiens	51151	0	live	SLC45A2	1A1, AIM1, MATP, OCA4, SHEP5	solute carrier family 45 member 2	melanoma antigen AIM1|protein AIM-1|solute carrier family 45, member 2|underwhite	5p13.2	5	NC_000005.10	33944616	33985144	minus	10	606202	
+9606	Homo sapiens	3815	0	live	KIT	C-Kit, CD117, PBT, SCFR	KIT proto-oncogene receptor tyrosine kinase	p145 c-kit|piebald trait protein|proto-oncogene c-Kit|proto-oncogene tyrosine-protein kinase Kit|soluble KIT variant 1|tyrosine-protein kinase Kit|v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog|v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene-like protein	4q12	4	NC_000004.12	54657928	54740715	plus	21	164920	
+9606	Homo sapiens	4286	0	live	MITF	CMM8, MI, WS2, WS2A, bHLHe32	microphthalmia-associated transcription factor	class E basic helix-loop-helix protein 32|microphtalmia-associated transcription factor	3p13	3	NC_000003.12	69739435	69968337	plus	16	156845	
+9606	Homo sapiens	6591	0	live	SNAI2	SLUG, SLUGH1, SNAIL2, WS2D	snail family zinc finger 2	neural crest transcription factor SLUG|protein snail homolog 2|slug (chicken homolog), zinc finger protein|snail homolog 2	8q11	8	NC_000008.11	48917677	48921440	minus	3	602150	
+9606	Homo sapiens	778	0	live	CACNA1F	AIED, COD3, COD4, CORDX, CORDX3, CSNB2, CSNB2A, CSNBX2, Cav1.4, Cav1.4alpha1, JM8, JMC8, OA2	calcium voltage-gated channel subunit alpha1 F	calcium channel, voltage-dependent, L type, alpha 1F subunit|voltage-gated calcium channel subunit alpha Cav1.4	Xp11.23	X	NC_000023.11	49205063	49233671	minus	48	300110	
+9606	Homo sapiens	83938	0	live	C10orf11	CDA017	chromosome 10 open reading frame 11		10q22.3	10	NC_000010.11	75431458	76557375	plus	11	614537	
+7227	Drosophila melanogaster	249663	0	live	hoe1	Dmel_CG12787, BcDNA:GH02636, CG11918, CG12787, CG2831, Dmel\CG12787, Hoe1, hoe	hoepel1	CG12787-PA|CG12787-PB|CG12787-PC|CG12787-PD|CG12787-PE|CG12787-PF|CG12787-PH|CG12787-PI|CG12787-PJ|hoe1-PA|hoe1-PB|hoe1-PC|hoe1-PD|hoe1-PE|hoe1-PF|hoe1-PH|hoe1-PI|hoe1-PJ|hoepel	25B3-25B3	2L	NT_033779.5	4908581	4932384	minus	13		
+66420	Papilio xuthus	106124664	0	live	LOC106124664		P protein-like			Un							
+7091	Bombyx mori	101740800	0	live	LOC101740800		P protein-like			Un							
+443821	Cerapachys biroi	105277591	0	live	LOC105277591	X777_03395	P protein-like	P protein		Un							
+680683	Amyelois transitella	106131021	0	live	LOC106131021		P protein-like			Un							
+76194	Papilio polytes	106109612	0	live	LOC106109612		P protein-like			Un							
+66420	Papilio xuthus	106124578	0	live	LOC106124578		P protein-like			Un							
+35570	Stomoxys calcitrans	106084088	0	live	LOC106084088		P protein			Un							
+310752	Balaenoptera acutorostrata scammoni	103002028	0	live	LOC103002028		P protein-like			Un	NW_006727353.1	9763690	10051428	minus	26		
+9606	Homo sapiens	8546	0	live	AP3B1	ADTB3, ADTB3A, HPS, HPS2, PE	adaptor related protein complex 3 beta 1 subunit	AP-3 complex beta-3A subunit|adaptor protein complex AP-3 subunit beta-1|adaptor related protein complex 3, beta 1 subunit|adaptor-related protein complex 3 subunit beta-1|adaptor-related protein complex 3, beta 1 subunit|beta-3A-adaptin|clathrin assembly protein complex 3 beta-1 large chain	5q14.1	5	NC_000005.10	78002326	78294755	minus	29	603401	
+46245	Drosophila pseudoobscura pseudoobscura	4816956	0	live	Dpse\GA11811	Dpse_GA11811, GA11811, dpse_GLEANR_2534	GA11811 gene product from transcript GA11811-RA	Dpse\GA11811-PA|Dpse\GA11811-PB|Dpse\GA11811-PC|Dpse\GA11811-PD|GA11811-PA|GA11811-PB|GA11811-PC|GA11811-PD|uncharacterized protein		4							
+7245	Drosophila yakuba	6527627	0	live	Dyak\GE18721	Dyak_GE18721, GE18721, dyak_GLEANR_2506	GE18721 gene product from transcript GE18721-RA	Dyak\GE18721-PA|Dyak\GE18721-PB|Dyak\GE18721-PC|Dyak\GE18721-PD|GE18721-PA|GE18721-PB|GE18721-PC|GE18721-PD|uncharacterized protein		2L	NT_167062.1	10593524	10612546	plus	13		
+7244	Drosophila virilis	6635651	0	live	Dvir\GJ16262	Dvir_GJ16262, GJ16262, dvir_GLEANR_16703	GJ16262 gene product from transcript GJ16262-RA	Dvir\GJ16262-PA|Dvir\GJ16262-PB|Dvir\GJ16262-PC|Dvir\GJ16262-PD|GJ16262-PA|GJ16262-PB|GJ16262-PC|GJ16262-PD|uncharacterized protein		Unknown							
+7220	Drosophila erecta	6540758	0	live	Dere\GG24342	Dere_GG24342, GG24342, dere_GLEANR_9079	GG24342 gene product from transcript GG24342-RC	Dere\GG24342-PA|Dere\GG24342-PB|Dere\GG24342-PC|Dere\GG24342-PD|GG24342-PA|GG24342-PB|GG24342-PC|GG24342-PD|uncharacterized protein		Unknown							
+28588	Bactrocera cucurbitae	105215251	0	live	Oca2_0	Oca2_2	P protein			Un							
+7460	Apis mellifera	551871	0	live	LOC551871	GB14978	P protein-like			LG16	NC_007085.3	6849209	6854267	plus	18		
+37621	Priapulus caudatus	106812810	0	live	LOC106812810		P protein-like			Un							
+7029	Acyrthosiphon pisum	100168610	0	live	LOC100168610		P protein-like			Un	NW_003383493.1	1850533	1862394	minus	20		
+7230	Drosophila mojavensis	6575960	0	live	Dmoj\GI14413	Dmoj_GI14413, GI14413, dmoj_GLEANR_1493	GI14413 gene product from transcript GI14413-RC	Dmoj\GI14413-PA|Dmoj\GI14413-PB|Dmoj\GI14413-PC|GI14413-PA|GI14413-PB|GI14413-PC|uncharacterized protein		Unknown							
+7217	Drosophila ananassae	6504224	0	live	Dana\GF21545	Dana_GF21545, GF21545, dana_GLEANR_495	GF21545 gene product from transcript GF21545-RA	Dana\GF21545-PA|Dana\GF21545-PB|Dana\GF21545-PC|GF21545-PA|GF21545-PB|GF21545-PC|uncharacterized protein		Unknown							
+743375	Polistes dominula	107073011	0	live	LOC107073011		P protein			Un							
+76193	Papilio machaon	106716382	0	live	LOC106716382	RR48_06528	P protein-like	P protein		Un							
+104688	Bactrocera oleae	106617118	0	live	LOC106617118		P protein			Un							
+76194	Papilio polytes	106109613	0	live	LOC106109613		P protein-like			Un							
+103372	Acromyrmex echinatior	105154550	0	live	LOC105154550	G5I_01824	P protein			Un							
+7463	Apis florea	100870769	0	live	LOC100870769		P protein-like			Un							
+7227	Drosophila melanogaster	318887	0	live	CG31693	Dmel_ BcDNA:GH25177, Dmel\CG31693	CG31693 gene product from transcript CG31693-RA	CG31693-PA|CG31693-PB|uncharacterized protein	40D3-40D3	2L	NT_033779.5	22015190	22017334	plus	1		
+9606	Homo sapiens	3257	0	live	HPS1	BLOC3S1, HPS	HPS1, biogenesis of lysosomal organelles complex 3 subunit 1		10q23.1-q23.3	10	NC_000010.11	98416198	98446963	minus	21	604982	
+7260	Drosophila willistoni	6643993	0	live	Dwil\GK24590	Dwil_GK24590, GK24590, dwil_GLEANR_8726	GK24590 gene product from transcript GK24590-RB	Dwil\GK24590-PA|Dwil\GK24590-PB|GK24590-PA|GK24590-PB|uncharacterized protein		Unknown							
+7244	Drosophila virilis	6635650	0	live	Dvir\GJ16261	Dvir_GJ16261, GJ16261, dvir_GLEANR_16702	GJ16261 gene product from transcript GJ16261-RA	Dvir\GJ16261-PA|Dvir\GJ16261-PB|GJ16261-PA|GJ16261-PB|uncharacterized protein		Unknown							
+7213	Ceratitis capitata	101460480	0	live	P		P protein			Un							
+454923	Diachasma alloeum	107044702	0	live	LOC107044702		P protein			Un							
+76193	Papilio machaon	106716367	0	live	LOC106716367	RR48_06525	P protein			Un							
+76193	Papilio machaon	106716249	0	live	LOC106716249	RR48_06530	P protein-like	P protein		Un							
+79782	Cimex lectularius	106662505	0	live	LOC106662505		P protein-like			Un							
+7574	Lingula anatina	106158622	0	live	LOC106158622		P protein-like			Un							
+680683	Amyelois transitella	106131014	0	live	LOC106131014		P protein-like			Un							
+66420	Papilio xuthus	106124782	0	live	LOC106124782		P protein-like			Un							
+76194	Papilio polytes	106109604	0	live	LOC106109604		P protein			Un							
+37344	Athalia rosae	105691329	0	live	LOC105691329		P protein			Un							
+144034	Pogonomyrmex barbatus	105428183	0	live	LOC105428183		P protein			Un							
+51655	Plutella xylostella	105393262	0	live	LOC105393262		P protein-like			Un							
+7462	Apis dorsata	102673013	0	live	LOC102673013		P protein-like			Un	NW_006263375.1	467528	472678	minus	19		
+7370	Musca domestica	101893061	0	live	LOC101893061		P protein			Un							
+9606	Homo sapiens	84343	0	live	HPS3	BLOC2S1, SUTAL	HPS3, biogenesis of lysosomal organelles complex 2 subunit 1		3q24	3	NC_000003.12	149129584	149173518	plus	17	606118	
+7227	Drosophila melanogaster	38299	0	live	CG13801	Dmel_ Dmel\CG13801	CG13801 gene product from transcript CG13801-RA	CG13801-PA|uncharacterized protein	62D6-62D6	3L	NT_037436.4	2360557	2362686	plus	1		
+7227	Drosophila melanogaster	39471	0	live	CG11262	Dmel_ Dmel\CG11262	CG11262 gene product from transcript CG11262-RA	CG11262-PA|uncharacterized protein	69F4-69F4	3L	NT_037436.4	12995135	12997418	plus	1		
+7227	Drosophila melanogaster	33700	0	live	hoe2	Dmel_CG15624, CG15624, Dmel\CG15624	hoepel2	CG15624-PA|hoe2-PA	25B4-25B4	2L	NT_033779.5	4933047	4936450	minus	7		
+272844	Pyrococcus abyssi GE5	1495988	0	live	PAB_RS09155	PAB_RS09155, PAB1107	transporter				NC_000868.1	1671598	1672875	plus	0		
+272631	Mycobacterium leprae TN	910118	0	live	ML1036	ML1036	membrane transporter				NC_002677.1	1199237	1200526	minus	0		
+180454	Anopheles gambiae str. PEST	1280250	0	live	AgaP_AGAP009284	AgaP_AGAP009284, AgaP_ENSANGG00000009787, ENSANGG00000009787	AGAP009284-PA			3R	NT_078268.4	30659362	30667767	plus	10		
+180454	Anopheles gambiae str. PEST	1280249	0	live	AgaP_AGAP009283	AgaP_AGAP009283, AgaP_ENSANGG00000009846, ENSANGG00000009846	AGAP009283-PA			3R	NT_078268.4	30603330	30606089	plus	7		
+296543	Thalassiosira pseudonana CCMP1335	7443732	0	live	THAPSDRAFT_262258	THAPSDRAFT_262258	transporter			4	NC_012067.1	1686963	1688661	plus	6		
+163003	Thermococcus cleftensis	13037661	0	live	CL1_RS06570	CL1_RS06570, CL1_1268	transporter				NC_018015.1	1223226	1224512	plus	0		
+529709	Pyrococcus yayanosii CH1	10837902	0	live	PYCH_RS06550	PYCH_RS06550, PYCH_13300	transporter				NC_015680.1	1166392	1167657	minus	0		
+342949	Pyrococcus sp. NA2	10554367	0	live	PNA2_RS04555	PNA2_RS04555, PNA2_0893	transporter				NC_015474.1	806247	807509	minus	0		
+593117	Thermococcus gammatolerans EJ3	7988675	0	live	TGAM_RS10710	TGAM_RS10710, TGAM_2109	transporter				NC_012804.1	1998809	2000089	minus	0		
+523850	Thermococcus onnurineus NA1	7018492	0	live	TON_RS07430	TON_RS07430, TON_1458	transporter				NC_011529.1	1334159	1335436	minus	0		
+70601	Pyrococcus horikoshii OT3	1442760	0	live	PH_RS09050	PH_RS09050, PH1912	transporter				NC_000961.1	1662835	1664109	plus	0		
+523849	Thermococcus litoralis DSM 5473	16548440	0	live	OCC_RS00540	OCC_RS00540, OCC_12561	transporter				NC_022084.1	100250	101530	minus	0		
+391623	Thermococcus barophilus MP	10041779	0	live	TERMP_RS07245	TERMP_RS07245, TERMP_01463	transporter				NC_014804.1	1271534	1272811	minus	0		
+679926	Methanolacinia petrolearia DSM 11571	9744736	0	live	MPET_RS11355	MPET_RS11355, Mpet_2251	transporter				NC_014507.1	2264794	2266122	minus	0		
+246969	Thermococcus sp. AM4	7419790	0	live	TAM4_RS07745	TAM4_RS07745, TAM4_252	transporter				NC_016051.1	1408783	1410063	minus	0		
+491915	Anoxybacillus flavithermus WK1	7038668	0	live	AFLV_RS12485	AFLV_RS12485, Aflv_2395	membrane protein				NC_011567.1	2375715	2377040	plus	0		
+368407	Methanoculleus marisnigri JR1	4847222	0	live	MEMAR_RS10530	MEMAR_RS10530, Memar_2132	transporter				NC_009051.1	2125523	2126803	plus	0		
+368407	Methanoculleus marisnigri JR1	4847073	0	live	MEMAR_RS04050	MEMAR_RS04050, Memar_0827	transporter				NC_009051.1	807884	809206	minus	0		
+69014	Thermococcus kodakarensis KOD1	3234004	0	live	TK_RS04340	TK_RS04340, TK0880	transporter				NC_006624.1	766701	767981	plus	0		
+592022	Bacillus megaterium DSM 319	9117262	0	live	BMD_RS09100	BMD_RS09100, BMD_1871	membrane protein				NC_014103.1	1870963	1872297	minus	0		
+235909	Geobacillus kaustophilus HTA426	3185966	0	live	GK_RS15090	GK_RS15090, GK2936	membrane protein				NC_006510.1	2967646	2968968	plus	0		
+262316	Mycobacterium avium subsp. paratuberculosis K-10	2720239	0	live	MAP_RS14345	MAP_RS14345, MAP2805	membrane protein				NC_002944.2	3135643	3136932	plus	0		
+457425	Streptomyces albus J1074	15145993	0	live	XNR_RS10770	XNR_RS10770, XNR_2169	membrane protein				NC_020990.1	2542115	2543440	minus	0		
+487521	Mycobacterium intracellulare ATCC 13950	11910159	0	live	OCU_RS41535	OCU_RS41535, OCU_34120	membrane protein				NC_016946.1	3652521	3653810	plus	0		
+449447	Microcystis aeruginosa NIES-843	5866755	0	live	MAE_RS25805	MAE_RS25805, MAE_59110	transporter				NC_010296.1	5448967	5450304	minus	0		
+436017	Ostreococcus lucimarinus CCE9901	5004358	0	live	OSTLU_13038	OSTLU_13038	ArsB family transporter: P-protein-like protein (tyrosine transporter)			11	NC_009365.1	265066	266409	plus	1		
+526972	Bacillus cereus AH621	22937711	0	live	BCERE0007_RS15965	BCERE0007_RS15965, bcere0007_31670	membrane protein										
+564608	Micromonas pusilla CCMP1545	9683277	0	live	ARSB	MICPUCDRAFT_57463	arsenite-antimonite efflux family										
+9544	Macaca mulatta	709148	0	live	GPR143		G protein-coupled receptor 143			X	NC_027913.1	8794589	8836328	minus	9		
+1410656	Fusobacterium necrophorum HUN048	23500348	0	live	T527_RS0104715	T527_RS0104715	membrane protein										
+457405	Fusobacterium nucleatum subsp. animalis 7_1	23370583	0	live	FSDG_RS09305	FSDG_RS09305, FSDG_01830	membrane protein										
+457405	Fusobacterium nucleatum subsp. animalis 7_1	23370582	0	live	FSDG_RS09300	FSDG_RS09300, FSDG_01831	membrane protein										
+526988	Bacillus cereus Rock4-18	23126594	0	live	BCERE0024_RS22870	BCERE0024_RS22870, bcere0024_45950	membrane protein										
+673860	Aciduliprofundum sp. MAR08-339	14307143	0	live	ACIM339_RS02050	ACIM339_RS02050, AciM339_0425	Na+/H+ antiporter NhaD-like permease				NC_019942.1	369126	370397	minus	0		
+1201294	Methanoculleus bourgensis MS2	13355200	0	live	BN140_RS01910	BN140_RS01910, BN140_0385	transporter			I	NC_018227.2	394559	395839	plus	0		
+1201294	Methanoculleus bourgensis MS2	13354634	0	live	BN140_RS04415	BN140_RS04415, BN140_0878	transporter			I	NC_018227.2	921472	922794	minus	0		
+296587	Micromonas sp. RCC299	8240807	0	live	ARSB	MICPUN_56091	arsenite-antimonite efflux family			2	NC_013039.1	941120	944110	plus	1		
+246196	Mycobacterium smegmatis str. MC2 155	4531015	0	live	MSMEG_0851	MSMEG_0851	citrate transporter				NC_008596.1	935059	936345	minus	0		
+83332	Mycobacterium tuberculosis H37Rv	888366	0	live	arsA	Rv2684	arsenic-transport integral membrane protein ArsA				NC_000962.3	3000614	3001903	plus	0		
+83332	Mycobacterium tuberculosis H37Rv	888150	0	live	arsB1	Rv2685, arsB	arsenic-transport integral membrane protein ArsB				NC_000962.3	3001983	3003269	plus	0		
+46245	Drosophila pseudoobscura pseudoobscura	6902668	0	live	Dpse\GA29039	Dpse_GA29039, GA29039, dpse_GLEANR_9469	GA29039 gene product from transcript GA29039-RB	Dpse\GA29039-PB|GA29039-PB		4							
+46245	Drosophila pseudoobscura pseudoobscura	4817043	0	live	Dpse\GA13854	Dpse_GA13854, GA13854, dpse_GLEANR_2533	GA13854 gene product from transcript GA13854-RA	Dpse\GA13854-PA|GA13854-PA		4							
+272563	Peptoclostridium difficile 630	4916732	0	live	CD630_16950	CD630_16950	symporter protein				NC_009089.1	1966112	1967377	minus	0		
+243090	Rhodopirellula baltica SH 1	1790181	0	live	RB6716	RB6716	transport protein- arsenite transport				NC_005027.1	3565803	3567209	minus	0		
+7245	Drosophila yakuba	6533954	0	live	Dyak\GE21939	Dyak_GE21939, GE21939, dyak_GLEANR_5659	GE21939 gene product from transcript GE21939-RA	Dyak\GE21939-PA|GE21939-PA		3L	NT_167064.1	13066096	13068432	plus	1		
+7245	Drosophila yakuba	6533515	0	live	Dyak\GE20316	Dyak_GE20316, GE20316, dyak_GLEANR_4158	GE20316 gene product from transcript GE20316-RA	Dyak\GE20316-PA|GE20316-PA		3L	NT_167064.1	9574668	9576779	minus	1		
+7245	Drosophila yakuba	6527626	0	live	Dyak\GE18720	Dyak_GE18720, GE18720, dyak_GLEANR_2505	GE18720 gene product from transcript GE18720-RA	Dyak\GE18720-PA|GE18720-PA		2L	NT_167062.1	10589342	10592712	plus	7		
+7244	Drosophila virilis	26531809	0	live	Dvir\GJ27039	Dvir_GJ27039, GJ27039	GJ27039 gene product from transcript GJ27039-RA	Dvir\GJ27039-PA|GJ27039-PA		Unknown							
+7260	Drosophila willistoni	6644020	0	live	Dwil\GK24760	Dwil_GK24760, GK24760, dwil_GLEANR_8898	GK24760 gene product from transcript GK24760-RA	Dwil\GK24760-PA|GK24760-PA		Unknown							
+7260	Drosophila willistoni	6643991	0	live	Dwil\GK24588	Dwil_GK24588, GK24588, dwil_GLEANR_8724	GK24588 gene product from transcript GK24588-RA	Dwil\GK24588-PA|GK24588-PA		Unknown							
+7244	Drosophila virilis	6628081	0	live	Dvir\GJ14626	Dvir_GJ14626, GJ14626, dvir_GLEANR_1469	GJ14626 gene product from transcript GJ14626-RA	Dvir\GJ14626-PA|GJ14626-PA		Unknown							
+7230	Drosophila mojavensis	6577999	0	live	Dmoj\GI18174	Dmoj_GI18174, GI18174, dmoj_GLEANR_2969	GI18174 gene product from transcript GI18174-RA	Dmoj\GI18174-PA|GI18174-PA		Unknown							
+7230	Drosophila mojavensis	6575962	0	live	Dmoj\GI14395	Dmoj_GI14395, GI14395, dmoj_GLEANR_1491	GI14395 gene product from transcript GI14395-RA	Dmoj\GI14395-PA|GI14395-PA		Unknown							
+7222	Drosophila grimshawi	6566738	0	live	Dgri\GH13310	Dgri_GH13310, GH13310, dgri_GLEANR_13239	GH13310 gene product from transcript GH13310-RA	Dgri\GH13310-PA|GH13310|GH13310-PA									
+7222	Drosophila grimshawi	6566736	0	live	Dgri\GH13602	Dgri_GH13602, GH13602, dgri_GLEANR_13503	GH13602 gene product from transcript GH13602-RA	Dgri\GH13602-PA|GH13602|GH13602-PA									
+7222	Drosophila grimshawi	6562633	0	live	Dgri\GH10103	Dgri_GH10103, GH10103, dgri_GLEANR_10065	GH10103 gene product from transcript GH10103-RA	Dgri\GH10103-PA|GH10103|GH10103-PA									
+7222	Drosophila grimshawi	6562632	0	live	Dgri\GH10104	Dgri_GH10104, GH10104, dgri_GLEANR_10066	GH10104 gene product from transcript GH10104-RA	Dgri\GH10104-PA|GH10104|GH10104-PA									
+7220	Drosophila erecta	6548593	0	live	Dere\GG21352	Dere_GG21352, GG21352, dere_GLEANR_6075	GG21352 gene product from transcript GG21352-RA	Dere\GG21352-PA|GG21352-PA		Unknown							
+7220	Drosophila erecta	6546535	0	live	Dere\GG14859	Dere_GG14859, GG14859, dere_GLEANR_14989	GG14859 gene product from transcript GG14859-RA	Dere\GG14859-PA|GG14859-PA		Unknown							
+7220	Drosophila erecta	6545016	0	live	Dere\GG15613	Dere_GG15613, GG15613, dere_GLEANR_15674	GG15613 gene product from transcript GG15613-RA	Dere\GG15613-PA|GG15613-PA		Unknown							
+7220	Drosophila erecta	6540827	0	live	Dere\GG24341	Dere_GG24341, GG24341, dere_GLEANR_9078	GG24341 gene product from transcript GG24341-RA	Dere\GG24341-PA|GG24341-PA		Unknown							
+7217	Drosophila ananassae	6506389	0	live	Dana\GF23750	Dana_GF23750, GF23750, dana_GLEANR_8527	GF23750 gene product from transcript GF23750-RA	Dana\GF23750-PA|GF23750-PA		Unknown							
+7217	Drosophila ananassae	6504223	0	live	Dana\GF21544	Dana_GF21544, GF21544, dana_GLEANR_494	GF21544 gene product from transcript GF21544-RA	Dana\GF21544-PA|GF21544-PA		Unknown							
+7217	Drosophila ananassae	6504193	0	live	Dana\GF21513	Dana_GF21513, GF21513, dana_GLEANR_477	GF21513 gene product from transcript GF21513-RA	Dana\GF21513-PA|GF21513-PA		Unknown							
+1505907	Thermococcus eurythermalis	25153208	0	live	TEU_RS06990	TEU_RS06990, TEU_07120	transporter										
+582419	Thermococcus paralvinellae	24907658	0	live	TES1_RS07555	TES1_RS07555, TES1_1443	transporter										
+1183377	Pyrococcus sp. ST04	13021630	0	live	PY04_RS02095	PY04_RS02095, Py04_0401	transporter				NC_017946.1	406787	408052	minus	0		
+525903	Thermanaerovibrio acidaminovorans DSM 6589	8631092	0	live	Taci_1243	Taci_1243	citrate transporter				NC_013522.1	1292501	1293748	plus	0		
+190304	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	992456	0	live	FN1924	FN1924	arsenical pump membrane protein				NC_003454.1	421806	423083	minus	0		
+190304	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	992455	0	live	FN1925	FN1925	arsenical pump membrane protein				NC_003454.1	423151	424425	minus	0		
+1292035	[Clostridium] sordellii VPI 9048	26145483	0	live	H476_RS12770	H476_RS12770, H476_2331	arsenical pump membrane family protein										
+441771	Clostridium botulinum A str. Hall	5398573	0	live	CLC_0571	CLC_0571	arsenical pump family protein				NC_009698.1	580906	582168	minus	0		
+413999	Clostridium botulinum A str. ATCC 3502	5184752	0	live	CBO0497	CBO0497	arsenical pump family protein				NC_009495.1	586914	588203	minus	0		
+196600	Vibrio vulnificus YJ016	2622736	0	live	VV_RS16015	VV_RS16015, VVA0040	sodium:proton antiporter			II	NC_005140.1	36093	37529	minus	0		
+233413	Mycobacterium bovis AF2122/97	1091908	0	live	arsA	Mb2703	arsenic-transport integral membrane protein ArsA				NC_002945.3	2957250	2958539	plus	0		
+233413	Mycobacterium bovis AF2122/97	1091907	0	live	arsB1	Mb2704	arsenic-transport integral membrane protein ArsB1				NC_002945.3	2958619	2959905	plus	0		
+1529846	Blastocystis sp. ST4	26163035	0	live	JH06_0849	JH06_0849	arsenical pUMP membrane protein			Unknown							
+1529846	Blastocystis sp. ST4	26162306	0	live	JH06_0116	JH06_0116	arsenical PUMP membrane protein			Unknown							
+66897	Streptomyces griseorubens	24937375	0	live	DJ64_RS18440	DJ64_RS18440, DJ64_06425	membrane protein										
+70448	Ostreococcus tauri	9834148	0	live	Ot04g03940	Ot04g03940	permease (ISS)			4	NC_014429.1	600999	603199	minus	2		
+281309	Bacillus thuringiensis serovar konkukian str. 97-27	2855331	0	live	BT9727_3243	BT9727_3243	arsenical pump family protein				NC_005957.1	3307677	3309002	plus	0		
+281309	Bacillus thuringiensis serovar konkukian str. 97-27	2854463	0	live	arsB	BT9727_4621	arsenical pump membrane protein				NC_005957.1	4675156	4676490	plus	0		
+226900	Bacillus cereus ATCC 14579	1207253	0	live	BC4911	BC4911	arsenical pump membrane protein				NC_004722.1	4821768	4823093	plus	0		
+226900	Bacillus cereus ATCC 14579	1205808	0	live	BC3463	BC3463	arsenical pump membrane protein				NC_004722.1	3418300	3419625	plus	0		
+198094	Bacillus anthracis str. Ames	1084222	0	live	BA_3526	BA_3526, BA3526	ArsB/NhaD family transporter				NC_003997.3	3235193	3236518	plus	0		
+526998	Bacillus mycoides Rock1-4	23108913	0	live	BMYCO0002_RS20065	BMYCO0002_RS20065, bmyco0002_41100	membrane protein										
+526998	Bacillus mycoides Rock1-4	23107446	0	live	BMYCO0002_RS12730	BMYCO0002_RS12730, bmyco0002_26630	membrane protein										
+526972	Bacillus cereus AH621	22939064	0	live	BCERE0007_RS22730	BCERE0007_RS22730, bcere0007_45810	membrane protein										
+749927	Amycolatopsis mediterranei U32	9440733	0	live	AMED_6581	AMED_6581	ArsB/NhaD superfamily permease				NC_014318.1	7267030	7268322	plus	0		
+749927	Amycolatopsis mediterranei U32	9439916	0	live	AMED_5749	AMED_5749	arsenic-transport integral membrane protein				NC_014318.1	6358059	6359351	minus	0		
+145388	Monoraphidium neglectum	25726273	0	live	MNEG_0155	MNEG_0155	putative transporter			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14926618	0	live	ACA1_296560	ACA1_296560	P protein			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14924254	0	live	ACA1_068650	ACA1_068650	Citrate transporter			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14915514	0	live	ACA1_325210	ACA1_325210	arsenical pump membrane protein			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14913925	0	live	ACA1_244380	ACA1_244380	P protein, putative			Unknown							
+1257118	Acanthamoeba castellanii str. Neff	14913866	0	live	ACA1_244760	ACA1_244760	P protein, putative			Unknown							
+556484	Phaeodactylum tricornutum CCAP 1055/1	7199747	0	live	PHATRDRAFT_44788	PHATRDRAFT_44788	hypothetical protein			5	NC_011673.1	245866	249198	plus	4		
+7159	Aedes aegypti	5569869	0	live	AaeL_AAEL007971	AaeL_AAEL007971	AAEL007971-PA										
+7159	Aedes aegypti	5569868	0	live	AaeL_AAEL007979	AaeL_AAEL007979	AAEL007979-PA										
+7240	Drosophila simulans	6739210	0	live	Dsim\GD11986	Dsim_GD11986, GD11986, dsim_GLEANR_12019	GD11986 gene product from transcript GD11986-RA	Dsim\GD11986-PA|GD11986|GD11986-PA		2L							
+7240	Drosophila simulans	6737895	0	live	Dsim\GD14418	Dsim_GD14418, GD14418, dsim_GLEANR_14422	GD14418 gene product from transcript GD14418-RA	Dsim\GD14418-PA|GD14418|GD14418-PA		3L	NT_167068.1	12371178	12373286	plus	1		
+7240	Drosophila simulans	6733109	0	live	Dsim\GD24340	Dsim_GD24340, GD24340, dsim_GLEANR_8074	GD24340 gene product from transcript GD24340-RA	Dsim\GD24340-PA|GD24340|GD24340-PA		2L	NT_167066.1	21578697	21580505	plus	1		
+7240	Drosophila simulans	6731015	0	live	Dsim\GD22681	Dsim_GD22681, GD22681, dsim_GLEANR_6425	GD22681 gene product from transcript GD22681-RA	Dsim\GD22681-PA|GD22681|GD22681-PA		2L	NT_167066.1	4779250	4790926	minus	10		
+7238	Drosophila sechellia	6619323	0	live	Dsec\GM16152	Dsec_GM16152, GM16152, dsec_GLEANR_17015	GM16152 gene product from transcript GM16152-RA	Dsec\GM16152-PA|GM16152|GM16152-PA									
+7238	Drosophila sechellia	6613398	0	live	Dsec\GM18062	Dsec_GM18062, GM18062, dsec_GLEANR_19562	GM18062 gene product from transcript GM18062-RA	Dsec\GM18062-PA|GM18062|GM18062-PA									
+7238	Drosophila sechellia	6613397	0	live	Dsec\GM18063	Dsec_GM18063, GM18063, dsec_GLEANR_19563	GM18063 gene product from transcript GM18063-RA	Dsec\GM18063-PA|GM18063|GM18063-PA									
+7238	Drosophila sechellia	6610476	0	live	Dsec\GM14485	Dsec_GM14485, GM14485, dsec_GLEANR_15256	GM14485 gene product from transcript GM14485-RA	Dsec\GM14485-PA|GM14485|GM14485-PA									
+7238	Drosophila sechellia	6605516	0	live	Dsec\GM25385	Dsec_GM25385, GM25385, dsec_GLEANR_8356	GM25385 gene product from transcript GM25385-RA	Dsec\GM25385-PA|GM25385|GM25385-PA									
+7234	Drosophila persimilis	6603387	0	live	Dper\GL15458	Dper_GL15458, GL15458, dper_GLEANR_16684	GL15458 gene product from transcript GL15458-RA	Dper\GL15458-PA|GL15458|GL15458-PA									
+7234	Drosophila persimilis	6589167	0	live	Dper\GL19493	Dper_GL19493, GL19493, dper_GLEANR_21628	GL19493 gene product from transcript GL19493-RA	Dper\GL19493-PA|GL19493|GL19493-PA									
+7234	Drosophila persimilis	6589166	0	live	Dper\GL19492	Dper_GL19492, GL19492, dper_GLEANR_21627	GL19492 gene product from transcript GL19492-RA	Dper\GL19492-PA|GL19492|GL19492-PA									
+9994	Marmota marmota marmota	107137555	0	live	Oca2		OCA2 melanosomal transmembrane protein			Un							
+146911	Gekko japonicus	107110212	0	live	OCA2		OCA2 melanosomal transmembrane protein			Un							
+37293	Aotus nancymaae	105704642	0	live	GPR143		G protein-coupled receptor 143			Un							
+9531	Cercocebus atys	105574737	0	live	GPR143		G protein-coupled receptor 143			Un							
+9545	Macaca nemestrina	105478109	0	live	GPR143		G protein-coupled receptor 143			Un							
+27457	Bactrocera dorsalis	105233298	0	live	P		P protein			Un							
+60711	Chlorocebus sabaeus	103231577	0	live	GPR143		G protein-coupled receptor 143			X	NC_023671.1	8178818	8223291	minus	9		
+9541	Macaca fascicularis	102126519	0	live	GPR143		G protein-coupled receptor 143			X	NC_022292.1	7385535	7427185	minus	9		
+10036	Mesocricetus auratus	101835725	0	live	Gpr143		G protein-coupled receptor 143			Un							
+7213	Ceratitis capitata	101460191	0	live	P		P protein			Un							
+27679	Saimiri boliviensis	101028644	0	live	GPR143		G protein-coupled receptor 143			Un							
+9555	Papio anubis	101013216	0	live	GPR143		G protein-coupled receptor 143			X	NC_018172.1	6976411	7019165	minus	10		
+1674923	Thermococcus sp. 2319x1	26650256	0	live	ADU37_RS05965	ADU37_RS05965, ADU37_CDS12540	transporter										
+55802	Thermococcus barophilus	26136953	0	live	TBCH5v1_RS08250	TBCH5v1_RS08250, TBCH5v1_1715	transporter										
+461836	Thecamonas trahens ATCC 50062	25564855	0	live	AMSG_05437	AMSG_05437	tyrosine transporter			Unknown							
+195522	Thermococcus nautili	24958449	0	live	BD01_RS01350	BD01_RS01350, BD01_0279	transporter										
+1343739	Palaeococcus pacificus DY20341	24843039	0	live	PAP_RS09525	PAP_RS09525, PAP_09720	transporter										
+526988	Bacillus cereus Rock4-18	23125144	0	live	BCERE0024_RS15620	BCERE0024_RS15620	membrane protein										
+41875	Bathycoccus prasinos	19010835	0	live	Bathy18g00940	Bathy18g00940	citrate transporter			18	NC_023991.1	180710	183898	minus	1		
+946362	Salpingoeca rosetta	16074653	0	live	PTSG_04756	PTSG_04756	P protein			Unknown							
+595528	Capsaspora owczarzaki ATCC 30864	14895100	0	live	CAOG_07291	CAOG_07291	tyrosine transporter			Unknown							
+744533	Naegleria gruberi strain NEG-M	8857820	0	live	NAEGRDRAFT_73979	NAEGRDRAFT_73979	hypothetical protein										
+439481	Aciduliprofundum boonei T469	8827555	0	live	ABOO_RS03055	ABOO_RS03055, Aboo_0610	citrate transporter				NC_013926.1	584444	585673	plus	0		
+121224	Pediculus humanus corporis	8230858	0	live	Phum_PHUM440030	Phum_PHUM440030	P protein, putative										
+6945	Ixodes scapularis	8052088	0	live	IscW_ISCW005393	IscW_ISCW005393	pink-eyed dilution protein, putative										
+6945	Ixodes scapularis	8032591	0	live	IscW_ISCW019606	IscW_ISCW019606	pink-eyed dilution protein, putative										
+289376	Thermodesulfovibrio yellowstonii DSM 11347	6941327	0	live	THEYE_A0731	THEYE_A0731	arsenical pump membrane protein				NC_011296.1	723419	725155	plus	0		
+7176	Culex quinquefasciatus	6046631	0	live	CpipJ_CPIJ013302	CpipJ_CPIJ013302	tyrosine transporter										
+272943	Rhodobacter sphaeroides 2.4.1	3720714	0	live	nhaD	RSP_0998	sodium/proton antiporter, NhaD family			1	NC_007493.2	2756260	2757558	plus	0		
+260799	Bacillus anthracis str. Sterne	2848789	0	live	BAS3270	BAS3270	ArsB/NhaD family transporter				NC_005945.1	3235886	3237211	plus	0		
+399550	Staphylothermus marinus F1	4907420	0	live	SMAR_RS00870	SMAR_RS00870, Smar_0173	hypothetical protein				NC_009033.1	181498	182790	minus	0		
+243274	Thermotoga maritima MSB8	898703	0	live	TM1045	TM1045	hypothetical protein				NC_000853.1	1060823	1062088	plus	0		
+243274	Thermotoga maritima MSB8	898608	0	live	TM0934	TM0934	hypothetical protein				NC_000853.1	950978	952255	plus	0		
+13686	Solenopsis invicta	105204392	0	live	LOC105204392	SINV_07919	P protein-like			Un							
+7091	Bombyx mori	101740941	0	live	LOC101740941		P protein-like			Un							
+198094	Bacillus anthracis str. Ames	1084514	0	live	BA_5143	BA_5143, BA5143	hypothetical protein				NC_003997.3	4669755	4671089	plus	0		
+104421	Camponotus floridanus	105253267	0	live	LOC105253267	EAG_13782	P protein-like	P protein		Un							
+610380	Harpegnathos saltator	105191515	0	live	LOC105191515	EAI_03114	P protein			Un							
+7425	Nasonia vitripennis	100117150	0	live	LOC100117150		P protein-like			1	NC_015867.2	22459628	22465525	minus	16		
+132113	Bombus impatiens	100746897	0	live	LOC100746897		P protein			Un							
+45351	Nematostella vectensis	5506770	0	live	NEMVEDRAFT_v1g122951	NEMVEDRAFT_v1g122951	hypothetical protein										
+7668	Strongylocentrotus purpuratus	575044	0	live	LOC575044		P protein			Un							
+225164	Lottia gigantea	20244411	0	live	LOTGIDRAFT_180671	LOTGIDRAFT_180671	hypothetical protein			Unknown							
+91411	Polistes canadensis	106792436	0	live	LOC106792436		P protein			Un							
+609295	Dinoponera quadriceps	106744158	0	live	LOC106744158		P protein-like			Un							
+286706	Halyomorpha halys	106680694	0	live	LOC106680694		P protein-like			Un							
+7493	Trichogramma pretiosum	106655326	0	live	LOC106655326		P protein-like			Un							
+29053	Copidosoma floridanum	106641060	0	live	LOC106641060		P protein			Un							
+104688	Bactrocera oleae	106627348	0	live	LOC106627348		P protein-like			Un							
+104688	Bactrocera oleae	106617096	0	live	LOC106617096		P protein			Un							
+104688	Bactrocera oleae	106614880	0	live	LOC106614880		P protein-like			Un							
+104688	Bactrocera oleae	106614870	0	live	LOC106614870		P protein-like			Un							
+7574	Lingula anatina	106155264	0	live	LOC106155264		P protein-like			Un							
+680683	Amyelois transitella	106131030	0	live	LOC106131030		P protein-like			Un							
+35570	Stomoxys calcitrans	106094828	0	live	LOC106094828		P protein			Un							
+35570	Stomoxys calcitrans	106084097	0	live	LOC106084097		P protein			Un							
+6526	Biomphalaria glabrata	106067336	0	live	LOC106067336		P protein-like			Un							
+222816	Orussus abietinus	105694629	0	live	LOC105694629		P protein			Un							
+83485	Linepithema humile	105668912	0	live	LOC105668912		P protein-like			Un							
+12957	Atta cephalotes	105621140	0	live	LOC105621140		P protein			Un							
+411798	Vollenhovia emeryi	105563136	0	live	LOC105563136		P protein			Un							
+64793	Wasmannia auropunctata	105448929	0	live	LOC105448929		P protein			Un							
+51655	Plutella xylostella	105390370	0	live	LOC105390370		P protein-like			Un							
+51655	Plutella xylostella	105385845	0	live	LOC105385845		P protein-like			Un							
+51655	Plutella xylostella	105383755	0	live	LOC105383755		P protein-like			Un							
+51655	Plutella xylostella	105382655	0	live	LOC105382655		P protein-like			Un							
+326594	Ceratosolen solmsi marchali	105363590	0	live	LOC105363590		P protein			Un							
+29159	Crassostrea gigas	105333571	0	live	LOC105333571	CGI_10010521	P protein-like	P protein		Un							
+27457	Bactrocera dorsalis	105233299	0	live	LOC105233299		P protein			Un							
+27457	Bactrocera dorsalis	105224415	0	live	LOC105224415		P protein-like			Un							
+27457	Bactrocera dorsalis	105221829	0	live	LOC105221829		uncharacterized LOC105221829			Un							
+27457	Bactrocera dorsalis	105221800	0	live	LOC105221800		P protein-like			Un							
+28588	Bactrocera cucurbitae	105218648	0	live	LOC105218648		P protein-like			Un							
+28588	Bactrocera cucurbitae	105218646	0	live	LOC105218646		P protein-like			Un							
+28588	Bactrocera cucurbitae	105212521	0	live	LOC105212521		P protein-like			Un							
+176057	Nestor notabilis	104404079	0	live	LOC104404079		P protein-like			Un							
+37040	Gavia stellata	104251866	0	live	LOC104251866	N328_01119	P protein-like	P protein		Un							
+69319	Microplitis demolitor	103575789	0	live	LOC103575789		P protein	Citrate transporter domain-containing protein		Un							
+121845	Diaphorina citri	103509098	0	live	LOC103509098		P protein-like			Un	NW_007377902.1	7486	39243	minus	15		
+144197	Stegastes partitus	103356961	0	live	LOC103356961		P protein-like			Un	NW_007577959.1	222	41712	minus	19		
+118797	Lipotes vexillifer	103080158	0	live	LOC103080158		P protein-like			Un	NW_006790475.1	83249	355138	minus	23		
+230844	Peromyscus maniculatus bairdii	102909394	0	live	LOC102909394		P protein-like			Un	NW_006501161.1	60499	270366	minus	22		
+10224	Saccoglossus kowalevskii	102807204	0	live	LOC102807204		P protein-like			Un	NW_003109084.1	397836	441768	plus	19		
+32507	Neolamprologus brichardi	102777547	0	live	LOC102777547		P protein-like			Un	NW_006272018.1	5745336	5799928	plus	23		
+59538	Pantholops hodgsonii	102336127	0	live	LOC102336127		P protein-like			Un	NW_005813431.1	339581	658160	minus	23		
+7370	Musca domestica	101893566	0	live	LOC101893566		P protein			Un							
+6500	Aplysia californica	101854351	0	live	LOC101854351		P protein-like			Un							
+7213	Ceratitis capitata	101454429	0	live	LOC101454429		P protein-like			Un							
+34638	Metaseiulus occidentalis	100901461	0	live	LOC100901461		P protein-like			Un	NW_003805489.1	1288832	1292922	plus	12		
+34638	Metaseiulus occidentalis	100899830	0	live	LOC100899830		P protein-like			Un	NW_003805173.1	754080	763194	minus	15		
+143995	Megachile rotundata	100882577	0	live	LOC100882577		P protein-like			Un							
+30195	Bombus terrestris	100646122	0	live	LOC100646122		P protein			LG B12	NC_015773.1	11994648	12005283	plus	18		
+400682	Amphimedon queenslandica	100636919	0	live	LOC100636919		P protein-like			Un							
+667725	Sphaeroforma arctica JP610	25902217	0	live	SARC_01713	SARC_01713	hypothetical protein			Unknown							
+12968	Blastocystis hominis	24917575	0	live	GSBLH_T00000260001	GSBLH_T00000260001	hypothetical protein										
+1603555	Thaumarchaeota archaeon SAT1	24874414	0	live	SU86_RS01335	SU86_RS01335, SU86_007570	hypothetical protein										
+905079	Guillardia theta CCMP2712	17308964	0	live	GUITHDRAFT_92342	GUITHDRAFT_92342	hypothetical protein			Unknown							
+260799	Bacillus anthracis str. Sterne	2847893	0	live	BAS4781	BAS4781	hypothetical protein				NC_005945.1	4670978	4672312	plus	0		
+7070	Tribolium castaneum	660548	0	live	LOC660548	TcasGA2_TC015853	P protein-like	GLEAN_15853|hypothetical protein		LG6	NC_007421.2	11934752	11944212	plus	12		
+9606	Homo sapiens	1130	0	live	LYST	CHS, CHS1	lysosomal trafficking regulator	Chediak-Higashi syndrome 1|beige homolog	1q42.1-q42.2	1	NC_000001.11	235661031	235883708	minus	61	606897	
+9606	Homo sapiens	89781	0	live	HPS4	BLOC3S2, LE	HPS4, biogenesis of lysosomal organelles complex 3 subunit 2	Hermansky-Pudlak syndrome 4|light-ear protein homolog	22cen-q12.3	22	NC_000022.11	26443613	26483863	minus	20	606682	
+9606	Homo sapiens	388552	0	live	BLOC1S3	BLOS3, HPS8, RP	biogenesis of lysosomal organelles complex 1 subunit 3	BLOC-1 subunit 3|biogenesis of lysosomal organelles complex-1, subunit 3|biogenesis of lysosome-related organelles complex-1, subunit 3|reduced pigmentation, mouse, homolog of	19q13.32	19	NC_000019.10	45178745	45217078	plus	8	609762	
+9606	Homo sapiens	84062	0	live	DTNBP1	BLOC1S8, DBND, HPS7, My031, SDY	dystrobrevin binding protein 1	BLOC-1 subunit 8|Hermansky-Pudlak syndrome 7 protein|biogenesis of lysosomal organelles complex-1, subunit 8|biogenesis of lysosome-related organelles complex 1 subunit 8|dysbindin-1	6p22.3	6	NC_000006.12	15522801	15663058	minus	12	607145	
+9606	Homo sapiens	6907	0	live	TBL1X	EBI, SMAP55, TBL1	transducin (beta)-like 1X-linked	transducin beta-like protein 1X|transducin-beta-like protein 1, X-linked	Xp22.3	X	NC_000023.11	9463295	9719740	plus	20	300196	
+9606	Homo sapiens	26258	0	live	BLOC1S6	BLOS6, HPS9, PA, PALLID, PLDN	biogenesis of lysosomal organelles complex 1 subunit 6	BLOC-1 subunit 6|biogenesis of lysosomal organelles complex-1, subunit 5, pallidin|biogenesis of lysosomal organelles complex-1, subunit 6, pallidin|pallid protein homolog|syntaxin 13 binding protein 1|syntaxin 13-interacting protein pallid	15q21.1	15	NC_000015.10	45587219	45609711	plus	5	604310	
+10090	Mus musculus	72433	0	live	Rab38	2310011F14Rik, AU043391, cht	RAB38, member RAS oncogene family	RAB38, member of RAS oncogene family|chocolate	7 49.19 cM	7	NC_000073.6	88430273	88491572	plus	3		
+9606	Homo sapiens	11234	0	live	HPS5	AIBP63, BLOC2S2	HPS5, biogenesis of lysosomal organelles complex 2 subunit 2	alpha integrin binding protein 63|alpha-integrin-binding protein 63|ruby-eye protein 2 homolog	11p14	11	NC_000011.10	18278670	18322498	minus	24	607521	
+9606	Homo sapiens	79803	0	live	HPS6	BLOC2S3	HPS6, biogenesis of lysosomal organelles complex 2 subunit 3	Hermansky-Pudlak syndrome 6|Hermansky-Pudlak syndrome-6 protein (HPS6)|ruby-eye protein homolog	10q24.32	10	NC_000010.11	102065367	102068038	plus	1	607522	
+9615	Canis lupus familiaris	489236	0	live	SLC45A2	MATP	solute carrier family 45, member 2	membrane associated transport protein		4	NC_006586.3	73838755	73867467	plus	7		
+10090	Mus musculus	22173	0	live	Tyr	Oca1, albino, c, skc35	tyrosinase	albino locus protein|monophenol monooxygenase	7 49.01 cM	7	NC_000073.6	87425276	87493442	minus	7		
+10090	Mus musculus	17342	0	live	Mitf	BCC2, Bhlhe32, Gsfbcc2, Vitiligo, Wh, bw, mi, vit	microphthalmia-associated transcription factor	black eyed white|microphtalmia-associated transcription factor	6 45.05 cM	6	NC_000072.6	97807003	98021360	plus	17		
+9606	Homo sapiens	5080	0	live	PAX6	AN, AN2, D11S812E, FVH1, MGDA, WAGR	paired box 6	aniridia type II protein|oculorhombin|paired box homeotic gene-6	11p13	11	NC_000011.10	31784792	31817961	minus	20	607108	
+10090	Mus musculus	14828	0	live	Hspa5	AL022860, AU019543, Bip, D2Wsu141e, D2Wsu17e, Grp78, Hsce70, SEZ-7, Sez7, baffled, mBiP	heat shock protein 5	GRP-78|XAP-1 antigen|glucose regulated protein, 78 kDa|heat shock 70 kDa protein 5|heat shock 70kD protein 5 (glucose-regulated protein, 78kD)|immunoglobulin heavy chain-binding protein	2 22.94 cM	2	NC_000068.7	34772090	34776529	plus	9		
+10090	Mus musculus	12317	0	live	Calr	CRTegulin, Calr	calreticulin	CRP55|ERp60|HACBP|endoplasmic reticulum resident protein 60	8 41.21 cM	8	NC_000074.6	84842088	84846931	minus	9		
+10090	Mus musculus	12330	0	live	Canx	1110069N15Rik, AI988026, Cnx, D11Ertd153e	calnexin		11 30.46 cM	11	NC_000077.6	50293957	50325673	minus	15		
+9606	Homo sapiens	90167	0	live	FRMD7	NYS, NYS1, XIPAN	FERM domain containing 7		Xq26.2	X	NC_000023.11	132076993	132128022	minus	12	300628	
+9606	Homo sapiens	92579	0	live	G6PC3	SCN4, UGRP	glucose 6 phosphatase, catalytic, 3	G-6-Pase 3|G6Pase 3|G6Pase-beta|glucose-6-phosphatase catalytic subunit 3|ubiquitous glucose-6-phosphatase catalytic subunit-related protein|ubiquitously expressed G6Pase catalytic subunit-related protein	17q21.31	17	NC_000017.11	44070730	44076344	plus	7	611045	
+10090	Mus musculus	20170	0	live	Hps6	5330434M19Rik, BLOC2, ru	Hermansky-Pudlak syndrome 6	ruby eye|ruby-eye protein	19 38.75 cM	19	NC_000085.6	46003478	46006173	plus	1		
+9606	Homo sapiens	1183	0	live	CLCN4	CLC4, ClC-4, ClC-4A	chloride voltage-gated channel 4	chloride channel 4|chloride channel protein 4|chloride channel, voltage-sensitive 4|chloride transporter ClC-4	Xp22.3	X	NC_000023.11	10156945	10237660	plus	13	302910	
+10090	Mus musculus	381269	0	live	Mreg	Gm974, Wdt2, dsu	melanoregulin	dilute suppressor protein|whn-dependent transcript 2	1 C3	1	NC_000067.6	72159233	72212307	minus	7		
+10116	Rattus norvegicus	252916	0	live	Rab38	R, Ruby	RAB38, member RAS oncogene family	Rab38, member of RAS oncogene family|red eyed dilution|ruby or red eyed dilution|small GTP binding protein	1q32	1	NC_005100.4	152072716	152153449	plus	3		
+9606	Homo sapiens	357	0	live	SHROOM2	APXL, HSAPXL	shroom family member 2	APX homolog of Xenopus|apical-like protein	Xp22.3	X	NC_000023.11	9786402	9949443	plus	11	300103	
+9606	Homo sapiens	146167	0	live	SLC38A8	FVH2	solute carrier family 38 member 8	solute carrier family 38, member 8	16q23.3	16	NC_000016.10	84009667	84043097	minus	12	615585	
+3702	Arabidopsis thaliana	839374	0	live	TIC20	AT1G04940, F13M7.7, F13M7_7, translocon at the inner envelope membrane of chloroplasts 20	protein TIC 20			1	NC_003070.9	1399182	1400770	plus	3		
+3702	Arabidopsis thaliana	842573	0	live	SCO1	AT1G62750, ATSCO1, ATSCO1/CPEF-G, F23N19.11, F23N19_11, SNOWY COTYLEDON 1	elongation factor G			1	NC_003070.9	23233434	23236447	minus	4		
+243090	Rhodopirellula baltica SH 1	1792413	0	live	1959133	RB10149	cadherin-related protein				NC_005027.1	5477832	5487368	minus	0		
+121224	Pediculus humanus corporis	8233108	0	live	Phum_PHUM512990	Phum_PHUM512990	class B secretin-like G-protein coupled receptor GPRoca2, putative										
+121224	Pediculus humanus corporis	8230079	0	live	Phum_PHUM233110	Phum_PHUM233110	class B secretin-like G-protein coupled receptor GPRoca3, putative										

@@ -1,0 +1,498 @@
+tax_id	Org_name	GeneID	CurrentID	Status	Symbol	Aliases	description	other_designations	map_location	chromosome	genomic_nucleotide_accession.version	start_position_on_the_genomic_accession	end_position_on_the_genomic_accession	orientation	exon_count	OMIM	
+9606	Homo sapiens	3043	0	live	HBB	CD113t-C, beta-globin	hemoglobin subunit beta	beta globin chain|hemoglobin, beta	11p15.5	11	NC_000011.10	5225466	5227071	minus	3	141900	
+9606	Homo sapiens	546	0	live	ATRX	ATR2, JMS, MRX52, MRXHF1, RAD54, RAD54L, SFM1, SHS, XH2, XNP, ZNF-HX	alpha thalassemia/mental retardation syndrome X-linked	ATP-dependent helicase ATRX|DNA dependent ATPase and helicase|X-linked helicase II|X-linked nuclear protein|Zinc finger helicase|alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)|helicase 2, X-linked|mental retardation, X-linked 52	Xq21.1	X	NC_000023.11	77504878	77786269	minus	37	300032,300504	
+10090	Mus musculus	22589	0	live	Atrx	4833408C14Rik, AI447451, ATR2, DXHXS6677E, HP1-BP38, Hp1bp2, Hp1bp38, MRXS3, RAD54L, Rad54, XH2, Xnp, ZNF-HX	alpha thalassemia/mental retardation syndrome X-linked	ATP-dependent helicase ATRX|HP1 alpha-interacting protein|X-linked nuclear protein|alpha thalassemia/mental retardation syndrome (X-linked)|alpha thalassemia/mental retardation syndrome X-linked homolog|heterochromatin protein 2	X 47.26 cM	X	NC_000086.7	105797615	105929408	minus	42		
+9606	Homo sapiens	8129	0	live	HBHR	ATR1	alpha-thalassemia/mental retardation syndrome, type 1		16pter-p13.3	16						141750	
+10116	Rattus norvegicus	246284	0	live	Atrx	Xnp	alpha thalassemia/mental retardation syndrome X-linked	ATP-dependent helicase ATRX|X-linked nuclear protein|alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)|alpha thalassemia/mental retardation syndrome X-linked homolog|helicase II|pABP-2	Xq31	X	NC_005120.4	76820110	76978662	minus	36		
+9913	Bos taurus	514473	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	ATP-dependent helicase ATRX|alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)		X	AC_000187.1	79634413	79921207	plus	37		
+9544	Macaca mulatta	705735	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)		X	NC_027913.1	71306511	71595897	minus	37		
+30608	Microcebus murinus	105866147	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9531	Cercocebus atys	105596142	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9545	Macaca nemestrina	105464243	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+132908	Pteropus vampyrus	105308888	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+60711	Chlorocebus sabaeus	103232231	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_023671.1	66449830	66737220	minus	37		
+9541	Macaca fascicularis	102121631	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_022292.1	74372078	74659595	minus	38		
+79684	Microtus ochrogaster	101994073	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9940	Ovis aries	101117394	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_019484.2	64641762	64917198	plus	39		
+9555	Papio anubis	101012492	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_018172.1	68027838	68311310	minus	35		
+9597	Pan paniscus	100985598	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_027891.1	76795574	77083486	minus	35		
+9305	Sarcophilus harrisii	100932148	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X							
+10029	Cricetulus griseus	100767383	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_003614139.1	357115	451635	minus	31		
+9986	Oryctolagus cuniculus	100358645	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_013690.1	69357772	69557406	minus	39		
+13616	Monodelphis domestica	100019492	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_008809.1	55917989	56101778	minus	36		
+9669	Mustela putorius furo	101672892	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+198806	Calidris pugnax	106895587	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+109478	Myotis brandtii	102248976	0	live	ATRX	D623_10011349	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+27679	Saimiri boliviensis	101049515	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9031	Gallus gallus	422331	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	transcriptional regulator ATRX		4	NC_006091.4	12858210	12935793	minus	36		
+9837	Camelus bactrianus	105065510	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8010	Esox lucius	105030030	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			LG04	NC_025971.2	25131023	25182983	plus	30		
+52644	Haliaeetus leucocephalus	104832709	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+30538	Vicugna pacos	102527294	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+13735	Pelodiscus sinensis	102451236	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+34839	Chinchilla lanigera	102019208	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9606	Homo sapiens	53335	0	live	BCL11A	BCL11A-L-S, BCL11A-XL, BCL11a-M, CTIP1, EVI9, HBFQTL5, ZNF856, BCL11A	B-cell CLL/lymphoma 11A	B-cell CLL/lymphoma 11A (zinc finger protein) isoform 2|BCL-11A|BCL11A B-cell CLL/lymphoma 11A (zinc finger protein) isoform 1|C2H2-type zinc finger protein|COUP-TF-interacting protein 1|EVI-9|ecotropic viral integration site 9 homolog|ecotropic viral integration site 9 protein homolog|zinc finger protein 856	2p16.1	2	NC_000002.12	60451167	60553498	minus	7	606557	
+8364	Xenopus tropicalis	100380046	0	live	atrx	rad54	alpha thalassemia/mental retardation syndrome X-linked	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog)		Un							
+9615	Canis lupus familiaris	480963	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)		X	NC_006621.3	59772885	60107012	minus	35		
+7955	Danio rerio	568580	0	live	atrxl	wu:fb94e07	alpha thalassemia/mental retardation syndrome X-linked, like			5	NC_007116.6	22541142	22579288	plus	37		
+10020	Dipodomys ordii	105995236	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+216574	Aquila chrysaetos canadensis	105402664	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+885580	Fukomys damarensis	104874331	0	live	Atrx	H920_12652	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+9233	Aptenodytes forsteri	103896547	0	live	ATRX	AS27_00422	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+482537	Galeopterus variegatus	103597067	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007728292.1	8451	214806	plus	37		
+10141	Cavia porcellus	100715238	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9796	Equus caballus	100072678	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	transcriptional regulator ATRX-like protein		X	NC_009175.2	57467443	57708376	minus	35		
+9646	Ailuropoda melanoleuca	100466696	0	live	ATRX	PANDA_018856	alpha thalassemia/mental retardation syndrome X-linked			Un							
+9172	Sturnus vulgaris	106853696	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9568	Mandrillus leucophaeus	105530785	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+336983	Colobus angolensis palliatus	105515616	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+441894	Struthio camelus australis	104150926	0	live	ATRX	N308_04731	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+1026970	Nannospalax galili	103737832	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9478	Tarsius syrichta	103274385	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007258857.1	292117	529826	plus	35		
+8496	Alligator mississippiensis	102572847	0	live	ATRX	Y1Q_005348	alpha thalassemia/mental retardation syndrome X-linked			Un							
+8153	Haplochromis burtoni	102299766	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+303518	Pundamilia nyererei	102214911	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8479	Chrysemys picta	101944103	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007281376.1	2851862	2994645	minus	37		
+10036	Mesocricetus auratus	101830205	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+143302	Condylura cristata	101631206	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+61853	Nomascus leucogenys	100585955	0	live	ATRX	TTC37	alpha thalassemia/mental retardation syndrome X-linked	tetratricopeptide repeat domain 37		X	NC_019841.1	69163803	69385025	minus	35		
+27457	Bactrocera dorsalis	105222420	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+8208	Notothenia coriiceps	104943533	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8081	Poecilia reticulata	103471215	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			LG10	NC_024340.1	26961243	26998571	minus	35		
+9402	Pteropus alecto	102889312	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+7897	Latimeria chalumnae	102346304	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+59538	Pantholops hodgsonii	102333694	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_005812414.1	3211485	3425268	plus	34		
+181119	Pseudopodoces humilis	102105378	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8954	Falco peregrinus	101918921	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8128	Oreochromis niloticus	100700822	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked	hypothetical protein		LG2	NC_022200.1	20595022	20629560	plus	35		
+7955	Danio rerio	323299	0	live	atrx	atrxl, wu:fb26e12, wu:fb52h08, wu:fb72g09, wu:fb94e07, zgc:66223	alpha thalassemia/mental retardation syndrome X-linked homolog (human)			14	NC_007125.6	10350961	10430945	plus	35		
+146911	Gekko japonicus	107123232	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9793	Equus asinus	106846920	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+215358	Larimichthys crocea	104938292	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+932674	Corvus cornix cornix	104691616	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+94827	Tinamus guttatus	104575400	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9238	Pygoscelis adeliae	103920171	0	live	ATRX	AS28_02533	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+144197	Stegastes partitus	103359147	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007578087.1	201969	234461	plus	34		
+1230840	Orycteropus afer afer	103211309	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006922310.1	60733	535439	minus	36		
+48698	Poecilia formosa	103135577	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006799965.1	2346395	2386203	minus	35		
+9365	Erinaceus europaeus	103123688	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006804639.1	963545	1131026	plus	31		
+7994	Astyanax mexicanus	103023812	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+28737	Elephantulus edwardii	102862968	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006400214.1	215443	516845	plus	34		
+185453	Chrysochloris asiatica	102833483	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006408770.1	3192006	3527053	minus	34		
+9713	Leptonychotes weddellii	102748493	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006383043.1	2014793	2347120	minus	35		
+38654	Alligator sinensis	102369754	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+72004	Bos mutus	102278282	0	live	ATRX	M91_04379	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+9925	Capra hircus	102187036	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_022322.1	67345668	67632779	plus	35		
+9371	Echinops telfairi	101645479	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+51337	Jaculus jaculus	101611330	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+42254	Sorex araneus	101550601	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9733	Orcinus orca	101274950	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+59729	Taeniopygia guttata	100229394	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			4A	NC_011468.1	18086961	18152033	minus	35		
+13146	Melopsittacus undulatus	101873896	0	live	LOC101873896	ATRX	alpha thalassemia/mental retardation syndrome X-linked			Un							
+9598	Pan troglodytes	449625	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked	ATP-dependent helicase ATRX|X-linked helicase II|X-linked nuclear protein|XNP|alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)		X	NC_006491.3	77354933	77578724	minus	37		
+10181	Heterocephalus glaber	101705766	0	live	Atrx	GW7_12747	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+7868	Callorhinchus milii	103178858	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked	transcriptional regulator ATRX-like protein		Un	NW_006890055.1	15640382	15700700	minus	34		
+9994	Marmota marmota marmota	107159286	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+28743	Cyprinodon variegatus	107101513	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+48699	Poecilia latipinna	106953831	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+48701	Poecilia mexicana	106918103	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+35019	Thamnophis sirtalis	106551809	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+52670	Austrofundulus limnaeus	106517987	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+202946	Apteryx australis mantelli	106489314	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+381198	Anser cygnoides domesticus	106038563	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8078	Fundulus heteroclitus	105932507	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+7950	Clupea harengus	105903970	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+379532	Propithecus coquereli	105826151	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+37293	Aotus nancymaae	105719614	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9838	Camelus dromedarius	105095566	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+43346	Bison bison bison	104983710	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+61622	Rhinopithecus roxellana	104682118	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+100784	Balearica regulorum gibbericeps	104643143	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+97097	Phaethon lepturus	104619867	0	live	ATRX	N335_01827	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+57412	Colius striatus	104554624	0	live	ATRX	N325_05480	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+279965	Caprimulgus carolinensis	104521905	0	live	ATRX	N321_02026	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+54383	Eurypyga helias	104505682	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+175836	Buceros rhinoceros silvestris	104492464	0	live	ATRX	N320_00468	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+187382	Chlamydotis macqueenii	104481083	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+240206	Pterocles gutturalis	104461339	0	live	ATRX	N339_08516	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+176057	Nestor notabilis	104406556	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8897	Chaetura pelagica	104388381	0	live	ATRX	M959_08075	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+56313	Tyto alba	104359687	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+188344	Leptosomus discolor	104344815	0	live	ATRX	N330_01818	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+30419	Opisthocomus hoazin	104339095	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8969	Haliaeetus albicilla	104323338	0	live	ATRX	N329_06278	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+118200	Picoides pubescens	104300158	0	live	ATRX	N307_10205	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+50402	Charadrius vociferus	104291478	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+57397	Apaloderma vittatum	104272226	0	live	ATRX	N311_03372	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+37040	Gavia stellata	104250845	0	live	ATRX	N328_08431	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+54380	Cariama cristata	104165480	0	live	ATRX	N322_12049	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+188379	Egretta garzetta	104135700	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+30455	Fulmarus glacialis	104081532	0	live	ATRX	N327_07323	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+55661	Cuculus canorus	104058218	0	live	ATRX	N303_07839	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+9209	Phalacrocorax carbo	104049928	0	live	ATRX	N336_05740	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+36300	Pelecanus crispus	104028317	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+128390	Nipponia nippon	104023183	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9135	Serinus canaria	103816341	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+57068	Acanthisitta chloris	103802341	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+57421	Merops nubicus	103775969	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+328815	Manacus vitellinus	103763074	0	live	ATRX	N305_11976	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+29073	Ursus maritimus	103675817	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007907237.1	359819	616569	minus	34		
+85066	Corvus brachyrhynchos	103617919	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_008238644.1	5158926	5225183	plus	35		
+9244	Calypte anna	103534201	0	live	ATRX	N300_11348	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un	NW_007621388.1	2196335	2262666	minus	34		
+244447	Cynoglossus semilaevis	103391183	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			15	NC_024321.1	15256381	15281905	minus	34		
+29078	Eptesicus fuscus	103303647	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_007370958.1	103896	368772	minus	34		
+118797	Lipotes vexillifer	103072705	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006772158.1	329617	576630	plus	35		
+176946	Python bivittatus	103062383	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006533117.1	27037	143253	minus	35		
+310752	Balaenoptera acutorostrata scammoni	103018689	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006727731.1	180549	439939	minus	36		
+8469	Chelonia mydas	102946776	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006630072.1	13867821	13996709	plus	35		
+7918	Lepisosteus oculatus	102696573	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			LG7	NC_023185.1	21296433	21401411	minus	35		
+246437	Tupaia chinensis	102501231	0	live	ATRX	TREES_T100018509	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+59463	Myotis lucifugus	102420492	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+89462	Bubalus bubalis	102401884	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_005785294.1	536379	726132	minus	34		
+8083	Xiphophorus maculatus	102219621	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+44394	Zonotrichia albicollis	102062319	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+345164	Falco cherrug	102056585	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+48883	Geospiza fortis	102044208	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+43179	Ictidomys tridecemlineatus	101966556	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+59894	Ficedula albicollis	101811379	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			4A	NC_021676.1	18330813	18388103	plus	35		
+8839	Anas platyrhynchos	101794479	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+10160	Octodon degus	101585992	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9978	Ochotona princeps	101533197	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+106582	Maylandia zebra	101486163	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9361	Dasypus novemcinctus	101433906	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9708	Odobenus rosmarus divergens	101379075	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+8090	Oryzias latipes	101162138	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			10	NC_019868.1	13530281	13569081	plus	34		
+9593	Gorilla gorilla	101148821	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_018447.1	74592646	74872780	minus	35		
+9685	Felis catus	101086543	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_018741.2	62341589	62662997	minus	35		
+31033	Takifugu rubripes	101070685	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			14	NC_018903.1	5155275	5179419	plus	34		
+30611	Otolemur garnettii	100952788	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9785	Loxodonta africana	100657543	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+28377	Anolis carolinensis	100561913	0	live	atrx		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9103	Meleagris gallopavo	100550346	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			9	NC_015019.2	12685095	12750794	minus	35		
+9601	Pongo abelii	100455265	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_012614.1	75044714	75335384	minus	35		
+9483	Callithrix jacchus	100389280	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			X	NC_013918.1	68629244	68855174	minus	34		
+9258	Ornithorhynchus anatinus	100075640	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			6	NC_009099.1	11049383	11175764	minus	33		
+127582	Trichechus manatus latirostris	101348181	0	live	LOC101348181	ATRX	alpha thalassemia/mental retardation syndrome X-linked			Un							
+9823	Sus scrofa	100286857	0	live	ATRX		transcriptional regulator ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)		X	NC_010461.4	70634541	70808357	minus	18		
+8932	Columba livia	102085722	0	live	LOC102085722	A306_02892, ATRX	transcriptional regulator ATRX	alpha thalassemia/mental retardation syndrome X-linked		Un							
+44394	Zonotrichia albicollis	102069875	0	live	LOC102069875	ATRX	transcriptional regulator ATRX	alpha thalassemia/mental retardation syndrome X-linked		Un							
+8355	Xenopus laevis	733229	0	live	atrx	rad54	alpha thalassemia/mental retardation syndrome X-linked	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog)									
+10090	Mus musculus	100418413	0	live	Gm19194		predicted gene, 19194			3	NC_000069.6	71672778	71676232	plus	0		
+13616	Monodelphis domestica	100379643	0	live	ATRY		alpha thalassemia/mental retardation syndrome Y-linked										
+9606	Homo sapiens	387281	0	live	LCRB		locus control region, beta	LCR-beta	11p15.5	11	NC_000011.10	5275850	5291371	minus	0	152424	
+93934	Coturnix japonica	107312762	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			4	NC_029519.1	12126300	12193545	minus	37		
+103944	Protobothrops mucrosquamatus	107284622	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+9157	Parus major	107203842	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			4A	NC_029272.1	17468666	17525258	plus	37		
+27457	Bactrocera dorsalis	105233357	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX-like protein|transcriptional regulator ATRX homolog		Un							
+27457	Bactrocera dorsalis	105229541	0	live	Atrx	ZN555	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX-like protein|Zinc finger protein 555|zinc finger protein 699		Un							
+28588	Bactrocera cucurbitae	105211127	0	live	Atrx		alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX|peptidyl-prolyl cis-trans isomerase G		Un							
+9755	Physeter catodon	102985367	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un	NW_006716166.1	8719	112447	plus	20		
+74533	Panthera tigris altaica	102950920	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+225400	Myotis davidii	102770816	0	live	ATRX	MDA_GLEAN10003510	alpha thalassemia/mental retardation syndrome X-linked	Transcriptional regulator ATRX		Un							
+8932	Columba livia	102090799	0	live	ATRX		alpha thalassemia/mental retardation syndrome X-linked			Un							
+73337	Ceratotherium simum simum	101401282	0	live	LOC101401282	ATRX	alpha thalassemia/mental retardation syndrome X-linked			Un							
+419612	Camelus ferus	102506452	0	live	LOC102506452	CB1_007660001, ATRX	transcriptional regulator ATRX	alpha thalassemia/mental retardation syndrome X-linked		Un							
+7213	Ceratitis capitata	101459504	0	live	LOC101459504	Atrx	transcriptional regulator ATRX homolog	alpha thalassemia/mental retardation syndrome X-linked		Un							
+9606	Homo sapiens	3039	0	live	HBA1	HBA-T3, HBH	hemoglobin subunit alpha 1	alpha one globin|alpha-2 globin chain|delta globin|hemoglobin alpha 1 globin chain|hemoglobin, alpha 1	16p13.3	16	NC_000016.10	176651	177522	plus	3	141800	
+9606	Homo sapiens	3040	0	live	HBA2	HBA-T2, HBH	hemoglobin subunit alpha 2	alpha globin|alpha-2 globin|alpha-globin|hemoglobin alpha chain|hemoglobin, alpha 2|mutant hemoglobin alpha 2 globin chain	16p13.3	16	NC_000016.10	172847	173710	plus	3	141850	
+9606	Homo sapiens	3045	0	live	HBD		hemoglobin subunit delta	delta globin|delta-globin chain|hemoglobin delta chain|hemoglobin, delta	11p15.5	11	NC_000011.10	5232829	5234628	minus	3	142000	
+9606	Homo sapiens	3046	0	live	HBE1	HBE	hemoglobin subunit epsilon 1	epsilon globin|epsilon-globin|hemoglobin epsilon chain|hemoglobin, epsilon 1	11p15.5	11	NC_000011.10	5268345	5281945	minus	5	142100	
+9606	Homo sapiens	3048	0	live	HBG2	HBG-T1, TNCY	hemoglobin subunit gamma 2	G-gamma globin Paulinia|abnormal hemoglobin|gamma-2-globin|hb F Ggamma|hemoglobin gamma-2 chain|hemoglobin gamma-G chain|hemoglobin, gamma G|methemoglobin	11p15.5	11	NC_000011.10	5253191	5254781	minus	3	142250	
+9606	Homo sapiens	3047	0	live	HBG1	HBG-T2, HBGA, HBGR, HSGGL1, PRO2979	hemoglobin subunit gamma 1	A-gamma globin|gamma A hemoglobin|gamma globin|gamma-1-globin|hb F Agamma|hemoglobin gamma-1 chain|hemoglobin gamma-a chain|hemoglobin, gamma A|hemoglobin, gamma, regulator of	11p15.5	11	NC_000011.10	5248272	5249857	minus	3	142200	
+9606	Homo sapiens	4602	0	live	MYB	Cmyb, c-myb, c-myb_CDS, efg	MYB proto-oncogene, transcription factor	oncogene AMV|proto-oncogene c-Myb|v-myb avian myeloblastosis viral oncogene homolog	6q22-q23	6	NC_000006.12	135180981	135219173	plus	18	189990	
+9606	Homo sapiens	10767	0	live	HBS1L	EF-1a, ERFS, HBS1, HSPC276, eRF3c	HBS1 like translational GTPase	ERF3-similar protein|HBS1-like translational GTPase|Hsp70 subfamily B suppressor 1-like protein|eRF3 family member	6q23.3	6	NC_000006.12	134960378	135054898	minus	20	612450	
+9606	Homo sapiens	3044	0	live	HBBP1	HBH1, HBHP	hemoglobin subunit beta pseudogene 1	beta globin pseudogene|hemoglobin, beta pseudogene 1	11p15.5	11	NC_000011.10	5241954	5243592	minus	3		
+9606	Homo sapiens	57817	0	live	HAMP	HEPC, HFE2B, LEAP1, PLTR	hepcidin antimicrobial peptide	liver-expressed antimicrobial peptide 1|putative liver tumor regressor	19q13.1	19	NC_000019.10	35282507	35285143	plus	3	606464	
+9606	Homo sapiens	3077	0	live	HFE	HFE1, HH, HLA-H, MVCD7, TFQTL2	hemochromatosis	MHC class I-like protein HFE|hereditary hemochromatosis protein HLA-H|high Fe	6p21.3	6	NC_000006.12	26087281	26096117	plus	7	613609	
+73337	Ceratotherium simum simum	101406776	0	live	LOC101406776		transcriptional regulator ATRX-like			Un							
+3656	Cucumis melo	103485842	0	live	LOC103485842		transcriptional regulator ATRX			Un	NW_007546276.1	4760441	4843764	plus	25		
+443821	Cerapachys biroi	105278707	0	live	LOC105278707	X777_03694	uncharacterized LOC105278707	Transcriptional regulator ATRX		Un							
+3659	Cucumis sativus	101218346	0	live	LOC101218346	Csa_2G076015	protein CHROMATIN REMODELING 20	hypothetical protein		2	NC_026656.1	6296497	6358055	minus	25		
+7668	Strongylocentrotus purpuratus	593921	0	live	LOC593921		transcriptional regulator ATRX			Un							
+180498	Jatropha curcas	105647763	0	live	LOC105647763	JCGZ_23567	protein CHROMATIN REMODELING 20	hypothetical protein		Un							
+230844	Peromyscus maniculatus bairdii	102928072	0	live	LOC102928072		transcriptional regulator ATRX-like			Un	NW_006501639.1	507715	695452	minus	36		
+9606	Homo sapiens	51327	0	live	AHSP	EDRF, ERAF	alpha hemoglobin stabilizing protein	alpha hemoglobin stabilising protein|erythroid differentiation associated factor|erythroid differentiation-related factor	16p11.2	16	NC_000016.10	31527852	31528803	plus	4	605821	
+3702	Arabidopsis thaliana	837382	0	live	ATRX	AT1G08600, CHR20, F22O13.8, F22O13_8	protein ATRX			1	NC_003070.9	2723824	2733613	plus	28		
+10116	Rattus norvegicus	103690008	0	live	LOC103690008		transcriptional regulator ATRX-like			X	NC_005120.4	76663144	76709464	minus	12		
+3847	Glycine max	100818409	0	live	LOC100818409	GLYMA_20G227200	protein CHROMATIN REMODELING 20-like	hypothetical protein		20	NC_016107.2	46144192	46189813	plus	27		
+28526	Solanum pennellii	107017879	0	live	LOC107017879		protein CHROMATIN REMODELING 20			4	NC_028640.1	54838188	54883828	minus	25		
+79782	Cimex lectularius	106670416	0	live	LOC106670416		transcriptional regulator ATRX homolog			Un							
+83485	Linepithema humile	105673526	0	live	LOC105673526		transcriptional regulator ATRX			Un							
+103372	Acromyrmex echinatior	105147602	0	live	LOC105147602		uncharacterized LOC105147602			Un							
+103372	Acromyrmex echinatior	105147379	0	live	LOC105147379		transcriptional regulator ATRX homolog			Un							
+71139	Eucalyptus grandis	104415356	0	live	LOC104415356	EUGRSUZ_H04218	transcriptional regulator ATRX	hypothetical protein		Un							
+8153	Haplochromis burtoni	102292956	0	live	LOC102292956		transcriptional regulator ATRX-like			Un							
+8128	Oreochromis niloticus	100690413	0	live	LOC100690413		transcriptional regulator ATRX-like			LG10	NC_022208.1	7794559	7815466	plus	35		
+7227	Drosophila melanogaster	36278	0	live	ADD1	Dmel_CG8290, BEST:LD29214, CG8290, Dmel\CG8290, LD29214, dADD1	ADD domain-containing protein 1	ADD1-PA|ADD1-PB|ADD1-PE|CG8290-PA|CG8290-PB|CG8290-PE	48D5-48D5	2R	NT_033778.4	11970686	11977721	plus	6		
+9606	Homo sapiens	9518	0	live	GDF15	GDF-15, MIC-1, MIC1, NAG-1, PDF, PLAB, PTGFB	growth differentiation factor 15	NRG-1|NSAID (nonsteroidal anti-inflammatory drug)-activated protein 1|NSAID-activated gene 1 protein|NSAID-regulated gene 1 protein|PTGF-beta|macrophage inhibitory cytokine 1|placental TGF-beta|placental bone morphogenetic protein|prostate differentiation factor	19p13.11	19	NC_000019.10	18386158	18389176	plus	2	605312	
+46245	Drosophila pseudoobscura pseudoobscura	4804891	0	live	Dpse\GA30474	Dpse_GA30474, Dpse\GA20960, Dpse\GA24931, Dpse_GA20960, Dpse_GA24931, GA20960, GA24931, GA30474, dpse_GLEANR_15952, dpse_GLEANR_15953	GA30474 gene product from transcript GA30474-RC	Dpse\GA30474-PA|Dpse\GA30474-PC|GA20960|GA30474-PA|GA30474-PC|uncharacterized protein		3	NC_009006.2	12198469	12204555	plus	6		
+3641	Theobroma cacao	18600036	0	live	TCM_026141	TCM_026141	Chromatin remodeling complex subunit isoform 1	Chromatin remodeling complex subunit isoform 3|P-loop containing nucleoside triphosphate hydrolases superfamily protein isoform 2		5	NC_023621.1	36763629	36788336	plus	30		
+29760	Vitis vinifera	100244360	0	live	LOC100244360	VIT_00023393001	protein CHROMATIN REMODELING 20			14	NC_012020.3	12730207	12850105	minus	27		
+69319	Microplitis demolitor	103571288	0	live	LOC103571288		uncharacterized LOC103571288			Un							
+307658	Monomorium pharaonis	105830802	0	live	LOC105830802		uncharacterized LOC105830802			Un							
+743375	Polistes dominula	107067572	0	live	LOC107067572		uncharacterized LOC107067572			Un							
+48699	Poecilia latipinna	106955734	0	live	LOC106955734		transcriptional regulator ATRX-like			Un							
+48701	Poecilia mexicana	106923642	0	live	LOC106923642		transcriptional regulator ATRX-like			Un							
+104688	Bactrocera oleae	106624649	0	live	LOC106624649		uncharacterized LOC106624649			Un							
+35570	Stomoxys calcitrans	106090979	0	live	LOC106090979		uncharacterized LOC106090979			Un							
+29730	Gossypium raimondii	105804599	0	live	LOC105804599	B456_007G273900	protein CHROMATIN REMODELING 20	hypothetical protein		7	NC_026935.1	46703383	46719203	plus	27		
+13686	Solenopsis invicta	105197759	0	live	LOC105197759	SINV_80542	uncharacterized LOC105197759	hypothetical protein		Un							
+28532	Tarenaya hassleriana	104805785	0	live	LOC104805785		protein CHROMATIN REMODELING 20			Un							
+90675	Camelina sativa	104766822	0	live	LOC104766822		protein CHROMATIN REMODELING 20-like			3	NC_025687.1	3603985	3616300	plus	29		
+225117	Pyrus x bretschneideri	103935701	0	live	LOC103935701		transcriptional regulator ATRX-like			Un							
+42345	Phoenix dactylifera	103720147	0	live	LOC103720147		transcriptional regulator ATRX			Un							
+7070	Tribolium castaneum	103312841	0	live	LOC103312841	TcasGA2_TC008388	uncharacterized LOC103312841	GLEAN_08388|hypothetical protein		LG4	NC_007419.1	10939117	10946594	plus	9		
+32507	Neolamprologus brichardi	102794659	0	live	LOC102794659		transcriptional regulator ATRX-like			Un	NW_006272003.1	8561984	8596034	plus	35		
+7370	Musca domestica	101889225	0	live	LOC101889225		uncharacterized LOC101889225			Un							
+106582	Maylandia zebra	101477639	0	live	LOC101477639		transcriptional regulator ATRX-like			Un							
+15368	Brachypodium distachyon	100835235	0	live	LOC100835235	BRADI_3g27970	protein CHROMATIN REMODELING 20	hypothetical protein		3	NC_016133.2	29238034	29251800	plus	27		
+9606	Homo sapiens	2623	0	live	GATA1	ERYF1, GATA-1, GF-1, GF1, NF-E1, NFE1, XLANP, XLTDA, XLTT	GATA binding protein 1	GATA binding protein 1 (globin transcription factor 1)|GATA-binding factor 1|NF-E1 DNA-binding protein|erythroid transcription factor 1|globin transcription factor 1|nuclear factor, erythroid 1|transcription factor GATA1	Xp11.23	X	NC_000023.11	48786560	48794311	plus	6	305371	
+10090	Mus musculus	84506	0	live	Hamp	Hamp1, Hepc, Hepc1	hepcidin antimicrobial peptide	hepcidin antimicrobial peptide 1	7 19.27 cM	7	NC_000073.6	30942368	30944017	minus	3		
+9606	Homo sapiens	7421	0	live	VDR	NR1I1, PPP1R163	vitamin D (1,25- dihydroxyvitamin D3) receptor	1,25-dihydroxyvitamin D3 receptor|nuclear receptor subfamily 1 group I member 1|protein phosphatase 1, regulatory subunit 163|vitamin D nuclear receptor variant 1|vitamin D receptor	12q13.11	12	NC_000012.12	47841537	47905031	minus	11	601769	
+9606	Homo sapiens	7015	0	live	TERT	CMM9, DKCA2, DKCB4, EST2, PFBMFT1, TCS1, TP2, TRT, hEST2, hTRT	telomerase reverse transcriptase	telomerase catalytic subunit|telomerase-associated protein 2	5p15.33	5	NC_000005.10	1253167	1295047	minus	18	187270	
+7245	Drosophila yakuba	6530213	0	live	Dyak\GE12393	Dyak_GE12393, GE12393, dyak_GLEANR_12651	GE12393 gene product from transcript GE12393-RC	Dyak\GE12393-PB|Dyak\GE12393-PC|GE12393-PB|GE12393-PC|uncharacterized protein		2R	NT_167063.1	9088458	9095536	minus	6		
+7244	Drosophila virilis	6635958	0	live	Dvir\GJ17920	Dvir_GJ17920, GJ17920, dvir_GLEANR_249	GJ17920 gene product from transcript GJ17920-RB	Dvir\GJ17920-PA|Dvir\GJ17920-PB|GJ17920-PA|GJ17920-PB|uncharacterized protein		Unknown							
+7230	Drosophila mojavensis	6578576	0	live	Dmoj\GI19959	Dmoj_GI19959, GI19959, dmoj_GLEANR_4852	GI19959 gene product from transcript GI19959-RA	Dmoj\GI19959-PA|Dmoj\GI19959-PB|GI19959-PA|GI19959-PB|uncharacterized protein		Unknown							
+7220	Drosophila erecta	6547031	0	live	Dere\GG20232	Dere_GG20232, GG20232, dere_GLEANR_5048	GG20232 gene product from transcript GG20232-RC	Dere\GG20232-PB|Dere\GG20232-PC|GG20232-PB|GG20232-PC|uncharacterized protein		Unknown							
+7217	Drosophila ananassae	6495951	0	live	Dana\GF13108	Dana_GF13108, GF13108, dana_GLEANR_13123	GF13108 gene product from transcript GF13108-RA	Dana\GF13108-PA|Dana\GF13108-PB|GF13108-PA|GF13108-PB|uncharacterized protein		Unknown							
+28588	Bactrocera cucurbitae	105209831	0	live	Atrx_0	Atrx_1	Transcriptional regulator ATRX			Un							
+7213	Ceratitis capitata	101454033	0	live	Atrx		Transcriptional regulator ATRX			Un							
+7091	Bombyx mori	101739643	0	live	LOC101739643		uncharacterized LOC101739643			Un							
+132113	Bombus impatiens	100748640	0	live	LOC100748640		uncharacterized LOC100748640			Un							
+743375	Polistes dominula	107068525	0	live	LOC107068525		transcriptional regulator ATRX homolog			Un							
+37653	Octopus bimaculoides	106867548	0	live	LOC106867548	OCBIM_22000710mg	transcriptional regulator ATRX-like	hypothetical protein		Un							
+91411	Polistes canadensis	106787196	0	live	LOC106787196		transcriptional regulator ATRX homolog			Un							
+157791	Vigna radiata	106771923	0	live	LOC106771923		protein CHROMATIN REMODELING 20			8	NC_028358.1	33152095	33189075	plus	26		
+609295	Dinoponera quadriceps	106750466	0	live	LOC106750466		uncharacterized LOC106750466			Un							
+286706	Halyomorpha halys	106688250	0	live	LOC106688250		transcriptional regulator ATRX-like			Un							
+52670	Austrofundulus limnaeus	106516406	0	live	LOC106516406		transcriptional regulator ATRX-like			Un							
+76194	Papilio polytes	106100427	0	live	LOC106100427		uncharacterized LOC106100427			Un							
+7950	Clupea harengus	105893199	0	live	LOC105893199		transcriptional regulator ATRX-like			Un							
+222816	Orussus abietinus	105701641	0	live	LOC105701641		uncharacterized LOC105701641			Un							
+83485	Linepithema humile	105670823	0	live	LOC105670823		uncharacterized LOC105670823			Un							
+411798	Vollenhovia emeryi	105558940	0	live	LOC105558940		uncharacterized LOC105558940			Un							
+64793	Wasmannia auropunctata	105449648	0	live	LOC105449648		uncharacterized LOC105449648			Un							
+51655	Plutella xylostella	105385227	0	live	LOC105385227		uncharacterized LOC105385227			Un							
+29159	Crassostrea gigas	105339136	0	live	LOC105339136	CGI_10027273	transcriptional regulator ATRX-like	Transcriptional regulator ATRX		Un							
+75702	Populus euphratica	105135339	0	live	LOC105135339		protein CHROMATIN REMODELING 20-like			Un							
+75702	Populus euphratica	105133891	0	live	LOC105133891		protein CHROMATIN REMODELING 20-like			Un							
+51953	Elaeis guineensis	105043153	0	live	LOC105043153		protein CHROMATIN REMODELING 20			Chr4	NC_025996.1	33295629	33340230	plus	26		
+3555	Beta vulgaris subsp. vulgaris	104890458	0	live	LOC104890458	BVRB_4g077440	protein CHROMATIN REMODELING 20	hypothetical protein		4	NC_025815.1	6442068	6463844	plus	26		
+4432	Nelumbo nucifera	104602758	0	live	LOC104602758		protein CHROMATIN REMODELING 20			Un							
+4096	Nicotiana sylvestris	104222704	0	live	LOC104222704		transcriptional regulator ATRX			Un							
+4641	Musa acuminata	103982759	0	live	LOC103982759		transcriptional regulator ATRX			chr4	NC_025205.1	24689272	24720337	minus	27		
+121845	Diaphorina citri	103504893	0	live	LOC103504893		transcriptional regulator ATRX-like			Un	NW_007377576.1	200924	203389	minus	3		
+3750	Malus domestica	103434219	0	live	LOC103434219		transcriptional regulator ATRX-like			4	NC_024242.1	21936193	21946002	minus	23		
+244447	Cynoglossus semilaevis	103395325	0	live	LOC103395325		transcriptional regulator ATRX-like			19	NC_024325.1	11575418	11584752	minus	11		
+48698	Poecilia formosa	103133971	0	live	LOC103133971		transcriptional regulator ATRX-like			Un	NW_006799953.1	4224097	4247302	plus	35		
+13616	Monodelphis domestica	103097941	0	live	LOC103097941		transcriptional regulator ATRX-like			X	NC_008809.1	27125795	27158262	plus	6		
+32507	Neolamprologus brichardi	102788363	0	live	LOC102788363		transcriptional regulator ATRX-like			Un	NW_006272089.1	170190	191079	plus	35		
+2711	Citrus sinensis	102609504	0	live	LOC102609504		protein CHROMATIN REMODELING 20			7	NC_023052.1	10398214	10416206	plus	27		
+4113	Solanum tuberosum	102604570	0	live	LOC102604570		protein CHROMATIN REMODELING 20			Un							
+4555	Setaria italica	101762016	0	live	LOC101762016	SETIT_034060mg	protein CHROMATIN REMODELING 20	hypothetical protein		IX	NC_028458.1	17720239	17737619	minus	26		
+3827	Cicer arietinum	101489609	0	live	LOC101489609		protein CHROMATIN REMODELING 20			Ca4	NC_021163.1	4786085	4808943	minus	26		
+57918	Fragaria vesca	101296301	0	live	LOC101296301		protein CHROMATIN REMODELING 20			LG6	NC_020496.1	1239717	1252132	plus	27		
+4081	Solanum lycopersicum	101246047	0	live	LOC101246047		protein CHROMATIN REMODELING 20			4	NC_015441.2	45656365	45702024	minus	25		
+31033	Takifugu rubripes	101066212	0	live	LOC101066212		transcriptional regulator ATRX-like			15	NC_018904.1	8931097	8946069	plus	34		
+30195	Bombus terrestris	100650603	0	live	LOC100650603		uncharacterized LOC100650603			LG B08	NC_015769.1	3596367	3599680	plus	6		
+3885	Phaseolus vulgaris	18625600	0	live	PHAVU_007G116600g	PHAVU_007G116600g	hypothetical protein			7	NC_023753.1	18266379	18295516	plus	22		
+9606	Homo sapiens	10661	0	live	KLF1	CDAN4, EKLF, HBFQTL6, INLU	Kruppel-like factor 1 (erythroid)	erythroid Kruppel-like factor|erythroid krueppel-like transcription factor|erythroid-specific transcription factor EKLF|monoclonal antibody A3D8|truncated EKLF	19p13.2	19	NC_000019.10	12884422	12887203	minus	3	600599	
+81972	Arabidopsis lyrata subsp. lyrata	9325769	0	live	ARALYDRAFT_470924	ARALYDRAFT_470924	ATRX/CHR20			Unknown							
+180454	Anopheles gambiae str. PEST	1280894	0	live	AgaP_AGAP011746	AgaP_AGAP011746, AgaP_ENSANGG00000011652, ENSANGG00000011652	AGAP011746-PA			3L	NT_078267.5	32865203	32871725	plus	5		
+7260	Drosophila willistoni	6643238	0	live	Dwil\GK22052	Dwil_GK22052, GK22052, dwil_GLEANR_5156	GK22052 gene product from transcript GK22052-RB	Dwil\GK22052-PB|GK22052-PB		Unknown							
+7222	Drosophila grimshawi	6560299	0	live	Dgri\GH21481	Dgri_GH21481, GH21481, dgri_GLEANR_5639	GH21481 gene product from transcript GH21481-RA	Dgri\GH21481-PA|GH21481|GH21481-PA									
+6185	Schistosoma haematobium	24592432	0	live	MS3_04949	MS3_04949	Transcriptional regulator ATRX-like protein			Unknown							
+7159	Aedes aegypti	5577240	0	live	AaeL_AAEL003126	AaeL_AAEL003126	AAEL003126-PA			3							
+3694	Populus trichocarpa	7487714	0	live	POPTR_0013s04610g	POPTR_0013s04610g, POPTRDRAFT_241484	SNF2 domain-containing family protein			LGXIII	NC_008479.2	3151362	3168220	minus	25		
+3218	Physcomitrella patens	5922068	0	live	CHR1547	PHYPADRAFT_20076	SNF2 family DNA-dependent ATPase domain-containing protein										
+7240	Drosophila simulans	6734066	0	live	Dsim\GD10828	Dsim_GD10828, GD10828, dsim_GLEANR_10802	GD10828 gene product from transcript GD10828-RA	Dsim\GD10828-PA|GD10828|GD10828-PA		2R	NT_167067.1	6395735	6399956	plus	5		
+7238	Drosophila sechellia	6608734	0	live	Dsec\GM21320	Dsec_GM21320, GM21320, dsec_GLEANR_4107	GM21320 gene product from transcript GM21320-RA	Dsec\GM21320-PA|GM21320|GM21320-PA									
+7234	Drosophila persimilis	6602078	0	live	Dper\GL20096	Dper_GL20096, GL20096, dper_GLEANR_22445	GL20096 gene product from transcript GL20096-RA	Dper\GL20096-PA|GL20096|GL20096-PA									
+981085	Morus notabilis	21407220	0	live	L484_024481	L484_024481	Transcriptional regulator ATRX-like protein			Unknown							
+121224	Pediculus humanus corporis	8235221	0	live	Phum_PHUM256780	Phum_PHUM256780	FYVE domain-containing protein, putative										
+121224	Pediculus humanus corporis	8232561	0	live	Phum_PHUM041250	Phum_PHUM041250	atrxl protein, putative										
+121224	Pediculus humanus corporis	8230638	0	live	Phum_PHUM456660	Phum_PHUM456660	peptidyl-prolyl cis-trans isomerase G, putative										
+7719	Ciona intestinalis	778547	0	live	LOC778547	atrx	transcriptional regulator ATRX homolog			14	NC_020179.2	613029	638856	minus	37		
+7460	Apis mellifera	409083	0	live	LOC409083	GB10877	uncharacterized LOC409083			LG7	NC_007076.3	2228622	2231927	plus	5		
+443821	Cerapachys biroi	105283278	0	live	LOC105283278	X777_10571	transcriptional regulator ATRX	Transcriptional regulator ATRX-like protein		Un							
+104421	Camponotus floridanus	105253454	0	live	LOC105253454	EAG_15380	transcriptional regulator ATRX			Un							
+104421	Camponotus floridanus	105253172	0	live	LOC105253172	EAG_07073	uncharacterized LOC105253172	Transcriptional regulator ATRX		Un							
+610380	Harpegnathos saltator	105185666	0	live	LOC105185666	EAI_12337	uncharacterized LOC105185666	Transcriptional regulator ATRX		Un							
+44056	Aureococcus anophagefferens	20227816	0	live	AURANDRAFT_70556	AURANDRAFT_70556	hypothetical protein			Unknown							
+6198	Opisthorchis viverrini	20314523	0	live	T265_00335	T265_00335	hypothetical protein			Unknown							
+45351	Nematostella vectensis	5516488	0	live	NEMVEDRAFT_v1g241026	NEMVEDRAFT_v1g241026	hypothetical protein										
+7668	Strongylocentrotus purpuratus	578567	0	live	LOC578567		transcriptional regulator ATRX homolog			Un							
+225164	Lottia gigantea	20247705	0	live	LOTGIDRAFT_228577	LOTGIDRAFT_228577	hypothetical protein			Unknown							
+6412	Helobdella robusta	20211123	0	live	HELRODRAFT_189092	HELRODRAFT_189092	hypothetical protein			Unknown							
+6412	Helobdella robusta	20207312	0	live	HELRODRAFT_179468	HELRODRAFT_179468	hypothetical protein			Unknown							
+6412	Helobdella robusta	20195496	0	live	HELRODRAFT_114133	HELRODRAFT_114133	hypothetical protein			Unknown							
+72664	Eutrema salsugineum	18994013	0	live	EUTSA_v10006555mg	EUTSA_v10006555mg	hypothetical protein			Unknown							
+3760	Prunus persica	18774645	0	live	PRUPE_ppa000170mg	PRUPE_ppa000170mg	hypothetical protein			Unknown							
+81985	Capsella rubella	17897693	0	live	CARUB_v10011116mg	CARUB_v10011116mg	hypothetical protein			Unknown							
+88036	Selaginella moellendorffii	9653687	0	live	SELMODRAFT_443867	SELMODRAFT_443867	hypothetical protein			Unknown							
+88036	Selaginella moellendorffii	9646596	0	live	SELMODRAFT_441095	SELMODRAFT_441095	hypothetical protein			Unknown							
+3218	Physcomitrella patens	5919928	0	live	PHYPADRAFT_69684	PHYPADRAFT_69684	hypothetical protein										
+28743	Cyprinodon variegatus	107087887	0	live	LOC107087887		transcriptional regulator ATRX-like			Un							
+454923	Diachasma alloeum	107045356	0	live	LOC107045356		uncharacterized LOC107045356			Un							
+32536	Acinonyx jubatus	106973549	0	live	LOC106973549		transcriptional regulator ATRX-like			Un							
+37621	Priapulus caudatus	106812495	0	live	LOC106812495		transcriptional regulator ATRX-like			Un							
+91411	Polistes canadensis	106789925	0	live	LOC106789925		uncharacterized LOC106789925			Un							
+76193	Papilio machaon	106708659	0	live	LOC106708659	RR48_13807	uncharacterized LOC106708659	Transcriptional regulator ATRX		Un							
+286706	Halyomorpha halys	106683917	0	live	LOC106683917		transcriptional regulator ATRX-like			Un							
+7493	Trichogramma pretiosum	106656248	0	live	LOC106656248		transcriptional regulator ATRX-like			Un							
+29053	Copidosoma floridanum	106647515	0	live	LOC106647515		uncharacterized LOC106647515			Un							
+8030	Salmo salar	106612325	0	live	LOC106612325		transcriptional regulator ATRX-like			ssa09	NC_027308.1	90123303	90149031	minus	17		
+8030	Salmo salar	106604099	0	live	LOC106604099		transcriptional regulator ATRX-like			ssa05	NC_027304.1	965223	1009603	minus	21		
+8030	Salmo salar	106603335	0	live	LOC106603335		transcriptional regulator ATRX-like			ssa04	NC_027303.1	44573419	44623758	plus	35		
+8030	Salmo salar	106567810	0	live	LOC106567810		transcriptional regulator ATRX-like			ssa13	NC_027312.1	80173007	80210024	minus	35		
+6850	Limulus polyphemus	106474618	0	live	LOC106474618		transcriptional regulator ATRX-like			Un							
+6850	Limulus polyphemus	106470954	0	live	LOC106470954		transcriptional regulator ATRX-like			Un							
+3708	Brassica napus	106415314	0	live	LOC106415314		protein CHROMATIN REMODELING 20-like			C8	NC_027774.1	33123579	33132993	minus	26		
+3708	Brassica napus	106346321	0	live	LOC106346321		protein CHROMATIN REMODELING 20-like			A6	NC_027762.1	5606093	5615424	minus	25		
+3712	Brassica oleracea	106295119	0	live	LOC106295119		protein CHROMATIN REMODELING 20			C5	NC_027752.1	3263476	3272685	plus	26		
+7574	Lingula anatina	106156227	0	live	LOC106156227		transcriptional regulator ATRX-like			Un							
+680683	Amyelois transitella	106131265	0	live	LOC106131265		probable serine/threonine-protein kinase tsuA			Un							
+66420	Papilio xuthus	106123502	0	live	LOC106123502		uncharacterized LOC106123502			Un							
+6526	Biomphalaria glabrata	106057324	0	live	LOC106057324		transcriptional regulator ATRX-like			LG1i							
+8078	Fundulus heteroclitus	105927762	0	live	LOC105927762		transcriptional regulator ATRX-like			Un							
+37293	Aotus nancymaae	105715788	0	live	LOC105715788		transcriptional regulator ATRX-like			Un							
+37344	Athalia rosae	105694092	0	live	LOC105694092		transcriptional regulator ATRX-like			Un							
+37344	Athalia rosae	105689213	0	live	LOC105689213		uncharacterized LOC105689213			Un							
+12957	Atta cephalotes	105624969	0	live	LOC105624969		transcriptional regulator ATRX-like			Un							
+12957	Atta cephalotes	105623202	0	live	LOC105623202		uncharacterized LOC105623202			Un							
+64793	Wasmannia auropunctata	105458618	0	live	LOC105458618		transcriptional regulator ATRX			Un							
+144034	Pogonomyrmex barbatus	105427582	0	live	LOC105427582		uncharacterized LOC105427582			Un							
+144034	Pogonomyrmex barbatus	105426619	0	live	LOC105426619		transcriptional regulator ATRX			Un							
+326594	Ceratosolen solmsi marchali	105366373	0	live	LOC105366373		uncharacterized LOC105366373			Un							
+64838	Fopius arisanus	105263285	0	live	LOC105263285	ATRX_1	uncharacterized LOC105263285	Transcriptional regulator ATRX		Un							
+8010	Esox lucius	105026975	0	live	LOC105026975		transcriptional regulator ATRX-like			LG07	NC_025974.2	12093348	12124885	plus	35		
+8208	Notothenia coriiceps	104945804	0	live	LOC104945804		transcriptional regulator ATRX-like			Un							
+215358	Larimichthys crocea	104919751	0	live	LOC104919751		transcriptional regulator ATRX-like			Un							
+90675	Camelina sativa	104755043	0	live	LOC104755043		protein CHROMATIN REMODELING 20-like			17	NC_025701.1	3476886	3487261	plus	26		
+90675	Camelina sativa	104739453	0	live	LOC104739453		protein CHROMATIN REMODELING 20			14	NC_025698.1	3693116	3704484	plus	26		
+54374	Mesitornis unicolor	104545788	0	live	LOC104545788		transcriptional regulator ATRX-like			Un							
+121530	Tauraco erythrolophus	104375126	0	live	LOC104375126		transcriptional regulator ATRX-like			Un							
+4098	Nicotiana tomentosiformis	104089904	0	live	LOC104089904		transcriptional regulator ATRX-like			Un							
+225117	Pyrus x bretschneideri	103968125	0	live	LOC103968125		transcriptional regulator ATRX-like			Un							
+3711	Brassica rapa	103871701	0	live	LOC103871701		transcriptional regulator ATRX			A6	NC_024800.1	2968855	2978512	plus	26		
+69319	Microplitis demolitor	103570321	0	live	LOC103570321		transcriptional regulator ATRX	Transcriptional regulator ATRX-like protein		Un							
+9798	Equus przewalskii	103566452	0	live	LOC103566452		transcriptional regulator ATRX-like			Un	NW_007676863.1	1442	152307	plus	30		
+121845	Diaphorina citri	103517312	0	live	LOC103517312		uncharacterized LOC103517312			Un	NW_007379233.1	53014	61121	minus	9		
+121845	Diaphorina citri	103512044	0	live	LOC103512044		transcriptional regulator ATRX-like			Un	NW_007378217.1	92902	95214	plus	4		
+8081	Poecilia reticulata	103475723	0	live	LOC103475723		transcriptional regulator ATRX-like			LG14	NC_024344.1	9134815	9158969	plus	35		
+3750	Malus domestica	103451083	0	live	LOC103451083		transcriptional regulator ATRX-like			12	NC_024250.1	30698241	30708513	minus	24		
+144197	Stegastes partitus	103366314	0	live	LOC103366314		transcriptional regulator ATRX-like			Un	NW_007578659.1	32584	55552	minus	34		
+102107	Prunus mume	103318713	0	live	LOC103318713		transcriptional regulator ATRX			LG1	NC_024126.1	25843207	25856392	plus	26		
+7994	Astyanax mexicanus	103028388	0	live	LOC103028388		transcriptional regulator ATRX-like			Un							
+9755	Physeter catodon	102988312	0	live	LOC102988312		transcriptional regulator ATRX-like			Un	NW_006718058.1	5977	98916	minus	16		
+4533	Oryza brachyantha	102712392	0	live	LOC102712392		protein CHROMATIN REMODELING 20			10	NC_023172.1	9705123	9718960	plus	26		
+7462	Apis dorsata	102676583	0	live	LOC102676583		uncharacterized LOC102676583			Un	NW_006263313.1	169917	173223	minus	5		
+419612	Camelus ferus	102514623	0	live	LOC102514623		transcriptional regulator ATRX-like			Un							
+246437	Tupaia chinensis	102497225	0	live	LOC102497225		transcriptional regulator ATRX-like			Un							
+8083	Xiphophorus maculatus	102233674	0	live	LOC102233674		transcriptional regulator ATRX-like			Un							
+303518	Pundamilia nyererei	102206383	0	live	LOC102206383		transcriptional regulator ATRX-like			Un							
+79684	Microtus ochrogaster	101985652	0	live	LOC101985652		transcriptional regulator ATRX-like			1	NC_022009.1	116217011	116221621	plus	2		
+6500	Aplysia californica	101846389	0	live	LOC101846389		transcriptional regulator ATRX-like			Un							
+8090	Oryzias latipes	101171430	0	live	LOC101171430		transcriptional regulator ATRX-like			14	NC_019872.1	17793225	17815182	minus	35		
+34638	Metaseiulus occidentalis	100909069	0	live	LOC100909069		transcriptional regulator ATRX-like			Un	NW_003805425.1	151032	162633	plus	16		
+143995	Megachile rotundata	100877734	0	live	LOC100877734		uncharacterized LOC100877734			Un							
+7463	Apis florea	100868823	0	live	LOC100868823		uncharacterized LOC100868823			Un							
+3847	Glycine max	100794911	0	live	LOC100794911		protein CHROMATIN REMODELING 20-like			10	NC_016097.2	39909853	39948810	plus	26		
+7425	Nasonia vitripennis	100679538	0	live	LOC100679538		uncharacterized LOC100679538			3	NC_015869.2	7666049	7670906	minus	10		
+400682	Amphimedon queenslandica	100631939	0	live	LOC100631939		transcriptional regulator ATRX-like			Un							
+6087	Hydra vulgaris	100208125	0	live	LOC100208125		transcriptional regulator ATRX-like			Un							
+12968	Blastocystis hominis	24922535	0	live	GSBLH_T00006411001	GSBLH_T00006411001	hypothetical protein										
+13333	Amborella trichopoda	18444171	0	live	LOC18444171	AMTR_s00039p00200130	protein CHROMATIN REMODELING 20	hypothetical protein		Un							
+85681	Citrus clementina	18044053	0	live	CICLE_v10030509mg	CICLE_v10030509mg	hypothetical protein			Unknown							
+946362	Salpingoeca rosetta	16077808	0	live	PTSG_01239	PTSG_01239	hypothetical protein			Unknown							
+6945	Ixodes scapularis	8034773	0	live	IscW_ISCW009437	IscW_ISCW009437	hypothetical protein										
+6945	Ixodes scapularis	8031271	0	live	IscW_ISCW007361	IscW_ISCW007361	hypothetical protein										
+7176	Culex quinquefasciatus	6049080	0	live	CpipJ_CPIJ015635	CpipJ_CPIJ015635	hypothetical protein										
+431895	Monosiga brevicollis MX1	5889220	0	live	MONBRDRAFT_6446	MONBRDRAFT_6446	hypothetical protein										
+9606	Homo sapiens	4524	0	live	MTHFR		methylenetetrahydrofolate reductase (NAD(P)H)	5,10-methylenetetrahydrofolate reductase (NADPH)	1p36.3	1	NC_000001.11	11785730	11806103	minus	14	607093	
+9606	Homo sapiens	5444	0	live	PON1	ESA, MVCD5, PON	paraoxonase 1	A-esterase 1|K-45|PON 1|aromatic esterase 1|arylesterase 1|arylesterase B-type|esterase A|paraoxonase B-type|serum aryldiakylphosphatase|serum aryldialkylphosphatase 1	7q21.3	7	NC_000007.14	95298357	95324572	minus	9	168820	
+9606	Homo sapiens	1576	0	live	CYP3A4	CP33, CP34, CYP3A, CYP3A3, CYPIIIA3, CYPIIIA4, HLP, NF-25, P450C3, P450PCN1	cytochrome P450 family 3 subfamily A member 4	1,8-cineole 2-exo-monooxygenase|P450-III, steroid inducible|albendazole monooxygenase|albendazole sulfoxidase|cholesterol 25-hydroxylase|cytochrome P450 3A3|cytochrome P450 HLp|cytochrome P450 NF-25|cytochrome P450, family 3, subfamily A, polypeptide 4|cytochrome P450, subfamily IIIA (niphedipine oxidase), polypeptide 3|cytochrome P450, subfamily IIIA (niphedipine oxidase), polypeptide 4|cytochrome P450-PCN1|glucocorticoid-inducible P450|nifedipine oxidase|quinine 3-monooxygenase|taurochenodeoxycholate 6-alpha-hydroxylase	7q21.1	7	NC_000007.14	99756960	99784188	minus	14	124010	
+9606	Homo sapiens	1277	0	live	COL1A1	EDSC, OI1, OI2, OI3, OI4	collagen type I alpha 1	alpha-1 type I collagen|alpha1(I) procollagen|collagen alpha 1 chain type I|collagen alpha-1(I) chain preproprotein|collagen of skin, tendon and bone, alpha-1 chain|collagen, type I, alpha 1|pro-alpha-1 collagen type 1|type I proalpha 1|type I procollagen alpha 1 chain	17q21.33	17	NC_000017.11	50184096	50201648	minus	51	120150	
+9606	Homo sapiens	4982	0	live	TNFRSF11B	OCIF, OPG, PDB5, TR1	tumor necrosis factor receptor superfamily member 11b	osteoclastogenesis inhibitory factor|osteoprotegerin|tumor necrosis factor receptor superfamily, member 11b	8q24	8	NC_000008.11	118923557	118952144	minus	5	602643	
+9606	Homo sapiens	3934	0	live	LCN2	24p3, MSFI, NGAL, p25	lipocalin 2	25 kDa alpha-2-microglobulin-related subunit of MMP-9|lipocalin-2|migration-stimulating factor inhibitor|oncogene 24p3|siderocalin LCN2	9q34	9	NC_000009.12	128149453	128153455	plus	7	600181	
+9606	Homo sapiens	1571	0	live	CYP2E1	CPE1, CYP2E, P450-J, P450C2E	cytochrome P450 family 2 subfamily E member 1	4-nitrophenol 2-hydroxylase|CYPIIE1|cytochrome P450, family 2, subfamily E, polypeptide 1|cytochrome P450, subfamily IIE (ethanol-inducible), polypeptide 1|cytochrome P450-J|flavoprotein-linked monooxygenase|microsomal monooxygenase|xenobiotic monooxygenase	10q26.3	10	NC_000010.11	133527363	133539116	plus	9	124040	
+9606	Homo sapiens	8600	0	live	TNFSF11	CD254, ODF, OPGL, OPTB2, RANKL, TNLG6B, TRANCE, hRANKL2, sOdf	tumor necrosis factor superfamily member 11	TNF-related activation-induced cytokine|osteoclast differentiation factor|osteoprotegerin ligand|receptor activator of nuclear factor kappa B ligand|receptor activator of nuclear factor kappa-B ligand|tumor necrosis factor (ligand) superfamily member 11|tumor necrosis factor (ligand) superfamily, member 11|tumor necrosis factor ligand 6B	13q14	13	NC_000013.11	42562736	42608013	plus	9	602642	
+9606	Homo sapiens	2539	0	live	G6PD	G6PD1	glucose-6-phosphate dehydrogenase		Xq28	X	NC_000023.11	154531390	154547586	minus	14	305900	
+9606	Homo sapiens	6521	0	live	SLC4A1	AE1, BND3, CD233, CHC, DI, EMPB3, EPB3, FR, RTA1A, SAO, SPH4, SW, WD, WD1, WR	solute carrier family 4 member 1 (Diego blood group)	Diego blood group|Froese blood group|Swann blood group|Waldner blood group|Wright blood group|anion exchange protein 1|anion exchanger 1|anion exchanger-1|erythrocyte membrane protein band 3|erythroid anion exchange protein|solute carrier family 4 (anion exchanger), member 1 (Diego blood group)|solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)|solute carrier family 4, anion exchanger, number 1	17q21.31	17	NC_000017.11	44248390	44268161	minus	22	109270	
+9606	Homo sapiens	22943	0	live	DKK1	DKK-1, SK	dickkopf WNT signaling pathway inhibitor 1	dickkopf 1 homolog|dickkopf related protein-1|dickkopf-1 like|dickkopf-like protein 1|hDkk-1	10q11.2	10	NC_000010.11	52314281	52317657	plus	4	605189	
+9606	Homo sapiens	847	0	live	CAT		catalase		11p13	11	NC_000011.10	34438925	34472060	plus	13	115500	
+9606	Homo sapiens	7941	0	live	PLA2G7	LDL-PLA2, LP-PLA2, PAFAD, PAFAH	phospholipase A2 group VII	1-alkyl-2-acetylglycerophosphocholine esterase|2-acetyl-1-alkylglycerophosphocholine esterase|LDL-PLA(2)|LDL-associated phospholipase A2|PAF 2-acylhydrolase|PAF acetylhydrolase|gVIIA-PLA2|group-VIIA phospholipase A2|lipoprotein-associated phospholipase A2|phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	6p21.2-p12	6	NC_000006.12	46704316	46735701	minus	13	601690	
+9606	Homo sapiens	7037	0	live	TFRC	CD71, IMD46, T9, TFR, TFR1, TR, TRFR, p90	transferrin receptor		3q29	3	NC_000003.12	196049284	196082161	minus	20	190010	
+9606	Homo sapiens	1604	0	live	CD55	CR, CROM, DAF, TC	CD55 molecule (Cromer blood group)	CD55 antigen|CD55 molecule, decay accelerating factor for complement (Cromer blood group)	1q32	1	NC_000001.11	207321472	207360966	plus	14	125240	
+10090	Mus musculus	71753	0	live	Tmprss6	1300008A22Rik	transmembrane serine protease 6	matriptase 2|matriptase-2|transmembrane protease, serine 6|type II transmembrane serine protease 6	15 E2	15	NC_000081.6	78439667	78468648	minus	18		
+9606	Homo sapiens	55132	0	live	LARP1B	LARP2	La ribonucleoprotein domain family member 1B	La ribonucleoprotein domain family, member 1B|La ribonucleoprotein domain family, member 2|la ribonucleoprotein domain family member 2|la-related protein 2	4q28.2	4	NC_000004.12	128061266	128222931	plus	29		
+9606	Homo sapiens	7124	0	live	TNF	DIF-alpha, TNFA, TNFSF2, TNLG1F, TNF	tumor necrosis factor	APC1 protein|TNF, macrophage-derived|TNF, monocyte-derived|TNF-a|cachectin|tumor necrosis factor ligand 1F|tumor necrosis factor ligand superfamily member 2|tumor necrosis factor-alpha	6p21.3	6	NC_000006.12	31575567	31578336	plus	4	191160	
+9606	Homo sapiens	7040	0	live	TGFB1	CED, DPD1, LAP, TGFB, TGFbeta	transforming growth factor beta 1	TGF-beta-1|latency-associated peptide|prepro-transforming growth factor beta-1	19q13.1	19	NC_000019.10	41330531	41353933	minus	7	190180	
+9606	Homo sapiens	9370	0	live	ADIPOQ	ACDC, ACRP30, ADIPQTL1, ADPN, APM-1, APM1, GBP28	adiponectin, C1Q and collagen domain containing	30 kDa adipocyte complement-related protein|adipocyte complement-related 30 kDa protein|adipose most abundant gene transcript 1 protein|adipose specific collagen-like factor|gelatin-binding protein 28	3q27	3	NC_000003.12	186842668	186858463	plus	5	605441	
+9606	Homo sapiens	1401	0	live	CRP	PTX1	C-reactive protein, pentraxin-related	pentraxin 1	1q23.2	1	NC_000001.11	159712289	159714609	minus	3	123260	
+9606	Homo sapiens	5468	0	live	PPARG	CIMT1, GLM1, NR1C31, PPARG2, PPARgamma, PPARG	peroxisome proliferator activated receptor gamma	PPAR-gamma|nuclear receptor subfamily 1 group C member 3|peroxisome proliferator-activated nuclear receptor gamma variant 1	3p25	3	NC_000003.12	12287850	12471013	plus	11	601487	
+9606	Homo sapiens	2944	0	live	GSTM1	GST1-1, GSTM1a-1a, GSTM1b-1b, GTH4, GTM1, H-B, MU, MU-1, GSTM1	glutathione S-transferase mu 1	GST HB subunit 4|GST class-mu 1|HB subunit 4|S-(hydroxyalkyl)glutathione lyase|glutathione S-alkyltransferase|glutathione S-aralkyltransferase|glutathione S-aryltransferase|glutathione S-transferase M1	1p13.3	1	NC_000001.11	109687796	109693745	plus	8	138350	
+9606	Homo sapiens	3479	0	live	IGF1	IGF-I, IGFI, MGF	insulin like growth factor 1	insulin-like growth factor 1 (somatomedin C)|insulin-like growth factor IB|mechano growth factor|somatomedin-C	12q23.2	12	NC_000012.12	102395867	102481786	minus	7	147440	
+9606	Homo sapiens	3717	0	live	JAK2	JTK10, THCYT3	Janus kinase 2	JAK-2|Janus kinase 2 (a protein tyrosine kinase)	9p24	9	NC_000009.12	4985245	5128183	plus	25	147796	
+9606	Homo sapiens	2952	0	live	GSTT1		glutathione S-transferase theta 1	GST class-theta-1|glutathione transferase T1-1	22q11.23	22						600436	
+9606	Homo sapiens	3119	0	live	HLA-DQB1	CELIAC1, HLA-DQB, IDDM1	major histocompatibility complex, class II, DQ beta 1	MHC DQ beta|MHC class II DQ beta chain|MHC class II HLA-DQ beta glycoprotein|MHC class II antigen DQB1|MHC class II antigen HLA-DQ-beta-1|MHC class2 antigen|lymphocyte antigen	6p21.3	6	NC_000006.12	32659464	32666689	minus	6	604305	
+9606	Homo sapiens	4879	0	live	NPPB	BNP	natriuretic peptide B	brain type natriuretic peptide|gamma-brain natriuretic peptide|natriuretic peptide precursor B|natriuretic protein	1p36.2	1	NC_000001.11	11857464	11858935	minus	3	600295	
+9606	Homo sapiens	1493	0	live	CTLA4	ALPS5, CD, CD152, CELIAC3, CTLA-4, GRD4, GSE, IDDM12	cytotoxic T-lymphocyte associated protein 4	CD152 isoform|celiac disease 3|cytotoxic T lymphocyte associated antigen 4 short spliced form|cytotoxic T-lymphocyte-associated protein 4|cytotoxic T-lymphocyte-associated serine esterase-4|insulin-dependent diabetes mellitus 12|ligand and transmembrane spliced cytotoxic T lymphocyte associated antigen 4	2q33	2	NC_000002.12	203867788	203873960	plus	4	123890	
+9606	Homo sapiens	3135	0	live	HLA-G	MHC-G	major histocompatibility complex, class I, G	HLA G antigen|HLA class I molecule|HLA-G histocompatibility antigen, class I, G|MHC class I antigen G|b2 microglobulin	6p21.3	6	NC_000006.12	29826979	29831122	plus	8	142871	
+9606	Homo sapiens	3630	0	live	INS	IDDM, IDDM1, IDDM2, ILPR, IRDN, MODY10	insulin	preproinsulin|proinsulin	11p15.5	11	NC_000011.10	2159779	2161209	minus	3	176730	
+9606	Homo sapiens	54658	0	live	UGT1A1	BILIQTL1, GNT1, HUG-BR1, UDPGT, UDPGT 1-1, UGT1, UGT1A	UDP glucuronosyltransferase family 1 member A1	UDP glucuronosyltransferase 1 family, polypeptide A1|UDP glycosyltransferase 1 family, polypeptide A1|UDP-glucuronosyltransferase 1-A|UDP-glucuronosyltransferase 1A1|UGT-1A|UGT1*1|UGT1-01|UGT1.1|bilirubin UDP-glucuronosyltranserase|bilirubin UDP-glucuronosyltransferase 1-1|bilirubin UDP-glucuronosyltransferase isozyme 1|bilirubin-specific UDPGT isozyme 1	2q37	2	NC_000002.12	233760273	233773299	plus	5	191740	
+9606	Homo sapiens	282617	0	live	IFNL3	IL-28B, IL28B, IL28C	interferon, lambda 3	IFN-lambda-3|IFN-lambda-4|IL-28C|cytokine Zcyto22|interferon, lambda 4|interleukin-28B|interleukin-28C	19q13.13	19	NC_000019.10	39243606	39247034	minus	7	607402	
+9606	Homo sapiens	1471	0	live	CST3	ARMD11, HEL-S-2	cystatin C	bA218C14.4 (cystatin C)|cystatin 3|cystatin-3|epididymis secretory protein Li 2|gamma-trace|neuroendocrine basic polypeptide|post-gamma-globulin	20p11.21	20	NC_000020.11	23627897	23638048	minus	4	604312	
+9606	Homo sapiens	56729	0	live	RETN	ADSF, FIZZ31, RSTN, XCP1, RETN	resistin	C/EBP-epsilon regulated myeloid-specific secreted cysteine-rich protein precursor 1|adipose tissue-specific secretory factor|c/EBP-epsilon-regulated myeloid-specific secreted cysteine-rich protein|cysteine-rich secreted protein A12-alpha-like 2|cysteine-rich secreted protein FIZZ3|found in inflammatory zone 3|resistin delta2	19p13.2	19	NC_000019.10	7669086	7670454	plus	4	605565	
+9606	Homo sapiens	10135	0	live	NAMPT	1110035O14Rik, PBEF, PBEF1, VF, VISFATIN	nicotinamide phosphoribosyltransferase	NAmPRTase|pre-B cell-enhancing factor|pre-B-cell colony enhancing factor 1|pre-B-cell colony-enhancing factor 1	7q22.3	7	NC_000007.14	106248285	106285732	minus	13	608764	
+9606	Homo sapiens	1544	0	live	CYP1A2	CP12, P3-450, P450(PA)	cytochrome P450 family 1 subfamily A member 2	CYPIA2|P450 form 4|aryl hydrocarbon hydroxylase|cholesterol 25-hydroxylase|cytochrome P(3)450|cytochrome P450 4|cytochrome P450, family 1, subfamily A, polypeptide 2|cytochrome P450, subfamily I (aromatic compound-inducible), polypeptide 2|cytochrome P450-P3|dioxin-inducible P3-450|flavoprotein-linked monooxygenase|microsomal monooxygenase|xenobiotic monooxygenase	15q24.1	15	NC_000015.10	74748843	74756600	plus	7	124060	
+9606	Homo sapiens	2056	0	live	EPO	EP, MVCD2	erythropoietin	epoetin	7q22	7	NC_000007.14	100720800	100723700	plus	5	133170	
+9606	Homo sapiens	3240	0	live	HP	BP2ALPHA2, HPA1S, HP	haptoglobin	binding peptide|haptoglobin alpha(1S)-beta|haptoglobin alpha(2FS)-beta|haptoglobin, alpha polypeptide|haptoglobin, beta polypeptide|zonulin	16q22.2	16	NC_000016.10	72054609	72061056	plus	7	140100	
+9606	Homo sapiens	1116	0	live	CHI3L1	ASRT7, CGP-39, GP-39, GP39, HC-gp39, HCGP-3P, YKL-40, YKL40, YYL-40, hCGP-39	chitinase 3 like 1	39 kDa synovial protein|cartilage glycoprotein 39|chitinase 3-like 1 (cartilage glycoprotein-39)	1q32.1	1	NC_000001.11	203178931	203186960	minus	10	601525	
+9606	Homo sapiens	7137	0	live	TNNI3	CMD1FF, CMD2A, CMH7, RCM1, TNNC1, cTnI	troponin I3, cardiac type	cardiomyopathy, dilated 2A (autosomal recessive)|troponin I type 3 (cardiac)	19q13.4	19	NC_000019.10	55151767	55157732	minus	8	191044	
+9606	Homo sapiens	7442	0	live	TRPV1	VR1	transient receptor potential cation channel subfamily V member 1	OTRPC1|capsaicin receptor|osm-9-like TRP channel 1|transient receptor potential cation channel, subfamily V, member 1|transient receptor potential vanilloid 1a|transient receptor potential vanilloid 1b|vanilloid receptor subtype 1	17p13.2	17	NC_000017.11	3565446	3609411	minus	19	602076	
+10090	Mus musculus	16452	0	live	Jak2	Fd17	Janus kinase 2	JAK-2	19 23.73 cM	19	NC_000085.6	29251776	29313080	plus	28		
+9606	Homo sapiens	1378	0	live	CR1	C3BR, C4BR, CD35, KN	complement component 3b/4b receptor 1 (Knops blood group)	C3-binding protein|C3b/C4b receptor|CD35 antigen|Knops blood group antigen|complement component (3b/4b) receptor 1 (Knops blood group)	1q32	1	NC_000001.11	207496128	207641765	plus	48	120620	
+9606	Homo sapiens	7166	0	live	TPH1	TPRH, TRPH	tryptophan hydroxylase 1	L-tryptophan hydroxylase|indoleacetic acid-5-hydroxylase|tryptophan 5-monooxygenase 1|tryptophan hydroxylase (tryptophan 5-monooxygenase)	11p15.3-p14	11	NC_000011.10	18020537	18040788	minus	10	191060	
+9606	Homo sapiens	2934	0	live	GSN	ADF, AGEL	gelsolin	actin-depolymerizing factor|brevin	9q33	9	NC_000009.12	121210803	121332844	plus	32	137350	
+9606	Homo sapiens	1356	0	live	CP	CP-2	ceruloplasmin (ferroxidase)		3q23-q25	3	NC_000003.12	149162410	149222050	minus	23	117700	
+10090	Mus musculus	13819	0	live	Epas1	HIF-2alpha, HIF2A, HLF, HRF, MOP2, bHLHe73	endothelial PAS domain protein 1	EPAS-1|HIF-1-alpha-like factor|HIF-2-alpha|HIF-related factor|HIF1 alpha-like factor|HIF1alpha-like factor|HIF2-alpha|HLF (HIF1alpha-like factor)|Hif like protein|hypoxia inducible transcription factor 2alpha|hypoxia-inducible factor 2-alpha|mHLF	17 E4	17	NC_000083.6	86753864	86833410	plus	16		
+9606	Homo sapiens	4217	0	live	MAP3K5	ASK1, MAPKKK5, MEKK5	mitogen-activated protein kinase kinase kinase 5	ASK-1|MAP/ERK kinase kinase 5|MAPK/ERK kinase kinase 5|MEK kinase 5|MEKK 5|apoptosis signal regulating kinase 1|apoptosis signal-regulating kinase 1	6q22.33	6	NC_000006.12	136557046	136793051	minus	31	602448	
+9606	Homo sapiens	23705	0	live	CADM1	BL2, IGSF4, IGSF4A, NECL2, Necl-2, RA175, ST17, SYNCAM, TSLC1, sTSLC-1, sgIGSF, synCAM1	cell adhesion molecule 1	TSLC-1|TSLC1/Nectin-like 2/IGSF4|immunoglobulin superfamily member 4|immunoglobulin superfamily, member 4|immunoglobulin superfamily, member 4D variant 1|immunoglobulin superfamily, member 4D variant 2|nectin-like 2|nectin-like protein 2|spermatogenic immunoglobulin superfamily|synaptic cell adhesion molecule|truncated CADM1 protein|tumor suppressor in lung cancer 1	11q23.2	11	NC_000011.10	115173625	115504523	minus	12	605686	
+9606	Homo sapiens	3811	0	live	KIR3DL1	CD158E1, KIR/S1, KIR3DL2, NKAT-3, NKAT3, NKB1, NKB1B, KIR3DL1	killer cell immunoglobulin like receptor, three Ig domains and long cytoplasmic tail 1	CD158 antigen-like family member E|HLA-BW4-specific inhibitory NK cell receptor|KIR antigen 3DL1|MHC class I NK cell receptor|NK-receptor|killer Ig receptor|killer cell immunoglobulin-like receptor three domains long cytoplasmic tail 2|killer cell immunoglobulin-like receptor three domains short cytoplasmic tail 1|killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 1|natural killer-associated transcript 3|p70 NK receptor CL-2/CL-11|p70 killer cell inhibitory receptor|p70 natural killer cell receptor clones CL-2/CL-11	19q13.4	19	NC_000019.10	54816438	54830778	plus	9	604946	
+9606	Homo sapiens	30061	0	live	SLC40A1	FPN1, HFE4, IREG1, MST079, MSTP079, MTP1, SLC11A3	solute carrier family 40 member 1	iron regulated gene 1|solute carrier family 11 (proton-coupled divalent metal ion transporters), member 3|solute carrier family 40 (iron-regulated transporter), member 1	2q32	2	NC_000002.12	189560590	189580811	minus	9	604653	
+9606	Homo sapiens	6708	0	live	SPTA1	EL2, HPP, HS3, SPH3, SPTA	spectrin alpha, erythrocytic 1	alpha-I spectrin|elliptocytosis 2|erythroid alpha-spectrin|spectrin alpha chain, erythrocyte|spectrin, alpha, erythrocytic 1 (elliptocytosis 2)	1q21	1	NC_000001.11	158610498	158686716	minus	53	182860	
+9606	Homo sapiens	406992	0	live	MIR210	MIRN210, mir-210	microRNA 210	hsa-mir-210	11p15.5	11	NC_000011.10	568089	568198	minus	1	612982	
+9606	Homo sapiens	1118	0	live	CHIT1	CHI3, CHIT, CHITD	chitinase 1	chitinase 1 (chitotriosidase)|plasma methylumbelliferyl tetra-N-acetylchitotetraoside hydrolase	1q32.1	1	NC_000001.11	203212823	203230099	minus	15	600031	
+9606	Homo sapiens	10419	0	live	PRMT5	HRMT1L5, IBP72, JBP1, SKB1, SKB1Hs	protein arginine methyltransferase 5	72 kDa ICln-binding protein|HMT1 hnRNP methyltransferase-like 5|SKB1 homolog|histone-arginine N-methyltransferase PRMT5|jak-binding protein 1|shk1 kinase-binding protein 1 homolog	14q11.2	14	NC_000014.9	22920511	22929585	minus	17	604045	
+9606	Homo sapiens	5184	0	live	PEPD	PROLIDASE	peptidase D	X-Pro dipeptidase|aminoacyl-L-proline hydrolase|imidodipeptidase|proline dipeptidase	19q13.11	19	NC_000019.10	33386949	33521893	minus	15	613230	
+9606	Homo sapiens	406950	0	live	MIR16-1	MIRN16-1, miRNA16-1, mir-16-1	microRNA 16-1	hsa-mir-16-1	13q14.2	13	NC_000013.11	50048973	50049061	minus	1	609704	
+9606	Homo sapiens	1158	0	live	CKM	CKMM, M-CK	creatine kinase, M-type	creatine kinase M chain|creatine kinase, muscle	19q13.32	19	NC_000019.10	45306413	45322977	minus	8	123310	
+9606	Homo sapiens	406948	0	live	MIR15A	MIRN15A, hsa-mir-15a, miRNA15A, mir-15a	microRNA 15a		13q14.2	13	NC_000013.11	50049119	50049201	minus	1	609703	
+10090	Mus musculus	27421	0	live	Abcc6	Abcc1b, DCC, Dyscalc1, Mrp6, dyscalc	ATP-binding cassette, sub-family C (CFTR/MRP), member 6	ATP-binding cassette sub-family C member 6|ATP-binding cassette, sub-family C, member 6|multidrug resistance-associated protein-6	7 B3	7	NC_000073.6	45974115	46030486	minus	33		
+9606	Homo sapiens	6711	0	live	SPTBN1	ELF, HEL102, SPTB2, betaSpII	spectrin beta, non-erythrocytic 1	beta-G spectrin|beta-II spectrin|beta-fodrin|beta-spectrin 2|beta-spectrin II|beta-spectrin non-erythrocytic 1|embryonic liver beta-fodrin|epididymis luminal protein 102|fodrin beta chain|spectrin beta chain, brain 1|spectrin, beta, non-erythrocytic 1|spectrin, non-erythroid beta chain 1	2p21	2	NC_000002.12	54456317	54671446	plus	38	182790	
+9606	Homo sapiens	574411	0	live	MIR451A	MIR451, MIRN451, hsa-mir-451, hsa-mir-451a, mir-451a	microRNA 451a	microRNA 451	17q11.2	17	NC_000017.11	28861369	28861440	minus	1	612071	
+9606	Homo sapiens	9555	0	live	H2AFY	H2A.y, H2A/y, H2AF12M, MACROH2A1.1, mH2A1, macroH2A1.2	H2A histone family member Y	H2A histone family, member Y|histone H2A.y|histone macroH2A1|histone macroH2A1.1|histone macroH2A1.2|medulloblastoma antigen MU-MB-50.205	5q31.1	5	NC_000005.10	135334381	135400147	minus	14	610054	
+9606	Homo sapiens	23022	0	live	PALLD	CGI-151, CGI151, MYN, PNCA1, SIH002	palladin, cytoskeletal associated protein	myoneurin|sarcoma antigen NY-SAR-77	4q32.3	4	NC_000004.12	168497064	168928457	plus	28	608092	
+9606	Homo sapiens	287	0	live	ANK2	ANK-2, LQT4, brank-2	ankyrin 2, neuronal	ankyrin B|ankyrin, brain|ankyrin-2, nonerythrocytic|non-erythroid ankyrin	4q25-q27	4	NC_000004.12	112818083	113383740	plus	55	106410	
+9606	Homo sapiens	4778	0	live	NFE2	NF-E2, p45	nuclear factor, erythroid 2	leucine zipper protein NF-E2|nuclear factor (erythroid-derived 2), 45kD|nuclear factor (erythroid-derived 2), 45kDa|nuclear factor, erythroid-derived 2 45 kDa subunit|p45 NF-E2	12q13	12	NC_000012.12	54292107	54301037	minus	7	601490	
+9606	Homo sapiens	911	0	live	CD1C	BDCA1, CD1, CD1A, R7	CD1c molecule	CD1C antigen, c polypeptide|cortical thymocyte antigen CD1C|differentiation antigen CD1-alpha-3	1q23.1	1	NC_000001.11	158289773	158294774	plus	6	188340	
+9606	Homo sapiens	910	0	live	CD1B	CD1, CD1A, R1	CD1b molecule	CD1B antigen, b polypeptide|cortical thymocyte antigen CD1B|differentiation antigen CD1-alpha-3	1q23.1	1	NC_000001.11	158327950	158331531	minus	6	188360	
+9606	Homo sapiens	1748	0	live	DLX4	BP1, DLX7, DLX8, DLX9, OFC15	distal-less homeobox 4	beta protein 1|distal-less homeo box 7|distal-less homeo box 9|homeobox protein DLX-7|homeobox protein DLX-8	17q21.33	17	NC_000017.11	49969198	49974959	plus	3	601911	
+9606	Homo sapiens	57492	0	live	ARID1B	6A3-5, BAF250B, BRIGHT, DAN15, ELD/OSA1, MRD12, OSA2, P250R	AT-rich interaction domain 1B	ARID domain-containing protein 1B|AT rich interactive domain 1B (SWI1-like)|BRG1-associated factor 250b|BRG1-binding protein ELD/OSA1|ELD (eyelid)/OSA protein	6q25.1	6	NC_000006.12	156777892	157210779	plus	26	614556	
+10090	Mus musculus	15126	0	live	Hba-x	AI450015, Hbz	hemoglobin X, alpha-like embryonic chain in Hba complex	alpha-like embryonic globin chain x|hemaglobin zeta|hemoglobin zeta chain|zeta globin|zeta-globin	11 18.86 cM	11	NC_000077.6	32276600	32278116	plus	3		
+9606	Homo sapiens	10487	0	live	CAP1	CAP-PEN, CAP1	CAP, adenylate cyclase-associated protein 1 (yeast)	CAP 1	1p34.2	1	NC_000001.11	40040240	40072649	plus	14		
+9606	Homo sapiens	22882	0	live	ZHX2	AFR1, RAF	zinc fingers and homeoboxes 2	AFP regulator 1|alpha-fetoprotein regulator 1|regulator of AFP|transcription factor ZHX2|zinc finger and homeodomain protein 2|zinc-fingers and homeoboxes 2	8q24.13	8	NC_000008.11	122781349	122974515	plus	7	609185	
+10090	Mus musculus	22038	0	live	Plscr1	MmTRA1a, MmTRA1b, Nor1, Tra1, Tra1a, Tra1b, Tras1, Tras2	phospholipid scramblase 1	PL scramblase 1|ca(2+)-dependent phospholipid scramblase 1|transplantability-associated protein 1	9 E3.3	9	NC_000075.6	92250194	92272561	plus	9		
+9606	Homo sapiens	161882	0	live	ZFPM1	FOG, FOG1, ZC2HC11A, ZNF408, ZNF89A	zinc finger protein, FOG family member 1	FOG-1|friend of GATA 1|friend of GATA protein 1|friend of GATA-1|zinc finger protein 89A|zinc finger protein, multitype 1	16q24.2	16	NC_000016.10	88451431	88535166	plus	15	601950	
+9606	Homo sapiens	7259	0	live	TSPYL1	TSPYL	TSPY-like 1	TSPY-like protein 1	6q22.1	6	NC_000006.12	116274859	116280117	minus	1	604714	
+10090	Mus musculus	170812	0	live	Ahsp	EDRF, Eraf	alpha hemoglobin stabilizing protein	erythroid associated factor|erythroid differentiation-related factor|erythroid-associated factor									
+9606	Homo sapiens	3049	0	live	HBQ1	HBQ	hemoglobin subunit theta 1	hemoglobin theta-1 chain|hemoglobin, theta 1|theta-1-globin	16p13.3	16	NC_000016.10	180334	181179	plus	3	142240	
+9606	Homo sapiens	57045	0	live	TWSG1	TSG	twisted gastrulation BMP signaling modulator 1	twisted gastrulation homolog 1	18p11.3	18	NC_000018.10	9334767	9402420	plus	6	605049	
+10090	Mus musculus	227358	0	live	Fam132b	4832406C22, myonectin	family with sequence similarity 132, member B	complement C1q tumor necrosis factor-related protein 15|protein FAM132B	1 D	1	NC_000067.6	91366162	91374217	plus	9		
+10090	Mus musculus	100503605	0	live	Hbb-bs	Beta-s, Hbbt1, Hbbt2	hemoglobin, beta adult s chain	beta s|beta-globin|beta-single|hemoglobin subunit beta-1-like	7	7	NC_000073.6	103826523	103827928	minus	3		
+9598	Pan troglodytes	450978	0	live	HBB		hemoglobin, beta	beta-globin|hemoglobin beta chain		11	NC_006478.3	4976443	4978170	minus	3		
+9606	Homo sapiens	171515	0	live	HBFQTL4	FHQTL	Fetal hemoglobin QTL on chromosome 8		8q	8						606789	
+9601	Pongo abelii	100438527	0	live	HBB		hemoglobin, beta			11	NC_012602.1	65237582	65239354	plus	3		
+44056	Aureococcus anophagefferens	20229076	0	live	AURANDRAFT_7794	AURANDRAFT_7794	hypothetical protein			Unknown							
+44056	Aureococcus anophagefferens	20218494	0	live	AURANDRAFT_15300	AURANDRAFT_15300	hypothetical protein			Unknown							
